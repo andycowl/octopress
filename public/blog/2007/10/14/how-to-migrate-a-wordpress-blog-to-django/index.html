@@ -1,0 +1,339 @@
+
+<!DOCTYPE html>
+<!--[if IEMobile 7 ]><html class="no-js iem7"><![endif]-->
+<!--[if lt IE 9]><html class="no-js lte-ie8"><![endif]-->
+<!--[if (gt IE 8)|(gt IEMobile 7)|!(IEMobile)|!(IE)]><!--><html class="no-js" lang="en"><!--<![endif]-->
+<head>
+  <meta charset="utf-8">
+  <title>how to migrate a WordPress blog to Django - Blog In Isolation</title>
+  <meta name="author" content="Andy C">
+
+  
+  <meta name="description" content="There is currently no utility to migrate existing blog content to
+django. However, conversion of an existing WordPress blog is pretty
+straightforward &hellip;">
+  
+
+  <!-- http://t.co/dKP3o1e -->
+  <meta name="HandheldFriendly" content="True">
+  <meta name="MobileOptimized" content="320">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+
+  
+  <link rel="canonical" href="http://www.nbrightside.com/blog/2007/10/14/how-to-migrate-a-wordpress-blog-to-django/">
+  <link href="/favicon.png" rel="icon">
+  <link href="/stylesheets/screen.css" media="screen, projection" rel="stylesheet" type="text/css">
+  <script src="/javascripts/modernizr-2.0.js"></script>
+  <script src="/javascripts/ender.js"></script>
+  <script src="/javascripts/octopress.js" type="text/javascript"></script>
+  <link href="/atom.xml" rel="alternate" title="Blog In Isolation" type="application/atom+xml">
+  <!--Fonts from Google"s Web font directory at http://google.com/webfonts -->
+<link href="http://fonts.googleapis.com/css?family=PT+Serif:regular,italic,bold,bolditalic" rel="stylesheet" type="text/css">
+<link href="http://fonts.googleapis.com/css?family=PT+Sans:regular,italic,bold,bolditalic" rel="stylesheet" type="text/css">
+
+  
+  <script type="text/javascript">
+    var _gaq = _gaq || [];
+    _gaq.push(['_setAccount', 'UA-385771-2']);
+    _gaq.push(['_trackPageview']);
+
+    (function() {
+      var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+      ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+      var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+    })();
+  </script>
+
+
+</head>
+
+<body   >
+  <header role="banner"><hgroup>
+  <h1><a href="/">Blog In Isolation</a></h1>
+  
+    <h2>There is a radiant darkness upon us</h2>
+  
+</hgroup>
+
+</header>
+  <nav role="navigation"><ul class="subscription" data-subscription="rss">
+  <li><a href="/atom.xml" rel="subscribe-rss" title="subscribe via RSS">RSS</a></li>
+  
+</ul>
+  
+<form action="http://google.com/search" method="get">
+  <fieldset role="search">
+    <input type="hidden" name="q" value="site:www.nbrightside.com" />
+    <input class="search" type="text" name="q" results="0" placeholder="Search"/>
+  </fieldset>
+</form>
+  
+<ul class="main-navigation">
+  <li><a href="/about/">About</a></li>
+  <li><a href="/">Blog</a></li>
+  <li><a href="/blog/archives">Archives</a></li>
+</ul>
+
+</nav>
+  <div id="main">
+    <div id="content">
+      <div>
+<article class="hentry" role="article">
+  
+  <header>
+    
+      <h1 class="entry-title">How to Migrate a WordPress Blog to Django</h1>
+    
+    
+      <p class="meta">
+        
+
+
+
+
+
+
+
+
+  
+
+
+<time datetime="2007-10-14T22:57:45+01:00" pubdate data-updated="true">Oct 14<span>th</span>, 2007</time>
+        
+         | <a href="#disqus_thread">Comments</a>
+        
+      </p>
+    
+  </header>
+
+
+<div class="entry-content"><p>There is currently no utility to migrate existing blog content to
+<a href="http://www.nbrightside.com/blog/2007/09/26/last-django-in-london/">django</a>.</p>
+
+<p>However, conversion of an existing WordPress blog is pretty
+straightforward.</p>
+
+<p>Firstly, simply export the following tables from the WordPress database
+using phpMyAdmin</p>
+
+<ul>
+<li>wp_posts</li>
+<li>wp_comments</li>
+<li>wp_terms</li>
+<li>wp_term_taxonomy</li>
+<li>wp_term_relationships</li>
+</ul>
+
+
+<p>Import the tables into the django database.
+Then run the following SQL statements which migrate posts, comments and
+categories and assume a WordPress 2.3 schema and a blank django blog. If
+you have already created <a href="http://blog.nbrightside.com/blog/">content</a> in
+django, minor changes will be needed. My WordPress blog only uses
+categories which simply get converted to django tags.</p>
+
+<pre><code>insert into blog_post
+(id,
+slug,
+title,
+pubdate,
+moddate,
+body,
+draft,
+closed)
+select
+wp_posts.id,
+wp_posts.post_name,
+wp_posts.post_title,
+wp_posts.post_date_gmt,
+wp_posts.post_modified_gmt,
+wp_posts.post_content,
+0,
+0
+from wp_posts
+and post_type = 'post';
+
+insert into comments_freecomment
+(id,
+content_type_id,
+comment,
+object_id,
+person_name,
+submit_date,
+is_public,
+ip_address,
+approved,
+site_id)
+select
+wp_comments.comment_id,
+14,
+wp_comments.comment_content,
+wp_comments.comment_post_id,
+wp_comments.comment_author,
+wp_comments.comment_date_gmt,
+1,
+wp_comments.comment_author_ip,
+wp_comments.comment_approved,
+1
+from wp_comments
+where comment_approved = '1';
+
+insert into blog_tag
+(slug,
+title,
+description)
+select
+wp_terms.slug,
+wp_terms.name,
+wp_terms.name
+from wp_terms;
+
+insert into blog_post_tags
+(post_id,
+tag_id)
+select
+wp_term_relationships.object_id,
+wp_terms.name
+from wp_term_relationships, wp_term_taxonomy, wp_terms
+where wp_term_relationships.term_taxonomy_id = wp_term_taxonomy.term_taxonomy_id
+and wp_term_taxonomy.term_id = wp_terms.term_id;
+</code></pre>
+
+<p>Finally, delete the WP_* tables from the django (and not the
+WordPress) database.</p>
+</div>
+
+
+  <footer>
+    <p class="meta">
+      
+  
+
+<span class="byline author vcard">Posted by <span class="fn">Andy C</span></span>
+
+      
+
+
+
+
+
+
+
+
+  
+
+
+<time datetime="2007-10-14T22:57:45+01:00" pubdate data-updated="true">Oct 14<span>th</span>, 2007</time>
+      
+
+<span class="categories">
+  
+    <a class='category' href='/blog/categories/uncategorised/'>uncategorised</a>
+  
+</span>
+
+
+    </p>
+    
+      <div class="sharing">
+  
+  
+  
+</div>
+
+    
+    <p class="meta">
+      
+        <a class="basic-alignment left" href="/blog/2007/10/08/arsenal-v-sunderland/" title="Previous Post: Arsenal v Sunderland">&laquo; Arsenal v Sunderland</a>
+      
+      
+        <a class="basic-alignment right" href="/blog/2007/10/15/a-very-british-death/" title="Next Post: a very British death">a very British death &raquo;</a>
+      
+    </p>
+  </footer>
+</article>
+
+  <section>
+    <h1>Comments</h1>
+    <div id="disqus_thread" aria-live="polite"><noscript>Please enable JavaScript to view the <a href="http://disqus.com/?ref_noscript">comments powered by Disqus.</a></noscript>
+</div>
+  </section>
+
+</div>
+
+<aside class="sidebar">
+  
+    <section>
+  <h1>Recent Posts</h1>
+  <ul id="recent_posts">
+    
+      <li class="post">
+        <a href="/blog/2012/09/14/the-awkward-second-post/">the awkward second post</a>
+      </li>
+    
+      <li class="post">
+        <a href="/blog/2012/09/14/hello-world/">Hello World</a>
+      </li>
+    
+      <li class="post">
+        <a href="/blog/2012/09/14/migration-plan/">migration plan</a>
+      </li>
+    
+      <li class="post">
+        <a href="/blog/2012/09/14/blog-migration/">blog migration checklist</a>
+      </li>
+    
+      <li class="post">
+        <a href="/blog/2012/09/14/autumn-migration/">Autumn migration</a>
+      </li>
+    
+  </ul>
+</section>
+
+
+
+
+
+
+  
+</aside>
+
+
+    </div>
+  </div>
+  <footer role="contentinfo"><p>
+  Copyright &copy; 2012 - Andy C -
+  <span class="credit">Powered by <a href="http://octopress.org">Octopress</a></span>
+</p>
+
+</footer>
+  
+
+<script type="text/javascript">
+      var disqus_shortname = 'andycowl';
+      
+        
+        // var disqus_developer = 1;
+        var disqus_identifier = 'http://www.nbrightside.com/blog/2007/10/14/how-to-migrate-a-wordpress-blog-to-django/';
+        var disqus_url = 'http://www.nbrightside.com/blog/2007/10/14/how-to-migrate-a-wordpress-blog-to-django/';
+        var disqus_script = 'embed.js';
+      
+    (function () {
+      var dsq = document.createElement('script'); dsq.type = 'text/javascript'; dsq.async = true;
+      dsq.src = 'http://' + disqus_shortname + '.disqus.com/' + disqus_script;
+      (document.getElementsByTagName('head')[0] || document.getElementsByTagName('body')[0]).appendChild(dsq);
+    }());
+</script>
+
+
+
+
+
+
+
+
+
+
+
+</body>
+</html>

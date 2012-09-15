@@ -1,0 +1,159 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+  <title><![CDATA[Category: drupal | Blog In Isolation]]></title>
+  <link href="http://www.nbrightside.com/blog/categories/drupal/atom.xml" rel="self"/>
+  <link href="http://www.nbrightside.com/"/>
+  <updated>2012-09-15T20:07:32+01:00</updated>
+  <id>http://www.nbrightside.com/</id>
+  <author>
+    <name><![CDATA[Andy C]]></name>
+    
+  </author>
+  <generator uri="http://octopress.org/">Octopress</generator>
+
+  
+  <entry>
+    <title type="html"><![CDATA[blog maintenance]]></title>
+    <link href="http://www.nbrightside.com/blog/2012/02/02/blog-maintenance/"/>
+    <updated>2012-02-02T09:39:00+00:00</updated>
+    <id>http://www.nbrightside.com/blog/2012/02/02/blog-maintenance</id>
+    <content type="html"><![CDATA[<p>Time to upgrade Drupal again. Yesterday version
+<a href="http://drupal.org/drupal-7.12">7.12</a> was released and this blog is
+currently running a very outdated (and probably insecure)
+7.4. Although Drupal 7 included automatic update for modules and
+themes, updating the core Drupal software still needs manual
+intervention and takes time.</p>
+
+<p>Over the years, the main self-hosted blog platforms I have used are:</p>
+
+<ul>
+<li>WordPress - one-click updates. Quick and easy. By far the best and most robust solution. Never let me down.</li>
+<li>Habari - Official Habari releases were fairly infrequent so I chose to I track the latest development version so upgrade was manual but as simple as typing '$ svn update'. Rolling back was needed on a couple of occasions but possible simply by reverting to the previous SVN version ($ svn update -r <nnn>).</li>
+<li>Drupal - manual <a href="http://drupal.org/node/1285892">update</a>. Involves taking the site offline, copying files, thinking, run 'update.php', copying files back again, bringing the site back online and a little time. Slightly tedious as Drupal tend to to release a new version of the core software every month or so with a nagging email reminder to do the right thing.</li>
+</ul>
+
+
+<p>I have also noticed that my sitemap hasn't been generated in 6 months
+and doesn't include the most recent entries. In addition, some (old)
+posts have been marked as 'Never Update' but after some housekeeping
+to modify some permalinks to fix various '404 - Not found' errors,
+these old entries now need to be regenerated.</p>
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[Drupal 7 released]]></title>
+    <link href="http://www.nbrightside.com/blog/2011/01/05/drupal-7-released/"/>
+    <updated>2011-01-05T16:05:00+00:00</updated>
+    <id>http://www.nbrightside.com/blog/2011/01/05/drupal-7-released</id>
+    <content type="html"><![CDATA[<p>This blog and the handful of
+<a href="http://nbrightside.com/blog/2010/12/22/essential-modules-your-new-drupal-7-site">modules</a>
+I use has been upgraded to the final version of Drupal 7.0 which was
+<a href="http://drupal.org/drupal-7.0">released</a> today.</p>
+
+<p>I was quite pleased that I used Drupal 7 from the early beta versions
+and then tracked the D7 release candidates as this gave me valuable
+experience in upgrading Drupal 7 relatively quickly while preserving
+my additional modules without losing all my data which always
+helps. It's worth noting that although I barely scratch the surface of
+Drupal 7's wide range of functionality, the quality, reliability and
+performance of Drupal 7 was perfectly fine for this blog.</p>
+
+<p>Personally (and rather selfishly), I hope that the formal release of
+Drupal 7.0 will encourage more developers to upgrade which, in turn,
+which provide impetus for more Drupal modules (and themes) to be
+ported and made available for Drupal 7.</p>
+
+<p><a href="http://buytaert.net/">Dries Buytaert</a>, the founder of Drupal, posted
+a interesting set of reviews looking back on 2010 with his hopes and
+predictions for the coming year for:</p>
+
+<ul>
+<li><a href="http://buytaert.net/drupal-2010-retrospective-and-2011-predictions">Drupal</a>
+
+<ul>
+<li>the open source content management system.</li>
+</ul>
+</li>
+<li><a href="http://buytaert.net/mollom-2010-retrospective">Mollom</a> - comment
+spam service with commercial pricing for larger sites.</li>
+<li><a href="http://buytaert.net/acquia-2010-retrospective">Acquia</a> - Dries'
+startup offering Drupal based services including hosted Drupal sites</li>
+<li><a href="http://www.drupalgardens.com/">Drupal Gardens</a>.</li>
+</ul>
+
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[essential modules for your new Drupal 7 site]]></title>
+    <link href="http://www.nbrightside.com/blog/2010/12/22/essential-modules-your-new-drupal-7-site/"/>
+    <updated>2010-12-22T12:53:00+00:00</updated>
+    <id>http://www.nbrightside.com/blog/2010/12/22/essential-modules-your-new-drupal-7-site</id>
+    <content type="html"><![CDATA[<p>People never ask me 'Hey Norman - what modules have you installed thus
+far on this wonderful Drupal 7 powered blog ?'</p>
+
+<ul>
+<li><p><a href="http://drupal.org/project/archive">Archive</a> - monthly archives.</p></li>
+<li><p><a href="http://drupal.org/project/disqus">Disqus</a> - although I had some
+  problems with this module so I am currently using a simple Disqus
+  block.</p></li>
+<li><p><a href="http://drupal.org/project/globalredirect">Global Redirect</a> -
+  ensures that 'node/1234' is redirected to '2010/21/22/blog-post'.</p></li>
+<li><p><a href="http://drupal.org/project/google_analytics">Google Analytics</a> -
+  mandatory to torment myself over visitors statistics using GA.</p></li>
+<li><p><a href="http://drupal.org/project/markdown">Markdown Filter</a> - although I
+  haven't fully embraced this yet. Old (raw HTML) habits die hard.</p></li>
+<li><p><a href="http://drupal.org/project/mollom">Mollom</a> - Disqus provides
+  built-in spam protection but I use <a href="http://mollom.com">Mollom</a> to
+  guard the user registration and contact forms which is very
+  effective.</p></li>
+<li><p><a href="http://drupal.org/project/pathauto">Pathauto</a> - to map Drupal nodes
+  to my date based permalink structure.</p></li>
+<li><p><a href="http://drupal.org/project/token">Token</a> - required by Pathauto</p></li>
+<li><p><a href="http://drupal.org/project/tagadelic">Tagadelic</a> - marvellous,
+  configurable, graphic 'Tags' page to aid
+  <a href="http://nbrightside.com/blog/2010/12/18/crm-bloggers">Bill</a>'s
+  navigation of this site.</p></li>
+<li><p><a href="http://drupal.org/project/wysiwyg">Wysiwyg</a> - evaluating various
+  options but not found
+  <a href="http://nbrightside.com/blog/2010/12/22/marketing-plan-drupal-7-launch">nirvana</a>
+  as yet.</p></li>
+<li><p><a href="http://drupal.org/project/xmlsitemap">XML sitemap</a> - produces
+search engine friendly sitemap.</p></li>
+</ul>
+
+
+<p>I also modified the 'page.tpl.php' template to reinstate my wonderful,
+award winning
+<a href="http://nbrightside.com/blog/2007/01/29/how-to-rotate-taglines-on-your-wordpress-blog">rotating</a>
+tagline (or slogan in Drupal terminology).</p>
+
+<p>Curiously, I haven't enabled the D7 core 'blog' module as I don't need
+multi-user blogs. Each post is simply an 'Article'.</p>
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[all change please]]></title>
+    <link href="http://www.nbrightside.com/blog/2010/11/16/all-change-please/"/>
+    <updated>2010-11-16T20:36:00+00:00</updated>
+    <id>http://www.nbrightside.com/blog/2010/11/16/all-change-please</id>
+    <content type="html"><![CDATA[<p>This blog is now running on Drupal 7 (beta 3).</p>
+
+<p>Currently Disqus comments are absent but I am hoping the Global
+Redirect module and the Disqus crawler will remedy this given time.</p>
+
+<p>Most of the modules I require are available for Drupal 7 apart from
+FeedBurner so I have just re-pointed the feed for now.</p>
+
+<p>Let's see if this appears on the other side.</p>
+
+<p>I will probably convert to using MarkDown markup in due course too.</p>
+
+<p>Main reason for ditching Habari was the lack of user forums.</p>
+]]></content>
+  </entry>
+  
+</feed>

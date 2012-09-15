@@ -1,0 +1,310 @@
+
+<!DOCTYPE html>
+<!--[if IEMobile 7 ]><html class="no-js iem7"><![endif]-->
+<!--[if lt IE 9]><html class="no-js lte-ie8"><![endif]-->
+<!--[if (gt IE 8)|(gt IEMobile 7)|!(IEMobile)|!(IE)]><!--><html class="no-js" lang="en"><!--<![endif]-->
+<head>
+  <meta charset="utf-8">
+  <title>how to display Google shared items on WordPress - Blog In Isolation</title>
+  <meta name="author" content="Andy C">
+
+  
+  <meta name="description" content="This post
+put me in a quandry. I found the video very amusing so I was torn
+between leaving a grateful comment on Donncha&#8217;s
+blog and awarding &hellip;">
+  
+
+  <!-- http://t.co/dKP3o1e -->
+  <meta name="HandheldFriendly" content="True">
+  <meta name="MobileOptimized" content="320">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+
+  
+  <link rel="canonical" href="http://www.nbrightside.com/blog/2007/02/21/how-to-display-google-shared-items-on-wordpress/">
+  <link href="/favicon.png" rel="icon">
+  <link href="/stylesheets/screen.css" media="screen, projection" rel="stylesheet" type="text/css">
+  <script src="/javascripts/modernizr-2.0.js"></script>
+  <script src="/javascripts/ender.js"></script>
+  <script src="/javascripts/octopress.js" type="text/javascript"></script>
+  <link href="/atom.xml" rel="alternate" title="Blog In Isolation" type="application/atom+xml">
+  <!--Fonts from Google"s Web font directory at http://google.com/webfonts -->
+<link href="http://fonts.googleapis.com/css?family=PT+Serif:regular,italic,bold,bolditalic" rel="stylesheet" type="text/css">
+<link href="http://fonts.googleapis.com/css?family=PT+Sans:regular,italic,bold,bolditalic" rel="stylesheet" type="text/css">
+
+  
+  <script type="text/javascript">
+    var _gaq = _gaq || [];
+    _gaq.push(['_setAccount', 'UA-385771-2']);
+    _gaq.push(['_trackPageview']);
+
+    (function() {
+      var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+      ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+      var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+    })();
+  </script>
+
+
+</head>
+
+<body   >
+  <header role="banner"><hgroup>
+  <h1><a href="/">Blog In Isolation</a></h1>
+  
+    <h2>There is a radiant darkness upon us</h2>
+  
+</hgroup>
+
+</header>
+  <nav role="navigation"><ul class="subscription" data-subscription="rss">
+  <li><a href="/atom.xml" rel="subscribe-rss" title="subscribe via RSS">RSS</a></li>
+  
+</ul>
+  
+<form action="http://google.com/search" method="get">
+  <fieldset role="search">
+    <input type="hidden" name="q" value="site:www.nbrightside.com" />
+    <input class="search" type="text" name="q" results="0" placeholder="Search"/>
+  </fieldset>
+</form>
+  
+<ul class="main-navigation">
+  <li><a href="/about/">About</a></li>
+  <li><a href="/">Blog</a></li>
+  <li><a href="/blog/archives">Archives</a></li>
+</ul>
+
+</nav>
+  <div id="main">
+    <div id="content">
+      <div>
+<article class="hentry" role="article">
+  
+  <header>
+    
+      <h1 class="entry-title">How to Display Google Shared Items on WordPress</h1>
+    
+    
+      <p class="meta">
+        
+
+
+
+
+
+
+
+
+  
+
+
+<time datetime="2007-02-21T02:35:47+00:00" pubdate data-updated="true">Feb 21<span>st</span>, 2007</time>
+        
+         | <a href="#disqus_thread">Comments</a>
+        
+      </p>
+    
+  </header>
+
+
+<div class="entry-content"><p>This <a href="http://ocaoimh.ie/2007/02/20/writing-perl-the-vista-way/">post</a>
+put me in a quandry. I found the video very amusing so I was torn
+between leaving a grateful comment on <a href="http://ocaoimh.ie/">Donncha</a>&#8217;s
+blog and awarding the article a (Gold) &#8216;Star&#8217; in Google Reader.</p>
+
+<p>But if I only did that, my friend and a couple of (ex-) colleagues who
+might appreciate the joke may miss it. That would be very selfish.
+Forgive me Father, but briefly, I toyed with reverting to Web 0.1 (beta)
+and sending an mass email to &#8216;Friends/Ex Colleagues&#8217;.</p>
+
+<p>I compromised by posting an article on my blog referring to Donncha&#8217;s
+article so he sees the pingback and gets the credit for spotting the
+video. So Donncha&#8217;s happy, I&#8217;m happy, everyone&#8217;s happy.</p>
+
+<p>Well - not exactly because I had to write some additional words on my
+article to justify its existence. This is
+<a href="http://www.nbrightside.com/blog/2007/02/18/resisting-the-lure-of-google-reader/">exactly</a>
+the situation that Google Shared Items is for.</p>
+
+<blockquote><p>These items might be interesting or useful snippets of information
+quickly noted in passing which I wouldn&#8217;t necessarily blog about.</p></blockquote>
+
+<p>I just want to display a RSS feed on my blog for articles like this that
+I find interesting, amusing or thought provoking.
+This is trivial to implement in WordPress so I simply grab the feed URL
+for &#8216;Shared Items&#8217; from Google Reader and create an RSS widget to
+display &#8216;What I am currently reading&#8217; on the sidebar in this blog.</p>
+
+<p>Unfortunately, that didn&#8217;t work. The feed and article names were
+displayed but the formatting of the links was broken on WordPress 2.1.
+Curiously, I tried the same configuration on a test
+<a href="http://nbrightside.wordpress.com/">blog</a> on hosted Wordpress and it
+worked fine.</p>
+
+<p>A little research revealed that the WordPress RSS widget does not appear
+to
+<a href="http://en.forums.wordpress.com/topic.php?id=1249&amp;replies=11#post-6531">support</a>
+Atom 1.0 format (which is precisely the format used by Google Shared
+Items).</p>
+
+<p>No problem. Just create a <a href="http://www.feedburner.com">Feedburner</a> feed
+and see if that works. This should automatically, dynamically and
+intelligently convert the feed format into a format the recipient can
+digest. Unfortunately, it doesn&#8217;t. Sigh. Give up in disgust and make a
+note to ask in the WordPress/Reader forums.</p>
+
+<p>Only you can&#8217;t give up. You want this to work and this is now a
+challenge.</p>
+
+<p>Read the Feedburner
+<a href="http://forums.feedburner.com/viewforum.php?f=7&amp;sid=6a8a899de22627714719f9a4565fe228">FAQ</a>
+which implies that SmartBurner is what you need. This automatically,
+converts the original feed format for the consumer on the fly. However,
+SmartBurner is enabled by default so I wonder why it isn&#8217;t working.</p>
+
+<p>Examine the configuration of SmartBurner. By default, the output feed
+preserves the format of the original feed (Atom 1.0 in this case).
+However, it is easy to force conversion to different format (RSS 2.0) by
+setting the &#8216;Content-Type&#8217;.</p>
+
+<p>Revisit the WordPress RSS widget. Success !</p>
+
+<p>So, after all that time and effort, I sincerely hope you both enjoy my
+&#8216;Gooogle Shared Items&#8217; feed.</p>
+</div>
+
+
+  <footer>
+    <p class="meta">
+      
+  
+
+<span class="byline author vcard">Posted by <span class="fn">Andy C</span></span>
+
+      
+
+
+
+
+
+
+
+
+  
+
+
+<time datetime="2007-02-21T02:35:47+00:00" pubdate data-updated="true">Feb 21<span>st</span>, 2007</time>
+      
+
+<span class="categories">
+  
+    <a class='category' href='/blog/categories/uncategorised/'>uncategorised</a>
+  
+</span>
+
+
+    </p>
+    
+      <div class="sharing">
+  
+  
+  
+</div>
+
+    
+    <p class="meta">
+      
+        <a class="basic-alignment left" href="/blog/2007/02/20/the-art-of-lazy-programming/" title="Previous Post: the art of lazy programming">&laquo; the art of lazy programming</a>
+      
+      
+        <a class="basic-alignment right" href="/blog/2007/02/22/feed-overload/" title="Next Post: feed overload">feed overload &raquo;</a>
+      
+    </p>
+  </footer>
+</article>
+
+  <section>
+    <h1>Comments</h1>
+    <div id="disqus_thread" aria-live="polite"><noscript>Please enable JavaScript to view the <a href="http://disqus.com/?ref_noscript">comments powered by Disqus.</a></noscript>
+</div>
+  </section>
+
+</div>
+
+<aside class="sidebar">
+  
+    <section>
+  <h1>Recent Posts</h1>
+  <ul id="recent_posts">
+    
+      <li class="post">
+        <a href="/blog/2012/09/14/the-awkward-second-post/">the awkward second post</a>
+      </li>
+    
+      <li class="post">
+        <a href="/blog/2012/09/14/hello-world/">Hello World</a>
+      </li>
+    
+      <li class="post">
+        <a href="/blog/2012/09/14/migration-plan/">migration plan</a>
+      </li>
+    
+      <li class="post">
+        <a href="/blog/2012/09/14/blog-migration/">blog migration checklist</a>
+      </li>
+    
+      <li class="post">
+        <a href="/blog/2012/09/14/autumn-migration/">Autumn migration</a>
+      </li>
+    
+  </ul>
+</section>
+
+
+
+
+
+
+  
+</aside>
+
+
+    </div>
+  </div>
+  <footer role="contentinfo"><p>
+  Copyright &copy; 2012 - Andy C -
+  <span class="credit">Powered by <a href="http://octopress.org">Octopress</a></span>
+</p>
+
+</footer>
+  
+
+<script type="text/javascript">
+      var disqus_shortname = 'andycowl';
+      
+        
+        // var disqus_developer = 1;
+        var disqus_identifier = 'http://www.nbrightside.com/blog/2007/02/21/how-to-display-google-shared-items-on-wordpress/';
+        var disqus_url = 'http://www.nbrightside.com/blog/2007/02/21/how-to-display-google-shared-items-on-wordpress/';
+        var disqus_script = 'embed.js';
+      
+    (function () {
+      var dsq = document.createElement('script'); dsq.type = 'text/javascript'; dsq.async = true;
+      dsq.src = 'http://' + disqus_shortname + '.disqus.com/' + disqus_script;
+      (document.getElementsByTagName('head')[0] || document.getElementsByTagName('body')[0]).appendChild(dsq);
+    }());
+</script>
+
+
+
+
+
+
+
+
+
+
+
+</body>
+</html>

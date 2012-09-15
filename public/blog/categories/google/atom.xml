@@ -1,0 +1,191 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+  <title><![CDATA[Category: google | Blog In Isolation]]></title>
+  <link href="http://www.nbrightside.com/blog/categories/google/atom.xml" rel="self"/>
+  <link href="http://www.nbrightside.com/"/>
+  <updated>2012-09-15T20:07:32+01:00</updated>
+  <id>http://www.nbrightside.com/</id>
+  <author>
+    <name><![CDATA[Andy C]]></name>
+    
+  </author>
+  <generator uri="http://octopress.org/">Octopress</generator>
+
+  
+  <entry>
+    <title type="html"><![CDATA[Google Music - available by 2017]]></title>
+    <link href="http://www.nbrightside.com/blog/2011/07/26/google-music-available-2017/"/>
+    <updated>2011-07-26T11:07:05+01:00</updated>
+    <id>http://www.nbrightside.com/blog/2011/07/26/google-music-available-2017</id>
+    <content type="html"><![CDATA[<p>A few weeks ago, I signed up for a invitation to Google Music. The
+service is only available in the US but, by a lucky chance of fate, I
+just happened to be connected to my corporate VPN so I was successful
+and an invitation duly arrived in my Inbox.</p>
+
+<p>Initially, the Google Music Manager software didn't support Linux. Nor
+was the Ogg Vorbis audio format supported so I didn't pursue it any
+further as both of these were show stoppers for me. I don't intend
+re-ripping my entire music collection to MP3 format.</p>
+
+<p>However, last week, Google released a Linux version of Music Manager
+and added
+'<a href="http://www.google.com/support/music/bin/answer.py?hl=en&amp;answer=1100462&amp;topic=1100183">support</a>'
+for Ogg format audio files. The 'support' for the Ogg format is
+slightly strange - Ogg audio files will be transcoded back to 320kps
+MP3 files which represents a conversion from one lossy format to
+another lossy format. Hopefully, in the longer term, there will be
+true native support for Ogg.</p>
+
+<p>Anyway, I downloaded the Music Manager software and started uploading
+my music collection mainly so I could listen to music on my netbook
+which currently runs <a href="http://chromeos.hexxeh.net/">Chromium OS</a>.</p>
+
+<p>I started the upload 2 days ago and it's been running during the
+day. So far, it has managed to upload 505 songs out of a total 1,880
+so it's not exactly a speedy process.</p>
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[first and last and always - Google Reader]]></title>
+    <link href="http://www.nbrightside.com/blog/2011/01/05/first-and-last-and-always-google-reader/"/>
+    <updated>2011-01-05T15:21:00+00:00</updated>
+    <id>http://www.nbrightside.com/blog/2011/01/05/first-and-last-and-always-google-reader</id>
+    <content type="html"><![CDATA[<p>Steve Rubel has
+<a href="http://www.steverubel.com/a-return-to-feed-reading-tops-my-2011-tech-re">resolved</a>
+to return to feed reading in 2011.</p>
+
+<p>However, I have been using Google Reader since 2007 and use it daily
+to catch up with the tech and sports news in addition to my favourite
+blogs. I honestly can't imagine life without it. I was also interested
+by a recent
+<a href="http://www.makeuseof.com/tag/google-reader-bookmarking-service/">article</a>
+(prompted by the demise of delicio.us) that described the use of
+Google Reader as a bookmarking service.</p>
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[the looming spectre of Google]]></title>
+    <link href="http://www.nbrightside.com/blog/2007/05/25/the-looming-spectre-of-google/"/>
+    <updated>2007-05-25T07:47:15+01:00</updated>
+    <id>http://www.nbrightside.com/blog/2007/05/25/the-looming-spectre-of-google</id>
+    <content type="html"><![CDATA[<p>The recent
+<a href="http://scobleizer.com/2007/05/23/dog-distrustdisdain-of-google-moves-in/">storm</a>
+in the
+<a href="http://www.therssweblog.com/?guid=20070524110855">anti-blogosphere</a>
+about <a href="http://www.google.com/">Google</a>
+<a href="http://www.techcrunch.com/2007/05/23/100-million-payday-for-feedburner-this-deal-is-confirmed/">acquiring</a>
+<a href="http://www.feedburner.com">Feedburner</a>, the frightening
+<a href="http://www.geeknewscentral.com/archives/007047.html">prospect</a> of
+Google placing ads in your precious feeds, capturing all your personal
+data, monitoring your every movement (online and offline) and logging
+your brainwaves into the Google data warehouse is starting to irritate
+me.</p>
+
+<p>Despite the corporate
+<a href="http://investor.google.com/conduct.html">motto</a>, please remember
+Google is evil and 2084 is just around the corner, folks. Be aware
+that Google just announced a partnership with global law enforcement
+agencies to upload all CCT footage to YouTube.</p>
+
+<p>Thankfully, some
+<a href="http://marshallk.com/why-buying-feedburner-is-really-smart-of-google">intelligent</a>
+<a href="http://andybeard.eu/2007/05/77-reasons-why-google-buying-feedburner-is-a-match-made-in-heaven-hell.html">people</a>
+are able to distance themselves from the hype and present a more
+<a href="http://scobleizer.com/2007/05/24/another-reason-i-use-google-reader/">balanced</a>
+viewpoint.</p>
+
+<p>Another irritant is idiots bleating, ironically enough, in Google
+Groups about the lack of
+<a href="http://groups.google.com/group/analytics-help-basics/browse_frm/thread/648a3ded5712a1e7/2f37bba1b8a3346c?lnk=gst&amp;q=monthly&amp;rnum=2#2f37bba1b8a3346c">monthly</a>
+reports in the revamped Analytics and
+<a href="http://groups.google.com/group/Google-Labs-Reader/browse_frm/thread/46ecef4ffd2722da">deficiencies</a>
+in Reader.</p>
+
+<p>If you don't like Analytics V2, go back to <a href="http://sitemeter.sitetoolbox.com/">Site
+Meter</a> to track your e-commerce
+site.  Let me know how you get on.</p>
+
+<p>If you can't stand <a href="http://www.google.com/reader/view/">Reader</a>, shut
+up and go back to
+<a href="http://www.vecosys.com/2007/05/24/i-hate-the-bloglines-plumber/">Bloglines</a>
+and moan about that instead.</p>
+
+<p>If you can no longer tolerate the unreliability and limitations of
+Docs and Spreadsheets, upgrade to Office 2007 and use Word and
+<a href="http://www.nbrightside.com/blog/2006/09/14/google-versus-microsoft/">Excel</a>.
+The choice is yours.</p>
+
+<p>I
+<a href="http://www.nbrightside.com/blog/2007/02/19/am-i-a-google-whore-yet/">use</a>
+a lot of Google products (Gmail, Reader, Calendar, Analytics,
+Notebook,
+<a href="http://www.nbrightside.com/blog/2007/03/07/in-praise-of-google-desktop/">Desktop</a>,
+Bookmarks, IG,
+<a href="http://www.nbrightside.com/blog/2006/10/11/google-docs-and-spreadsheets/">Docs</a>,
+Groups, Webmaster, Adsense oh and, err that Search thingy). My view is
+that all are excellent, innovative software products and, best of all,
+completely free of charge.</p>
+
+<p>I really don't care that Google has stored every single keyword
+related to my searches from October 1991.</p>
+
+<p>I honestly don't care that Google has copies of my homework
+<a href="http://www.nbrightside.com/blog/2006/06/05/novel-homework-excuse/">excuses</a>
+and letters to the Inland Revenue. Believe me, the contents are really
+not that earth shattering.</p>
+
+<p>I truly don't care that Google has copies of every single email I have
+ever sent and received because, surprisingly, I have nothing to
+hide. I only wish Google could get behind corporate firewalls and
+retrieve the remainder as I have lost some magnificent blogging
+material over the years.</p>
+
+<p>If you are genuinely worried that Google is going to tell you what to
+'<a href="http://www.ft.com/cms/s/c3e49548-088e-11dc-b11e-000b5df10621.html">eat for
+tea</a>',
+maybe you should do the world a favour and start a protest on behalf
+of all Interweb users by going on an indefinite hunger
+strike. Immediately.</p>
+
+<p>If you are a child molester or jumped the
+<a href="http://news.bbc.co.uk/sport1/hi/football/teams/l/liverpool/6686867.stm">turnstiles</a>
+last night in Athens, then, by all means, please disable all cookies,
+use <a href="http://www.nbrightside.com/blog/2007/05/11/dont-ask/">Ask.com</a> or
+give your computer to charity.</p>
+
+<p>As for me, I am putting my money where my mouth in. The next purchase
+in my
+<a href="http://www.nbrightside.com/blog/2005/11/21/my-personal-pensions-crisis/">SIPP</a>
+will be the purchase of &pound;7,000 of
+<a href="http://finance.google.com/finance?q=goog">GOOG</a> stock. Tomorrow.</p>
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[Google Reader]]></title>
+    <link href="http://www.nbrightside.com/blog/2005/10/10/google-reader/"/>
+    <updated>2005-10-10T20:21:07+01:00</updated>
+    <id>http://www.nbrightside.com/blog/2005/10/10/google-reader</id>
+    <content type="html"><![CDATA[<p>Google have launched an online RSS
+<a href="http://www.google.com/reader/things/tour">Reader</a>. Like most
+developments from Google, this looks very professional and fits in
+with their rapidly growing suite of software products. Although I
+currently use Thunderbird for reading (a very limited number of) RSS
+sources and blogs, the use of a Web based service to manage all my
+information sources, accessible from anywhere, is appealing.</p>
+
+<p>I experimented by setting up one source (BBC News) and one thing about
+the interface immediately struck me like a thunderbolt !</p>
+
+<p>The use of the 'j' and 'k' keys to move the article list up and
+down. It is just like the good old trusty (and much maligned) Unix
+editor 'vi'.  Now this may appeal to Unix users but I am not sure
+whether the new generation of IE users will make of the 'oh but for
+touch typists, it is so much faster' argument.</p>
+]]></content>
+  </entry>
+  
+</feed>

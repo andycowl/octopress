@@ -1,0 +1,5 @@
+1,10 s/^tags:/categories:/
+1,10 s/created: !!timestamp/date:/
+/^title/ a\
+layout: post\
+comments: true

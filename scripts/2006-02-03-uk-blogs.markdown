@@ -1,0 +1,24 @@
+---
+date: '2006-02-03 17:51:28'
+categories:
+    - uncategorised
+title: UK blogs
+layout: post
+comments: true
+---
+
+I wanted to find UK related blogs written by people in the UK as most
+blog indexes and search engines naturally tend to be heavily weighted
+towards the US.
+
+Initially, I searched on [Technorati](http://technorati.com/) for 'UK'
+tags. However, this included lots of photo blogs from tourists visiting
+London on whale watching holidays and UK 'political' news (yawn).
+
+Then I came across [britblog.com](http://www.britblog.com/) which is an
+growing index of UK based blogs which includes blogs listed by region
+and category in addition to recently added and popular blogs.
+
+Britblog also has an interesting
+[map](http://www.britblog.com/directory/map.php) displaying the
+distribution of blogs across the UK.

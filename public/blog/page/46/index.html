@@ -1,0 +1,910 @@
+
+<!DOCTYPE html>
+<!--[if IEMobile 7 ]><html class="no-js iem7"><![endif]-->
+<!--[if lt IE 9]><html class="no-js lte-ie8"><![endif]-->
+<!--[if (gt IE 8)|(gt IEMobile 7)|!(IEMobile)|!(IE)]><!--><html class="no-js" lang="en"><!--<![endif]-->
+<head>
+  <meta charset="utf-8">
+  <title>Blog In Isolation</title>
+  <meta name="author" content="Andy C">
+
+  
+  <meta name="description" content="Another thing on my todo list was to learn PHP and write a WordPress
+plugin to randomly select quotes stored in the database to rotate the
+tagline. &hellip;">
+  
+
+  <!-- http://t.co/dKP3o1e -->
+  <meta name="HandheldFriendly" content="True">
+  <meta name="MobileOptimized" content="320">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+
+  
+  <link rel="canonical" href="http://www.nbrightside.com/blog/page/46/">
+  <link href="/favicon.png" rel="icon">
+  <link href="/stylesheets/screen.css" media="screen, projection" rel="stylesheet" type="text/css">
+  <script src="/javascripts/modernizr-2.0.js"></script>
+  <script src="/javascripts/ender.js"></script>
+  <script src="/javascripts/octopress.js" type="text/javascript"></script>
+  <link href="/atom.xml" rel="alternate" title="Blog In Isolation" type="application/atom+xml">
+  <!--Fonts from Google"s Web font directory at http://google.com/webfonts -->
+<link href="http://fonts.googleapis.com/css?family=PT+Serif:regular,italic,bold,bolditalic" rel="stylesheet" type="text/css">
+<link href="http://fonts.googleapis.com/css?family=PT+Sans:regular,italic,bold,bolditalic" rel="stylesheet" type="text/css">
+
+  
+  <script type="text/javascript">
+    var _gaq = _gaq || [];
+    _gaq.push(['_setAccount', 'UA-385771-2']);
+    _gaq.push(['_trackPageview']);
+
+    (function() {
+      var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+      ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+      var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+    })();
+  </script>
+
+
+</head>
+
+<body   >
+  <header role="banner"><hgroup>
+  <h1><a href="/">Blog In Isolation</a></h1>
+  
+    <h2>There is a radiant darkness upon us</h2>
+  
+</hgroup>
+
+</header>
+  <nav role="navigation"><ul class="subscription" data-subscription="rss">
+  <li><a href="/atom.xml" rel="subscribe-rss" title="subscribe via RSS">RSS</a></li>
+  
+</ul>
+  
+<form action="http://google.com/search" method="get">
+  <fieldset role="search">
+    <input type="hidden" name="q" value="site:www.nbrightside.com" />
+    <input class="search" type="text" name="q" results="0" placeholder="Search"/>
+  </fieldset>
+</form>
+  
+<ul class="main-navigation">
+  <li><a href="/about/">About</a></li>
+  <li><a href="/">Blog</a></li>
+  <li><a href="/blog/archives">Archives</a></li>
+</ul>
+
+</nav>
+  <div id="main">
+    <div id="content">
+      <div class="blog-index">
+  
+  
+  
+    <article>
+      
+  <header>
+    
+      <h1 class="entry-title"><a href="/blog/2007/01/29/how-to-rotate-taglines-on-your-wordpress-blog/">How to Rotate Taglines on Your WordPress Blog</a></h1>
+    
+    
+      <p class="meta">
+        
+
+
+
+
+
+
+
+
+  
+
+
+<time datetime="2007-01-29T20:42:57+00:00" pubdate data-updated="true">Jan 29<span>th</span>, 2007</time>
+        
+         | <a href="/blog/2007/01/29/how-to-rotate-taglines-on-your-wordpress-blog/#disqus_thread">Comments</a>
+        
+      </p>
+    
+  </header>
+
+
+  <div class="entry-content"><p>Another thing on my todo list was to learn PHP and write a WordPress
+plugin to randomly select quotes stored in the database to rotate the
+tagline.</p>
+
+<p>An admin interface to create, modify and delete quotes was planned for
+Version 2.1 (beta) due Q4 2008.</p>
+
+<p>Fortunately for me though, a helpful person called Zombie Robot
+(pseudonym ?) has already produced
+<a href="http://www.zombierobot.com/wp-quotes/">wp-quotes</a> (and another kind
+person <a href="http://hangoversunday.com/?p=260">tweaked</a> it to work properly
+for taglines).</p>
+
+<p>All that remains is the interesting part - performance tuning. No -
+wait. Existing users have already identified this
+<a href="http://www.zombierobot.com/archives/optimizing-wp-quotes/">modification</a>
+as efficiently fetching a single, random record. Horribly database
+specific of course but worth having when you have 2.4 million quotes.</p>
+
+<pre><code>36c36
+&lt; $sql = "select * from " . WP_QUOTES_TABLE . " where visible='yes'
+&lt; order by rand() limit 1";
+---
+&gt; $sql = "select * from " . WP_QUOTES_TABLE . " where visible='yes'";
+</code></pre>
+</div>
+  
+  
+
+
+    </article>
+  
+  
+    <article>
+      
+  <header>
+    
+      <h1 class="entry-title"><a href="/blog/2007/01/29/music-for-homesick-people/">Music for Homesick People</a></h1>
+    
+    
+      <p class="meta">
+        
+
+
+
+
+
+
+
+
+  
+
+
+<time datetime="2007-01-29T17:34:30+00:00" pubdate data-updated="true">Jan 29<span>th</span>, 2007</time>
+        
+         | <a href="/blog/2007/01/29/music-for-homesick-people/#disqus_thread">Comments</a>
+        
+      </p>
+    
+  </header>
+
+
+  <div class="entry-content"><p>Doug <a href="http://oracledoug.com/serendipity/">Burns</a> has a new
+<a href="http://oracledoug.com/serendipity/index.php?/archives/1168-A-Fresh-Start.html">job</a>
+and is spending some time in Canada, hugging his new colleagues. Like
+most roving consultants holed up in lonely, bland, nondescript hotel
+rooms with only an ironing board, TV and mini-bar for company (oh sorry
+that&#8217;s me not Doug), Doug&#8217;s thoughts inevitably starts to turn to loved
+ones back at home (including his cuddly toys and music collection).</p>
+
+<p>Fed up with the banality of Radio Ottawa, Doug recently pleaded for
+<a href="http://oracledoug.com/serendipity/index.php?/archives/1185-Singing-Songs.html">suggestions</a>
+and recommendations for new music. Unfortunately this desperate plea
+met with a deathly silence from Oracle types purely interested in his
+detailed investigations into the optimal degree of
+<a href="http://oracledoug.com/serendipity/index.php?/archives/835-PX-and-the-Magic-of-2.html">parallelism</a>.</p>
+
+<p>More recently, it would appear that homesickness coupled with the
+extreme
+<a href="http://oracledoug.com/serendipity/index.php?/archives/1189-A-Bit-Brisk,-Eh.html">cold</a>
+is affecting his brain. He is now listening to &#8217;<a href="http://oracledoug.com/serendipity/index.php?/archives/1190-While-The-Chief-....html">The
+Proclaimers</a>&#8217;
+and viewing questionable videos on YouTube.</p>
+
+<p>So, to preserve poor Doug&#8217;s sanity and seed some new ideas, I have
+painstakingly recorded full details of my vinyl record
+<a href="http://spreadsheets.google.com/pub?key=pHBwkjgvEIx7p__epg6YXYg">collection</a>which
+was sold to a second hand record shop last January for &pound;20.</p>
+
+<p>Obviously, this eclectic collection merely reflects my antique
+collection of vinyl so I also resurrected my last.fm
+<a href="http://www.last.fm/user/andycowl/">account</a> in an effort to reflect
+more recent musical tastes.</p>
+
+<p>Stay tuned for a complete listing of all my bootleg tapes in the next
+exciting edition.
+<a href="http://www.nbrightside.com/blog/2006/06/09/7-habits-of-highly-ineffectual-bloggers/">Yawn</a>.</p>
+</div>
+  
+  
+
+
+    </article>
+  
+  
+    <article>
+      
+  <header>
+    
+      <h1 class="entry-title"><a href="/blog/2007/01/29/wayne-rooney-an-apology/">Wayne Rooney - an Apology</a></h1>
+    
+    
+      <p class="meta">
+        
+
+
+
+
+
+
+
+
+  
+
+
+<time datetime="2007-01-29T15:20:02+00:00" pubdate data-updated="true">Jan 29<span>th</span>, 2007</time>
+        
+         | <a href="/blog/2007/01/29/wayne-rooney-an-apology/#disqus_thread">Comments</a>
+        
+      </p>
+    
+  </header>
+
+
+  <div class="entry-content"><p>In recent weeks, this esteemed publication (Daily Excess) has been
+critical of Wayne Rooney&#8217;s recent performances for Manchester United.</p>
+
+<p>One article &#8216;Rooney is finished&#8217; questioned his future, his commitment,
+his mental state and his footballing ability. We ran a story that
+incorrectly claimed Rooney was &#8216;furious and livid&#8217; at the amount of
+media attention, fulsome praise and PFA awards being given to his
+team-mate and rival, Cristiano Ronaldo.</p>
+
+<p>After his performance and two wonder goals on Saturday, the Daily Excess
+is proud to announce an unreserved, unequivocal and heartfelt apology to
+Wayne (John, Paul, Ringo, George) Rooney of Wilmslow, Cheshire.</p>
+
+<p>Wayne Rooney is the best footballer in <del>England</del> the world. Wayne
+Rooney is destined to enjoy a long and trophy-filled career for club and
+country. John Terry has a dodgy back so must be relieved of the England
+captaincy immediately and the honour bestowed on &#8216;our Wayne&#8217;. Wayne
+Rooney will bring the World Cup back home in 2010.</p>
+
+<p>Rival publications have compared Wayne to Eric Cantona. That comparison
+is grossly unfair. Wayne Rooney is infinitely better than that garlic
+smelling, poetry reading, snail eating, karate kicking Frenchman who
+can&#8217;t even speak English proper.</p>
+
+<p>Wayne Rooney is a fantastic footballer and an awesome young talent to be
+nurtured and savoured.</p>
+
+<p>Until he next goes four games without a goal.</p>
+</div>
+  
+  
+
+
+    </article>
+  
+  
+    <article>
+      
+  <header>
+    
+      <h1 class="entry-title"><a href="/blog/2007/01/25/another-shattered-dream/">Another Shattered Dream</a></h1>
+    
+    
+      <p class="meta">
+        
+
+
+
+
+
+
+
+
+  
+
+
+<time datetime="2007-01-25T16:12:31+00:00" pubdate data-updated="true">Jan 25<span>th</span>, 2007</time>
+        
+         | <a href="/blog/2007/01/25/another-shattered-dream/#disqus_thread">Comments</a>
+        
+      </p>
+    
+  </header>
+
+
+  <div class="entry-content"><p>I was intrigued by the detailed infrastructure and sophisticated AI
+techniques powering the &#8216;world-wide computer network&#8217; that was
+supposedly hunting down my
+<a href="http://www.nbrightside.com/blog/2007/01/24/lost-in-transit/">lost</a> bag.</p>
+
+<p>I had a persistent mental image of a person sitting in a dingy, dark
+corner office buried in the dungeons at Heathrow airport, lazily typing
+into an old-fashioned, amber, VT220 terminal:</p>
+
+<p>Bag Reference: &#8216;AHL LHRBD70414&#8217;</p>
+
+<p>BRU-LHR: Confirm : &#8216;Yes&#8217;</p>
+
+<p>Is the bag at BRU ? : &#8216;No&#8217;</p>
+
+<p>Is the bag at LHR ? : &#8216;Dunno&#8217;</p>
+
+<p>Is the bag stuck on the conveyor belt ? : &#8216;Dunno&#8217;</p>
+
+<p>Did some idiotic passenger take the wrong bag ? : &#8216;Possibly&#8217;</p>
+
+<p>Has the bag been delivered to another carousel (Bug 6695423) ? : &#8216;No&#8217;</p>
+
+<p>Have you asked Barry, the baggage handler Supervisor ? : &#8216;Yes&#8217;</p>
+
+<p>Have you looked behind the sofa ? : &#8216;Yes. No bag but we did find the TV
+remote.&#8217;</p>
+
+<p>Computer says: &#8216;Tell customer the search has now been widened to US and
+APAC. Wait 3 months before telling the customer it is now too late to
+submit an insurance claim.&#8217;</p>
+
+<p>The illusion has just been cruelly shattered. In the early hours, I
+received a text message</p>
+
+<p>&#8216;Luggage received. Delivery time will follow.&#8217;</p>
+
+<p>promptly followed by another</p>
+
+<p>&#8216;Your luggage should be delivered before 10:00&#8217;</p>
+
+<p>Half an hour ago, the doorbell rang and I was reunited with my razor and
+boxer shorts. Much to the surprise of the delivery driver, we hugged and
+enjoyed an emotional, tearful reunion.</p>
+
+<p>Unfortunately, I had to tear up the fraudulent insurance claim for a new
+digital camera, Timberland boots, iPod, wireless headphones, Treo, 3
+crates of chocolates, Hercule Poirot moustache, full size replica of the
+<a href="http://www.atomium.be/HTMLsite/dyn/eindex.html">Atomium</a> and electric
+guitar.</p>
+</div>
+  
+  
+
+
+    </article>
+  
+  
+    <article>
+      
+  <header>
+    
+      <h1 class="entry-title"><a href="/blog/2007/01/25/fun-with-disaster-recovery/">Fun With Disaster Recovery</a></h1>
+    
+    
+      <p class="meta">
+        
+
+
+
+
+
+
+
+
+  
+
+
+<time datetime="2007-01-25T00:58:04+00:00" pubdate data-updated="true">Jan 25<span>th</span>, 2007</time>
+        
+         | <a href="/blog/2007/01/25/fun-with-disaster-recovery/#disqus_thread">Comments</a>
+        
+      </p>
+    
+  </header>
+
+
+  <div class="entry-content"><p>Sort of.</p>
+
+<p>I decided to remove all posts from my newly created Habari
+<a href="http://www.nbrightside.com/habari/">sandbox</a> in case my readership and
+GoogleBot gets confused. As there was no obvious bulk deletion tool, I
+simply truncated the `wp_posts` table.</p>
+
+<p>Unfortunately, I truncated the `wp_posts` table from the Wordpress
+schema instead of the Habari schema.</p>
+
+<p>So, in the space of a mere 24 hours, I had managed to
+<a href="http://www.nbrightside.com/blog/2007/01/24/lost-in-transit/">lose</a> my
+favourite boxer shorts, get a brand new shiny blog and then completely
+trash my established, trusty, stable blog.</p>
+
+<p>No problem. Earlier today I upgraded to WordPress 2.1 so I can use the
+backup I carefully took before that upgrade. Only the Bluehost one-click
+upgrades are so reliable and trouble-free, I got out of the excellent
+habit of taking my own backup by hand.</p>
+
+<p>No problem. I will just use the backup Bluehost took automatically. Only
+I can&#8217;t. That backup is purely of the PHP code (and not the database).</p>
+
+<p>No problem. I will simply use the Bluehost mySQL database backup. Only I
+can&#8217;t. Murphy has spoken. The latest daily backup has been made in the
+last 2 hours and the `wp_posts` table is empty.</p>
+
+<p>No problem. I will go back to the weekly dump, extract the SQL for
+`wp_posts` in isolation and add the raw data by executing the INSERT
+statements.</p>
+
+<p>That all works fine. 502 records inserted into `wp_posts`.
+Triumphantly, I pat myself on the back and check the blog looks OK.
+There are still no articles. Weird.</p>
+
+<p>I create a test article, which is visible, and compare the &#8216;good&#8217; record
+against the &#8216;bad&#8217; record. Quickly track the problem to the &#8216;post_type&#8217;
+column which is NULL on the imported posts and should be &#8216;post&#8217;. Issue
+the necessary UPDATE statement and, magically, all my posts immediately
+re-appear. Fix the &#8216;About&#8217; page which imaginatively has a &#8216;post_type&#8217;
+of &#8216;page&#8217;.</p>
+
+<p>All that remains is to fill in the gap between last week&#8217;s backup by
+manually pasting in articles from Google Reader and modifying the
+timestamps. Slightly tedious but much preferable to laboriously typing
+in 501 articles.</p>
+
+<p>And the moral of this tale. If I ever cross your threshold to be
+interviewed for that production DBA role for a large Siebel deployment,
+just thank me and politely show me the door. Quickly.</p>
+</div>
+  
+  
+
+
+    </article>
+  
+  
+    <article>
+      
+  <header>
+    
+      <h1 class="entry-title"><a href="/blog/2007/01/24/fun-with-habari/">Fun With Habari</a></h1>
+    
+    
+      <p class="meta">
+        
+
+
+
+
+
+
+
+
+  
+
+
+<time datetime="2007-01-24T21:27:13+00:00" pubdate data-updated="true">Jan 24<span>th</span>, 2007</time>
+        
+         | <a href="/blog/2007/01/24/fun-with-habari/#disqus_thread">Comments</a>
+        
+      </p>
+    
+  </header>
+
+
+  <div class="entry-content"><p>There&#8217;s been a lot of
+<a href="http://www.brokenkode.com/archives/habari/">excitement</a> and
+<a href="http://www.bloggingpro.com/archives/2007/01/08/habari-a-new-blogging-tool/">discussion</a>
+recently about the
+<a href="http://www.skippy.net/blog/2007/01/09/spread-the-news/">emergence</a> of a
+new blogging platform called <a href="http://code.google.com/p/habari/">Habari</a>.</p>
+
+<p>A brand new blogging platform being created from scratch with more
+developers than actual blogs.The prospect of my blog being completely
+broken by the nightly alpha build was an attractive one. A chance to
+leave the comfort of a stable Wordpress environment with all those
+themes and plugins. A change to live on the bleeding edge. I desperately
+tried to resist but the lure was too strong. In the end, I simply
+couldn&#8217;t help myself.</p>
+
+<p>The first step was to install
+<a href="http://subversion.tigris.org/">subversion</a> (much better name than
+boring old
+<a href="http://en.wikipedia.org/wiki/Concurrent_Versions_System">CVS</a>) on
+Bluehost following these excellent, idiot-proof
+<a href="http://blog.matharvard.com/2006/11/16/installing-subversion">instructions</a>.</p>
+
+<p>Then you check out the habari code. Or rather you don&#8217;t. You get this
+error.</p>
+
+<pre><code>svn: PROPFIND request failed on '/svn/trunk'
+svn: No transaction named '26572b6d78b0be18? in filesystem 'habari'
+</code></pre>
+
+<p>No need to give up and commit Hari-Kari just yet. Consult the Habari
+self-help <a href="http://groups.google.com/group/habari-users/topics">group</a> to
+discover there is a known
+<a href="http://groups.google.com/group/habari-users/browse_frm/thread/6a6e87237e9201a0/00532b95a7212ee1#00532b95a7212ee1">problem</a>
+with the SVN repository on the Google server. When this problem is
+resolved, I finally get to download the code.
+Habari requires PHP5 and PDO (for database access). On Bluehost, the
+following lines must be added to &#8216;php.ini&#8217; to activate the PDO drivers
+for mySQL.</p>
+
+<pre><code>extension_dir = /usr/lib/php/extensions/no-debug-non-zts-20050922
+extension=pdo.so
+extension=pdo_mysql.so
+</code></pre>
+
+<p>I am already hosted on a server running PHP5 but if you don&#8217;t have PHP5
+on your server, open a ticket and Bluehost Technical Support will
+promptly move you.</p>
+
+<p>Create a(nother) mySQL database and account, edit the database
+credentials in &#8216;config.php&#8217;, create an &#8216;.htaccess&#8217; file to handle
+redirects and you&#8217;re away. A simple installation page creates the
+initial user account, the blog, tagline and the first entry.</p>
+
+<p>Congratulations ! You are now the proud owner of a Habari
+<a href="http://flickr.com/photos/70276096@N00/368029092/">blog</a>.</p>
+
+<p>Obviously, this is an embryonic product but the
+<a href="http://flickr.com/photos/70276096@N00/368029093/in/photostream/">Administration</a>
+page looks great and is fast and responsive. Although I&#8217;m not sure I
+believe the traffic statistics !</p>
+
+<p>The article
+<a href="http://flickr.com/photos/70276096@N00/368029099/in/photostream/">editor</a>
+is a little minimalistic (especially contrasted with the recently
+released WordPress 2.1) but perfectly usable.</p>
+
+<p>A special word of praise about the Habari
+<a href="http://flickr.com/photos/70276096@N00/368029095/in/photostream/">import</a>
+facility.</p>
+
+<p>This connected directly to my Wordpress database and was blindingly fast
+(less than 30 seconds) to import my WordPress blog. In fact, it was so
+fast, I had to check that over 500 articles and 400 comments were indeed
+correctly imported although I noted that tags weren&#8217;t preserved.</p>
+
+<p>It is not clear how you might import a hosted Wordpress blog where you
+don&#8217;t have access to the database but I am sure other data formats will
+be added in due course.</p>
+
+<p>Of course, there isn&#8217;t the rich variety of themes and plugins available
+for Habari (yet) and, while I will not be jumping ship to Habari from
+WordPress today, I will certainly continue to follow developments with
+interest.</p>
+
+<p>Auto-discovery detected the availability RSD and Atom (but not RSS)
+feeds.</p>
+
+<p>If you&#8217;re interested, here is my Habari
+<a href="http://www.nbrightside.com/habari/">sandpit</a>.</p>
+</div>
+  
+  
+
+
+    </article>
+  
+  
+    <article>
+      
+  <header>
+    
+      <h1 class="entry-title"><a href="/blog/2007/01/24/lost-in-transit/">Lost in Transit</a></h1>
+    
+    
+      <p class="meta">
+        
+
+
+
+
+
+
+
+
+  
+
+
+<time datetime="2007-01-24T16:46:24+00:00" pubdate data-updated="true">Jan 24<span>th</span>, 2007</time>
+        
+         | <a href="/blog/2007/01/24/lost-in-transit/#disqus_thread">Comments</a>
+        
+      </p>
+    
+  </header>
+
+
+  <div class="entry-content"><p>Last night I returned to London from Brussels. Unfortunately, my
+overnight bag didn&#8217;t.</p>
+
+<p>I guess this was inevitable after four years of multiple short flights
+in Europe and I have been pretty lucky thus far.</p>
+
+<p>Curiously, two other passengers on my flight suffered the same fate. One
+gentleman was very irate. For reasons best known to himself, he had
+buried his car keys in his suitcase which seemed a very odd decision.</p>
+
+<p>Consequently, he had to call his wife in Oxford to drive down to
+Heathrow with the spare keys. I happened to notice he held his mobile
+phone a full 12 inches from his ear while he made the call to his loving
+partner. Hopefully, the box of expensive Belgian chocolates he was
+carrying, may help to salvage the situation.</p>
+
+<p>My immediate thought was the stray bags were lurking somewhere in
+Heathrow Terminal 1 whereas my new friend and ally seemed convinced that
+they had never left Brussels. He was insistent that Hercule Poirot was
+summoned immediately to locate the bags in Brussels and placed on the
+20:00 flight (in business class with cloth napkins).</p>
+
+<p>My gut instinct was reinforced when four more passengers from Amsterdam
+came over to report more lost bags. Again, from the now sadly empty
+luggage carousel 4. Maybe there was something interesting on TV or a
+baggage handler had popped out for more tea-bags.</p>
+
+<p>Ironically, I was deputising at short notice for a sick colleague so
+this flight was booked at very short notice in business class. So, the
+bright orange &#8216;Prioritaire&#8217; tag didn&#8217;t exactly help my kit bag much on
+this occasion.</p>
+
+<p>Anyway, I remain hopeful of getting my smelly clothes and stolen hotel
+toiletries back; particularly when I read this bold assertion on the BMI
+claim form</p>
+
+<blockquote><p>&#8216;We would like to assure you that every effort is being made to locate
+your bag using a world-wide computer network designed exclusively for
+this purpose.&#8217;</p></blockquote>
+</div>
+  
+  
+
+
+    </article>
+  
+  
+    <article>
+      
+  <header>
+    
+      <h1 class="entry-title"><a href="/blog/2007/01/23/friend-of-a-friend/">Friend of a Friend</a></h1>
+    
+    
+      <p class="meta">
+        
+
+
+
+
+
+
+
+
+  
+
+
+<time datetime="2007-01-23T11:07:21+00:00" pubdate data-updated="true">Jan 23<span>rd</span>, 2007</time>
+        
+         | <a href="/blog/2007/01/23/friend-of-a-friend/#disqus_thread">Comments</a>
+        
+      </p>
+    
+  </header>
+
+
+  <div class="entry-content"><p>Dave Grohl&#8217;s <a href="http://www.youtube.com/watch?v=E9LwNq4UtXk">tribute</a> to
+Kurt.</p>
+</div>
+  
+  
+
+
+    </article>
+  
+  
+    <article>
+      
+  <header>
+    
+      <h1 class="entry-title"><a href="/blog/2007/01/23/my-proudest-moment/">My Proudest Moment</a></h1>
+    
+    
+      <p class="meta">
+        
+
+
+
+
+
+
+
+
+  
+
+
+<time datetime="2007-01-23T09:47:36+00:00" pubdate data-updated="true">Jan 23<span>rd</span>, 2007</time>
+        
+         | <a href="/blog/2007/01/23/my-proudest-moment/#disqus_thread">Comments</a>
+        
+      </p>
+    
+  </header>
+
+
+  <div class="entry-content"><p>27 years ago, in an fruitless attempt to save money, my wife and I hired
+a function room above a pub to celebrate our joint 40th birthday. With a
+free bar.</p>
+
+<p>We invited friends (both of them), members of the book club and close
+family, blew up our own red and white balloons, paid extortionate prices
+for prawn volavons and, in an extravagant measure, even hired a DJ with
+a Karaoke machine.</p>
+
+<p>In an effort to get things going, I submitted my request at 21:39 (Oasis
+- Wonderwall)</p>
+
+<p>Unfortunately, the premium strength lager on offer that night was
+Kronenburg 1664 (not Grolsch).</p>
+
+<p>At 23:57, I was summoned to the stage where I grabbed the microphone and
+prepared for my moment of glory.</p>
+
+<p>I eagerly sang out the words on the monitor screen</p>
+
+<blockquote><p>&#8216;Introduction. Introduction..&#8217;</p></blockquote>
+
+<p>The middle-aged DJ&#8217;s looked aghast and frantically started gesturing to
+me.
+I kept going to a round of perplexed silence.</p>
+
+<p>In tribute to the world&#8217;s most famous Ciddy fans, I spontaneously
+changed the words of the final chorus:</p>
+
+<blockquote><p>&#8216;And, after all, United won f**k all&#8217;</p></blockquote>
+
+<p>People looked perplexed. My mate (who was drinking bitter) said &#8216;This is
+the best 40th I have ever been to.&#8217;</p>
+
+<p>More songs were played. We drank more beer. We eventually went home.</p>
+</div>
+  
+  
+
+
+    </article>
+  
+  
+    <article>
+      
+  <header>
+    
+      <h1 class="entry-title"><a href="/blog/2007/01/23/guitar-hero/">Guitar Hero</a></h1>
+    
+    
+      <p class="meta">
+        
+
+
+
+
+
+
+
+
+  
+
+
+<time datetime="2007-01-23T08:19:35+00:00" pubdate data-updated="true">Jan 23<span>rd</span>, 2007</time>
+        
+         | <a href="/blog/2007/01/23/guitar-hero/#disqus_thread">Comments</a>
+        
+      </p>
+    
+  </header>
+
+
+  <div class="entry-content"><p>Over Christmas, I was drying dishes, desperately trying to avoid
+conversation or being dragged into a impromptu board game. From
+upstairs, I heard a strange sound; the (discordant) opening chords to
+&#8216;Smoke On The Water&#8217; by Deep Purple. Repeatedly.</p>
+
+<p>Nothing too surprising there as my 12 year old nephew had been given an
+electric guitar for Christmas.</p>
+
+<p>I asked him who had taught him the three chords and he answered &#8216;Norman
+Junior&#8217;. It transpired my son has been learning to play guitar with a
+mate and they are progressing through &#8216;Monsters of Rock&#8217; classics.</p>
+
+<p>Sensing a chance for some Father-Son bonding, a chance to obtain a
+guitar and share a common interest, I asked Norman Junior III: &#8216;Would
+you like a guitar for your birthday ?&#8217;</p>
+
+<p>&#8216;No thanks, Dad. I like messing around but I simply haven&#8217;t got the
+motivation.&#8217;</p>
+
+<p>I interpreted this as &#8216;Mum will force me to have lessons and I&#8217;d rather
+play football.&#8217;</p>
+
+<p>Another chance to play &#8216;She&#8217;s Lost Control&#8217; on YouTube evaporates.</p>
+</div>
+  
+  
+
+
+    </article>
+  
+  <div class="pagination">
+    
+      <a class="prev" href="/blog/page/47/">&larr; Older</a>
+    
+    <a href="/blog/archives">Blog Archives</a>
+    
+    <a class="next" href="/blog/page/45/">Newer &rarr;</a>
+    
+  </div>
+</div>
+<aside class="sidebar">
+  
+    <section>
+  <h1>Recent Posts</h1>
+  <ul id="recent_posts">
+    
+      <li class="post">
+        <a href="/blog/2012/09/14/the-awkward-second-post/">the awkward second post</a>
+      </li>
+    
+      <li class="post">
+        <a href="/blog/2012/09/14/hello-world/">Hello World</a>
+      </li>
+    
+      <li class="post">
+        <a href="/blog/2012/09/14/migration-plan/">migration plan</a>
+      </li>
+    
+      <li class="post">
+        <a href="/blog/2012/09/14/blog-migration/">blog migration checklist</a>
+      </li>
+    
+      <li class="post">
+        <a href="/blog/2012/09/14/autumn-migration/">Autumn migration</a>
+      </li>
+    
+  </ul>
+</section>
+
+
+
+
+
+
+  
+</aside>
+
+    </div>
+  </div>
+  <footer role="contentinfo"><p>
+  Copyright &copy; 2012 - Andy C -
+  <span class="credit">Powered by <a href="http://octopress.org">Octopress</a></span>
+</p>
+
+</footer>
+  
+
+<script type="text/javascript">
+      var disqus_shortname = 'andycowl';
+      
+        
+        var disqus_script = 'count.js';
+      
+    (function () {
+      var dsq = document.createElement('script'); dsq.type = 'text/javascript'; dsq.async = true;
+      dsq.src = 'http://' + disqus_shortname + '.disqus.com/' + disqus_script;
+      (document.getElementsByTagName('head')[0] || document.getElementsByTagName('body')[0]).appendChild(dsq);
+    }());
+</script>
+
+
+
+
+
+
+
+
+
+
+
+</body>
+</html>

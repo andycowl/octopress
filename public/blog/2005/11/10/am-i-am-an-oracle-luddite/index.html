@@ -1,0 +1,331 @@
+
+<!DOCTYPE html>
+<!--[if IEMobile 7 ]><html class="no-js iem7"><![endif]-->
+<!--[if lt IE 9]><html class="no-js lte-ie8"><![endif]-->
+<!--[if (gt IE 8)|(gt IEMobile 7)|!(IEMobile)|!(IE)]><!--><html class="no-js" lang="en"><!--<![endif]-->
+<head>
+  <meta charset="utf-8">
+  <title>Am I am an Oracle luddite ? - Blog In Isolation</title>
+  <meta name="author" content="Andy C">
+
+  
+  <meta name="description" content="Jeff Moss&#8217;
+article
+about the commercial and free versions of Toad and the incredibly
+tenacious, persistent breed of salesperson bred by Quest &hellip;">
+  
+
+  <!-- http://t.co/dKP3o1e -->
+  <meta name="HandheldFriendly" content="True">
+  <meta name="MobileOptimized" content="320">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+
+  
+  <link rel="canonical" href="http://www.nbrightside.com/blog/2005/11/10/am-i-am-an-oracle-luddite/">
+  <link href="/favicon.png" rel="icon">
+  <link href="/stylesheets/screen.css" media="screen, projection" rel="stylesheet" type="text/css">
+  <script src="/javascripts/modernizr-2.0.js"></script>
+  <script src="/javascripts/ender.js"></script>
+  <script src="/javascripts/octopress.js" type="text/javascript"></script>
+  <link href="/atom.xml" rel="alternate" title="Blog In Isolation" type="application/atom+xml">
+  <!--Fonts from Google"s Web font directory at http://google.com/webfonts -->
+<link href="http://fonts.googleapis.com/css?family=PT+Serif:regular,italic,bold,bolditalic" rel="stylesheet" type="text/css">
+<link href="http://fonts.googleapis.com/css?family=PT+Sans:regular,italic,bold,bolditalic" rel="stylesheet" type="text/css">
+
+  
+  <script type="text/javascript">
+    var _gaq = _gaq || [];
+    _gaq.push(['_setAccount', 'UA-385771-2']);
+    _gaq.push(['_trackPageview']);
+
+    (function() {
+      var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+      ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+      var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+    })();
+  </script>
+
+
+</head>
+
+<body   >
+  <header role="banner"><hgroup>
+  <h1><a href="/">Blog In Isolation</a></h1>
+  
+    <h2>There is a radiant darkness upon us</h2>
+  
+</hgroup>
+
+</header>
+  <nav role="navigation"><ul class="subscription" data-subscription="rss">
+  <li><a href="/atom.xml" rel="subscribe-rss" title="subscribe via RSS">RSS</a></li>
+  
+</ul>
+  
+<form action="http://google.com/search" method="get">
+  <fieldset role="search">
+    <input type="hidden" name="q" value="site:www.nbrightside.com" />
+    <input class="search" type="text" name="q" results="0" placeholder="Search"/>
+  </fieldset>
+</form>
+  
+<ul class="main-navigation">
+  <li><a href="/about/">About</a></li>
+  <li><a href="/">Blog</a></li>
+  <li><a href="/blog/archives">Archives</a></li>
+</ul>
+
+</nav>
+  <div id="main">
+    <div id="content">
+      <div>
+<article class="hentry" role="article">
+  
+  <header>
+    
+      <h1 class="entry-title">Am I Am an Oracle Luddite ?</h1>
+    
+    
+      <p class="meta">
+        
+
+
+
+
+
+
+
+
+  
+
+
+<time datetime="2005-11-10T16:57:14+00:00" pubdate data-updated="true">Nov 10<span>th</span>, 2005</time>
+        
+         | <a href="#disqus_thread">Comments</a>
+        
+      </p>
+    
+  </header>
+
+
+<div class="entry-content"><p>Jeff Moss&#8217;
+<a href="http://oramossoracle.blogspot.com/2005/11/free-toad-at-least-until-raptor-comes.html">article</a>
+about the commercial and free versions of Toad and the incredibly
+tenacious, persistent breed of salesperson bred by Quest Software got
+me thinking about the Oracle DBA tools I use.</p>
+
+<ul>
+<li>People</li>
+<li>SQL*Plus</li>
+<li>Statspack</li>
+<li>putty</li>
+</ul>
+
+
+<p>People are important because people have developed the application,
+people are using the application, people are managing the servers,
+people are managing the database and intelligent people have
+configured that very expensive storage array.</p>
+
+<p>These people know a lot about the application, the history of the
+project, the successes and failures, the lessons learned, the
+architecture, the infrastructure whereas I may know, quite literally,
+nothing about the same subjects.</p>
+
+<p>I have seen people using Toad (and similar GUI based Oracle
+development tools) very effectively, multi-tasking, flipping between
+windows at breakneck speed. Sometimes it makes me quite tired just
+watching them.</p>
+
+<p>However, I prefer SQL*Plus to do most of the work because :-</p>
+
+<ul>
+<li>SQL*Plus provides a complete report of my session, with timings,
+query plans, statistics. No need to frantically try to write it all
+down.</li>
+<li>The SQL script can be incrementally developed and is repeatable. It
+is quite easy in Toad to execute an arbitrary set of mouse-clicks so
+it is not clear which of the six &#8216;alter session&#8217; statements were
+actually in effect when you finally got the optimal results.</li>
+<li>SQL*Plus is the &#8216;vi&#8217; of the Oracle world. It is the one Oracle tool
+you are guaranteed to have access to, everywhere. The sys admin may
+not allow you to install commerial software without a valid license
+or may use another tool you have never seen before.</li>
+<li>SQL*Plus can use bind variables, provide the query plan (with or
+without retrieving the 6 million records) and provide the vital
+statistics (consistent gets) just the same as the GUI tools. Almost
+everything you need in fact.</li>
+</ul>
+
+
+<p>Statspack is important because it is an Oracle package. Oracle will
+maintain and develop statspack for the latest features available in
+10g.  Statspack produces reports in a standard format which can easily
+be analysed by others (colleagues, DBA&#8217;s, even Oracle). Statspack can
+also be configured to run automatically at regular intervals. If there
+is always a problem with the overnight ETL at 03.30, I would rather
+statspack gets the overtime and gathers the performance metrics rather
+than me sitting there in the middle of the night.</p>
+
+<p>Statspack tells the truth, the whole truth and nothing but the
+truth. It is incredibly tempting to use an Oracle monitoring tool like
+OEM or Spotlight, obsessively watching the screen, drilling in on what
+appears to be an expensive query and your salvation. The problem is
+that you don&#8217;t know the query in question is only spawned once a
+quarter for the accountant&#8217;s financial report and runs in batch. The
+query could take 37 minutes and no-one would care. It is simply not
+important. It is not what the users are complaining about.</p>
+
+<p>Worse, because your refresh interval is 5 seconds, you are blissfully
+unaware that you have missed the crucial SQL query with literal SQL
+that takes 1.7 seconds but is executed hundreds of times per second.
+Statspack does.</p>
+
+<p>Setting the default statspack level to level 7 means that statspack
+can (retrospectively) produce the query plan for any problematic SQL
+statement identified in the summary report. This is handy where you
+may have long winded SQL statements where the summary report has
+tantalisingly truncated the SQL text just as the WHERE clause starts.</p>
+
+<p>Putty is important so you can run O/S utilities (prstat, glance,
+topas, top, iostat, vmstat) to monitor the actual database server
+during the investigations. If the server is a development server
+hosting multiple Oracle instances with 2 CPU&#8217;s running at 100% and
+saturated disks, then the performance of the application will be
+impacted, no matter what wizardry you weave.</p>
+</div>
+
+
+  <footer>
+    <p class="meta">
+      
+  
+
+<span class="byline author vcard">Posted by <span class="fn">Andy C</span></span>
+
+      
+
+
+
+
+
+
+
+
+  
+
+
+<time datetime="2005-11-10T16:57:14+00:00" pubdate data-updated="true">Nov 10<span>th</span>, 2005</time>
+      
+
+<span class="categories">
+  
+    <a class='category' href='/blog/categories/oracle/'>oracle</a>
+  
+</span>
+
+
+    </p>
+    
+      <div class="sharing">
+  
+  
+  
+</div>
+
+    
+    <p class="meta">
+      
+        <a class="basic-alignment left" href="/blog/2005/11/09/e-commerce-at-microsoft-uk/" title="Previous Post: E-commerce at Microsoft (UK)">&laquo; E-commerce at Microsoft (UK)</a>
+      
+      
+        <a class="basic-alignment right" href="/blog/2005/11/10/blog-etiquette/" title="Next Post: blog etiquette">blog etiquette &raquo;</a>
+      
+    </p>
+  </footer>
+</article>
+
+  <section>
+    <h1>Comments</h1>
+    <div id="disqus_thread" aria-live="polite"><noscript>Please enable JavaScript to view the <a href="http://disqus.com/?ref_noscript">comments powered by Disqus.</a></noscript>
+</div>
+  </section>
+
+</div>
+
+<aside class="sidebar">
+  
+    <section>
+  <h1>Recent Posts</h1>
+  <ul id="recent_posts">
+    
+      <li class="post">
+        <a href="/blog/2012/09/14/the-awkward-second-post/">the awkward second post</a>
+      </li>
+    
+      <li class="post">
+        <a href="/blog/2012/09/14/hello-world/">Hello World</a>
+      </li>
+    
+      <li class="post">
+        <a href="/blog/2012/09/14/migration-plan/">migration plan</a>
+      </li>
+    
+      <li class="post">
+        <a href="/blog/2012/09/14/blog-migration/">blog migration checklist</a>
+      </li>
+    
+      <li class="post">
+        <a href="/blog/2012/09/14/autumn-migration/">Autumn migration</a>
+      </li>
+    
+  </ul>
+</section>
+
+
+
+
+
+
+  
+</aside>
+
+
+    </div>
+  </div>
+  <footer role="contentinfo"><p>
+  Copyright &copy; 2012 - Andy C -
+  <span class="credit">Powered by <a href="http://octopress.org">Octopress</a></span>
+</p>
+
+</footer>
+  
+
+<script type="text/javascript">
+      var disqus_shortname = 'andycowl';
+      
+        
+        // var disqus_developer = 1;
+        var disqus_identifier = 'http://www.nbrightside.com/blog/2005/11/10/am-i-am-an-oracle-luddite/';
+        var disqus_url = 'http://www.nbrightside.com/blog/2005/11/10/am-i-am-an-oracle-luddite/';
+        var disqus_script = 'embed.js';
+      
+    (function () {
+      var dsq = document.createElement('script'); dsq.type = 'text/javascript'; dsq.async = true;
+      dsq.src = 'http://' + disqus_shortname + '.disqus.com/' + disqus_script;
+      (document.getElementsByTagName('head')[0] || document.getElementsByTagName('body')[0]).appendChild(dsq);
+    }());
+</script>
+
+
+
+
+
+
+
+
+
+
+
+</body>
+</html>

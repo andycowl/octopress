@@ -1,0 +1,17 @@
+---
+date: '2007-02-08 08:53:03'
+categories:
+    - uncategorised
+title: Here we go
+layout: post
+comments: true
+---
+
+Blueyonder Webmail is
+[down](http://flickr.com/photos/70276096@N00/383258896/) which is
+unusual. Welcome to the brand new, exciting world of [Virgin
+Media](http://www.nbrightside.com/blog/2007/01/31/i-am-a-virgin-again/).
+
+Still, at least they have a nice friendly, Web 2.0 style apology. The
+marketeers must be busy planning the launch party and deciding which
+dress Richard Branson will wear.

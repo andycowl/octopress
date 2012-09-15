@@ -1,0 +1,142 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+  <title><![CDATA[Category: markdown | Blog In Isolation]]></title>
+  <link href="http://www.nbrightside.com/blog/categories/markdown/atom.xml" rel="self"/>
+  <link href="http://www.nbrightside.com/"/>
+  <updated>2012-09-15T20:07:32+01:00</updated>
+  <id>http://www.nbrightside.com/</id>
+  <author>
+    <name><![CDATA[Andy C]]></name>
+    
+  </author>
+  <generator uri="http://octopress.org/">Octopress</generator>
+
+  
+  <entry>
+    <title type="html"><![CDATA[the joy of Markdown]]></title>
+    <link href="http://www.nbrightside.com/blog/2011/05/17/joy-markdown/"/>
+    <updated>2011-05-17T22:27:58+01:00</updated>
+    <id>http://www.nbrightside.com/blog/2011/05/17/joy-markdown</id>
+    <content type="html"><![CDATA[<p>For many years, I have flitted between a plethora of different
+blogging platforms mainly out of curiosity, boredom, frustration or
+occasionally sheer bloody mindedness.</p>
+
+<p>I have lost draft posts in WordPress, Tumblr, Posterous and Habari due
+to network glitches, browser crashes, my own stupidity and a broken
+AutoSave plugin.</p>
+
+<p>One night in a lonely hotel room, the realisation suddenly dawned on
+me that my frustration with all of these blogging platforms was that I
+spent a lot of time in the post editor and none of the post editors
+did what I wanted.</p>
+
+<p>Whether you use Tumblr, Posterous, WordPress, Habari, Drupal, Movable
+Type, Django-Mingus or another esoteric blog platform, you normally
+find yourself composing content in a Web browser within a blank text
+box writing raw HTML.</p>
+
+<p>Alternatively, you might be using some WYSIWYG editor that helps you
+insert the appropriate HTML tags.</p>
+
+<p>There are a few things wrong with this scenario as far as I'm
+concerned:</p>
+
+<ul>
+<li><p>I don't particularly want or need to learn and remember HTML
+tags. People ask why there's a HTML reference card in the lavatory.</p></li>
+<li><p>WYSIWYG editors can produce monstrous, bloated, ugly and sometimes,
+as a bonus, invalid HTML.</p></li>
+<li><p>I don't really want to use a WYSIWYG editor. I have invested time
+learning to scratch the surface of the functionality provided by the
+one true editor - Emacs.</p></li>
+</ul>
+
+
+<p>After reading, but steadfastly ignoring multiple articles about
+<a href="http://daringfireball.net/projects/markdown/syntax">Markdown</a> for
+many months and making a mental note to investigate further, I finally
+set aside 10 minutes to do so.</p>
+
+<p>Without being over dramatic, Markdown has changed my life. For the
+better.</p>
+
+<p>Markdown is a markup language ('geddit ?') that uses a easy to read
+notation as shorthand for HTML.</p>
+
+<p>The beauty of the Markdown syntax is that text written in the Markdown
+format is perfectly readable. This makes reading, scanning, reviewing
+and editing text much easier and quicker.</p>
+
+<p>I'm a simple man with simple tastes so my blog posts primarily use
+paragraphs, lists, hyperlinks and the very occasional image.</p>
+
+<p>A hyperlink in Markdown looks like</p>
+
+<pre><code>[Markdown](http://daringfireball.net/projects/markdown/syntax)
+</code></pre>
+
+<p>A blank line indicates the end of a paragraph. Again, this is how we
+compose text in emails and is so much more natural than</p>
+
+<pre><code>&lt;/p&gt;
+&lt;p&gt;
+</code></pre>
+
+<p>The HTML tags above are a preformatted block. In Markdown, this is
+simply denoted by a 4 character indent.</p>
+
+<p>To <em>emphasise</em> a word, you simply enclose the word in asterisk
+characters which is what a lot of luddite, bearded Unix geeks tend to
+do anyway. Using two asterisk characters will result in <strong>bold</strong> text.</p>
+
+<p>Similarly, if you want to force a line break you simply append two
+blank spaces to the end of a line.</p>
+
+<p>Code blocks are introduced by a single quote.</p>
+
+<p><code>   printf("Hello World\n");</code></p>
+
+<p>Bulleted lists are introduced by a hypen or asterisk character so a
+list of my favourite fruits would be written as:</p>
+
+<pre><code>* Apples
+* Oranges
+* Pears
+* Bananas
+</code></pre>
+
+<p>Ordered lists use numbers and look like, well, ordered lists.</p>
+
+<pre><code>1. Giggs
+2. Scholes
+3. Cantona
+</code></pre>
+
+<p>Quotes are also easy and intuitive introduced by the '>' character.</p>
+
+<blockquote><p>Are you still doing what you did 5 years ago ?<br/>
+Yeah ? Well don't make a career out of it.<br/>
+Mark E. Smith (The Fall)</p></blockquote>
+
+<p>Most blogging platforms either provides native Markdown support or has
+plugins available to provide such functionality.</p>
+
+<p>However, the real beauty of Markdown for me is that Emacs inevitably
+has a powerful Markdown mode that provides font colouring, additional
+menu shortcuts for the common constructs and a feature to examine the
+generated HTML in an Emacs buffer or preview the results in a Web
+browser.</p>
+
+<p><a
+href="https://picasaweb.google.com/lh/photo/sykhGbfuwfI5NUo4vc_yTg?feat=embedwebsite"><img
+src="https://lh6.googleusercontent.com/_l2uGy1RGCiE/TdLzq1bo1dI/AAAAAAAABuk/ibt1UdW_VpY/s640/Markdown-Emacs.png"
+height="640" width="614" /></a></p>
+
+<p>This is incredibly useful for me as I can quickly check the generated HTML and even validate my blog posts. Validating my posts wasn't easy before as the addition of the Disqus Javascript code generates a number of warnings from the W3C validator.</p>
+
+<p><a href="https://picasaweb.google.com/lh/photo/grEBQVK_F7elXpEFtyQNEQ?feat=embedwebsite"><img src="https://lh3.googleusercontent.com/_l2uGy1RGCiE/TdLz1_fNSxI/AAAAAAAABus/LksKcNKG7_Q/s640/Markdown-Preview.png" height="388" width="640" /></a></p>
+]]></content>
+  </entry>
+  
+</feed>

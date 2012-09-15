@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+  <title><![CDATA[Category: IT | Blog In Isolation]]></title>
+  <link href="http://www.nbrightside.com/blog/categories/it/atom.xml" rel="self"/>
+  <link href="http://www.nbrightside.com/"/>
+  <updated>2012-09-15T20:07:32+01:00</updated>
+  <id>http://www.nbrightside.com/</id>
+  <author>
+    <name><![CDATA[Andy C]]></name>
+    
+  </author>
+  <generator uri="http://octopress.org/">Octopress</generator>
+
+  
+  <entry>
+    <title type="html"><![CDATA[train the trainer]]></title>
+    <link href="http://www.nbrightside.com/blog/2010/11/26/train-the-trainer/"/>
+    <updated>2010-11-26T12:38:00+00:00</updated>
+    <id>http://www.nbrightside.com/blog/2010/11/26/train-the-trainer</id>
+    <content type="html"><![CDATA[<p>In my job as a roving IT consultant, I have given a number of technical
+presentations about Siebel. During that time, I have learned that I am
+much more comfortable presenting material and content that I have
+created myself. I have also presented slide-decks used by technical
+pre-sales. This has occasionally led to detailed questions arising about
+a very innocuous looking bullet point which I was unable to effectively
+answer; not a comfortable situation.</p>
+
+<p>Occasionally, I have delivered technical workshops about a very specific
+area of the Siebel product set that was tailored to a customer
+requirement for a module that is not covered by a formal course offered
+by Oracle Education. I have thoroughly enjoyed this type of work as I
+find it stimulating and very rewarding. I also felt the customer also
+found these workshops useful and valuable.</p>
+
+<p>Last week, I gave a 2 day workshop about EIM (Oracle's ETL tool to bulk
+load data into a Siebel OLTP database) and I actually created some
+practical lab exercises to give the attendees some hands-on experience
+of failing to load data using EIM. I'm being serious here - I firmly
+believe it is very important to be exposed to the different classes of
+errors and idiotic mistakes when trying to achieve a seemingly
+straightforward task of populating a single customer record.</p>
+
+<p>I visited the client's offices the day before to check the logistics and
+the Siebel environment provided for the workshop. I also took the
+sensible precaution of completing the various exercises myself. To my
+horror, I discovered at 3pm on the day prior to the workshop that EIM
+wasn't actually functional in the customer test environment. Thankfully,
+I discovered this was due to a missing Service Pack for the Microsoft
+SQL Server database which resolved the problem and saved me from a very
+embarrassing situation.</p>
+
+<p>Whenever I've attended training courses, I've always felt slightly
+uncomfortable whenever the instructor went walkabout and hovered over my
+shoulder as I struggled with the syntax of ‘ALTER TABLE'. Consequently,
+when I set the attendees loose on the first exercise, I tried to take a
+back seat and only help if someone requested assistance.</p>
+
+<p>I am not a teacher - in fact, I am a lousy teacher as I have precious
+little patience - and I am not a trained instructor. However, I was
+quite curious to see how different people attacked the problem. One chap
+was feverishly reading the manuals, typing at speed, running the tests,
+examining log files, iterating in an effort to win the race. One of his
+colleagues had a rather more considered approach and I noticed he chose
+to take time to assist his neghbour who wasn't as far forward. Another
+attendee was very methodical and thorough; he essentially created a full
+source-target mapping in Excel before he did anything else and was
+completely unfazed by the progress of others around him. Another
+gentleman reminded me of myself - he was bludgeoning forward at
+breakneck speed, making misakes (syntax errors), immediately fixing them
+and iterating rapidly.</p>
+
+<p>I approached one gentleman quietly beavering away in the corner who had
+actually completed the orignal exercise but hadn't shouted ‘Eureka' or
+called me over to praise his efforts. Instead, he was now creating a
+data set of 10,000 customer records to see what throughput he could get
+compared with the performance of the existing custom COM based data
+loading tool.</p>
+
+<p>All in all, a very enlightening exercise. Psychologists would probably
+classify each type of individual with a special name
+(‘Starter-Finisher').</p>
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[Solihull to Amsterdam via London]]></title>
+    <link href="http://www.nbrightside.com/blog/2007/11/09/solihull-to-amsterdam-via-london/"/>
+    <updated>2007-11-09T04:50:49+00:00</updated>
+    <id>http://www.nbrightside.com/blog/2007/11/09/solihull-to-amsterdam-via-london</id>
+    <content type="html"><![CDATA[<p>Norman - Your next post will be in the style of Micro-Blogging...</p>
+
+<p>Monday - NSCR. Plaintive request from a customer to truncate a Siebel
+intersection table. Siebel's official stance on the use of <strong>any</strong>
+direct SQL to modify data in Siebel base tables is well
+<a href="http://www.digitalteddy.com/techblog/2007/10/why_direct_sql_is_a_very_stupi.html">documented</a>.
+However, for reasons that are too lengthy and tedious to divulge here,
+this particular request was approved. Mainly because they deposited
+&pound;2500 into my offshore account.</p>
+
+<p>Tuesday - Team Meeting at
+<a href="http://www.oracle.com/global/uk/corporate/locations/birmingham.html">BVP</a>.
+Interesting to hear what my counterparts on eBusiness Suite do. Ate
+<a href="http://www.solihull-online.com/tiggis.htm">here</a>. Not as dire as the
+reviews suggested. Few beers in the interests of team morale.</p>
+
+<p>Wednesday - Try (and fail) to avoid being dispatched abroad on my
+birthday. Cristiano Ronaldo keeps going till the very last minute and
+gets his
+<a href="http://news.bbc.co.uk/sport1/hi/football/europe/7076590.stm">reward</a>. A
+lesson to us all.</p>
+
+<p>Thursday - Early start. Sleep downstairs on the sofa bed. Wake up 3
+hours early. Fly to Amsterdam. Mundane Production Health Check for
+Siebel 7.7 on SQL Server. Set up various monitoring tools (perfmon, OM
+logging and
+<a href="http://databasediskperf.blogspot.com/2006/06/finding-top-10-long-running-queries.html">Profiler</a>)
+to identify low hanging fruit. There wasn't any. Staying close to
+Schipol (good), far away from the city (bad).</p>
+
+<p>Back to
+<a href="http://www.marriott.com/hotels/travel/amscy-courtyard-amsterdam-airport/">hotel</a>.
+Tired. Process email while thinking about
+<a href="http://www.songmeanings.net/lyric.php?lid=123285">lyrics</a> to
+'<a href="http://uk.youtube.com/watch?v=5BE1KRj5iiM">Sappy</a>' and listening to
+'<a href="http://uk.youtube.com/watch?v=aiGxDQhKmec&amp;feature=PlayList&amp;p=6CF5A87C2B19F9AB&amp;index=1">Low</a>'
+on a tight loop.</p>
+]]></content>
+  </entry>
+  
+</feed>

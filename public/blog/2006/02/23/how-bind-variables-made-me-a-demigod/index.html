@@ -1,0 +1,317 @@
+
+<!DOCTYPE html>
+<!--[if IEMobile 7 ]><html class="no-js iem7"><![endif]-->
+<!--[if lt IE 9]><html class="no-js lte-ie8"><![endif]-->
+<!--[if (gt IE 8)|(gt IEMobile 7)|!(IEMobile)|!(IE)]><!--><html class="no-js" lang="en"><!--<![endif]-->
+<head>
+  <meta charset="utf-8">
+  <title>how bind variables made me a demigod - Blog In Isolation</title>
+  <meta name="author" content="Andy C">
+
+  
+  <meta name="description" content="In a previous life, I was a development DBA. Sorry that&#8217;s not quite
+true. My job title was &#8216;Persistence Architect&#8217; for a J2EE &hellip;">
+  
+
+  <!-- http://t.co/dKP3o1e -->
+  <meta name="HandheldFriendly" content="True">
+  <meta name="MobileOptimized" content="320">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+
+  
+  <link rel="canonical" href="http://www.nbrightside.com/blog/2006/02/23/how-bind-variables-made-me-a-demigod/">
+  <link href="/favicon.png" rel="icon">
+  <link href="/stylesheets/screen.css" media="screen, projection" rel="stylesheet" type="text/css">
+  <script src="/javascripts/modernizr-2.0.js"></script>
+  <script src="/javascripts/ender.js"></script>
+  <script src="/javascripts/octopress.js" type="text/javascript"></script>
+  <link href="/atom.xml" rel="alternate" title="Blog In Isolation" type="application/atom+xml">
+  <!--Fonts from Google"s Web font directory at http://google.com/webfonts -->
+<link href="http://fonts.googleapis.com/css?family=PT+Serif:regular,italic,bold,bolditalic" rel="stylesheet" type="text/css">
+<link href="http://fonts.googleapis.com/css?family=PT+Sans:regular,italic,bold,bolditalic" rel="stylesheet" type="text/css">
+
+  
+  <script type="text/javascript">
+    var _gaq = _gaq || [];
+    _gaq.push(['_setAccount', 'UA-385771-2']);
+    _gaq.push(['_trackPageview']);
+
+    (function() {
+      var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+      ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+      var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+    })();
+  </script>
+
+
+</head>
+
+<body   >
+  <header role="banner"><hgroup>
+  <h1><a href="/">Blog In Isolation</a></h1>
+  
+    <h2>There is a radiant darkness upon us</h2>
+  
+</hgroup>
+
+</header>
+  <nav role="navigation"><ul class="subscription" data-subscription="rss">
+  <li><a href="/atom.xml" rel="subscribe-rss" title="subscribe via RSS">RSS</a></li>
+  
+</ul>
+  
+<form action="http://google.com/search" method="get">
+  <fieldset role="search">
+    <input type="hidden" name="q" value="site:www.nbrightside.com" />
+    <input class="search" type="text" name="q" results="0" placeholder="Search"/>
+  </fieldset>
+</form>
+  
+<ul class="main-navigation">
+  <li><a href="/about/">About</a></li>
+  <li><a href="/">Blog</a></li>
+  <li><a href="/blog/archives">Archives</a></li>
+</ul>
+
+</nav>
+  <div id="main">
+    <div id="content">
+      <div>
+<article class="hentry" role="article">
+  
+  <header>
+    
+      <h1 class="entry-title">How Bind Variables Made Me a Demigod</h1>
+    
+    
+      <p class="meta">
+        
+
+
+
+
+
+
+
+
+  
+
+
+<time datetime="2006-02-23T16:50:26+00:00" pubdate data-updated="true">Feb 23<span>rd</span>, 2006</time>
+        
+         | <a href="#disqus_thread">Comments</a>
+        
+      </p>
+    
+  </header>
+
+
+<div class="entry-content"><p>In a previous life, I was a development DBA. Sorry that&#8217;s not quite
+true. My job title was &#8216;Persistence Architect&#8217; for a J2EE application.
+The Oracle database wasn&#8217;t really considered to be a database. In fact,
+it wasn&#8217;t even considered to be a repository either. The database was
+merely a means of persisting objects.</p>
+
+<p>There was a swear box for the terms &#8216;Table&#8217;, &#8216;Column&#8217;, &#8216;Database&#8217;,
+&#8216;record, &#8216;schema&#8217;, &#8216;SELECT&#8217; and bizarrely, &#8216;PMON&#8217;. This meant I had to
+resurrect the word &#8216;tuple&#8217;.</p>
+
+<p>Anyway, I was responsible for the production system which was lightly
+loaded and adequately configured so life was easy and I could blog and
+surf all day. Well, actually I couldn&#8217;t because I didn&#8217;t blog back then
+and I was behind a corporate firewall so I just had some EJB&#8217;s and the
+complete Oracle 9i documentation set for company.</p>
+
+<p>One Friday, a developer came along and asked me to restart the DEV
+database. I asked &#8216;Why ?&#8217;. He replied &#8216;Because it is the second Friday
+in the month&#8217;. I asked &#8216;Why ?&#8217;. &#8216;Because we restart it every two weeks
+at Friday lunchtime&#8217;. &#8216;Why ?&#8217;. &#8216;Because that&#8217;s what Bryan used to do&#8217;
+&#8216;Why ?&#8217;. &#8216;To fix the Oracle bug where we can&#8217;t instantiate any more
+objects&#8217;. &#8216;What Oracle bug ?&#8217;. &#8216;Look - I really don&#8217;t know - some stupid
+low level Oracle error. Please just restart it&#8217;.</p>
+
+<p>Ten minutes investigations revealed he was indeed speaking the truth.
+The Oracle listener was failing with &#8216;Unable to fork process&#8217; due to a
+lack of resources. Just like the objects, database connections were also
+persisted. This was a development Solaris server with lots of components
+co-hosted with 2 CPU, 512 MB memory and a paltry 128 MB swap space.
+Configured more swap space, ordered more memory. Job done.</p>
+
+<p>Everyone was happy. All objects could be instantiated successfully and I
+didn&#8217;t have to set a fortnightly reminder to restart Oracle on Friday
+lunchtime.</p>
+
+<p>So, I was able to return to the &#8216;Concepts&#8217; guide and my status was
+elevated from &#8216;quiet man in corner&#8217; to &#8216;Hero&#8217;.</p>
+
+<p>A couple of months later, I was asked to look into the &#8216;appalling lack
+of performance scalability&#8217; of the database on UAT. Apparently, during
+load tests, the J2EE application could only process 800 transactions per
+hour. Well, they weren&#8217;t actually conventional database transactions but
+rather complex, involved business processes.</p>
+
+<p>UAT had a 128 MB buffer cache and a 1 GB shared pool. Odd. The shared
+pool was littered with lots of almost identical SQL statements with
+embedded literals. I suspect the shared pool was originally 128 MB, the
+library cache hit ratio was low and some performance tuning wizard
+(human or otherwise) recommended &#8216;Low library cache hit ratio means
+increase shared pool immediately&#8217;. Repeat ad infinitum.</p>
+
+<p>I summoned up the courage and talked to the developers. &#8216;Would it be
+possible to modify the application to use bind variables ?&#8217; &#8216;No. Listen.
+We just use objects. We don&#8217;t make database calls&#8217;. Some more
+investigations. The J2EE application uses TopLink which is an interface
+layer translating the objects into database accesses.</p>
+
+<p>I decided to read the TopLink manual and suggested setting the TopLink
+configuration parameter &#8216;should-bind-all-parameters&#8217; to True and repeat
+the test. While the development team made the changes, I reduced the
+shared pool to 128MB and increased the buffer cache to 1GB.</p>
+
+<p>Repeat test. Staggering improvement to over 3,000 &#8216;transactions&#8217; per
+hour.</p>
+
+<p>My status is immediately elevated to &#8216;demigod&#8217;. Why, they were so
+grateful, a Java developer finally divulged the proxy they were all
+using to access the internet.</p>
+
+<p>I created my own private swear box for the terms &#8216;EJB&#8217;, &#8216;J2EE&#8217;,
+&#8216;Container Managed Persistence&#8217;, &#8216;multiple inheritance&#8217;, &#8216;classes&#8217;,
+&#8216;methods&#8217;, &#8216;destructors&#8217; and &#8216;Persistence Architect&#8217; and returned to
+quietly reading the fine Oracle manuals.</p>
+</div>
+
+
+  <footer>
+    <p class="meta">
+      
+  
+
+<span class="byline author vcard">Posted by <span class="fn">Andy C</span></span>
+
+      
+
+
+
+
+
+
+
+
+  
+
+
+<time datetime="2006-02-23T16:50:26+00:00" pubdate data-updated="true">Feb 23<span>rd</span>, 2006</time>
+      
+
+<span class="categories">
+  
+    <a class='category' href='/blog/categories/uncategorised/'>uncategorised</a>
+  
+</span>
+
+
+    </p>
+    
+      <div class="sharing">
+  
+  
+  
+</div>
+
+    
+    <p class="meta">
+      
+        <a class="basic-alignment left" href="/blog/2006/02/22/small-is-beautiful/" title="Previous Post: small is beautiful">&laquo; small is beautiful</a>
+      
+      
+        <a class="basic-alignment right" href="/blog/2006/02/23/google-launches-google-err-page-creator/" title="Next Post: Google launches Google, err, Page Creator">Google launches Google, err, Page Creator &raquo;</a>
+      
+    </p>
+  </footer>
+</article>
+
+  <section>
+    <h1>Comments</h1>
+    <div id="disqus_thread" aria-live="polite"><noscript>Please enable JavaScript to view the <a href="http://disqus.com/?ref_noscript">comments powered by Disqus.</a></noscript>
+</div>
+  </section>
+
+</div>
+
+<aside class="sidebar">
+  
+    <section>
+  <h1>Recent Posts</h1>
+  <ul id="recent_posts">
+    
+      <li class="post">
+        <a href="/blog/2012/09/14/the-awkward-second-post/">the awkward second post</a>
+      </li>
+    
+      <li class="post">
+        <a href="/blog/2012/09/14/hello-world/">Hello World</a>
+      </li>
+    
+      <li class="post">
+        <a href="/blog/2012/09/14/migration-plan/">migration plan</a>
+      </li>
+    
+      <li class="post">
+        <a href="/blog/2012/09/14/blog-migration/">blog migration checklist</a>
+      </li>
+    
+      <li class="post">
+        <a href="/blog/2012/09/14/autumn-migration/">Autumn migration</a>
+      </li>
+    
+  </ul>
+</section>
+
+
+
+
+
+
+  
+</aside>
+
+
+    </div>
+  </div>
+  <footer role="contentinfo"><p>
+  Copyright &copy; 2012 - Andy C -
+  <span class="credit">Powered by <a href="http://octopress.org">Octopress</a></span>
+</p>
+
+</footer>
+  
+
+<script type="text/javascript">
+      var disqus_shortname = 'andycowl';
+      
+        
+        // var disqus_developer = 1;
+        var disqus_identifier = 'http://www.nbrightside.com/blog/2006/02/23/how-bind-variables-made-me-a-demigod/';
+        var disqus_url = 'http://www.nbrightside.com/blog/2006/02/23/how-bind-variables-made-me-a-demigod/';
+        var disqus_script = 'embed.js';
+      
+    (function () {
+      var dsq = document.createElement('script'); dsq.type = 'text/javascript'; dsq.async = true;
+      dsq.src = 'http://' + disqus_shortname + '.disqus.com/' + disqus_script;
+      (document.getElementsByTagName('head')[0] || document.getElementsByTagName('body')[0]).appendChild(dsq);
+    }());
+</script>
+
+
+
+
+
+
+
+
+
+
+
+</body>
+</html>

@@ -1,0 +1,26 @@
+---
+date: '2006-03-16 21:53:41'
+categories:
+    - uncategorised
+title: In Shreds
+layout: post
+comments: true
+---
+
+Everything was in its
+[place](http://www.nbrightside.com/blog/2006/02/27/full-circle/). Then I
+went and changed
+[everything](http://www.nbrightside.com/blog/2006/03/08/thunderbirds-are-go/)
+(again). My therapist says this is a character defect and a sign of
+subliminal procrastination.
+
+Hard reset Palm Pilot. Download Thunderbird
+[extension](http://kb.mozillazine.org/Talk:PalmSync_(Thunderbird)) to
+sync address book. Doesn't work.
+
+So now my Contacts are in Thunderbird (periodic manual export/import)
+and I am using the Palm for Calendar and Tasks. If it's good enough for
+Dave Allen, then it's good enough for me.
+
+Next Action: Wait for Thunderbird/Sunbird to fully support Palm
+synchronisation.

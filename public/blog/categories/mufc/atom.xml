@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+  <title><![CDATA[Category: mufc | Blog In Isolation]]></title>
+  <link href="http://www.nbrightside.com/blog/categories/mufc/atom.xml" rel="self"/>
+  <link href="http://www.nbrightside.com/"/>
+  <updated>2012-09-15T20:07:32+01:00</updated>
+  <id>http://www.nbrightside.com/</id>
+  <author>
+    <name><![CDATA[Andy C]]></name>
+    
+  </author>
+  <generator uri="http://octopress.org/">Octopress</generator>
+
+  
+  <entry>
+    <title type="html"><![CDATA[usual suspects]]></title>
+    <link href="http://www.nbrightside.com/blog/2010/10/20/usual-suspects/"/>
+    <updated>2010-10-20T09:39:00+01:00</updated>
+    <id>http://www.nbrightside.com/blog/2010/10/20/usual-suspects</id>
+    <content type="html"><![CDATA[<p><a href="http://picasaweb.google.com/lh/photo/7TbvvBz3kX_1utlPDatYxA?feat=embedwebsite"><img src="http://lh6.ggpht.com/_l2uGy1RGCiE/TL64N1ucMiI/AAAAAAAABog/eaQQpX-FE5k/s400/Rooney.jpg"
+height="177" width="400" /></a></p>
+
+<p>United players line up for the identity parade. Paul Scholes has been
+excused to 'quickly go to the toilet'.</p>
+]]></content>
+  </entry>
+  
+</feed>

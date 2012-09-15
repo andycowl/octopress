@@ -1,0 +1,24 @@
+---
+date: '2007-01-31 19:36:32'
+categories:
+    - uncategorised
+title: WTF
+layout: post
+comments: true
+---
+
+Despite occasionally enjoying this [site](http://thedailywtf.com/) and
+subscribing to this Oracle focussed
+[offshoot](http://oracle-wtf.blogspot.com/), I always laid awake at
+night, endlessly tossing and turning, wondering what this curious and
+cryptic acronym WTF stood for.
+
+I need wonder no more. [Technorati](http://technorati.com/) have finally
+put me out of my misery.
+
+[WTF](http://en.wikipedia.org/wiki/WTF) actually stands for '[Where's
+The
+Fire](http://www.techcrunch.com/2007/01/31/technoratis-mysterious-disappearing-wtf-product/)
+?' My immediate reaction was '[WTF](http://www.wtf.org/) ?'
+
+No wonder Technorati killed that product at birth.
