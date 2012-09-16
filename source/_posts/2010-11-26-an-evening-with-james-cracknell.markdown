@@ -1,10 +1,11 @@
 ---
-date: '2010-01-13 10:02:55'
+date: '2010-11-26 10:02:55'
 title: an evening with James Cracknell
 layout: post
 comments: true
 categories:
-    - uncategorised
+    - uk
+    - sport
 ---
 Back in May, I went along to my son's school to hear James Cracknell
 speak. Cracknell is an old boy of KGS and went on to become a double
