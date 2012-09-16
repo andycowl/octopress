@@ -1,12 +1,11 @@
 ---
 date: '2006-06-08 15:19:10'
 categories:
-    - uncategorised
+    - blogging
 title: don't talk to strangers
 layout: post
 comments: true
 ---
-
 There's nowt as queer as folk. I could maintain a blog purely on search
 terms leading to this dark recess of the blogsphere.
 
