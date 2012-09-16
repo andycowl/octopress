@@ -1,12 +1,11 @@
 ---
-date: '2005-12-14 00:23:37'
+date: '2005-12-13 23:23:37'
 categories:
-    - uncategorised
+    - rss
 title: comparison of RSS readers
 layout: post
 comments: true
 ---
-
 More recently, as I have started to scan more blogs and newsfeeds, I
 wanted a quicker, more efficient way of scanning through my growing list
 of RSS sources so I investigated a few alternative RSS readers or

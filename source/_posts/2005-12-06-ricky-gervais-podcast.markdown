@@ -1,12 +1,12 @@
 ---
-date: '2005-12-07 03:26:51'
+date: '2005-12-06 22:26:51'
 categories:
-    - uncategorised
+    - humour
+    - podcast
 title: Ricky Gervais podcast
 layout: post
 comments: true
 ---
-
 Ricky Gervais is one of my favourite comedians (The Office, Extras) and
 has produced the first in a series of
 [podcasts](http://www.guardian.co.uk/rickygervais) for The Grauniad with

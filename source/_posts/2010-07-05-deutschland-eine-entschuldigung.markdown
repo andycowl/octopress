@@ -1,5 +1,5 @@
 ---
-date: '2006-03-17 05:10:53'
+date: '2010-07-05 11:10:53'
 categories:
     - football
     - germany
@@ -8,7 +8,6 @@ title: Deutschland - eine Entschuldigung
 layout: post
 comments: true
 ---
-
 The British media may have given the impression in recent weeks that we
 considered the German national tootball team to be a rather workmanlike,
 efficient, collection of young talent coupled with experienced
