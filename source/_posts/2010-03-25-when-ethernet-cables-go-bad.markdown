@@ -16,7 +16,7 @@ years. Perusing the annals of this blog reveals that while I have
 experienced
 [various](http://www.nbrightside.com/blog/2006/04/11/wireless-upgrade/),
 [sporadic](http://www.nbrightside.com/blog/2006/02/24/wireless-wierdness/)
-[issues](http://www.nbrightside.com/blog/2006/04/17/more-wireless-fun)
+[issues](http://www.nbrightside.com/blog/2006/04/17/more-wireless-fun/)
 over this period, by and large, the wireless network has been pretty
 reliable with three PC's, a laptop and an iTouch device using it
 without problems.

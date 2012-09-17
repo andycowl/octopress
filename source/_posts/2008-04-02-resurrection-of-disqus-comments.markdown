@@ -6,9 +6,8 @@ title: resurrection of Disqus comments
 layout: post
 comments: true
 ---
-
 Five months ago, I
-[experimented](http://www.nbrightside.com/blog/2007/10/31/disqus-powered-comments)
+[experimented](http://www.nbrightside.com/blog/2007/10/31/disqus-powered-comments/)
 with [Disqus](http://www.disqus.com/) powered comments when this blog
 was running on WordPress. The trial was rather short-lived because I was
 disappointed that Disqus wasn't able to fully integrate with all the

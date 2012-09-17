@@ -14,7 +14,7 @@ share their first ever Twitter post.
 Trawling through my own Twitter archives, I noted my first ever post
 was: 'just signed up. never thought I would' on 9 November 2007 although
 I had eariler aired my
-[disdain](http://www.nbrightside.com/blog/2007/03/12/resisting-the-lure-of-twitter)
+[disdain](http://www.nbrightside.com/blog/2007/03/12/resisting-the-lure-of-twitter/)
 on this blog way back on 12 March 2007.
 
 Perusing the archives of my own continuous stream of inance drivel did

@@ -7,11 +7,11 @@ layout: post
 comments: true
 ---
 I have written before about the
-[consolidation](http://www.nbrightside.com/blog/2005/11/21/my-personal-pensions-crisis)
+[consolidation](http://www.nbrightside.com/blog/2005/11/21/my-personal-pensions-crisis/)
 of my various pension pots into a self-invested pension plan (SIPP).
 
 One slight
-[irritation](http://www.nbrightside.com/blog/2006/09/19/staggering-incompetence)
+[irritation](http://www.nbrightside.com/blog/2006/09/19/staggering-incompetence/)
 was that the Protected Rights elements could not be transferred so I was
 forced to hold these funds in a stakeholder pension.
 

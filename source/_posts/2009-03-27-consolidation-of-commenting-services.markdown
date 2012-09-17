@@ -6,14 +6,14 @@ title: consolidation of commenting services
 layout: post
 comments: true
 ---
-Since I [started](http://www.nbrightside.com/blog/2005/08/17/dot-bombs) this
+Since I [started](http://www.nbrightside.com/blog/2005/08/17/dot-bombs/) this
 blog, I have maintained an interest in various blog commenting services.
 Back in November 2007, I experimented with
-[SezWho](http://www.nbrightside.com/blog/2007/11/16/sezwho-comment-ratings-system)
+[SezWho](http://www.nbrightside.com/blog/2007/11/16/sezwho-comment-ratings-system/)
 and also
-[reviewed](http://www.nbrightside.com/blog/2007/11/20/comparison-of-cocomment-cocomments-and-commentful)
+[reviewed](http://www.nbrightside.com/blog/2007/11/20/comparison-of-cocomment-cocomments-and-commentful/)
 three more similar comment tracking services before finally settling on
-[Disqus](http://www.nbrightside.com/blog/2008/04/09/25-reasons-you-should-use-disqus).
+[Disqus](http://www.nbrightside.com/blog/2008/04/09/25-reasons-you-should-use-disqus/).
 
 Competition is obviously a good thing but this is proving a tough
 climate for small, Web 2.0 companies competing in a small, overcrowded

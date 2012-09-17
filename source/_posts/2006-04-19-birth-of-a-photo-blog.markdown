@@ -6,7 +6,6 @@ title: birth of a photo blog
 layout: post
 comments: true
 ---
-
 Absolutely no-one has ever asked me: 'Norman - why don't you start a
 photo blog of all these interesting places you visit ?'
 

@@ -6,7 +6,6 @@ title: starting out with GTD
 layout: post
 comments: true
 ---
-
 > A long journey starts with a single step...
 
 I was curious about applying the concepts and ideas behind GTD to try to

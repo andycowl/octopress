@@ -13,4 +13,4 @@ and the Sky channels will be
 to Virgin Media.
 
 Now, I wonder if some kind soul could fill me in on the last 18 months
-of '[Lost](http://www.nbrightside.com/blog/2007/03/02/lost-without-lost)'.
+of '[Lost](http://www.nbrightside.com/blog/2007/03/02/lost-without-lost/)'.

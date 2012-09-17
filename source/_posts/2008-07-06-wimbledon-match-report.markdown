@@ -12,7 +12,7 @@ for SW19.
 
 We had been lucky enough to get tickets for Wimbledon tennis in the
 public ballot 
-[last year](http://www.nbrightside.com/blog/2007/07/01/under-the-covers-at-wimbledon)
+[last year](http://www.nbrightside.com/blog/2007/07/01/under-the-covers-at-wimbledon/)
 but, thanks to the English weather, we only saw grey skies and 63
 minutes of play. It was scant consolation that we saw Maria Sharapova in
 the flesh. OK, I'll admit it - that was a massive consolation !

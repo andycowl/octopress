@@ -6,7 +6,6 @@ title: WordPress humour
 layout: post
 comments: true
 ---
-
 Normally, when something isn't working, I get a little annoyed.
 
 However, with WordPress, you just have to smile.

@@ -7,7 +7,7 @@ layout: post
 comments: true
 ---
 My support for the Disqus commenting system used on this blog is well
-[documented](http://www.nbrightside.com/blog/2008/04/09/25-reasons-you-should-use-disqus).
+[documented](http://www.nbrightside.com/blog/2008/04/09/25-reasons-you-should-use-disqus/).
 I have also had great
 [support](http://www.nbrightside.com/blog/2008/08/14/in-praise-of-disqus)
 whenever I have had minor issues with a service I paid precisely nothing

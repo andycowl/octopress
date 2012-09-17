@@ -16,7 +16,7 @@ software has matured and version 0.5.1 was recently
 
 Originally, I downloaded and experimented with Habari late in 2007 but
 it wasn't until February 2008 that I finally took the plunge and
-[migrated](http://www.nbrightside.com/blog/2008/02/13/now-on-habari) my blog
+[migrated](http://www.nbrightside.com/blog/2008/02/13/now-on-habari/) my blog
 from WordPress.
 
 # Installation

@@ -6,7 +6,6 @@ title: initial impressions of Dreamhost
 layout: post
 comments: true
 ---
-
 I have been pretty impressed with [Dreamhost](http://dreamhost.com/) so
 far:
 

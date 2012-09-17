@@ -37,12 +37,12 @@ far on this wonderful Drupal 7 powered blog ?'
 
 - [Tagadelic](http://drupal.org/project/tagadelic) - marvellous,
     configurable, graphic 'Tags' page to aid
-    [Bill](http://www.nbrightside.com/blog/2010/12/18/crm-bloggers)'s
+    [Bill](http://www.nbrightside.com/blog/2010/12/18/crm-bloggers/)'s
     navigation of this site.
 
 - [Wysiwyg](http://drupal.org/project/wysiwyg) - evaluating various
     options but not found
-    [nirvana](http://www.nbrightside.com/blog/2010/12/22/marketing-plan-drupal-7-launch)
+    [nirvana](http://www.nbrightside.com/blog/2010/12/22/marketing-plan-drupal-7-launch/)
     as yet.
 
 - [XML sitemap](http://drupal.org/project/xmlsitemap) - produces
@@ -50,7 +50,7 @@ search engine friendly sitemap.
 
 I also modified the 'page.tpl.php' template to reinstate my wonderful,
 award winning
-[rotating](http://www.nbrightside.com/blog/2007/01/29/how-to-rotate-taglines-on-your-wordpress-blog)
+[rotating](http://www.nbrightside.com/blog/2007/01/29/how-to-rotate-taglines-on-your-wordpress-blog/)
 tagline (or slogan in Drupal terminology).
 
 Curiously, I haven't enabled the D7 core 'blog' module as I don't need

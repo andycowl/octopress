@@ -6,9 +6,8 @@ title: BA launches bid for prestigious 'marketing campaign' award
 layout: post
 comments: true
 ---
-
 British Airways, shocked at missing out last year's
-[trophy](http://www.nbrightside.com/blog/2006/01/18/probably-the-best-marketing-campaign-ever),
+[trophy](http://www.nbrightside.com/blog/2006/01/18/probably-the-best-marketing-campaign-ever/),
 have launched a superlative campaign for 2008.
 
 Agency: Itchy & Scraatchi. Cost: &pound;25,000 found in a digger after the

@@ -1,12 +1,11 @@
 ---
 date: '2005-12-21 07:40:41'
 categories:
-    - uncategorised
+    - blogging
 title: detailed analysis of referer logs
 layout: post
 comments: true
 ---
-
 Old news is like yesterday's papers. No-one is interested.
 
 The chart of failed spammers is as good indicator of traffic to your

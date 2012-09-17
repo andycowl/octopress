@@ -6,9 +6,8 @@ title: in praise of Frank Dancevic
 layout: post
 comments: true
 ---
-
 Two weeks ago, I made my annual
-[pilgrimage](http://www.nbrightside.com/blog/2007/06/11/surbiton-trophy)
+[pilgrimage](http://www.nbrightside.com/blog/2007/06/11/surbiton-trophy/)
 to the Surbiton Trophy where I enjoyed a day in the sun watching an
 excellent Men's Final between Frank Dancevic and Kevin Anderson.
 

@@ -6,11 +6,10 @@ title: so farewell then, Sven Goran Eriksson
 layout: post
 comments: true
 ---
-
 I have to say I am a little surprised at this breaking
 [news](http://news.bbc.co.uk/sport1/hi/football/teams/m/man_city/7372872.stm).
 Still, I guess
-[Eriksson](http://www.nbrightside.com/blog/2006/07/03/the-wit-and-wisdom-of-sven-goran-eriksson)
+[Eriksson](http://www.nbrightside.com/blog/2006/07/03/the-wit-and-wisdom-of-sven-goran-eriksson/)
 will draw another excessive compensation package while he seeks
 alternative employment.
 

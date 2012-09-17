@@ -8,7 +8,7 @@ comments: true
 ---
 Of course, unfortunately, there is another less attractive side to
 [Aboriginal
-culture](http://www.nbrightside.com/blog/2009/08/07/aboriginal-culture).
+culture](http://www.nbrightside.com/blog/2009/08/07/aboriginal-culture/).
 
 When I last visited Australia in 1990, we took a flight to Alice
 Springs. Back then, Uluru was more commonly known as Ayers Rock and

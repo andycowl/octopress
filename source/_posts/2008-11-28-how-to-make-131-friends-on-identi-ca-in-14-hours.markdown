@@ -7,7 +7,7 @@ layout: post
 comments: true
 ---
 Don't bother with my slow, tortuous
-[methods](http://www.nbrightside.com/blog/2008/07/16/how-to-make-100-friends-on-identi-ca-in-14-days),
+[methods](http://www.nbrightside.com/blog/2008/07/16/how-to-make-100-friends-on-identi-ca-in-14-days/),
 
 Just be [Stephen Fry](http://identi.ca/stephenfry).
 

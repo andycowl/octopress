@@ -6,7 +6,6 @@ title: inside Jamie Carragher's head
 layout: post
 comments: true
 ---
-
 Or as New Order once sang 'In a lonely place'.
 
 Much has been made of Rafa Benitez's so-called rant against Alex
@@ -36,7 +35,7 @@ and he looked distinctly uneasy when asked about Benitez's quotes but
 what do you expect ?
 
 Would Gary
-[Neville](http://www.nbrightside.com/blog/2006/01/26/gary-neville-no-apology-whatsoever)
+[Neville](http://www.nbrightside.com/blog/2006/01/26/gary-neville-no-apology-whatsoever/)
 have taken money to go to Anfield to be a pundit on a crucial Liverpool
 game and run the risk of having to awkwardly praise his hated rivals ? I
 sincerely doubt it.
@@ -55,5 +54,5 @@ But he didn't. He said:
 > 'Yes. Hopefully.'
 
 Will this prove to be Carragher''s
-[Gallas](http://www.nbrightside.com/blog/2008/02/26/top-premiership-star-sectioned)
+[Gallas](http://www.nbrightside.com/blog/2008/02/26/top-premiership-star-sectioned/)
 moment ?

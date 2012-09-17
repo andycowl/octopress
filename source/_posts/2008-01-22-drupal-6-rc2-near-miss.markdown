@@ -6,7 +6,6 @@ title: Drupal 6 RC2 near miss
 layout: post
 comments: true
 ---
-
 Siebel customers (and employees alike) all over the world are busy
 enjoying
 [Metalink3](http://www.paulmcnamara.com/blog/2008/01/16/metalink3/)

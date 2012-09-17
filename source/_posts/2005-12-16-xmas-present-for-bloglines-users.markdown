@@ -6,7 +6,6 @@ title: Xmas present for bloglines users
 layout: post
 comments: true
 ---
-
 Those nice people at bloglines have responded to my recent
 [review](http://www.nbrightside.com/blog/2005/12/13/comparison-of-rss-readers/)
 of RSS readers and my scathing comments about the sluggish performance.

@@ -8,13 +8,13 @@ comments: true
 ---
 It's fair to say it took me a while to fully 'get' microblogging. In
 fact, initially Twitter left me as
-[cold](http://www.nbrightside.com/blog/2007/03/12/resisting-the-lure-of-twitter)
+[cold](http://www.nbrightside.com/blog/2007/03/12/resisting-the-lure-of-twitter/)
 as a corpse in a deep freeze.
 
 Inevitably, things change and like an old woman, I reserve the right to
 change my mind more frequently than my underpants, and in 2008, I
 started using Twitter to post a continuous bytestream of [inane
-drivel](http://www.nbrightside.com/blog/2008/04/29/brief-history-of-inane-drivel)
+drivel](http://www.nbrightside.com/blog/2008/04/29/brief-history-of-inane-drivel/)
 in less than 140 characters.
 
 Last July, when [identi.ca](http://identi.ca/) launched, I immediately
@@ -25,14 +25,14 @@ install and configure the software.
 
 As a controlled experiment, I set myself the task of participating fully
 on identi.ca to see how long it would take me to acquire [100
-friends](http://www.nbrightside.com/blog/2008/07/16/how-to-make-100-friends-on-identi-ca-in-14-days)
+friends](http://www.nbrightside.com/blog/2008/07/16/how-to-make-100-friends-on-identi-ca-in-14-days/)
 on identi.ca. The answer, surprisingly, was 14 days.
 
 Since then I have really enjoyed the sense of community on identi.ca, I
 have met lots of interesting people and enjoy the technically oriented
 focus of the folk over there. identi.ca isn't Twitter and the majority
 of my
-'[friends](http://www.nbrightside.com/blog/2008/08/19/knowing-me-knowing-you)'
+'[friends](http://www.nbrightside.com/blog/2008/08/19/knowing-me-knowing-you/)'
 steadfastly continue to use Twitter. This is understandable - Twitter
 gets all the media coverage. Twitter is where most people live and
 freedom is all about the freedom of choice.

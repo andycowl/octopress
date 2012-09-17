@@ -30,5 +30,5 @@ getting an increased quota of 6GB (previously a miserly 35MB).
 
 Although the initial contract is purely for email services for students
 only (no Google Talk), the obvious extension is to include Google
-[Docs](http://www.nbrightside.com/blog/2007/06/28/google-finally-sees-sense)
+[Docs](http://www.nbrightside.com/blog/2007/06/28/google-finally-sees-sense/)
 and Spreadsheets to displace Microsoft Office.

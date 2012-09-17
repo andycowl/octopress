@@ -6,7 +6,6 @@ title: issues arising
 layout: post
 comments: true
 ---
-
 Doug Burns raises a surprising number of issues in a seemingly throwaway
 comment about
 [music](http://www.nbrightside.com/blog/2005/12/20/the-killers-at-live-8/#comments).

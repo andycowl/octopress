@@ -6,7 +6,6 @@ title: end of a love affair
 layout: post
 comments: true
 ---
-
 One attraction of my glamorous life as an IT consultant travelling all
 over Europe is the opportunity to conduct illicit affairs with
 beautiful lap dancers from Prague (who are definitely not
@@ -25,10 +24,10 @@ but I wasn't to be deterred and I persevered to win the heart of my
 beloved.
 
 Eventually, the course of true love prevailed and our relationship
-[blossomed](http://www.nbrightside.com/blog/2007/02/09/great-fun-with-iris).
+[blossomed](http://www.nbrightside.com/blog/2007/02/09/great-fun-with-iris/).
 Iris and I enjoyed furtive, passionate encounters in the toilets at
 Heathrow with novelty
-[condoms](http://www.nbrightside.com/blog/2006/01/19/probably-the-best-marketing-campaign-ever)
+[condoms](http://www.nbrightside.com/blog/2006/01/19/probably-the-best-marketing-campaign-ever/)
 to spice up the relationship.
 
 Whenever I returned to the UK after being abroad, I would positively

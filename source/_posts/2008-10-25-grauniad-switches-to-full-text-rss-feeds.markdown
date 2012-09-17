@@ -7,7 +7,7 @@ layout: post
 comments: true
 ---
 18 months ago, I
-[reviewed](http://www.nbrightside.com/blog/2007/02/27/uk-broadsheets-narrow-view-of-syndication)
+[reviewed](http://www.nbrightside.com/blog/2007/02/27/uk-broadsheets-narrow-view-of-syndication/)
 the online editions of the leading UK newspapers and the various
 syndication options.
 

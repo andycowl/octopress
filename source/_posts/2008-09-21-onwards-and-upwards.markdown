@@ -19,7 +19,7 @@ process was conducted by telephone.
 
 A colleague had already thoughtfully pointed my prospective manager to a
 blog
-[entry](http://www.nbrightside.com/blog/2008/07/16/how-to-make-100-friends-on-identi-ca-in-14-days)
+[entry](http://www.nbrightside.com/blog/2008/07/16/how-to-make-100-friends-on-identi-ca-in-14-days/)
 that was loosely relevant and he also was keen to review more technical
 oriented [content](http://www.nbrightside.com/drupal/node/27) on my Siebel
 related blog.

@@ -6,7 +6,6 @@ title: latent tendencies
 layout: post
 comments: true
 ---
-
 Sshh. Please don't tell my therapist but
 [BlogPulse](http://blogpulse.com/profile?type=neighborhood&url=http://www.nbrightside.com/blog)
 matches the tone, content and links of this blog with '[Laura's

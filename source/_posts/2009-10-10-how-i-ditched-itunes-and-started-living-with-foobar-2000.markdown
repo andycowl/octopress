@@ -20,12 +20,12 @@ to listen to music:
 -   Transistor radio
 -   Ears
 -   WinAmp
--   [SonicStage](http://www.nbrightside.com/blog/2006/05/02/sonicstage-34-released)
+-   [SonicStage](http://www.nbrightside.com/blog/2006/05/02/sonicstage-34-released/)
 -   Windows Media Player
 
 18 months ago, I finally caved in and bought an iTouch which I use a
 lot; mainly for listening to music and 
-[podcasts](http://www.nbrightside.com/blog/2008/09/21/top-of-the-podcasts)
+[podcasts](http://www.nbrightside.com/blog/2008/09/21/top-of-the-podcasts/)
 at airports.
 
 I duly downloaded iTunes in order to get my music library onto the

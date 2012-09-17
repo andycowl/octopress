@@ -12,7 +12,7 @@ rarely played classic ‘Lit Up' (one of my all-time favourite National
 songs) on both nights which was an unexpected and brilliant bonus.
 
 I’d been eagerly waiting for these dates to come around since I
-[saw](http://www.nbrightside.com/blog/2010/05/07/the-national-royal-albert-hall)
+[saw](http://www.nbrightside.com/blog/2010/05/07/the-national-royal-albert-hall/)
 the band on election night back in May at the Royal Albert Hall.
 
 This beautiful photo taken by [Alison Philcock][] brilliantly captures

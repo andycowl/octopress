@@ -7,7 +7,7 @@ layout: post
 comments: true
 ---
 The
-[gift](http://www.nbrightside.com/blog/2006/02/22/to-whom-it-may-concern)
+[gift](http://www.nbrightside.com/blog/2006/02/22/to-whom-it-may-concern/)
 that simply keeps on giving.
 
 -   '914 scam' - if you don't know the correct name, you may already be

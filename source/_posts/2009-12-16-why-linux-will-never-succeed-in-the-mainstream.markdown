@@ -7,7 +7,7 @@ layout: post
 comments: true
 ---
 I have been
-[running](http://www.nbrightside.com/blog/2009/10/14/how-i-ditched-windows-and-embraced-gloria)
+[running](http://www.nbrightside.com/blog/2009/10/14/how-i-ditched-windows-and-embraced-gloria/)
 Linux Mint for 8 weeks now and I've been delighted with it. My desktop
 PC is fast and responsive and I am hugely impressed by the sheer
 amount and quality of software available for Linux. Printing,
@@ -15,7 +15,7 @@ scanning, wireless networking, audio, DVD writing and all my USB
 devices just work.
 
 I don't have a [virus
-scanner](http://www.nbrightside.com/blog/2006/07/22/so-farewell-then-nis)
+scanner](http://www.nbrightside.com/blog/2006/07/22/so-farewell-then-nis/)
 consuming memory and chewing clock cycles. I am no longer considering
 a memory upgrade as Linux works fine with my paltry 512MB.
 

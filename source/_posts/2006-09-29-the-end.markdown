@@ -6,6 +6,5 @@ title: The End
 layout: post
 comments: true
 ---
-
 Someone [ripped](http://www.nbrightside.com/blog) my blog off. And it
 looks better than mine. That's it. It's over. Finished. Goodbye.
