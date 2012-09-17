@@ -20,7 +20,7 @@ to listen to music:
 -   Transistor radio
 -   Ears
 -   WinAmp
--   [SonicStage](http://nbrightside.com/blog/2006/05/02/sonicstage-34-released)
+-   [SonicStage](http://www.nbrightside.com/blog/2006/05/02/sonicstage-34-released)
 -   Windows Media Player
 
 18 months ago, I finally caved in and bought an iTouch which I use a

@@ -1,16 +1,15 @@
 ---
 date: '2010-02-17 16:09:19'
 categories:
-    - uncategorised
+    - blogging
 title: untold riches with next generation Adsense
 layout: post
 comments: true
 ---
-
 One of the reasons for the reduced blogging frequency, Kenneth, is
 that I spend every waking hour devoting time to the thorny problem of
 monetizing this humble blog. Previously, I experimented with
-[Adsense](http://nbrightside.com/blog/2008/01/19/adsense-milestone)
+[Adsense](http://www.nbrightside.com/blog/2008/01/19/adsense-milestone)
 but sadly the revenue stream was insufficient to enable me to retire.
 
 I am now pleased to announce the results of my research and

@@ -1,12 +1,11 @@
 ---
 date: '2008-06-24 10:37:49'
 categories:
-    - uncategorised
+    - google
 title: Gmail on the up down under
 layout: post
 comments: true
 ---
-
 Although it's very cool to post on the corporate message board: 'Hey -
 why don't we save the company millions of dollars by using Linux, Gmail
 and OpenOffice ?', there are obvious barriers (security and Excel
@@ -31,5 +30,5 @@ getting an increased quota of 6GB (previously a miserly 35MB).
 
 Although the initial contract is purely for email services for students
 only (no Google Talk), the obvious extension is to include Google
-[Docs](http://nbrightside.com/blog/2007/06/28/google-finally-sees-sense)
+[Docs](http://www.nbrightside.com/blog/2007/06/28/google-finally-sees-sense)
 and Spreadsheets to displace Microsoft Office.

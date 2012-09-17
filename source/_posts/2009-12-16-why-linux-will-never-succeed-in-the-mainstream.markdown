@@ -1,12 +1,11 @@
 ---
 date: '2009-12-16 09:26:56'
 categories:
-    - uncategorised
+    - linux
 title: why Linux will never succeed in the mainstream
 layout: post
 comments: true
 ---
-
 I have been
 [running](http://www.nbrightside.com/blog/2009/10/14/how-i-ditched-windows-and-embraced-gloria)
 Linux Mint for 8 weeks now and I've been delighted with it. My desktop
@@ -57,7 +56,7 @@ you're > probably OK. If you're a novice user we recommend you perform
 a fresh > installation of Linux Mint 8 instead.'
 
 David Marsden is an experienced Linux user and
-[comments](http://nbrightside.com/blog/2009/12/09/inside-the-open-source-confessional#comment-25305185)
+[comments](http://www.nbrightside.com/blog/2009/12/09/inside-the-open-source-confessional#comment-25305185)
 that he is comfortable performing Ubuntu upgrades, quickly and reliably
 without losing his data. He claims that Ubuntu upgrades are quicker and
 easier than applying a Windows Service Pack.

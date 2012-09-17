@@ -5,7 +5,9 @@ date: 2011-07-26 15:26
 comments: true
 categories: [google, blogging, microblogging]
 ---
-Seasoned bloggers knows people are rarely moved to comment on a blog post. Especially, one hit wonders sent from Google, who were simply looking for 'Train times between Clapham and Norbiton' and instead see some commuter [rant](http://nbrightside.com/blog/2011/01/13/open-letter-south-west-trains) aimed at South West Trains.
+Seasoned bloggers knows people are rarely moved to comment on a blog post. Especially, one hit wonders sent from Google, who were simply looking for 'Train times between Clapham and Norbiton' and instead see some commuter 
+[rant](http://www.nbrightside.com/blog/2011/01/13/open-letter-south-west-trains) 
+aimed at South West Trains.
 
 However, microblogging has taught us that people are slightly more likely to grudgingly acknowledge an amusing one-liner with a 'Like' or a 'Fave'. Clicking a button is quick and easy - even for lazy people.
 

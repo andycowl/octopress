@@ -65,5 +65,5 @@ long so I have split the interview into two parts:
 - [IANL - 'That Was Then'][part1]
 - [IANL - 'This Is Now'][part2]
 
-[part1]: http://nbrightside.com/blog/2011/08/12/ianl-that-was-then
-[part2]: http://nbrightside.com/blog/2011/08/12/ianl-this-is-now
+[part1]: http://www.nbrightside.com/blog/2011/08/12/ianl-that-was-then
+[part2]: http://www.nbrightside.com/blog/2011/08/12/ianl-this-is-now

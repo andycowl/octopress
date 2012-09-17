@@ -301,4 +301,4 @@ it.
 Read part 2 of this interview with 'I Am Not Lefthanded' -
 '[This Is Now][part2].
 
-[part2]: http://nbrightside.com/blog/2011/08/12/ianl-this-is-now
+[part2]: http://www.nbrightside.com/blog/2011/08/12/ianl-this-is-now

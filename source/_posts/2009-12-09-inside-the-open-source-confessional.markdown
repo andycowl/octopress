@@ -1,12 +1,11 @@
 ---
 date: '2009-12-09 14:16:01'
 categories:
-    - uncategorised
+    - software
 title: inside the open source confessional
 layout: post
 comments: true
 ---
-
 'Dear Father - It is 6 weeks since my last confession. Since then I
 have...'
 
@@ -36,7 +35,7 @@ have...'
     source software and get more of my data under my control.
 
 -   Installed Laconica 0.8.2 so
-    [Billy](http://nbrightside.com/laconica/index.php/billy) has his
+    [Billy](http://www.nbrightside.com/laconica/index.php/billy) has his
     very own sandpit to play with spammers in.
 
 -   Upgraded this blog to the latest bleeding edge of Habari (0.7 alpha)

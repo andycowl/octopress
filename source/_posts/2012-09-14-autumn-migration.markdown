@@ -11,7 +11,7 @@ ago), the sensible and logical thing to do would be to kill the blog
 and save £5 a month.
 
 Originally I
-[purchased](http://nbrightside.com/blog/2006/10/24/new-dawn-fades) the
+[purchased](http://www.nbrightside.com/blog/2006/10/24/new-dawn-fades) the
 domain name 'nbrightside.com' and the Web hosting for a couple of
 reasons:
 

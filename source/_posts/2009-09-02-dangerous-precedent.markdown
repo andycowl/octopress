@@ -1,12 +1,11 @@
 ---
 date: '2009-09-02 08:12:12'
 categories:
-    - uncategorised
+    - football
 title: dangerous precedent
 layout: post
 comments: true
 ---
-
 UEFA's decision to ban Arsenal's Eduardo for two matches after diving in
 a Champions League qualifier creates a precedent, a very dangerous
 precedent. This may well result in revisionism, the rewriting of
@@ -30,7 +29,7 @@ repercussions for the game:
     'simulation, posturing and ball hogging.' UEFA conduct a detailed
     simulation of their own using Championship Manager on networked
     PS3's. United are relegated and jostle for top spot with
-    [Leeds](http://nbrightside.com/blog/2007/05/02/in-memoriam) in
+    [Leeds](http://www.nbrightside.com/blog/2007/05/02/in-memoriam) in
     Division One
 -   Richard Dunne of Manchester City receives a lifetime ban for
     attempting to 'deceive a referee' by impersonating a Premiership
@@ -41,7 +40,7 @@ repercussions for the game:
     utters the immortal words 'Ten games from greatness'. He watches
     'Pink Panther' incessantly and practises violent martial arts with
     William
-    [Gallas](http://nbrightside.com/blog/2008/02/26/top-premiership-star-sectioned)
+    [Gallas](http://www.nbrightside.com/blog/2008/02/26/top-premiership-star-sectioned)
     every Thursday. Later appears in a cameo in 'Kill Bill Vol. 2'.
     Currently in rehab and guesting on 'Soccer Saturday' alongside Phil
     Thompson.

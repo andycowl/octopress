@@ -7,7 +7,6 @@ categories:
     - crm
     - blogging
 ---
-
 There's a common saying in Customer Relationship Management (CRM)
 circles along the lines of:
 
@@ -31,7 +30,7 @@ just occasionally, someone says 'God - that post about LinkedIn and
 pole dancing made me laugh'.
 
 A recent
-[comment](http://nbrightside.com/blog/2006/06/21/the-curious-case-of-the-missing-about-page#comment-113403409)
+[comment](http://www.nbrightside.com/blog/2006/06/21/the-curious-case-of-the-missing-about-page#comment-113403409)
 by Bill (which I will reproduce here) rather took me by surprise and
 made me pause for thought
 

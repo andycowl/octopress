@@ -30,4 +30,4 @@ The Habari development roadmap in full
 
   [StatusNet]: http://status.net/
   [releases]: http://status.net/wiki/Category:Releases
-  [The National]: http://nbrightside.com/blog/2010/05/07/the-national-royal-albert-hall-1
+  [The National]: http://www.nbrightside.com/blog/2010/05/07/the-national-royal-albert-hall-1

@@ -6,7 +6,6 @@ title: when ethernet cables go bad
 layout: post
 comments: true
 ---
-
 Idea for a new TV series - 'When Ethernet cables go bad' - A
 fascinating 60 minute documentary into the wide range of issues people
 have with wireless networks. The program would also include some 'C'
@@ -17,7 +16,7 @@ years. Perusing the annals of this blog reveals that while I have
 experienced
 [various](http://www.nbrightside.com/blog/2006/04/11/wireless-upgrade/),
 [sporadic](http://www.nbrightside.com/blog/2006/02/24/wireless-wierdness/)
-[issues](http://nbrightside.com/blog/2006/04/17/more-wireless-fun)
+[issues](http://www.nbrightside.com/blog/2006/04/17/more-wireless-fun)
 over this period, by and large, the wireless network has been pretty
 reliable with three PC's, a laptop and an iTouch device using it
 without problems.

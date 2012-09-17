@@ -1,21 +1,20 @@
 ---
 date: '2009-03-05 13:12:54'
 categories:
-    - uncategorised
+    - sport
 title: sports bars of Europe
 layout: post
 comments: true
 ---
-
 The latest update in this occasional and very
-[popular](http://nbrightside.com/blog/2006/01/13/sports-bars-of-europe)
-[series](http://nbrightside.com/blog/2006/04/26/sports-bars-of-europe-2).
+[popular](http://www.nbrightside.com/blog/2006/01/13/sports-bars-of-europe)
+[series](http://www.nbrightside.com/blog/2006/04/26/sports-bars-of-europe-2).
 
 I am currently working in the delightful city of Bern, near Switzerland.
 I have been here a couple of times before and last April I watched
 United beat Barcelona 1-0 in the Champions League semi-final thanks to a
 great goal from [Paul
-Scholes](http://nbrightside.com/blog/2007/05/02/open-letter-to-paul-scholes).
+Scholes](http://www.nbrightside.com/blog/2007/05/02/open-letter-to-paul-scholes).
 Unusually for me, I watched that game with a colleague. Unfortunately
 for him, I don't think I was very good company. Well, I mean - who
 really wants to discuss whether 'late delivery of the extracts pose a

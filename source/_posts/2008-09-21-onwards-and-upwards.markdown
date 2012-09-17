@@ -6,7 +6,6 @@ title: onwards and upwards
 layout: post
 comments: true
 ---
-
 After over five varied and enjoyable years working for Siebel (and then
 Oracle) in Expert Services, I am changing jobs. However, I will continue
 to work for Oracle as part of the group responsible for '[Social
@@ -20,9 +19,9 @@ process was conducted by telephone.
 
 A colleague had already thoughtfully pointed my prospective manager to a
 blog
-[entry](http://nbrightside.com/blog/2008/07/16/how-to-make-100-friends-on-identi-ca-in-14-days)
+[entry](http://www.nbrightside.com/blog/2008/07/16/how-to-make-100-friends-on-identi-ca-in-14-days)
 that was loosely relevant and he also was keen to review more technical
-oriented [content](http://nbrightside.com/drupal/node/27) on my Siebel
+oriented [content](http://www.nbrightside.com/drupal/node/27) on my Siebel
 related blog.
 
 As an aside, you can only imagine the feelings and thoughts that flooded

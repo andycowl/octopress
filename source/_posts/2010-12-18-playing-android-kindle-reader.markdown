@@ -15,7 +15,7 @@ so an eBook reader has never been high on my list of priorities as it
 would probably become a moderately expensive white elephant and yet
 another gadget to carry around.
 
-[bookclub]: http://nbrightside.com/blog/2006/11/29/testing-debut-at-book-club
+[bookclub]: http://www.nbrightside.com/blog/2006/11/29/testing-debut-at-book-club
 
 However, Amazon's high profile marketing campaign for the
 [Kindle][kindle] eBook reader sparked my interest sufficiently to
@@ -40,7 +40,7 @@ his experiences as a paramedic working for the London Ambulance
 Service.
 
 [BST]: http://www.amazon.co.uk/Blood-Sweat-Tea-Adventures-Inner-city/dp/1905548230/ref=sr_1_1?ie=UTF8&qid=1313594801&sr=8-1
-[blog]: http://nbrightside.com/blog/2006/08/22/in-praise-of-tom-reynolds
+[blog]: http://www.nbrightside.com/blog/2006/08/22/in-praise-of-tom-reynolds
 
 I have had (courtesy of my employer) an HTC Legend for 3 months and I
 have been staggered at the razor sharp quality and resilence of the

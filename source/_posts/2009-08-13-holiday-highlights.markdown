@@ -1,18 +1,17 @@
 ---
 date: '2009-08-13 08:24:33'
 categories:
-    - uncategorised
+    - travel
 title: holiday highlights
 layout: post
 comments: true
 ---
-
 Memories of the annual summer vacation are now fading, the [digital
-photos](http://nbrightside.com/blog/2006/09/03/a-short-history-of-digital-photography)
+photos](http://www.nbrightside.com/blog/2006/09/03/a-short-history-of-digital-photography)
 have been rationalised and printed, the video footage remains on the
-[camcorder](http://nbrightside.com/blog/2007/09/03/how-a-digital-camcorder-drove-me-to-suicide)
+[camcorder](http://www.nbrightside.com/blog/2007/09/03/how-a-digital-camcorder-drove-me-to-suicide)
 (thankfully) and the entries for '[Holiday
-Highlights](http://nbrightside.com/blog/2006/08/22/holiday-highlights)'
+Highlights](http://www.nbrightside.com/blog/2006/08/22/holiday-highlights)'
 have now been received and short-listed.
 
 Norma - 'So many memories. Catching up with friends and family, the

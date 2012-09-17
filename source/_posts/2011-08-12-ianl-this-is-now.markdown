@@ -10,7 +10,7 @@ This is part 2 of an interview with Kathryn and Daniel from 'I Am Not
 Left Handed'. The first part 'That Was Then' is available
 [here][part1].
 
-[part1]: http://nbrightside.com/blog/2011/08/12/ianl-that-was-then
+[part1]: http://www.nbrightside.com/blog/2011/08/12/ianl-that-was-then
 
 *This might seem like (another) weird question but then again I am
 slightly weird myself. I realise you're a relatively young band but

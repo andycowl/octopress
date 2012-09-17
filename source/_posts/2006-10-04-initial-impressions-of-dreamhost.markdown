@@ -14,12 +14,12 @@ far:
     [putty](http://www.chiark.greenend.org.uk/~sgtatham/putty/) for
     [SSH](http://www.phileplanet.com/archives/2006/08/how-to-setup-ssh-on-windows-xp/)
     access.
--   Installed [Joomla](http://nbrightside.com/joomla/) (one-click)
+-   Installed [Joomla](http://www.nbrightside.com/joomla/) (one-click)
 -   Upgraded to [PHP5](http://www.php.net/downloads.php#v5) (one-click)
 -   Installed
-    [MediaWiki](http://nbrightside.com/wiki/index.php?title=Main_Page)
+    [MediaWiki](http://www.nbrightside.com/wiki/index.php?title=Main_Page)
     (one-click)
--   Installed [Gregarius](http://nbrightside.com/gregarius/) (all by
+-   Installed [Gregarius](http://www.nbrightside.com/gregarius/) (all by
     myself)
 
 The only minor issues I have encountered is that I can't disable telnet

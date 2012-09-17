@@ -1,27 +1,26 @@
 ---
 date: '2009-08-23 09:13:34'
 categories:
-    - uncategorised
+    - google
 title: where's your Google Shared Items ?
 layout: post
 comments: true
 ---
-
 I have followed the
-[development](http://nbrightside.com/blog/2006/09/29/google-reader-gets-revamp)
+[development](http://www.nbrightside.com/blog/2006/09/29/google-reader-gets-revamp)
 of Google Reader since it was
 [launched](http://www.nbrightside.com/blog/2005/10/10/google-reader/) in
 2005.
 
 Having used Thunderbird and then NetVibes, I have
-[used](http://nbrightside.com/blog/2007/02/18/resisting-the-lure-of-google-reader)
+[used](http://www.nbrightside.com/blog/2007/02/18/resisting-the-lure-of-google-reader)
 Google Reader for the last two years to read blogs. The main reason I
 like Reader are the UI, the keyboard shortcuts for quick navigation and
 the fact I can also use it on mobile devices and multiple computers.
 
 During that period, I have sporadically marked articles that interest,
 amuse or shock me on my '[Shared
-Items](http://nbrightside.com/blog/2007/02/21/how-to-display-google-shared-items-on-wordpress)'
+Items](http://www.nbrightside.com/blog/2007/02/21/how-to-display-google-shared-items-on-wordpress)'
 feed and Google recently added improved support for the sharing of
 'Shared Items'.
 
@@ -64,7 +63,7 @@ pictures).
 
 I also believe annotated shared items are much more valuable and than a
 plain, old, tired, outdated
-[blogroll](http://nbrightside.com/blog/2006/08/09/wheres-your-blogroll).
+[blogroll](http://www.nbrightside.com/blog/2006/08/09/wheres-your-blogroll).
 
 Here's my feed of '[Shared
 Items](https://www.google.com/reader/shared/08375973873450584543)'. If

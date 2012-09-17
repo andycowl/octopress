@@ -6,9 +6,8 @@ title: how I ditched Windows and embraced Gloria
 layout: post
 comments: true
 ---
-
 After the Yak was
-[shaved](http://nbrightside.com/blog/2009/10/14/yak-shaving), we
+[shaved](http://www.nbrightside.com/blog/2009/10/14/yak-shaving), we
 suddenly realised we had missed 'Football Focus' and proceeded directly
 to the casting couch.
 

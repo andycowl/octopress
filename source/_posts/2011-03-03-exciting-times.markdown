@@ -11,13 +11,13 @@ These are indeed exciting times in the Brightside household:
 
 * Norma Jeane will be taking part in the 125th Lawn Tennis
   Championships to be held at
-  [Wimbledon](http://nbrightside.com/blog/2008/07/06/wimbledon-match-report)
+  [Wimbledon](http://www.nbrightside.com/blog/2008/07/06/wimbledon-match-report)
   between 20 June and 3 July. Her precise role isn't known yet but may
   include 'Waiting On (Silver Service)' - fawning over loud,
   overbearing sales people out on a corporate jolly, 'Bar staff'
   (serving jugs of Pimms to middle aged Daily Mail readers) or
   tantalisingly, 'Courtesy car driver' (ferrying a morose
-  [Andy Murray](http://nbrightside.com/blog/2009/09/09/inside-the-mind-of-andy-murray)
+  [Andy Murray](http://www.nbrightside.com/blog/2009/09/09/inside-the-mind-of-andy-murray)
   around). This represents a rapid promotion from her initial
   placement two years ago, where she started out on 'Litter collection
   surrounding courts 10 and 11' before being promoted to 'Housekeeping

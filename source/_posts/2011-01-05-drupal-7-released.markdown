@@ -7,9 +7,8 @@ title: Drupal 7 released
 layout: post
 comments: true
 ---
-
 This blog and the handful of
-[modules](http://nbrightside.com/blog/2010/12/22/essential-modules-your-new-drupal-7-site)
+[modules](http://www.nbrightside.com/blog/2010/12/22/essential-modules-your-new-drupal-7-site)
 I use has been upgraded to the final version of Drupal 7.0 which was
 [released](http://drupal.org/drupal-7.0) today.
 

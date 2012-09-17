@@ -23,7 +23,7 @@ think there are potential developers who are keen to get the latest and
 greatest version of Habari so I was pleased to see that the Habari
 project released a '[0.7 Developer Release][]' yesterday.
 
-  [crisis of confidence]: http://nbrightside.com/blog/2010/06/23/turbulence-ahead
+  [crisis of confidence]: http://www.nbrightside.com/blog/2010/06/23/turbulence-ahead
   [Django-Mingus]: http://blog.montylounge.com/2009/07/1/welcome/
   [Habari]: http://habariproject.org/en/
   [0.7 Developer Release]: http://habariproject.org/en/habari-07-developer-preview-1

@@ -6,7 +6,6 @@ title: black screen of death
 layout: post
 comments: true
 ---
-
 Last night, I flew home to London from Hamburg, near Germany. The flight
 was punctual and uneventful enough apart from the fact I was sitting
 next to a blind man.
@@ -17,7 +16,7 @@ be blind and using a braille keyboard.
 
 However, this gentleman wasn't blind. He had been reading 'High Life'
 while we taxied onto the runway. Oh and he also had a
-[complimentary](http://nbrightside.com/blog/2005/10/22/british-mentality)
+[complimentary](http://www.nbrightside.com/blog/2005/10/22/british-mentality)
 copy of the Financial Times.
 
 There was only one conclusion - this was a security measure to stop
