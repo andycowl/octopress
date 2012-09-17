@@ -6,7 +6,6 @@ title: SezWho comment ratings system
 layout: post
 comments: true
 ---
-
 Just installed [SezWho](http://sezwho.com/) on this blog. At least, it
 imported all existing comments (unlike
 [Disqus](http://www.nbrightside.com/blog/2007/10/31/disqus-powered-comments/)).

@@ -1,12 +1,11 @@
 ---
 date: '2007-05-02 22:36:27'
 categories:
-    - uncategorised
+    - football
 title: open letter to Paul Scholes
 layout: post
 comments: true
 ---
-
 Dear Paul
 
 You are 32 years old and a fantastic footballer. You are still producing

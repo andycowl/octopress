@@ -6,7 +6,6 @@ title: pictures of a Virgin Media V+ box
 layout: post
 comments: true
 ---
-
 Lots of people stumble onto this blog hoping to find technical
 information, reviews and images of a black Virgin Media V+ set top box.
 

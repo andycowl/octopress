@@ -7,12 +7,11 @@ title: non League Saturday
 layout: post
 comments: true
 ---
-
 With no Premiership or Championship fixtures at the weekend, I went
 along to watch my local non league club, Kingstonian FC, play on
 Saturday afternoon.
 
-[![image][]][]
+<a href="http://picasaweb.google.com/lh/photo/cBagHm9kkAzgAgRetVL0TA?feat=embedwebsite"><img src="http://lh3.ggpht.com/_l2uGy1RGCiE/TITRcFe6s-I/AAAAAAAABnM/SbHHvKLtzJ4/s400/KFC.jpg" /></a>
 
 Kingstonian play in the Isthmian League which is a regional league below
 the Conference (sponsored by Ryman so also known as the Ryman League)
@@ -37,6 +36,3 @@ Against the run of play but to the delight of the assembled 400 home
 spectators, Kingstonian nicked a goal and 3 points with a well taken
 goal from Lodge after 84 minutes. Kingstonian are now joint top of the
 Ryman League, trailing local rivals Sutton United on goal difference.
-
-  [image]: http://lh3.ggpht.com/_l2uGy1RGCiE/TITRcFe6s-I/AAAAAAAABnM/SbHHvKLtzJ4/s400/KFC.jpg
-  [![image][]]: http://picasaweb.google.com/lh/photo/cBagHm9kkAzgAgRetVL0TA?feat=embedwebsite

@@ -8,7 +8,6 @@ title: Sarah Baskerville's hidden agenda
 layout: post
 comments: true
 ---
-
 [Sarah Baskerville](http://baskersworld.wordpress.com/about/) is a
 civil servant who works for the Department of Transport in London.
 
@@ -19,8 +18,7 @@ occasionally had the temerity to dare to question Government policy.
 
 Unless you are a Daily Mail reader, none of this is very newsworthy. I
 suspect the vast majority of people with a Twitter account have posted
-[inane
-drivel](http://nbrightside.com/blog/2008/04/29/a-brief-history-of-inane-drivel)
+[inane drivel](http://nbrightside.com/blog/2008/04/29/a-brief-history-of-inane-drivel)
 along the lines of 'At work. Hungover. Need coffee'.
 
 It's clear from reading her [blog](http://baskersworld.wordpress.com/)

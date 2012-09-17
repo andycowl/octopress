@@ -1,12 +1,11 @@
 ---
 date: '2007-10-08 16:23:43'
 categories:
-    - uncategorised
+    - football
 title: Arsenal v Sunderland
 layout: post
 comments: true
 ---
-
 I was lucky enough to accompany Norman Junior to the Emirates Stadium
 yesterday to see Arsenal thrash Sunderland 3-2. An ex-colleague has two
 season tickets (Section C, Row 4) and kindly offered them to me.

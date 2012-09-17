@@ -1,12 +1,11 @@
 ---
 date: '2008-12-02 12:16:17'
 categories:
-    - uncategorised
+    - blogging
 title: why Reddit is useless for bloggers
 layout: post
 comments: true
 ---
-
 Yesterday was 1 December and an innocuous post on identi.ca about an
 Advent calendar immediately reminded me of an amusing (and completely
 true) blog
@@ -46,6 +45,7 @@ At one point, the post reached No. 15 on Reddit's 'Funny' page and 6
 people 'liked' the entry.
 
 [![image](http://lh6.ggpht.com/_l2uGy1RGCiE/STUiF0v5s2I/AAAAAAAAA40/dIUaoHBARhA/s400/Reddit-Spike.PNG)](http://picasaweb.google.com/lh/photo/97pzPFA798AvRdCKtvjeoA)
+
 The traffic spike was short lived (similar pattern to getting a post on
 StumbleUpon). However, although the increase in traffic is interesting
 and briefly satisfying, it is really not that useful for a blogger

@@ -6,7 +6,6 @@ title: last django in London
 layout: post
 comments: true
 ---
-
 The problem with installing
 [typo](http://www.nbrightside.com/blog/2007/09/25/wordpress-23-and-typo/)
 is that, during the research for hints and tips to get the software

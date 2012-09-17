@@ -8,7 +8,6 @@ title: farewell Paul Scholes
 layout: post
 comments: true
 ---
-
 <a href="https://picasaweb.google.com/lh/photo/RD2bDI-AOBjwHYPgXVHS1w?feat=embedwebsite"><img src="https://lh5.googleusercontent.com/-queZ1d_BoUs/TeSv7gEeUII/AAAAAAAABvE/7vhA7va4eyA/s800/Paul-Scholes-Manchester-United-Barcelona-Cham_2602915.jpg"
 height="298" width="218"></a>
 

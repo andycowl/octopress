@@ -6,7 +6,6 @@ title: under the covers at Wimbledon
 layout: post
 comments: true
 ---
-
 This year, like the previous three, we applied in the LTA ballot for
 Wimbledon tickets. This year, unlike the previous three, we were
 allocated two tickets for Court 1 for the middle Saturday in blazing
@@ -47,4 +46,5 @@ shirts
 > 'Come on ~~Andy~~ !' 'Come on ~~Tim~~ !' 'We love you, Maria !'
 
 'That's much better, Sir. Have a great day and enjoy the tennis.'
+
 [Pictures](http://picasaweb.google.com/nbrightside/Wimbledon) here.

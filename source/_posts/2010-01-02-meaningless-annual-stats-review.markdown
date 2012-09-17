@@ -1,12 +1,11 @@
 ---
 date: '2010-01-02 11:28:51'
 categories:
-    - uncategorised
+    - blogging
 title: meaningless annual stats review
 layout: post
 comments: true
 ---
-
 That was the year that was. Statistics for 2009 with the comparative
 numbers for 2008 in brackets.
 

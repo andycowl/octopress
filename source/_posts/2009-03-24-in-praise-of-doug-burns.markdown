@@ -6,7 +6,6 @@ title: in praise of Doug Burns
 layout: post
 comments: true
 ---
-
 My longest standing and all-time favourite Oracle blogger is [Doug
 Burns](http://oracledoug.com/serendipity/) of Edinburgh, near Scotland.
 
@@ -26,9 +25,6 @@ for
 [Streetview](http://googlesightseeing.com/maps?p=&c=&t=h&hl=en&ll=55.945818,-3.205508&z=17&layer=c&cbll=55.945732,-3.205471&cbp=12,268.1410328885411,,1,12.325581395348838),
 Doug made his own personal feelings very clear.
 
-  --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
   [![image](http://lh5.ggpht.com/_l2uGy1RGCiE/ScjTp69JS-I/AAAAAAAABAs/WRmEAmFBG8Q/s400/Doug.PNG)](http://picasaweb.google.com/lh/photo/M92tBQY_ksTveS4u7K2fRg?feat=embedwebsite)
-  --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-\
 Doug Burns - we salute you.

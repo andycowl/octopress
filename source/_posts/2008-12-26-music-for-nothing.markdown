@@ -18,7 +18,7 @@ is MP3 format encoded at 256kbps. Best of all, the music is DRM free so
 you can transfer, copy and play on any device. Normally, I like to buy
 an actual CD so I can rip into whatever format I need and also as a
 backup so 'The Seldom Seen Kid' by 'Elbow' was my first ever purchase of
-online music
+online music.
 
 Downloaded music is automatically added to iTunes or Media Player and
 the only glitch was that the Downloader didn't appear to work under

@@ -6,14 +6,13 @@ date: '2008-07-06 13:00:49'
 categories:
     - uncategorised
 ---
-
 On Friday, Norman Junior III and myself loaded up our picnic hamper,
 packed the cool box with brightly coloured Bacardi Breezers and set off
 for SW19.
 
 We had been lucky enough to get tickets for Wimbledon tennis in the
-public ballot [last
-year](http://www.nbrightside.com/blog/2007/07/01/under-the-covers-at-wimbledon)
+public ballot 
+[last year](http://www.nbrightside.com/blog/2007/07/01/under-the-covers-at-wimbledon)
 but, thanks to the English weather, we only saw grey skies and 63
 minutes of play. It was scant consolation that we saw Maria Sharapova in
 the flesh. OK, I'll admit it - that was a massive consolation !

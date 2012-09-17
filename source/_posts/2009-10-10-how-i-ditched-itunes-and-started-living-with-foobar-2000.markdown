@@ -1,12 +1,12 @@
 ---
 date: '2009-10-10 14:58:42'
 categories:
-    - uncategorised
+    - music
+    - software
 title: how I ditched iTunes and started living with Foobar 2000
 layout: post
 comments: true
 ---
-
 [Obligatory hat tip to '[How to stop defragmenting and start
 living](http://www.oracle.com/technology/deploy/availability/pdf/defrag.pdf)'.
 As an aside, if you're an Oracle DBA and haven't read this whitepaper,
@@ -24,8 +24,8 @@ to listen to music:
 -   Windows Media Player
 
 18 months ago, I finally caved in and bought an iTouch which I use a
-lot; mainly for listening to music
-and[podcasts](http://nbrightside.com/blog/2008/09/21/top-of-the-podcasts)
+lot; mainly for listening to music and 
+[podcasts](http://www.nbrightside.com/blog/2008/09/21/top-of-the-podcasts)
 at airports.
 
 I duly downloaded iTunes in order to get my music library onto the
@@ -71,6 +71,7 @@ in its entirety and I was immediately able to play AAC encoded music. No
 need for additional plugins or codecs.
 
 [![image](http://lh5.ggpht.com/_l2uGy1RGCiE/StCL0v3-FlI/AAAAAAAABds/UmLwc6xn4aE/s400/Foobar01-DefaultPlayer.PNG)](http://picasaweb.google.co.uk/lh/photo/j72CrvPfYSct0Vvix_8YvQ?feat=embedwebsite)
+
 I was also pleasantly surprised to see Foobar 2000 start up
 instantaneously (no delay or hourglass here) and consume a slightly more
 reeasonable 25,888KB of memory.
@@ -78,15 +79,16 @@ reeasonable 25,888KB of memory.
 However, all of this was redundant unless I could actually synchronise
 music to the iTouch as using two completely separate programs to mange
 my music was self-defeating. So I downloaded a Foobar extension
-promisingly named '[Ipod
-Manager](http://www.foobar2000.org/components/view/foo_dop)' and
-configured it.
+promisingly named 
+'[Ipod Manager](http://www.foobar2000.org/components/view/foo_dop)' 
+and configured it.
 
 For a complete fresh start, I took the rather brave (or stupid) move of
 completely resetting the iTouch to the factory settings which deleted
 all data and promptly hit 'Sync' in Foobar.
 
 [![image](http://lh5.ggpht.com/_l2uGy1RGCiE/StCL01_lS1I/AAAAAAAABdw/4OL34SwFBtI/s400/Foobar02-iPodSync.PNG)](http://picasaweb.google.co.uk/lh/photo/Nsg7rXG60ipEpz_LO4KK5Q?feat=embedwebsite)
+
 Although it took a while, synchronisation was 100% successful and I even
 got a 'Preview' of what songs were going to added/removed from the
 iTouch. This feature was incredibly useful as it gives you a chance to
@@ -94,6 +96,7 @@ abort if your entire music library is going to be (unexpectedly)
 deleted.
 
 [![image](http://lh6.ggpht.com/_l2uGy1RGCiE/StCL0xy2G5I/AAAAAAAABd0/hyx_dKTSFYU/s400/Foobar03-SyncPreview.PNG)](http://picasaweb.google.co.uk/lh/photo/zutHo7-S2NN2Sj52E3RFEQ?feat=embedwebsite)
+
 There were some minor issues - not all album covers were displayed on
 the iTouch. I discovered that iTunes embeds album artwork in the AAC
 file. I preferred Foobar's method of adding the album art to the folder
@@ -119,6 +122,7 @@ extension to make it look slightly more usable with the album artwork
 displayed.
 
 [![image](http://lh6.ggpht.com/_l2uGy1RGCiE/StCL08HOoNI/AAAAAAAABd4/YRGEden4K4g/s400/Foobar04-ColumnsUI.PNG)](http://picasaweb.google.co.uk/lh/photo/81HGcOdc-2A2KrJcSubnaw?feat=embedwebsite)
+
 Foobar 2000 really is the complete music player - once you add the
 appropriate encoders, it can play virtually music in any format (FLAC,
 WMA, AAC, WavPack, Ogg Vorbis et al).

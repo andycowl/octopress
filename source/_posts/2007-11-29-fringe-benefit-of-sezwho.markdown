@@ -12,11 +12,11 @@ always welcome.
 
 However, the vast majority of comments however are not so thinly veiled
 advertisements by spammers. Unfortunately, due to recent
-[problems](http://andyc.tumblr.com/post/17830528) with [Spam
-Karma](http://www.nbrightside.com/blog/2007/07/10/out-with-the-old-in-with-the-new/),
+[problems](http://andyc.tumblr.com/post/17830528) with 
+[Spam Karma](http://www.nbrightside.com/blog/2007/07/10/out-with-the-old-in-with-the-new/),
 I have had to revert to [Akismet](http://akismet.com/) to block this
-torrent of pharmaceutical, financial, pornographic and [vacuum
-cleaner](http://www.nbrightside.com/blog/2005/12/19/probably-the-best-comment-spam-in-the-world/)
+torrent of pharmaceutical, financial, pornographic and 
+[vacuum cleaner](http://www.nbrightside.com/blog/2005/12/19/probably-the-best-comment-spam-in-the-world/) 
 spam.
 
 This means I have a few more comments held in moderation for judgement.

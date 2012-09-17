@@ -8,8 +8,7 @@ title: where's the crane ?
 layout: post
 comments: true
 ---
-
-[![image][]][]
+<a href="http://picasaweb.google.com/lh/photo/-nLJKv8_fvJvAnGtJ-_Pug?feat=embedwebsite"><img src="http://lh6.ggpht.com/_l2uGy1RGCiE/THPAS6mHZMI/AAAAAAAABm4/gGMyTKYuAHg/s400/airport_parking.jpg" /></a>
 
 ‘Where's the crane then ?'
 
@@ -81,6 +80,3 @@ have you ?'
 
 ‘Nah. All that worries me now is how many other little stories you've
 told me over the years.'
-
-  [image]: http://lh6.ggpht.com/_l2uGy1RGCiE/THPAS6mHZMI/AAAAAAAABm4/gGMyTKYuAHg/s400/airport_parking.jpg
-  [![image][]]: http://picasaweb.google.com/lh/photo/-nLJKv8_fvJvAnGtJ-_Pug?feat=embedwebsite

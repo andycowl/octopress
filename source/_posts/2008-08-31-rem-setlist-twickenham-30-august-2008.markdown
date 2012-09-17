@@ -1,7 +1,7 @@
 ---
 date: '2008-08-31 10:04:06'
 categories:
-    - uncategorised
+    - music
 title: R.E.M setlist Twickenham - 30 August 2008
 layout: post
 comments: true

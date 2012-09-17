@@ -3,7 +3,7 @@ layout: post
 title: "migration plan"
 date: 2012-09-14 15:55
 comments: true
-categories: blogging
+categories: [blogging]
 ---
 Loose thoughts on the plan of attack for the blog migration:
 

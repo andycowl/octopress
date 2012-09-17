@@ -1,24 +1,22 @@
 ---
 date: '2008-09-26 10:47:42'
 categories:
-    - uncategorised
+    - blogging
+    - habari
 title: review of Habari 0.5
 layout: post
 comments: true
 ---
-
 # Introduction
 
 [Habari](http://www.habariproject.org/en/) is a blogging platform,
 created back in January 2007 and in the subsequent 18 months, the
-tags:
-    - uncategorised
 software has matured and version 0.5.1 was recently
 [released](http://www.habariproject.org/en/0-5-1-released).
 
 Originally, I downloaded and experimented with Habari late in 2007 but
 it wasn't until February 2008 that I finally took the plunge and
-[migrated](http://nbrightside.com/blog/2008/02/13/now-on-habari) my blog
+[migrated](http://www.nbrightside.com/blog/2008/02/13/now-on-habari) my blog
 from WordPress.
 
 # Installation
@@ -35,13 +33,12 @@ Installation is very simple. You simply create the appropriate database,
 enter the details of the database configuration together with the user
 credentials for the administration account.
 
-  -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------
   [![image](http://lh5.ggpht.com/nbrightside/SNudADE5w7I/AAAAAAAAAvU/pu2msrsNHaI/s400/Habari-Install-mySql.PNG)](http://picasaweb.google.com/lh/photo/CKrel8WFknsg5BkIXVH5Ow)
-  -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 Hit 'Submit' and you're finished.
 
 [![image](http://lh6.ggpht.com/nbrightside/SNudf2_3GKI/AAAAAAAAAwU/4ag4nyGpyk8/s400/Habari-Success.PNG)](http://picasaweb.google.com/lh/photo/3pz7dbNRrMQoZLGX9rSdVQ)
+
 # The Habari interface
 
 Habari has a single menu structure and the main dashboard is fully
@@ -50,9 +47,11 @@ Activity' simply remove that tab. You can also drag and drop elements to
 position the various elements of the dashboard to suit yourself.
 
 [![image](http://lh3.ggpht.com/nbrightside/SNuc_kAhJ4I/AAAAAAAAAvE/RF8ImW-HFKw/s400/Habari-dashboard.PNG)](http://picasaweb.google.com/lh/photo/1psP1BfWBg_wLS9LRy69Fw)
+
 Obviously, bloggers spend most of their time composing posts and the
 Habari article editor is beautifully simple, clean and uncluttered.
 [![image](http://lh4.ggpht.com/nbrightside/SNuc_4w9GAI/AAAAAAAAAvM/njYEV5rCk9g/s400/Habari-Editor.PNG)](http://picasaweb.google.com/lh/photo/rRwx67oluzaANNownn69FQ)
+
 There are two separate tabs which expand to reveal the basic
 configuration options (timestamp, slug, comments) and another to define
 and add tags to the newly created post.
@@ -70,6 +69,7 @@ WordPress.com but staging the content into a local WordPress
 installation and then into Habari is possible.
 
 [![image](http://lh4.ggpht.com/nbrightside/SNudgN6ocwI/AAAAAAAAAws/uDSaCZhHu7k/s400/Habari-WP-Import.PNG)](http://picasaweb.google.com/lh/photo/EUqZYHwOy13P8Ws3hSBsnA)
+
 The WordPress importer is fast and robust. I imported over 700 posts and
 1,000 comments without errors in less than 2 minutes. In fact, it was so
 fast, I had to double-check that the import had actually worked ! All my
@@ -84,6 +84,7 @@ an increasing number of attractive, well designed themes
 [available](http://wiki.habariproject.org/en/Available_Themes).
 
 [![image](http://lh5.ggpht.com/nbrightside/SNudgKxFahI/AAAAAAAAAwc/8XNi5qBhea8/s400/Habari-Themes.PNG)](http://picasaweb.google.com/lh/photo/KR_A5-NqpFkUHa0h9TFRrw)
+
 # Plugins
 
 Plugins are installed by uploading the to server and unpacking in the
@@ -91,6 +92,7 @@ Plugins are installed by uploading the to server and unpacking in the
 configured from the Administration-Plugins screen.
 
 [![image](http://lh3.ggpht.com/nbrightside/SNudOsaZroI/AAAAAAAAAwE/XF2f1-EoSYk/s400/Habari-Plugins.PNG)](http://picasaweb.google.com/lh/photo/fvpCWCoiOrwKvceZXBRZew)
+
 Like themes, the number of
 [plugins](http://trac.habariproject.org/habari-extras/browser/plugins)
 available for Habari is nowhere near as vast (or overwhelming) as other
@@ -129,6 +131,7 @@ Habari distribution. This is useful if you are working in a disconnected
 environment.
 
 ![image](http://lh5.ggpht.com/nbrightside/SNudOFmharI/AAAAAAAAAv0/nE0hTNo-Kf4/s400/Habari-Manual.PNG)
+
 # Why is Habari different ?
 
 People often ask 'What makes Habari better than XYZ ?' And, of course,

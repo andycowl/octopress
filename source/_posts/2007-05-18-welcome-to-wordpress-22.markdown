@@ -1,7 +1,7 @@
 ---
 date: '2007-05-18 18:06:26'
 categories:
-    - uncategorised
+    - football
 title: Welcome to WordPress 2.2
 layout: post
 comments: true

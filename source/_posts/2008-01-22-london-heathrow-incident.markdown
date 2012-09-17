@@ -1,12 +1,11 @@
 ---
 date: '2008-01-22 09:13:29'
 categories:
-    - uncategorised
+    - uk
 title: London Heathrow incident
 layout: post
 comments: true
 ---
-
 Last Thursday, 152 people (16 crew and 136 passengers), in addition to a
 significant number of people living in Hounslow, narrowly escaped death
 when a British Airways flight from Beijing (BA038) was forced into an

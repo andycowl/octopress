@@ -8,7 +8,6 @@ title: drowning man
 layout: post
 comments: true
 ---
-
 The Brightside family holiday in Spain was a very relaxing affair. For a
 period of 10 days, I didn't watch a television, read a newspaper, stare
 at a computer screen or even turn my mobile phone on.

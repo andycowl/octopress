@@ -6,7 +6,6 @@ title: is Spotify the game changer for online music ?
 layout: post
 comments: true
 ---
-
 I have most of my music available in digital format and have
 occasionally pondered the purchase of a wireless streaming
 [device](http://www.slimdevices.com/pi_squeezebox.html) so I could
@@ -49,10 +48,8 @@ then select an album (unlike last.fm that insists on playing your
 library in an arbitrary order which is incredibly annoying when you want
 to listen to a specific album or track).
 
-  -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
   [![image](http://lh3.ggpht.com/_l2uGy1RGCiE/SZLs7HikvQI/AAAAAAAAA6g/zqyWF8RJWV8/s400/Spotify.PNG)](http://picasaweb.google.com/lh/photo/F7CRRCV1Y-CjU3UEJHPSWQ?feat=embedwebsite)
   From [Blog](http://picasaweb.google.com/nbrightside/Blog?feat=embedwebsite)
-  -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 So how much is Spotify charging for this wonderful service ? Well, it's
 free although there are occasional audio adverts spirinkled in between

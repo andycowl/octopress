@@ -1,12 +1,11 @@
 ---
 date: '2010-04-30 10:07:03'
 categories:
-    - uncategorised
+    - software
 title: thoughts on browser usability
 layout: post
 comments: true
 ---
-
 [Jake Kuramoto](http://theappslab.com/about/) from Oracle Apps Lab has
 a great
 [post](http://theappslab.com/2010/04/29/how-do-you-get-to-facebook/)

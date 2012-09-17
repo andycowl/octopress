@@ -9,7 +9,6 @@ title: incident at Manchester City training ground
 layout: post
 comments: true
 ---
-
 Manchester, near England - Wednesday 5 January 2011
 
 The footballing world was left reeling yesterday at shock news
