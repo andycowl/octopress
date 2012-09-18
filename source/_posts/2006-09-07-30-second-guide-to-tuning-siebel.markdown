@@ -3,7 +3,9 @@ layout: post
 title: "30 second guide to tuning Siebel"
 date: 2006-09-07 03:52
 comments: true
-categories: [oracle, siebel]
+categories:
+    - oracle
+    - siebel
 ---
 <h1>Bottom up</h1>
 <p>

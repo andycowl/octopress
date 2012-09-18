@@ -3,7 +3,9 @@ layout: post
 title: "8 things"
 date: 2008-01-10 04:52
 comments: true
-categories: [uk, blogging]
+categories:
+    - uk
+    - blogging
 ---
 <p>
 <a href="http://www.oracle-base.com/blog/2008/01/09/tag-here-goes-a-chain-letter/">Tagged</a> by Tim Hall.

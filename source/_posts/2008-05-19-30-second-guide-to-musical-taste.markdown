@@ -3,7 +3,8 @@ layout: post
 title: "30 second guide to musical taste"
 date: 2008-05-19 21:19
 comments: true
-categories: [music]
+categories:
+    - music
 ---
 Since I started blogging, three intelligent friends have complimented me on my musical taste and 123 people have accused me of being stuck in an 'manic depressive, 80's time warp'.
 <p>

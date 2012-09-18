@@ -3,7 +3,10 @@ layout: post
 title: "the resurrection of Google Reader"
 date: 2009-08-21 08:14
 comments: true
-categories: [google, software, rss]
+categories:
+    - google
+    - software
+    - rss
 ---
 Google have recently added some 'social' features to Google Reader 
 which enables much improved sharing of people's Shared Items.

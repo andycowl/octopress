@@ -1,12 +1,12 @@
 ---
 date: '2007-03-28 11:41:44'
 categories:
-    - uncategorised
+    - blogging
+    - wordpress
 title: resurrection of Performancing Metrics
 layout: post
 comments: true
 ---
-
 Just 10 weeks after [closing](http://performancing.com/node/5610),
 Performancing Metrics has
 [risen](http://pmetrics.performancing.com/help/) again, phoenix-like,
@@ -27,16 +27,14 @@ The reporting interface is really smooth and polished (the icons look
 similar to [Netvibes](http://www.netvibes.com/) but I presume these are
 in the public domain).
 
-[![Performancing Metrics
-Home](http://www.nbrightside.com/blog/user/files/2007/03/pmetrics-home.thumbnail.JPG)](http://www.nbrightside.com/blog/user/files/2007/03/pmetrics-home.JPG "Performancing Metrics Home")
+<a title="Performancing Metrics Home" href="http://picasaweb.google.com/lh/photo/Z6cIcS3YlROQPP7SZAgF_g?feat=embedwebsite"><img src="http://lh3.ggpht.com/_l2uGy1RGCiE/TRDRZqtUilI/AAAAAAAABqE/fRXuhrddgC4/s640/pmetrics-home.JPG" height="480" width="640" /></a>
 
 I was expecting high demand as people rushed to download the new
 software on day one and sluggish performance. All the reports were very
 quick and the system was responsive although with my data volumes maybe
 that isn't so surprising.
 
-[![Performancing Metrics
-Vistors](http://www.nbrightside.com/blog/user/files/2007/03/pmetrics-visitors.thumbnail.JPG)](http://www.nbrightside.com/blog/user/files/2007/03/pmetrics-visitors.JPG "Performancing Metrics Vistors")
+<a title="Performancing Metrics Vistors" href="http://picasaweb.google.com/lh/photo/UyFjLFCXgeVIbXRYLrsJvA?feat=embedwebsite"><img src="http://lh3.ggpht.com/_l2uGy1RGCiE/TRDRZ-4fBKI/AAAAAAAABqI/l-vz8YXDofg/s640/pmetrics-visitors.JPG" height="480" width="640" /></a>
 
 In addition to the standard tracking metrics (country, browser,
 platform, referrer, search terms), Performancing Metrics also allows you

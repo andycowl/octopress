@@ -1,14 +1,13 @@
 ---
 date: '2007-05-22 07:43:21'
 categories:
-    - uncategorised
+    - blogging
+    - wordpress
 title: blogging trends
 layout: post
 comments: true
 ---
-
-[![Blog
-Trends](http://www.nbrightside.com/blog/user/files/2007/05/blog-trends.thumbnail.JPG)](http://www.google.com/trends?q=wordpress,+blogger,+typepad "Blog Trends")
+<a title="Blog Trends" href="http://picasaweb.google.com/lh/photo/CKn8RC_qp9ONqN5VJaDCOA?feat=embedwebsite"><img src="http://lh4.ggpht.com/_l2uGy1RGCiE/TRDUzanad9I/AAAAAAAABqY/43vQ7P3H28s/s800/blog-trends.JPG" height="421" width="614" /></a>
 
 [WordPress](http://wordpress.org/) versus
 [Blogger](http://www.blogger.com/home) versus

@@ -3,7 +3,8 @@ layout: post
 title: "blog migration checklist"
 date: 2012-09-14 15:45
 comments: true
-categories: [blogging]
+categories:
+    - blogging
 ---
 I am a veteran of blog migrations with the scars to prove it. Here is a handy 'cut out and keep' checklist of the important things I normally forget:
 

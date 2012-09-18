@@ -3,7 +3,9 @@ layout: post
 title: "right said Fred"
 date: 2012-02-01 09:50
 comments: true
-categories: [uk, politics]
+categories:
+    - uk
+    - politics
 ---
 I think it is entirely right and proper that Sir Fred Goodwin has been stripped of his knighthood.
 

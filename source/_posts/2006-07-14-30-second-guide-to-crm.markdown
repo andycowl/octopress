@@ -3,7 +3,8 @@ layout: post
 title: "30 second guide to CRM"
 date: 2006-07-14 15:53
 comments: true
-categories: [crm]
+categories:
+    - crm
 ---
 <p>
 Another in the recently launched and incredibly unsuccessful '30 second guide' <a href="http://www.nbrightside.com/blog/2006/07/13/30-second-guide-to-data-warehousing/">series</a>.

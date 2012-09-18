@@ -3,7 +3,9 @@ layout: post
 title: "38th fastest growing WP blog"
 date: 2006-06-28 17:59
 comments: true
-categories: [wordpress, blogging]
+categories:
+    - wordpress
+    - blogging
 ---
 <p>
 One of the things I like about WordPress is the sense of community. Wordpress users (and developers) willingly help each other out on the support <a href="http://wordpress.com/forums/">forums</a>. There is also a <a href="http://faq.wordpress.com/">FAQ</a> with useful information for newcomers and experienced users alike.

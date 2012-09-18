@@ -3,7 +3,8 @@ layout: post
 title: "Autumn migration"
 date: 2012-09-14 14:45
 comments: true
-categories: [blogging]
+categories:
+    - blogging
 ---
 My Web hosting package (provided by Bluehost) expires in October. As
 this blog is essentially dead (the last post was a one-liner 8 months

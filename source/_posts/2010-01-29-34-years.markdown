@@ -3,7 +3,9 @@ layout: post
 title: "34 years"
 date: 2010-01-29 10:56
 comments: true
-categories: [uk, football, city]
+categories:
+    - uk
+    - football
 ---
 <blockquote>
 'When we go to Old Trafford, we will take that banner down. 

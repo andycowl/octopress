@@ -3,7 +3,10 @@ layout: post
 title: "25 reasons you should use Disqus"
 date: 2008-04-09 14:16
 comments: true
-categories: [software, blogging, Web2.0]
+categories:
+    - software
+    - blogging
+    - Web2.0
 ---
 <ol>
 <li>Disqus lets you easily track all comments you have left scattered over the blogosphere.</li>

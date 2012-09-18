@@ -3,7 +3,9 @@ layout: post
 title: "20 years ago"
 date: 2006-11-04 22:50
 comments: true
-categories: [uk, football]
+categories:
+    - uk
+    - football
 ---
 <p>
 4 November 1986. League Cup 3rd round replay. Attendance 17,914.

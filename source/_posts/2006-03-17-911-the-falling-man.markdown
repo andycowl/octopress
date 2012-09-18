@@ -3,7 +3,9 @@ layout: post
 title: "9/11 - The Falling Man"
 date: 2006-03-17 05:10
 comments: true
-categories: [uk, tv]
+categories:
+    - uk
+    - tv
 ---
 A Channel 4 documentary about <a href="http://www.timesonline.co.uk/article/0,,2092-2069640,00.html">9/11</a> and the controversial photographs capturing the final seconds of people who jumped to their deaths.
 
