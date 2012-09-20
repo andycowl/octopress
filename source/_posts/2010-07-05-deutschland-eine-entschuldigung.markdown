@@ -2,8 +2,6 @@
 date: '2010-07-05 11:10:53'
 categories:
     - football
-    - germany
-    - world cup
 title: Deutschland - eine Entschuldigung
 layout: post
 comments: true

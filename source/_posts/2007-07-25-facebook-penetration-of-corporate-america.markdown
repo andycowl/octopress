@@ -1,8 +1,7 @@
 ---
 date: '2007-07-25 06:42:06'
 categories:
-    - Oracle
-    - Web 2.0
+    - oracle
     - google
     - microsoft
 title: Facebook penetration of corporate America

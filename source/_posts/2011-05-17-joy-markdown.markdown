@@ -118,6 +118,9 @@ href="https://picasaweb.google.com/lh/photo/sykhGbfuwfI5NUo4vc_yTg?feat=embedweb
 src="https://lh6.googleusercontent.com/_l2uGy1RGCiE/TdLzq1bo1dI/AAAAAAAABuk/ibt1UdW_VpY/s640/Markdown-Emacs.png"
 height="640" width="614" /></a>
 
-This is incredibly useful for me as I can quickly check the generated HTML and even validate my blog posts. Validating my posts wasn't easy before as the addition of the Disqus Javascript code generates a number of warnings from the W3C validator.
+This is incredibly useful for me as I can quickly check the generated
+HTML and even validate my blog posts. Validating my posts wasn't easy
+before as the addition of the Disqus Javascript code generates a
+number of warnings from the W3C validator.
 
 <a href="https://picasaweb.google.com/lh/photo/grEBQVK_F7elXpEFtyQNEQ?feat=embedwebsite"><img src="https://lh3.googleusercontent.com/_l2uGy1RGCiE/TdLz1_fNSxI/AAAAAAAABus/LksKcNKG7_Q/s640/Markdown-Preview.png" height="388" width="640" /></a>

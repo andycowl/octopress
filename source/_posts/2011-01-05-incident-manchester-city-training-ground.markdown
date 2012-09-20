@@ -3,8 +3,7 @@ date: '2011-01-05 10:31:00'
 categories:
     - uk
     - football
-    - hunour
-    - city
+    - humour
 title: incident at Manchester City training ground
 layout: post
 comments: true

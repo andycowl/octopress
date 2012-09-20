@@ -2,7 +2,6 @@
 date: '2006-09-14 20:46:47'
 categories:
     - software
-    - Web 2.0
 title: Mozy - remote backup
 layout: post
 comments: true

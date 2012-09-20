@@ -3,7 +3,7 @@ date: '2010-10-20 09:39:00'
 categories:
     - uk
     - football
-    - mufc
+    - united
 title: usual suspects
 layout: post
 comments: true

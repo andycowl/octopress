@@ -4,7 +4,7 @@ layout: post
 comments: true
 date: '2005-10-08 17:09:00'
 categories:
-    - web 2.0
+    - software
 ---
 I used to use Yahoo Bookmarks which maintains a list of Web sites that
 I could access from any computer. This was a nice idea but I found I

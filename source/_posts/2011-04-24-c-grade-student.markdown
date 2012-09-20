@@ -2,12 +2,11 @@
 date: '2011-04-24 13:13:00'
 categories:
     - uk
-    - hunour
+    - humour
 title: C grade student
 layout: post
 comments: true
 ---
-
 Chatting with a good friend over dinner last night, he recounted how
 his son ambushed him late one Sunday night with some economics
 homework that he'd somehow manage to overlook and which simply had to

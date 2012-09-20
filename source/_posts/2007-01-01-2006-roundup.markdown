@@ -6,12 +6,9 @@ comments: true
 categories:
     - uncategorised
 ---
-<p>
-<ul>
-	<li>January - new sofa</li>
-	<li>October - new kitchen table and chairs</li>
-	<li>November - new coffee table</li>
-</ul>
+-   January - new sofa
+-   October - new kitchen table and chairs
+-   November - new coffee table
+
 I just hope and pray that I don't have to set foot inside a 
 furniture store (or worse, Ikea) in 2007.
-</p>

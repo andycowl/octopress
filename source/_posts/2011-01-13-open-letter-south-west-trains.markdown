@@ -2,12 +2,11 @@
 date: '2011-01-13 20:49:00'
 categories:
     - uk
-    - hunour
+    - humour
 title: open letter to South West trains
 layout: post
 comments: true
 ---
-
 Dear Fat Controller
 
 Occasionally, I use South West Trains to commute from my home in sunny

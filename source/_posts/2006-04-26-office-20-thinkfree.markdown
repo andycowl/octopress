@@ -2,7 +2,6 @@
 date: '2006-04-26 19:32:15'
 categories:
     - software
-    - Web 2.0
 title: Office 2.0 - ThinkFree
 layout: post
 comments: true

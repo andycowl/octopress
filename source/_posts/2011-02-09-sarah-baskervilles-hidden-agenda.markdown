@@ -1,7 +1,6 @@
 ---
 date: '2011-02-09 12:25:24'
 categories:
-    - Web 2.0
     - twitter
     - uk
 title: Sarah Baskerville's hidden agenda

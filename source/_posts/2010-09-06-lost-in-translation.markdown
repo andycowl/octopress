@@ -12,10 +12,8 @@ I don't know if al the clever Spanish people who study English leave the
 country or whether translators aren't very well paid in Spain but here's
 some amusing signs from my recent holiday in Marbella.
 
-<p>
 > ‘Deposit all remainders here' - Malaga airport.
 
-<p>
 I duly placed ‘2' in the receptacle. This was left over when I was
 testing Norman Jeane and asked her to quickly divide 12 by 5.
 

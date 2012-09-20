@@ -4,7 +4,7 @@ layout: post
 comments: true
 date: '2005-11-30 00:53:48'
 categories:
-    -  blogging
+    - blogging
 ---
 I quite enjoy the idea of [BlogShares.com](http://blogshares.com/)
 which a fantasy stock market for blogs. BlogShares places a notional

@@ -6,7 +6,6 @@ date: '2005-10-10 20:21:07'
 categories:
     - google
     - rss
-    - web 2.0
 ---
 Google have launched an online RSS
 [Reader](http://www.google.com/reader/things/tour). Like most

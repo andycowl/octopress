@@ -4,7 +4,6 @@ layout: post
 comments: true
 categories:
     - drupal
-    - modules
 date: '2010-12-22 12:53:00'
 ---
 People never ask me 'Hey Norman - what modules have you installed thus

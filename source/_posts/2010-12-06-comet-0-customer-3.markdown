@@ -112,10 +112,10 @@ mix). No starter pack.
 
 I quickly checked wireless printing from three Windows computers (XP,
 Vista and Windows 7) and downloaded the latest version HP native Linux
-software
-(<a href='http://hplipopensource.com/hplip-web/index.html'>HPLIP</a>)
-to configure and manage the printer which was conveniently available
-in the Fedora 14 repositories.
+software ([HPLIP][]) to configure and manage the printer which was
+conveniently available in the Fedora 14 repositories.
+
+  [HPLIP]: http://hplipopensource.com/hplip-web/index.html
 
 Finally, I ordered two spare cartridges from Amazon for &pound;20
 compared to &pound;24 at Comet.

@@ -7,10 +7,11 @@ categories:
     - uk
     - football
 ---
-<p>
 Manchester City - Theatre of Comedy
-<ul>
-<li>Pearce uses a cuddly <a href="http://news.bbc.co.uk/sport1/hi/funny_old_game/5377112.stm">horse</a></li>
-<li>Barton bares his <a href="http://news.bbc.co.uk/sport1/hi/football/teams/m/man_city/5395778.stm">mouth</a> to Everton fans. A marriage made in heaven.</li>
-</ul>
-</p>
+
+-   Pearce uses a cuddly [horse][]
+-   Barton bares his [mouth][] to Everton fans. A marriage made in
+    heaven.
+
+  [horse]: http://news.bbc.co.uk/sport1/hi/funny_old_game/5377112.stm
+  [mouth]: http://news.bbc.co.uk/sport1/hi/football/teams/m/man_city/5395778.stm
