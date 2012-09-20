@@ -5,8 +5,6 @@ comments: true
 categories:
     - amazon
     - kindle
-    - ebook
-    - android
 date: '2010-12-18 16:01:00'
 ---
 Shamefully, I don't read many

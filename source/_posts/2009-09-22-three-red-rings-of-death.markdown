@@ -7,7 +7,6 @@ categories:
     - uk
     - microsoft
     - crm
-    - xbox
 ---
 Last Friday, Norman Junior III emerged from his bedroom, looked
 mournfully at me and pronounced in a quiet voice: 'Dad - I've got the

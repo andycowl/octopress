@@ -4,9 +4,7 @@ layout: post
 comments: true
 date: '2005-11-07 17:10:59'
 categories:
-    - gadget
-    - palm
-    - pda
+    - uncategorised
 ---
 I used to have a Psion 5. This was a neat little personal organiser in
 a clam shell case with a mini QWERTY style keyboard. The Psion even

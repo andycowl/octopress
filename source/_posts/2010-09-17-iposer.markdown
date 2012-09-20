@@ -4,12 +4,10 @@ categories:
     - uk
     - travel
     - apple
-    - ipad
 title: iPoser
 layout: post
 comments: true
 ---
-
 This morning, a gentleman was reading a copy of The Times on my South
 West Trains service bound for London Waterloo. Nothing too surprising
 about that.

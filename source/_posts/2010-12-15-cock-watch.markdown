@@ -1,12 +1,11 @@
 ---
 date: '2010-12-15 09:36:00'
 categories:
-    - uncategorised
-title: 9/11 - The Falling Man
+    - football
+title: Cock watch
 layout: post
 comments: true
 ---
-
 Frankly I think the pair deserve each other but some excellent
 [quotes][] from Tevez's agent, Kia Joorabchian, on Garry Cock.
 

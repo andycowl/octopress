@@ -4,7 +4,6 @@ layout: post
 comments: true
 date: '2005-11-21 05:09:46'
 categories:
-    - pensions
     - uk
 ---
 Last week, I initiated the transfer of the last of my pension funds

@@ -2,13 +2,10 @@
 date: '2010-10-18 14:04:00'
 categories:
     - linux
-    - mint
-    - fedora
 title: a year with Linux
 layout: post
 comments: true
 ---
-
 Last week saw the first anniversary of my [adoption][] of Linux on my
 desktop PC so I thought I'd write a quick summary of how things went in
 the last 12 months as I always enjoy reading real-life user adoption

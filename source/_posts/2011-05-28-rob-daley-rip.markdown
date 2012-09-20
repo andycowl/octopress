@@ -5,7 +5,7 @@ comments: true
 date: '2011-05-28 13:12:00'
 categories:
     - sport
-    - olympics
+    - uk
 ---
 The ticket allocations for the London 2012 Olympics haven't been
 announced yet so I don't know whether I'll be watching Tom Daley

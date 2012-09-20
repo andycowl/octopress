@@ -1,7 +1,7 @@
 ---
 date: '2006-10-17 06:05:30'
 categories:
-    - dreamhost
+    - software
 title: my new job
 layout: post
 comments: true
@@ -12,15 +12,17 @@ role is working for Dreamhost as a BMC Patrol Monitor Agent.
 
 My key responsibilities are as follows:
 
-Write a blog article offline using Performancing.
-Post draft.
-Preview article in WYSIWG format on the blog.
-Blog is slow and unresponsive.
-ssh to Dreamhost server which is slow and unresponsive.
-Run 'w' to determine load average which is slow and unresponsive.
-Raise ticket with Dreamhost technical support.
-Wait for a period of time.
+- Write a blog article offline using Performancing.
+- Post draft.
+- Preview article in WYSIWG format on the blog.
+- Blog is slow and unresponsive.
+- ssh to Dreamhost server which is slow and unresponsive.
+- Run 'w' to determine load average which is slow and unresponsive.
+- Raise ticket with Dreamhost technical support.
+- Wait for a period of time.
+
 The performance problem is 'resolved'. Perm any one from:
+
 1.  'Denial of Service attack' - now resolved by firewall configuration
 2.  'Users in breach of Terms of Service - accounts now cancelled
 3.  'Users producing abnormal heavy load' - now migrated to another

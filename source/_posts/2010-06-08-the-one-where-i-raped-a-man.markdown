@@ -6,8 +6,6 @@ date: '2010-06-08 14:13:25'
 categories:
     - uk
     - travel
-    - london
-    - oyster
 ---
 Accidentally.
 

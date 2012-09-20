@@ -2,7 +2,6 @@
 date: '2011-03-03 10:07:00'
 categories:
     - uk
-    - family
 title: exciting times
 layout: post
 comments: true

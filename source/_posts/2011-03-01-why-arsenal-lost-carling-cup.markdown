@@ -6,10 +6,7 @@ date: '2011-03-01 11:42:00'
 categories:
     - uk
     - football
-    - arsenal
-    - united
 ---
-
 When I heard that Arsenal were busy making plans for their injured and
 oh so inspirational captain, Cesc Fabregas, to hoist the trophy aloft
 and end 6 barren years without a sniff of a trophy, I had a horrible
