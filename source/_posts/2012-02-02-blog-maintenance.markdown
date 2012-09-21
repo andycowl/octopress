@@ -16,9 +16,21 @@ intervention and takes time.
 
 Over the years, the main self-hosted blog platforms I have used are:
 
-* WordPress - one-click updates. Quick and easy. By far the best and most robust solution. Never let me down.
-* Habari - Official Habari releases were fairly infrequent so I chose to I track the latest development version so upgrade was manual but as simple as typing '$ svn update'. Rolling back was needed on a couple of occasions but possible simply by reverting to the previous SVN version ($ svn update -r <nnn>).
-* Drupal - manual [update](http://drupal.org/node/1285892). Involves taking the site offline, copying files, thinking, run 'update.php', copying files back again, bringing the site back online and a little time. Slightly tedious as Drupal tend to to release a new version of the core software every month or so with a nagging email reminder to do the right thing.
+* WordPress - one-click updates. Quick and easy. By far the best and
+  most robust solution. Never let me down.
+
+* Habari - Official Habari releases were fairly infrequent so I chose
+  to I track the latest development version so upgrade was manual but
+  as simple as typing '$ svn update'. Rolling back was needed on a
+  couple of occasions but possible simply by reverting to the previous
+  SVN version ($ svn update -r <nnn>).
+
+* Drupal - manual [update](http://drupal.org/node/1285892). Involves
+  taking the site offline, copying files, thinking, run 'update.php',
+  copying files back again, bringing the site back online and a little
+  time. Slightly tedious as Drupal tend to to release a new version of
+  the core software every month or so with a nagging email reminder to
+  do the right thing.
 
 I have also noticed that my sitemap hasn't been generated in 6 months
 and doesn't include the most recent entries. In addition, some (old)

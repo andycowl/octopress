@@ -16,9 +16,13 @@ Originally I
 domain name 'nbrightside.com' and the Web hosting for a couple of
 reasons:
 
-- I wanted to use self hosted WordPress without some of the restrictions imposed by WordPress.com
-- I wanted to play with some of the packaged applications offered by Bluehost.
-- I wanted access to a Linux environment, mainly to build, install, experiment with various open source software tools and packages which needed a LAMP stack.
+- I wanted to use self hosted WordPress without some of the
+  restrictions imposed by WordPress.com
+- I wanted to play with some of the packaged applications offered by
+  Bluehost.
+- I wanted access to a Linux environment, mainly to build, install,
+  experiment with various open source software tools and packages
+  which needed a LAMP stack.
 
 It's really questionable whether I need to maintain this Web presence
 but, on balance, I'd like to keep the site alive for a little longer.

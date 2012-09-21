@@ -1,7 +1,7 @@
 ---
 date: '2006-12-22 05:04:02'
 categories:
-    - uncategorised
+    - oracle
 title: probably the best feature in Oracle 10g
 layout: post
 comments: true
