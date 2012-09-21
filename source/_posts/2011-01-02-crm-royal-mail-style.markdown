@@ -7,7 +7,6 @@ categories:
     - crm
     - uk
 ---
-
 Before Christmas, my friendly postman tried to deliver a parcel when
 no-one was home. Instead of leaving the parcel propped up by the front
 door to be buried under the falling snow, inviting passers-by to steal

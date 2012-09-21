@@ -6,7 +6,6 @@ title: less is more
 layout: post
 comments: true
 ---
-
 'Would you like any cashback today at all, Sir ?'
 
 'Oh yeah. That would be handy. &pound;50 - thanks.'

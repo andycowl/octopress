@@ -6,7 +6,6 @@ title: sneak peek at Vista
 layout: post
 comments: true
 ---
-
 The new machine from Dell duly
 [arrived](http://www.nbrightside.com/blog/2007/03/07/rapid-fire-service-from-dell/)
 yesterday so I hid it safely away in a tall cupboard.

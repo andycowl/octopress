@@ -6,7 +6,6 @@ title: jet lagged
 layout: post
 comments: true
 ---
-
 I am jet-lagged because a customer asked me to fly, at short notice,
 from Newcastle to Belfast at 07:05 on Wednesday morning.
 

@@ -6,7 +6,6 @@ title: dreaded Nigerian underpants bomber
 layout: post
 comments: true
 ---
-
 What a terrible holiday period for Umar Farouk Abdulmutallab.
 
 By the time, we had opened all our presents, stuffed ourselves with

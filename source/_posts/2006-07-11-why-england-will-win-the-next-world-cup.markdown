@@ -6,7 +6,6 @@ title: why England will win the next World Cup
 layout: post
 comments: true
 ---
-
 [HDTV](http://news.yahoo.com/s/nm/20060710/tc_nm/japan_matsushita_dc).
 Robert [Scoble](http://scobleizer.wordpress.com/) is an intelligent chap
 but has some truly bizarre thoughts. This

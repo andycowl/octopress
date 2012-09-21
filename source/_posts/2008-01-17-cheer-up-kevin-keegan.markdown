@@ -6,7 +6,6 @@ title: Cheer up Kevin Keegan
 layout: post
 comments: true
 ---
-
 I was almost tempted to let Kevin Keegan's
 re-[appointment](http://news.bbc.co.uk/sport1/hi/football/teams/n/newcastle_united/7192457.stm)
 as manager of Newcastle pass without comment.

@@ -6,7 +6,6 @@ title: Google Spreadsheets
 layout: post
 comments: true
 ---
-
 Inevitably,
 [Google](http://www.google.com/googlespreadsheets/tour1.html) enters the
 online spreadsheet market to provide competition for

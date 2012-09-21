@@ -11,7 +11,6 @@ categories:
     - blogging
     - hyde
 ---
-
 Well - I lasted about 4 hours without a blog.
 
 This latest incarnation is powered by Hyde.

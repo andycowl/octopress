@@ -6,7 +6,6 @@ title: another shattered dream
 layout: post
 comments: true
 ---
-
 I was intrigued by the detailed infrastructure and sophisticated AI
 techniques powering the 'world-wide computer network' that was
 supposedly hunting down my

@@ -6,7 +6,6 @@ title: Papal visit
 layout: post
 comments: true
 ---
-
 > ‘When you land at Heathrow you think at times you have landed in a
 > Third World country' - Cardinal Walter Kasper.
 

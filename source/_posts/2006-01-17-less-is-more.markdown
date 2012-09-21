@@ -6,7 +6,6 @@ title: less is more
 layout: post
 comments: true
 ---
-
 I was recently without my laptop computer for a whole two hours.
 
 I found the experience quite liberating.

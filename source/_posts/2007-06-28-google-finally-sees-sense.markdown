@@ -6,7 +6,6 @@ title: Google finally sees sense
 layout: post
 comments: true
 ---
-
 On the face of it, the recent changes to the interface to Google Docs
 and Spreadsheets look trivial and superficial.
 

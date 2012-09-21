@@ -6,7 +6,6 @@ title: so farewell then
 layout: post
 comments: true
 ---
-
 1.  Steve
     [Irwin](http://news.bbc.co.uk/1/hi/world/asia-pacific/5311298.stm) -
     You had a passion for wildlife that truly brought it alive.

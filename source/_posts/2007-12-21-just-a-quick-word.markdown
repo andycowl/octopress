@@ -6,7 +6,6 @@ title: just a quick word
 layout: post
 comments: true
 ---
-
 There are two words that are guaranteed to send Norman Junior and myself
 into fits of helpless laughter:
 

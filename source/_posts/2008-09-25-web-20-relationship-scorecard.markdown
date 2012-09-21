@@ -6,7 +6,6 @@ title: Web 2.0 relationship scorecard
 layout: post
 comments: true
 ---
-
 -   +1 for a 'friend'
 -   +5 for a 'follower'
 -   +10 for a blog comment

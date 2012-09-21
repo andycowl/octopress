@@ -6,7 +6,6 @@ title: early adopters or Luddites ?
 layout: post
 comments: true
 ---
-
 I subscribe to a fair number of blogs.
 
 Some of those bloggers use Blogger (despite my WordPress evangelism).

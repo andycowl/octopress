@@ -6,7 +6,6 @@ title: absolute disgrace
 layout: post
 comments: true
 ---
-
 Djibril Cisse (tattooed neck, ridiculous shaved head) celebrating his
 superb, individual, match winning goal (err, well, a converted penalty)
 in front of the Gallowgate End at St James Park by removing his shirt to

@@ -6,7 +6,6 @@ title: Drupal supports Oracle database
 layout: post
 comments: true
 ---
-
 Just installed and configured
 [Drupal](http://www.nbrightside.com/drupal-4.7.3/) 4.7.3 and noted an
 [announcement](http://drupal.org/node/87073) asking for volunteers to

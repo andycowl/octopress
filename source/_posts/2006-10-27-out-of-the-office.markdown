@@ -6,7 +6,6 @@ title: out of the office
 layout: post
 comments: true
 ---
-
 Many thanks for your lovely, thought provoking email.
 
 Unfortunately, I am currently on annual leave (although I couldn't

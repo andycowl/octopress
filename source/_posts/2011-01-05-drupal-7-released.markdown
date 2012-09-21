@@ -29,8 +29,7 @@ ported and made available for Drupal 7.
 a interesting set of reviews looking back on 2010 with his hopes and
 predictions for the coming year for:
 
-- [Drupal](http://buytaert.net/drupal-2010-retrospective-and-2011-predictions)
-  - the open source content management system.
+- [Drupal](http://buytaert.net/drupal-2010-retrospective-and-2011-predictions) - the open source content management system.
 - [Mollom](http://buytaert.net/mollom-2010-retrospective) - comment
   spam service with commercial pricing for larger sites.
 - [Acquia](http://buytaert.net/acquia-2010-retrospective) - Dries'

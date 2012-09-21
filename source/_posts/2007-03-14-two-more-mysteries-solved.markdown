@@ -6,7 +6,6 @@ title: two more mysteries solved
 layout: post
 comments: true
 ---
-
 Two questions of earth shattering importance
 1.  'Kingsbridge, Devon - where on earth is that - Somerset ?'
 2.  'Look, Norman. There's something wrong with this darned phone again.

@@ -6,7 +6,6 @@ title: RSS feeds from the BBC
 layout: post
 comments: true
 ---
-
 I subscribe to an RSS feed from the BBC about Manchester United.
 
 This feed contains match reports, previews and general news about

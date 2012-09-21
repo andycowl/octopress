@@ -6,7 +6,6 @@ title: in memoriam
 layout: post
 comments: true
 ---
-
 Apologies for the delayed transmission but the events of last Saturday
 left me traumatised and deeply shocked.
 

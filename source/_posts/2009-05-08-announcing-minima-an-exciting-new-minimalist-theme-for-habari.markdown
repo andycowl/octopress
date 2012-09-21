@@ -6,7 +6,6 @@ title: announcing Minima - an exciting, new minimalist theme for Habari
 layout: post
 comments: true
 ---
-
 You see - I'm really wasted in IT. I really should be in pre-sales or on
 'The Apprentice'.
 

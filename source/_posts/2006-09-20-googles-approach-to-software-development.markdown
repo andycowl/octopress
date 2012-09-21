@@ -6,7 +6,6 @@ title: Google's approach to software development
 layout: post
 comments: true
 ---
-
 [Rakesh Agrawal](http://rake.sh/blog/) presents an interesting
 [summary](http://rake.sh/blog/2006/09/14/the-road-to-google-calendar/)
 of a talk by Carl Sjogreen describing Google's approach to the software

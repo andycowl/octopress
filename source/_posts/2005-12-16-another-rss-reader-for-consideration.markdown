@@ -6,7 +6,6 @@ title: another RSS reader for consideration
 layout: post
 comments: true
 ---
-
 I am using the Newsgator Online RSS reader and simply want to order my
 most important, must-read blogs (i.e mine) at the top. It doesn't seem
 like an unreasonable requirement. From a cursory glance at the

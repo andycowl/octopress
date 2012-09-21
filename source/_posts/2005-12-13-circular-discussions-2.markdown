@@ -6,7 +6,6 @@ title: circular discussions (#2)
 layout: post
 comments: true
 ---
-
 A couple of years ago, I was staying at a posh hotel in Oslo. I returned
 to my room after a hard day's work, looking forward to a very expensive
 glass of beer.

@@ -6,7 +6,6 @@ title: probably the best music review in the world
 layout: post
 comments: true
 ---
-
 A kind gentleman (on The Chameleons
 [forums](http://forums.thechameleons.com/)) once reviewed
 '[Interpol](http://www.interpolnyc.com/)'s 'Antics' thus:

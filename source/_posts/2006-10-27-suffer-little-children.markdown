@@ -6,7 +6,6 @@ title: suffer little children
 layout: post
 comments: true
 ---
-
 Something I didn't watch:
 [Longford](http://blogs.manchestereveningnews.co.uk/ianwylie/2006/10/longford_hindley_and_brady.html)
 

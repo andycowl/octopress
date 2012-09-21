@@ -6,7 +6,6 @@ date: '2007-03-22 07:09:27'
 categories:
     - uncategorised
 ---
-
 Generally, the quality of cover versions on YouTube can
 [vary](http://www.youtube.com/watch?v=bjyr6P1agWo&mode=related&search=)
 to say the [least](http://youtube.com/watch?v=QAMyQdBWhUw).

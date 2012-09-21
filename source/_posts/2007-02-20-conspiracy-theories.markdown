@@ -6,7 +6,6 @@ title: conspiracy theories
 layout: post
 comments: true
 ---
-
 When I returned from evensong last night, after I had ironed five shirts
 and read a bedtime story to my loving (but strangely uncommunicative)
 teddy bears, I sat down with a hot cup of Horlicks to enjoy two hours of

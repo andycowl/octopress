@@ -6,7 +6,6 @@ title: quiet, loud and very loud
 layout: post
 comments: true
 ---
-
 A great weekend for the middle-aged, barstool musical correspondent.
 
 [Music](http://www.youtube.com/watch?v=vikb0rGosyI) and

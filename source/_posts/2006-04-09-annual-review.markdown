@@ -6,7 +6,6 @@ title: annual review
 layout: post
 comments: true
 ---
-
 This may be contrary to corporate blogging guidelines but still...
 
 Just had the formal feedback from my annual review and it is excellent

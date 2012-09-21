@@ -6,7 +6,6 @@ title: the mechanics of IT
 layout: post
 comments: true
 ---
-
 Last year, I visited a customer in Swindon. When I arrived at the
 office, I noticed some water dripping from the underside at the front
 of my car. I didn't have time to investigate or get my hands dirty so

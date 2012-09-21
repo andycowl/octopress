@@ -6,7 +6,6 @@ title: The Fall - Kentish Town Forum (10/6/09)
 layout: post
 comments: true
 ---
-
 John Cooper Clarke recited punk poetry while The Buzzcocks performed
 some punk karaoke but the real stars of the show were, inevitably, The
 Fall.

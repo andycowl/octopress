@@ -6,7 +6,6 @@ title: World Cup dispatches from embedded reporter
 layout: post
 comments: true
 ---
-
 Psst. I have managed to beat the banning order and have now safely
 arrived in Stockholm (near Sweden). I evaded the hordes of police
 spotters at Heathrow by checking in immediately behind a screaming

@@ -6,7 +6,6 @@ title: a brush with social services
 layout: post
 comments: true
 ---
-
 A few years ago, on a Saturday morning, I was crossing the road to the
 local shop with my daughter, Norma Jean. We held hands to cross halfway
 and paused. Suddenly, spontaneously, without warning, Norma Jean decided

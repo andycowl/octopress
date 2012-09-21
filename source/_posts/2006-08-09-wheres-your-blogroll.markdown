@@ -6,7 +6,6 @@ title: where's your blogroll ?
 layout: post
 comments: true
 ---
-
 No-one ever asks me: 'Hey Norman, why don't you have a blogroll with 457
 interesting, thought provoking sites for me to look at ?'.
 

@@ -6,7 +6,6 @@ title: probably the funniest TV show ever
 layout: post
 comments: true
 ---
-
 [The Armstrongs](http://www.bbc.co.uk/bbctwo/programmes/?id=armstrongs)
 is a BBC2 fly on the wall documentary about a small, family owned double
 glazing company in Coventry.

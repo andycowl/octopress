@@ -6,7 +6,6 @@ title: a brush with the Met
 layout: post
 comments: true
 ---
-
 Last night at approximately 18:12, I turned right onto the A4 (Great
 West Road) heading in an easterly direction towards Chiswick when I
 noticed a white police van behind me with flashing headlights and blue

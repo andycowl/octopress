@@ -6,7 +6,6 @@ title: Raptor is out of the cage
 layout: post
 comments: true
 ---
-
 Oracle have released
 [Raptor](http://www.oracle.com/technology/products/database/project_raptor/index.html)
 (a freely available GUI SQL query tool) which may be of interest to

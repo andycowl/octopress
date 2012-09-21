@@ -6,7 +6,6 @@ title: bedroom antics with the wife
 layout: post
 comments: true
 ---
-
 Last night, I happened to catch my wife composing an email. I noticed
 that when she sent a personal email to her friends, she invariably typed
 'From Norma' as the subject line. This just seemed really weird to me.

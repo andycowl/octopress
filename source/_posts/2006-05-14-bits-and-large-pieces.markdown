@@ -6,7 +6,6 @@ title: bits and large pieces
 layout: post
 comments: true
 ---
-
 Oracle have an interesting collaborative project
 ([MegaGrid](http://www.oracle.com/technologies/grid/megagrid.html)) to
 develop a very large grid database designed to stretch technical and

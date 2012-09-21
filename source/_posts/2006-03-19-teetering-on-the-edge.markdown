@@ -6,7 +6,6 @@ title: teetering on the edge
 layout: post
 comments: true
 ---
-
 Since the [Regulus](http://www.binarymoon.co.uk/projects/regulus/) theme
 was
 [added](http://www.nbrightside.com/blog/2005/11/29/new-regulus-theme-for-wordpresscom/)

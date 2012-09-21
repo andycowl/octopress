@@ -6,7 +6,6 @@ title: just say no
 layout: post
 comments: true
 ---
-
 I have a video of
 [Pete](http://news.bbc.co.uk/1/hi/entertainment/5038844.stm)
 [Doherty](http://www.bbc.co.uk/music/thelive8event/pics/eltonjohn/?4#gallery-intro)'s,

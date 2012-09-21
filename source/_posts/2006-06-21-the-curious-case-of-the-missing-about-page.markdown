@@ -6,7 +6,6 @@ title: the curious case of the missing 'About' page
 layout: post
 comments: true
 ---
-
 [Collin](http://www.cornellfinch.com) from that esteemed, well respected
 publication '[The Blog Review](http://blogreview.wordpress.com/)' was
 kind enough to

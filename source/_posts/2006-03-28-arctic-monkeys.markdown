@@ -6,7 +6,6 @@ title: Arctic Monkeys
 layout: post
 comments: true
 ---
-
 Student, indie, garage band who obviously love Blur and Half Man, Half
 Biscuit (but sadly lacking the humour) and then, one day, after missing
 a Physics lecture, the drummer comes in with a Macc Lads tape.

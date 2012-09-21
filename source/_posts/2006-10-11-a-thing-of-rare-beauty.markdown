@@ -6,7 +6,6 @@ title: a thing of rare beauty
 layout: post
 comments: true
 ---
-
 Monochrome
 [screenshot](http://marc.theaimsgroup.com/?l=wget&m=100203537025132&w=2)
 from the wget mailing list featuring Emacs and

@@ -6,7 +6,6 @@ title: rapid fire service from Dell
 layout: post
 comments: true
 ---
-
 I celebrated my recent promotion (to [BMI
 Silver](http://www.flybmi.com/bmi/en-gb/frequentflyers/membershipbenefits/silvermembership.aspx))
 by ordering a brand new Dell

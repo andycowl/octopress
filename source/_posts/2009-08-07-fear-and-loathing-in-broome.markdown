@@ -6,7 +6,6 @@ title: fear and loathing in Broome
 layout: post
 comments: true
 ---
-
 As we meandered our way through Western Australia, we took a taxi from
 the rather mediocre accommodation provided by '[Ocean
 Lodge](http://www.oceanlodge.com.au/)' to Broome airport to fly back

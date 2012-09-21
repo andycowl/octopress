@@ -6,7 +6,6 @@ title: going on a diet
 layout: post
 comments: true
 ---
-
 I will stop wasting time evaluating every RSS reader in the universe and
 simply revert to [NewsGator
 Online](http://www.newsgator.co.uk/ngs/default.aspx). This will help me

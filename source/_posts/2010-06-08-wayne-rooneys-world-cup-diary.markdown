@@ -6,7 +6,6 @@ title: Wayne Rooney's World Cup diary
 layout: post
 comments: true
 ---
-
 Tuesday 1 June
 
 Mr.  Capello announces the  final squad  of 23  players for  the World

@@ -6,7 +6,6 @@ title: high availability, resilient, non-stop, 7×24 computing
 layout: post
 comments: true
 ---
-
 So Typepad had plans to implement resilient disk storage but had an
 [outage](http://www.sixapart.com/typepad/news/2005/12/typepad_update.html)
 before the work was complete, which meant that users lost access to

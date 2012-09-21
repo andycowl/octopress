@@ -9,7 +9,6 @@ title: humour on BBC breakfast
 layout: post
 comments: true
 ---
-
 BBC Breakfast ran a story this morning about the sale of
 [woodlands](http://www.woodlands.co.uk/buying-a-wood/). The gentlemen
 responsible for selling woodlands was quite a comedian. He started his

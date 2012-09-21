@@ -6,7 +6,6 @@ comments: true
 categories:
     - crm
 ---
-
 Another in the recently launched and incredibly unsuccessful ‘30 second
 guide’ [series][].
 

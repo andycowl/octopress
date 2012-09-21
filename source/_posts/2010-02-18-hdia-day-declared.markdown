@@ -6,7 +6,6 @@ title: HDIA day declared
 layout: post
 comments: true
 ---
-
 London, near England - Thursday 18 February 2010
 
 British Prime Minister,

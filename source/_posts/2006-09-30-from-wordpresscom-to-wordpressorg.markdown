@@ -6,7 +6,6 @@ title: from WordPress.com to WordPress.org
 layout: post
 comments: true
 ---
-
 Choose domain name which is
 [taken](http://www.nbrightside.com/blog/2006/09/28/the-fickle-hand-of-fate/).
 Choose another domain name.

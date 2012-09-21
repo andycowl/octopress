@@ -6,7 +6,6 @@ title: Festive Spirit
 layout: post
 comments: true
 ---
-
 Just placed a Christmas present under the tree. Had a sneaky look at the
 tag to see whether a shake, rattle and roll was necessary. I was very
 surprised and somewhat upset to read:

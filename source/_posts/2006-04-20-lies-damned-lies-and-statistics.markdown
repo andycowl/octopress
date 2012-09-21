@@ -6,7 +6,6 @@ title: lies, damned lies and statistics
 layout: post
 comments: true
 ---
-
 In the first 13 minutes of 20 April 2006, there was a single hit on this
 blog (no names, no pack-drill). Curiously, the recently added WordPress
 feed [statistics](http://wordpress.com/blog/2006/04/14/feed-stats/)

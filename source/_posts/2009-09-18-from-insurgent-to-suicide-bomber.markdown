@@ -6,7 +6,6 @@ title: from insurgent to suicide bomber
 layout: post
 comments: true
 ---
-
 Spontaneously.
 
 > 'Do you think we used enough dynamite there, Butch ?'

@@ -6,7 +6,6 @@ title: don't Ask
 layout: post
 comments: true
 ---
-
 Many years ago, in a parallel universe, I created a
 [Web](http://web.archive.org/web/20010525033911/http://www.andy-cowling.pwp.blueyonder.co.uk/)
 page that proclaimed:

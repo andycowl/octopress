@@ -6,7 +6,6 @@ title: 'interviewing stories #1'
 layout: post
 comments: true
 ---
-
 [Doug Burns](http://oracledoug.com/serendipity) tells of an unusual
 company with an unusual interviewing
 [technique](http://oracledoug.com/serendipity/index.php?/archives/872-Now-Thats-What-I-Call-An-Interview!.html)

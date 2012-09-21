@@ -6,7 +6,6 @@ title: just the job
 layout: post
 comments: true
 ---
-
 Note to self: Dust off CV and apply for this
 [job](http://www.jobserve.com/E127E180844431C40.job) on Monday morning.
 

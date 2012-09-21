@@ -6,7 +6,6 @@ title: football nostalgia
 layout: post
 comments: true
 ---
-
 Doug's
 [post](http://oracledoug.com/serendipity/index.php?/archives/779-Rotterdam.html)
 about early memories of attending football matches got me thinking.

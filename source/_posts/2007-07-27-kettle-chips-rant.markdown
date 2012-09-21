@@ -6,7 +6,6 @@ title: Kettle Chips rant
 layout: post
 comments: true
 ---
-
 Two weeks ago, I sat in the business lounge at Newcastle airport. I
 chose a desk right in the corner away from everyone else because I am
 like that.

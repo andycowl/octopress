@@ -6,7 +6,6 @@ title: couple of useful Wordpress plugins
 layout: post
 comments: true
 ---
-
 Feedburner - WordPress.com provides users with
 [statistics](http://wordpress.com/blog/2006/04/14/feed-stats/) about
 feed subscriptions. At best, these metrics were questionable and I used

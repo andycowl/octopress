@@ -6,7 +6,6 @@ title: trainspotting
 layout: post
 comments: true
 ---
-
 This morning I commuted, Reggie Perrin style, from my leafy suburb into
 the heart of London by train. Nothing too unusual about that.
 

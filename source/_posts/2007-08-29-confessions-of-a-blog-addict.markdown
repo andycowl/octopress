@@ -6,7 +6,6 @@ title: confessions of a blog addict
 layout: post
 comments: true
 ---
-
 > 'My name is Norman and I am a blogoholic.'
 
 Two years ago, I

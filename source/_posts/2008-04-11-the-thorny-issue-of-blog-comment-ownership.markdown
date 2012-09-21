@@ -6,7 +6,6 @@ title: the thorny issue of blog comment ownership
 layout: post
 comments: true
 ---
-
 A couple of Oracle bloggers
 ([Laurent](http://laurentschneider.com/wordpress/2008/04/disqus-comments.html)
 and [Yas](http://oracletoday.blogspot.com)) are experimenting with

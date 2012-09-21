@@ -6,7 +6,6 @@ title: separated at birth
 layout: post
 comments: true
 ---
-
 -   The Killers - Smile Like You Mean It
 -   U2 - City of Blinding Lights
 

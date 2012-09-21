@@ -6,7 +6,6 @@ title: WordPress.com adds a couple of themes
 layout: post
 comments: true
 ---
-
 WordPress made some changes to the available
 [themes](http://wordpress.com/blog/2005/12/24/fauna-and-regulus/) just
 before Christmas which I have only just noticed.

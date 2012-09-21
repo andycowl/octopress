@@ -6,7 +6,6 @@ title: Google Reader gets revamp
 layout: post
 comments: true
 ---
-
 Apart from the 'vi'
 [shortcuts](http://www.nbrightside.com/blog/2005/10/10/google-reader/),
 I was slightly underwhelmed by Google

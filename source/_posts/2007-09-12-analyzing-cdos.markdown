@@ -6,7 +6,6 @@ title: analyzing cdos
 layout: post
 comments: true
 ---
-
 I thought it would be interesting to analyze the number of postings by
 month from 1997 to August 2007 to the Usenet newsgroup
 comp.databases.oracle.server.

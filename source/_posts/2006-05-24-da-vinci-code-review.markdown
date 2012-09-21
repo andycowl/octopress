@@ -6,7 +6,6 @@ title: Da Vinci Code review
 layout: post
 comments: true
 ---
-
 I went to see the Da Vinci Code last night.
 
 Unfortunately, I didn't actually get to see the film as there was a

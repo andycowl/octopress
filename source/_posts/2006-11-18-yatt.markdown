@@ -6,7 +6,6 @@ title: YATT
 layout: post
 comments: true
 ---
-
 Yet another trackback test.
 
 One year and four days after I thought I understood the difference

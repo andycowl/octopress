@@ -6,7 +6,6 @@ title: perspective
 layout: post
 comments: true
 ---
-
 You start to feel small and
 [insignificant](http://dl.xferla.net/mirror/ovelho.com/evolution.swf). [
 Via [Populicious](http://populicio.us/) ]

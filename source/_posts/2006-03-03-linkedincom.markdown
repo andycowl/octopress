@@ -6,7 +6,6 @@ title: LinkedIn.com
 layout: post
 comments: true
 ---
-
 I spurned my first few invitations to
 [linkedin.com](http://www.linkedin.com/) as I already get plenty of spam
 email.

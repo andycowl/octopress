@@ -6,7 +6,6 @@ title: quotations
 layout: post
 comments: true
 ---
-
 Tom Kyte has some favourite
 [quotes](http://tkyte.blogspot.com/2006/03/some-inspirational-quotes.html)
 so here are some of mine.

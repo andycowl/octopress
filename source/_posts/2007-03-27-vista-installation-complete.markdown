@@ -6,7 +6,6 @@ title: Vista installation complete
 layout: post
 comments: true
 ---
-
 Extracted the shiny new Dell
 [PC](http://www.nbrightside.com/blog/2007/03/09/sneak-peek-at-vista/)
 from the tall cupboard yesterday. Pretended this PC was for 'homework

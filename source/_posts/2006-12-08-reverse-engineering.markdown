@@ -6,7 +6,6 @@ title: reverse engineering
 layout: post
 comments: true
 ---
-
 I was convinced I had my address book quadruple-mirrored (Thunderbird,
 Palm, Gmail and ScheduleWorld) secured on resilient disk storage using
 RAID-5 with offsite backups.

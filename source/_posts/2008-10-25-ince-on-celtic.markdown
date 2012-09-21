@@ -6,7 +6,6 @@ title: Ince on Celtic
 layout: post
 comments: true
 ---
-
 Although I will always associate Paul Ince with the phrase 'big time
 Charlie', I do think the Blackburn manager talks a lot of sense.
 

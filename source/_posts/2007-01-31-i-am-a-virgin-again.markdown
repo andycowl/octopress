@@ -6,7 +6,6 @@ title: I am a Virgin (again)
 layout: post
 comments: true
 ---
-
 I was vaguely aware that NTL merged with Telewest last year but a glossy
 black/red envelope, announcing the brave new world of 'Virgin Media',
 took me a little off guard this morning.

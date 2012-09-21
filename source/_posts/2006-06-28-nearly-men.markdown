@@ -6,7 +6,6 @@ title: nearly men
 layout: post
 comments: true
 ---
-
 Poor old Spain. After their fans roundly booed the French anthem, I was
 almost rooting for them to prevail over France last night. However, I
 don't like Luis Aragones. I think he is an arrogant racist so I was

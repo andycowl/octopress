@@ -6,7 +6,6 @@ title: wheels on fire
 layout: post
 comments: true
 ---
-
 Arrived at a client's offices in Birmingham this morning just as Radio
 Five news reported a major [power
 cut](http://news.bbc.co.uk/1/hi/england/west_midlands/5230032.stm)

@@ -6,7 +6,6 @@ title: Safari browser available for Windows
 layout: post
 comments: true
 ---
-
 The Safari Web browser on Macintosh currently accounts for a paltry
 4.34% of visits to this blog. It will be interesting to see whether this
 figure increases now Apple have

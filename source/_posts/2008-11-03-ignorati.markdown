@@ -6,7 +6,6 @@ title: ignorati
 layout: post
 comments: true
 ---
-
 Occasionally, I commute into London on South West Trains. I normally
 listen to music or podcasts during the half hour commute into Waterloo.
 

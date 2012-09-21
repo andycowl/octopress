@@ -6,7 +6,6 @@ title: unfortunate choice of words
 layout: post
 comments: true
 ---
-
 There is a terribly sad
 [story](http://news.bbc.co.uk/2/hi/uk_news/england/london/4811626.stm)
 in the UK about clinical trials that have gone (badly) wrong leaving six

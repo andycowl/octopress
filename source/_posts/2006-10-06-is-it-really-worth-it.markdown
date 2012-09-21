@@ -6,7 +6,6 @@ title: is it really worth it ?
 layout: post
 comments: true
 ---
-
 I have never heard customers complaining about the abysmal performance
 of the Oracle pseudo-table DUAL. Nor have I ever encountered a real-life
 performance issue that was attributed to slow access to DUAL. Rarely

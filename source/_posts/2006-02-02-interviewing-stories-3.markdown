@@ -6,7 +6,6 @@ title: 'interviewing stories #3'
 layout: post
 comments: true
 ---
-
 A few years ago, I worked for a small internet company and was a
 successful dot com millionaire. Then the confounded Italians went and
 devalued the Lira.

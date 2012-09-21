@@ -6,7 +6,6 @@ title: heard it on the Newsvine
 layout: post
 comments: true
 ---
-
 Yesterday, I stumbled across [Newsvine](http://www.newsvine.com/) which
 is a very impressive news aggregator. Until now, I didn't much care for
 these type of sites. [Digg](http://digg.com/) left me a little cold with

@@ -6,7 +6,6 @@ title: spammers plumb new depths
 layout: post
 comments: true
 ---
-
 > Rugby players spend a lot of time physical training Compared to other
 > form of sports. I have read the [Rugby
 > laws](http://www.creekrugby.com/) mentioned on this site. It's a

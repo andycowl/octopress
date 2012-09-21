@@ -6,7 +6,6 @@ title: nearly man
 layout: post
 comments: true
 ---
-
 In August 2002, I visited Florida on holiday. In return for what seemed
 like 7 successive days at theme parks in sweltering weather, my family
 kindly allowed me a visit to the [Kennedy Space

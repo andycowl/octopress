@@ -6,7 +6,6 @@ title: how I lost my Linux virginity
 layout: post
 comments: true
 ---
-
 This week I am attending an excellent training course on Linux System
 Administration at Oracle's offices in Moorgate, near London. The course
 is given by [Harald van

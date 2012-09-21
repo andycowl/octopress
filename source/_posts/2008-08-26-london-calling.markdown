@@ -6,7 +6,6 @@ title: London calling
 layout: post
 comments: true
 ---
-
 So now the whole world knows what living in
 [London](http://news.bbc.co.uk/sport2/hi/olympics/london_2012/7577999.stm)
 is really like.

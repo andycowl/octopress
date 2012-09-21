@@ -7,7 +7,6 @@ categories:
     - wordpress
     - blogging
 ---
-
 One of the things I like about WordPress is the sense of community.
 Wordpress users (and developers) willingly help each other out on the
 support [forums][]. There is also a [FAQ][] with useful information for

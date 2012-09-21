@@ -7,7 +7,6 @@ categories:
     - uk
     - music
 ---
-
 Doug [Burns](http://oracledoug.com/serendipity/) has a new
 [job](http://oracledoug.com/serendipity/index.php?/archives/1168-A-Fresh-Start.html)
 and is spending some time in Canada, hugging his new colleagues. Like

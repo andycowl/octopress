@@ -6,7 +6,6 @@ title: I should know better
 layout: post
 comments: true
 ---
-
 Watching 'World Cup Goals Galore' on BBC3 which also has a fantastic
 music soundtrack. Some great goals and memories.
 

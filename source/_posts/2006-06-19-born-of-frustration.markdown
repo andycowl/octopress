@@ -6,7 +6,6 @@ title: born of frustration
 layout: post
 comments: true
 ---
-
 When you are trying to print something in a hurry, there is nothing
 worse than discovering that your work of art has just been queued behind
 a monster 764 page document.

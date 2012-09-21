@@ -6,7 +6,6 @@ title: Darwin Awards nominee
 layout: post
 comments: true
 ---
-
 Amusing
 [story](http://www.telegraph.co.uk/news/main.jhtml?xml=/news/2007/05/11/nsatnav11.xml)
 in Friday's Torygraph about how a Sat Nav system left a poor, helpless

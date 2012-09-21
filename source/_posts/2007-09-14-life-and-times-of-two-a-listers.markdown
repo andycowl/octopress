@@ -6,7 +6,6 @@ title: life and times of two 'A' listers
 layout: post
 comments: true
 ---
-
 I like Robert [Scoble](http://scobleizer.com/). While I don't always
 [agree](http://www.nbrightside.com/blog/2006/07/11/why-england-will-win-the-next-world-cup/)
 with him and I have a love-hate relationship with his laugh, his blog is

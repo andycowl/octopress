@@ -6,7 +6,6 @@ title: full circle
 layout: post
 comments: true
 ---
-
 That's it. Enough procrastination. Finished.
 
 I will use Microsoft

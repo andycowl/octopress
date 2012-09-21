@@ -6,7 +6,6 @@ title: 'attention all Oracle bloggers '
 layout: post
 comments: true
 ---
-
 Dust off that blogroll. Highlight your best technical posts. Update that
 photo in the 'About' tab. Polish the colours on your theme. Prime the
 hit counter and prepare for an invasion from the Web 2.0 'A' listers.

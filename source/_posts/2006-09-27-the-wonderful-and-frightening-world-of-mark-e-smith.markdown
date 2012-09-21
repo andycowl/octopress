@@ -6,7 +6,6 @@ title: The Wonderful and Frightening World of Mark E. Smith
 layout: post
 comments: true
 ---
-
 BBC2 Friday night. A [repeat](http://www.thefall.info/fallsite/?p=320)
 but memorable for some great footage, interviews and these two
 [quotes](http://homepages.shu.ac.uk/~llrdjb/fall_doc.pdf) from Mark E.

@@ -6,7 +6,6 @@ title: partial versus full fe…
 layout: post
 comments: true
 ---
-
 Imagine trying to hold a conversation with someone who never completed
 their sentences. Irritating, eh ?
 

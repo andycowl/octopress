@@ -6,7 +6,6 @@ title: my proudest moment
 layout: post
 comments: true
 ---
-
 27 years ago, in an fruitless attempt to save money, my wife and I hired
 a function room above a pub to celebrate our joint 40th birthday. With a
 free bar.

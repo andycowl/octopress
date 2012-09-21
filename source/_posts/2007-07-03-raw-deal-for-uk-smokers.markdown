@@ -6,7 +6,6 @@ title: raw deal for UK smokers
 layout: post
 comments: true
 ---
-
 LHR-NCL (BA1326) Dep: 09:40 Arr: 10:45
 
 > 'Ladies and gentlemen. Welcome to Newcastle airport where the local

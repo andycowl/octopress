@@ -6,7 +6,6 @@ title: Tumblr V3
 layout: post
 comments: true
 ---
-
 Tumblr [update](http://blog.davidville.com/2007/11/01/tumblr-3/) is
 imminent. First impressions are excellent.
 

@@ -6,7 +6,6 @@ title: pass the anti-static wrist strap
 layout: post
 comments: true
 ---
-
 I usually hate posts that start
 
 'Apologies in advance but I am going to be offline for 10 days

@@ -6,7 +6,6 @@ title: I'm not paranoid
 layout: post
 comments: true
 ---
-
 I just think everyone's out to get me.
 > Search Term: +"Norman Brightside"+"Blog"
 

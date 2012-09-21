@@ -6,7 +6,6 @@ title: Taxi for Poll
 layout: post
 comments: true
 ---
-
 So farewell then, Graham
 [Poll](http://news.bbc.co.uk/sport1/hi/football/world_cup_2006/5108722.stm%20).
 

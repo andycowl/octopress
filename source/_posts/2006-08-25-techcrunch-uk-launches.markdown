@@ -6,7 +6,6 @@ title: TechCrunch (UK) launches
 layout: post
 comments: true
 ---
-
 TechCrunch (with a focus on the UK)
 [launches](http://uk.techcrunch.com/).
 

@@ -6,7 +6,6 @@ title: the wit and wisdom of Gary Cook
 layout: post
 comments: true
 ---
-
 > 'This football club will be without doubt the biggest and best in the
 > world. People don't like to hear it but I'll make no excuses for
 > saying it, and I will never stop saying it because I truly believe it

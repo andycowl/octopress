@@ -6,7 +6,6 @@ title: tips for dealing with Australian customs
 layout: post
 comments: true
 ---
-
 I passed through many customs, immigration and security checks at
 various Australian airports in the last three weeks.
 

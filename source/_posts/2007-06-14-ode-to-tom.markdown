@@ -6,7 +6,6 @@ title: ode to Tom
 layout: post
 comments: true
 ---
-
 > You never press ‘Publish' any more\
 >  When I read your feed\
 >  There's no articles like before\

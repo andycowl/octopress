@@ -8,7 +8,6 @@ title: first and last and always - Google Reader
 layout: post
 comments: true
 ---
-
 Steve Rubel has
 [resolved](http://www.steverubel.com/a-return-to-feed-reading-tops-my-2011-tech-re)
 to return to feed reading in 2011.

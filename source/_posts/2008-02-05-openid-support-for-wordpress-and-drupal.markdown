@@ -6,7 +6,6 @@ title: OpenID support for WordPress and Drupal
 layout: post
 comments: true
 ---
-
 Adding support for [OpenID](http://openid.net/) to Wordpress using this
 [plugin](http://wordpress.org/extend/plugins/openid/) is quick and
 straightforward.

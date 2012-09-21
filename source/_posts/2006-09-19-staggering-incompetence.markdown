@@ -6,7 +6,6 @@ title: staggering incompetence
 layout: post
 comments: true
 ---
-
 And just this once, not mine.
 
 When you take out a Self Invested Pension Plan (SIPP), most SIPP schemes

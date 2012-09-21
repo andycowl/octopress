@@ -6,7 +6,6 @@ title: great fun with Iris
 layout: post
 comments: true
 ---
-
 Despite a scattering of snow in London that normally brings the country
 to a complete halt, my return flight from Copenhagen was on time and
 blissfully uneventful.

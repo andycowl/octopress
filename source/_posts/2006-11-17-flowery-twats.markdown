@@ -6,7 +6,6 @@ title: flowery twats
 layout: post
 comments: true
 ---
-
 I am working in Oxford and booked into this small
 [hotel](http://www.happylodge.org.uk/) overnight. I arrived at 18.30 and
 rang the bell. No one is home.

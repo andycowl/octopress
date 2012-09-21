@@ -6,7 +6,6 @@ title: from zero to infinity (and beyond)
 layout: post
 comments: true
 ---
-
 The purchase of the black
 [beret](http://www.nbrightside.com/blog/2006/02/27/from-zero-to-000000001/)
 has certainly had the desired effect.

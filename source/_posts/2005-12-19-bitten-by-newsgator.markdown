@@ -6,7 +6,6 @@ title: bitten by Newsgator
 layout: post
 comments: true
 ---
-
 I wanted to export my Newsgator feeds into OPML and experiment with
 SearchFox, who kindly gave me an account, to take part in the beta
 program.

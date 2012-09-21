@@ -6,7 +6,6 @@ title: Disqus powered comments
 layout: post
 comments: true
 ---
-
 I was rather hoping [Disqus](http://disqus.com) would be a 100% plug-in
 replacement for the woefully inadequate
 [coComment](http://cocomment.com/) so I could simply track all the

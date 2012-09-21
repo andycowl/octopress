@@ -6,7 +6,6 @@ title: Comet 0 Customer 3
 layout: post
 comments: true
 ---
-
 At the weekend, I purchased a new printer after replacing the ink
 cartridges failed to reinstate the ability to print in black on my Canon
 IP4000.

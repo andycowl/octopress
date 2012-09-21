@@ -6,7 +6,6 @@ title: history of Oracle
 layout: post
 comments: true
 ---
-
 A couple of people stumble across this blog searching for the 'History
 of Oracle' but ultimately go away
 [disappointed](http://www.nbrightside.com/blog/2006/02/01/a-short-history-of-oracle-blogging/).

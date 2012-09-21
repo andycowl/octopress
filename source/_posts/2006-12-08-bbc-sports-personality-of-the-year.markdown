@@ -6,7 +6,6 @@ title: BBC Sports Personality Of The Year
 layout: post
 comments: true
 ---
-
 ...has been cancelled due to lack of interest and sporting
 personalities.
 

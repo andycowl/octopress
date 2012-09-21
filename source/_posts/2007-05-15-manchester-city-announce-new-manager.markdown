@@ -6,7 +6,6 @@ title: Manchester City announce new manager
 layout: post
 comments: true
 ---
-
 I always had a lot of time for the outgoing Manchester City manager,
 Stuart
 [Pearce](http://news.bbc.co.uk/sport1/hi/football/teams/m/man_city/6655007.stm).

@@ -6,7 +6,6 @@ title: Praise be to the Lord !
 layout: post
 comments: true
 ---
-
 Henry Spencer's unforgettable ‘10
 [Commandments](http://www.lysator.liu.se/c/ten-commandments.html) for C
 Programmers'

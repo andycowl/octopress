@@ -6,7 +6,6 @@ title: pocket Web 2.0 dictionary
 layout: post
 comments: true
 ---
-
 Define your favourite Web 2.0 service in two words (or less)
 
 -   Blogging: 'Dear diary'

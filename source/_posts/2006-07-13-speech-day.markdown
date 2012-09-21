@@ -6,7 +6,6 @@ title: Speech Day
 layout: post
 comments: true
 ---
-
 Prizegiving ceremonies at school are a similar experience when you are a
 parent as when you were a child.
 

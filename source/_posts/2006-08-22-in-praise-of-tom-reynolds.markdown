@@ -6,7 +6,6 @@ title: in praise of Tom Reynolds
 layout: post
 comments: true
 ---
-
 I heard an interesting interview on Radio 5 yesterday with UK blogger,
 [Tom Reynolds](http://www.randomreality.org/aboutreynolds.htm). Tom
 works for the London Ambulance Service and his

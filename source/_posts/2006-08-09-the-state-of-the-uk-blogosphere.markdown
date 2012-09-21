@@ -6,7 +6,6 @@ title: the state of the UK blogosphere
 layout: post
 comments: true
 ---
-
 It really is in a right old state. I have a
 [Netvibes](http://www.netvibes.com/) tab called 'UK'. It has a solitary,
 uninspiring, dry news feed from the

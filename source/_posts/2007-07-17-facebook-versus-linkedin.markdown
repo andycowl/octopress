@@ -6,7 +6,6 @@ title: Facebook versus LinkedIn
 layout: post
 comments: true
 ---
-
 OK. I couldn't resist any longer. Scoble's recent
 [post](http://scobleizer.com/2007/07/15/google-reader-facebook-yummy/)
 about this killer Google Reader application forced me to sign up for yet

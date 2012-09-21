@@ -6,7 +6,6 @@ title: chaos on the streets on Newcastle
 layout: post
 comments: true
 ---
-
 The streets of the fine city of Newcastle were gridlocked on Monday.
 Locals despaired as their normal 20 minute commute took 3 hours 40
 minutes due to a series of unfortunate events.

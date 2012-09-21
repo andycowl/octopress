@@ -6,7 +6,6 @@ title: philosophy of Oracle contractors
 layout: post
 comments: true
 ---
-
 My. How times change. In my day, the philosophy was simple:
 
 -   Always be sick in your own time.

@@ -6,7 +6,6 @@ title: singalonga Shearer
 layout: post
 comments: true
 ---
-
 Come on everybody. Sing along now.
 
 > A mole digging in a hole Digging up my soul now Going down, relegation

@@ -6,7 +6,6 @@ title: mystery man
 layout: post
 comments: true
 ---
-
 There's only one man in the world who could have uttered the following:
 
 > 'On Monday I unfollowed 106,000 people on Twitter.'

@@ -6,7 +6,6 @@ title: more questions than answers
 layout: post
 comments: true
 ---
-
 Most of the Australians I met on my recent holiday were brilliant
 people; friendly, welcoming, great company and most possessed a very
 British style sense of humour.

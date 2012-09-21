@@ -6,7 +6,6 @@ title: probably the best World Cup chart
 layout: post
 comments: true
 ---
-
 Full fixture list, localised TV Schedules, print out and keep wallchart,
 pictures of the stadiums, group tables, X-rays of Wayne Rooneys
 metatarsal and all of this in an Excel

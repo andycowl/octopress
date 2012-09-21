@@ -6,7 +6,6 @@ title: on the third stroke
 layout: post
 comments: true
 ---
-
 The perfect [job](http://news.bbc.co.uk/1/hi/entertainment/6076378.stm)
 for Aishah [Azmi](http://news.bbc.co.uk/1/hi/uk_politics/6069012.stm).
 

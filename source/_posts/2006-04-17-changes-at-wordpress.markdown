@@ -6,7 +6,6 @@ title: changes at WordPress
 layout: post
 comments: true
 ---
-
 I go away to spend a few days sitting on the UK's gridlocked motorway
 network and I discover those chaps at WordPress have been making yet
 more changes.

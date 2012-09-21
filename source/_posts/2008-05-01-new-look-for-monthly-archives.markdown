@@ -6,7 +6,6 @@ title: new look for monthly archives
 layout: post
 comments: true
 ---
-
 There is a new, improved Monthly Archives plugin
 [available](http://trac.habariproject.org/habari-extras/changeset/171)
 for Habari which is now installed on this blog.

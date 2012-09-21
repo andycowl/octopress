@@ -6,7 +6,6 @@ title: knowledge management is hard
 layout: post
 comments: true
 ---
-
 Knowledge management presents a difficult challenge particularly when
 you work in a relatively small department of highly intelligent,
 technical consultants who are scattered around the globe and travel a

@@ -6,7 +6,6 @@ title: Arthur Smith nails it
 layout: post
 comments: true
 ---
-
 > "This country is shit. The food is shit, the government is shit, the
 > weather is shit, the transport system is shit, education is shit, life
 > is shit, death is shit, I am shit."

@@ -6,7 +6,6 @@ title: is it just me ?
 layout: post
 comments: true
 ---
-
 When you are in a crisis meeting, and a consultant or project manager
 says 'We desperately need an intervention from ABC - now !', do you ever
 find yourself idly scribbling the lyrics from Interpol's 'Say Hello To

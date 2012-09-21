@@ -6,7 +6,6 @@ title: double Dutch
 layout: post
 comments: true
 ---
-
 After recent horrific
 [events](http://news.bbc.co.uk/sport1/hi/football/eng_prem/6941879.stm),
 I was forced to flee the country so I took my family (and a couple of

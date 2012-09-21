@@ -6,7 +6,6 @@ title: Dragon's Den
 layout: post
 comments: true
 ---
-
 'Dad - please can I have 5 pounds ?'
 
 'If I were to give you the 5 pounds, what exactly would you spend the

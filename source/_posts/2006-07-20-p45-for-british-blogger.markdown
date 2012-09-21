@@ -6,7 +6,6 @@ title: P45 for British blogger
 layout: post
 comments: true
 ---
-
 Quelle horreur !
 
 A female UK blogger is

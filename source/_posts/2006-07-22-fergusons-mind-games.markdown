@@ -6,7 +6,6 @@ title: Ferguson's mind games
 layout: post
 comments: true
 ---
-
 > 'He (Ruud van Nistelrooy) is a striker who can score upwards of 20
 > goals a season and there are not many of those going around.'
 

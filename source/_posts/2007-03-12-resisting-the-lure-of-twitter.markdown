@@ -6,7 +6,6 @@ title: resisting the lure of Twitter
 layout: post
 comments: true
 ---
-
 ...won't be hard because I just don't get it.
 
 06:55 Bin day. Dustbins out (from Web)

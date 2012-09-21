@@ -6,7 +6,6 @@ title: in praise of Mark Burgess
 layout: post
 comments: true
 ---
-
 A long time ago, there was a unique band called [The
 Chameleons](http://www.thechameleons.com/) who hailed from Middleton,
 Manchester.

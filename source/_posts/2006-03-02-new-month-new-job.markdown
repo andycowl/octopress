@@ -6,7 +6,6 @@ title: new month, new job
 layout: post
 comments: true
 ---
-
 I now work for Oracle based in Thames Valley Park, Reading in the UK.
 
 I am usually the last to hear any news about corporate takeovers.

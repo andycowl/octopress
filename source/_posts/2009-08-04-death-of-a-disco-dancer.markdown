@@ -6,7 +6,6 @@ title: death of a disco dancer
 layout: post
 comments: true
 ---
-
 After I finally got over the shock of Michael Jackson (I suspect Mr.
 Pharmacist with the white pills and syringe in the study) and being
 genuinely saddened at the recent death of Sir Bobby Robson, I'm not sure

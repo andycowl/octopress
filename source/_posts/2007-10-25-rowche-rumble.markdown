@@ -6,7 +6,6 @@ title: Rowche Rumble
 layout: post
 comments: true
 ---
-
 I am bored of tormenting myself, conjuring up full blown blog posts,
 pouring over non-existent Adsense revenues and analyzing traffic
 statistics so I have started a [Tumblelog](http://andyc.tumblr.com/).

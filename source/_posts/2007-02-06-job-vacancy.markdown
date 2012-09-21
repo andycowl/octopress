@@ -1,12 +1,11 @@
 ---
 date: '2007-02-06 06:14:53'
 categories:
-    - uncategorised
+    - travel
 title: job vacancy
 layout: post
 comments: true
 ---
-
 Travel Administrator for overpaid and unbelievably stupid IT consultant
 
 -   must be capable of using a corporate travel service to book a flight

@@ -6,7 +6,6 @@ title: Intranet on the Internet
 layout: post
 comments: true
 ---
-
 Oracle [AppsLab](http://oracleappslab.com/) is one of my longest
 standing and favourite blogs.
 

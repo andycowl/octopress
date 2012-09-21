@@ -6,7 +6,6 @@ title: breaking through
 layout: post
 comments: true
 ---
-
 Finally. All that painstaking effort creating multiple splogs,
 scribbling my blog URL on whiteboards at every
 [client](http://www.nbrightside.com/blog/2006/07/06/just-do-what-you-are-told-2/)

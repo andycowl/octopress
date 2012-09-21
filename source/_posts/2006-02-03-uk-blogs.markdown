@@ -6,7 +6,6 @@ title: UK blogs
 layout: post
 comments: true
 ---
-
 I wanted to find UK related blogs written by people in the UK as most
 blog indexes and search engines naturally tend to be heavily weighted
 towards the US.

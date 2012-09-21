@@ -6,7 +6,6 @@ title: WTF
 layout: post
 comments: true
 ---
-
 Despite occasionally enjoying this [site](http://thedailywtf.com/) and
 subscribing to this Oracle focussed
 [offshoot](http://oracle-wtf.blogspot.com/), I always laid awake at

@@ -6,7 +6,6 @@ title: probably the most underrated band ever
 layout: post
 comments: true
 ---
-
 On Monday, I received two DVD's
 ('[Ascension](http://www.thescourge.com/chameleons_trailer)') containing
 225 minutes from some of the last shows by [The

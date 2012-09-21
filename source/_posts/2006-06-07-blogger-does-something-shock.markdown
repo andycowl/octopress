@@ -6,7 +6,6 @@ title: Blogger does something shock
 layout: post
 comments: true
 ---
-
 A modern, standards compliant RSS
 [feed](http://www.kbcafe.com/rss/?guid=20060606134443). Whatever next.
 Let's hope people take this opportunity to switch to a

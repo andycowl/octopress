@@ -6,7 +6,6 @@ title: Why JS-Kit and Echo is doomed
 layout: post
 comments: true
 ---
-
 Yet another service in the overcrowded blog comment field is
 [JS-Kit](http://js-kit.com/) who already have a conventional outsourced
 blog comment capability (similar to IntenseDebate and Disqus).

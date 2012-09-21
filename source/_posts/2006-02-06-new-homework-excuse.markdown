@@ -6,7 +6,6 @@ title: new homework excuse
 layout: post
 comments: true
 ---
-
 Sorry about my homework, Sir. I was busy writing my essay in Microsoft
 Word and had a separate Word document open with my initial notes and
 jottings. I slaved away over a hot keyboard for at least two hours with

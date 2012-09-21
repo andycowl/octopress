@@ -6,7 +6,6 @@ title: David Beckham and I
 layout: post
 comments: true
 ---
-
 ...have a lot in common.
 
 I was interested to read that [David

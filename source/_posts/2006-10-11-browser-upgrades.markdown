@@ -6,7 +6,6 @@ title: browser upgrades
 layout: post
 comments: true
 ---
-
 Just remembered that I was 'shocked and ashamed to discover' that my
 father (Silver Surfer) was using
 [IE7](http://www.microsoft.com/windows/ie/default.mspx) when I last took

@@ -6,7 +6,6 @@ title: Joomla, Twitter, Drupal and ftp
 layout: post
 comments: true
 ---
-
 -   Joomla! 1.5 has been released and installed over
     [here](http://www.nbrightside.com/joomla/).
 -   Drupal 6 hasn't been released but that didn't stop me upgrading this

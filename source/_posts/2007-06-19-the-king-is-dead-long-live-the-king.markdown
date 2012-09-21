@@ -6,7 +6,6 @@ title: the King is dead, long live the King
 layout: post
 comments: true
 ---
-
 Trevor [Phillips](http://news.bbc.co.uk/1/hi/uk/6764899.stm) makes an
 early (and unexpected) bid to succeed Bernard
 [Manning](http://news.bbc.co.uk/1/hi/entertainment/6765093.stm).

@@ -6,7 +6,6 @@ title: free upgrades from Virgin Media
 layout: post
 comments: true
 ---
-
 I currently pay &pound;92 per month to Virgin Media:
 
 -   Telephone Rental - &pound;5.50

@@ -6,7 +6,6 @@ title: people are strange
 layout: post
 comments: true
 ---
-
 The couple in front of me at the (not so very) fast baggage drop had an
 overnight bag and two carrier bags containing bottles of whiskey and
 cigarettes. Much to my surprise, they expressed a wish to check the

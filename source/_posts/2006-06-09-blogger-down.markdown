@@ -6,7 +6,6 @@ title: Blogger down
 layout: post
 comments: true
 ---
-
 Apologies to all you Oracle Bloggers.
 
 Excessive traffic levels to my new Web

@@ -6,7 +6,6 @@ title: one less reason
 layout: post
 comments: true
 ---
-
 ...to resist the
 [lure](http://www.nbrightside.com/blog/2006/01/26/resisting-the-lure-of-joomla/)
 of WordPress.com - an (experimental)

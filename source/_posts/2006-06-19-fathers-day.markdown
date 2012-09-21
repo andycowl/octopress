@@ -6,7 +6,6 @@ title: Fathers Day
 layout: post
 comments: true
 ---
-
 Someone in my family was lucky enough to receive a Sony
 [PSP](http://www.yourpsp.com/) over the weekend. The Sony PSP is a fun
 device. The PSP can play music. The PSP can surf the Internet. The PSP

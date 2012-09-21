@@ -6,7 +6,6 @@ title: blind date
 layout: post
 comments: true
 ---
-
 Against my better
 [judgement](http://www.blogherald.com/2006/05/28/share-your-opml-as-a-blog-metric/)
 (see solitary comment), I uploaded my static list of feeds and RSS

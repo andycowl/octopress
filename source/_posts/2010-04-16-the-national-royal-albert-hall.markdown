@@ -6,7 +6,6 @@ title: The National - Royal Albert Hall
 layout: post
 comments: true
 ---
-
 One of my favourite bands is American beat combo - [The
 National](http://www.americanmary.com/). I will forever be indebted to
 [Michael](http://twofishcreative.com/michael/blog/) for introducing me

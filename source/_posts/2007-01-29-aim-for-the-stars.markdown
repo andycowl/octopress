@@ -6,9 +6,9 @@ title: aim for the stars
 layout: post
 comments: true
 ---
-
 Meet [Dan Morrison](http://www.ittoolbox.com/profiles/dan_morrison). His
 main aim in life is :-
+
 > Currently dedicated to linking **all** IT professionals together in
 > one network so they can find each other and communicate.
 

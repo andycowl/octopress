@@ -6,7 +6,6 @@ title: The Who at Glastonbury
 layout: post
 comments: true
 ---
-
 That set list in full
 
 -   Theme from 'CSI'

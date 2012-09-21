@@ -7,7 +7,6 @@ title: Music nostalgia
 layout: post
 comments: true
 ---
-
 -   Buzzocks - [What Do I Get
     ?](http://www.youtube.com/watch?v=lbauu27ZIUs&search=buzzcocks)
 -   The Clash - [What's My

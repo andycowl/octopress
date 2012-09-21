@@ -6,7 +6,6 @@ title: complete, utter, 100%, unmitigated failure
 layout: post
 comments: true
 ---
-
 'Holy Father. It is almost 31 years since City's last trophy. Since
 then, I have:
 

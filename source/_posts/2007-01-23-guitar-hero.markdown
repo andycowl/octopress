@@ -6,7 +6,6 @@ title: guitar hero
 layout: post
 comments: true
 ---
-
 Over Christmas, I was drying dishes, desperately trying to avoid
 conversation or being dragged into a impromptu board game. From
 upstairs, I heard a strange sound; the (discordant) opening chords to

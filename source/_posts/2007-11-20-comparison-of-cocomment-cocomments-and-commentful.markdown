@@ -6,7 +6,6 @@ title: comparison of coComment, co.comments and commentful
 layout: post
 comments: true
 ---
-
 I subscribe to multiple blogs (163 to be precise) and Google Reader
 makes tracking all of those sites trivial. Reader's keyboard shortcuts
 mean scanning for new content and reading blog articles is also easy and

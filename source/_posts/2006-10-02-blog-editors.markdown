@@ -6,7 +6,6 @@ title: blog editors
 layout: post
 comments: true
 ---
-
 The WordPress rich text editor is pretty good but has an odd bug which
 is a little irritating. It keeps confusing paragraph end with line break
 

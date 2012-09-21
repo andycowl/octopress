@@ -6,7 +6,6 @@ title: smoke and mirrors
 layout: post
 comments: true
 ---
-
 Many years ago, in a parallel universe not far from here, I was involved
 in a
 [CRM](http://www.nbrightside.com/blog/2006/07/14/30-second-guide-to-crm/)

@@ -6,7 +6,6 @@ title: Sony car radio/CD/DAB
 layout: post
 comments: true
 ---
-
 I have got an old radio cassette in my car with a aerial mounted in the
 rear windscreen. The MW reception is pretty poor and if you go under a
 bridge, the interference nearly makes your ears bleed. As I listen to

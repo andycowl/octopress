@@ -6,7 +6,6 @@ title: Google Docs and Spreadsheets
 layout: post
 comments: true
 ---
-
 Google have [announced](http://www.google.com/google-d-s/whatsnew.html)
 '[Docs &
 Spreadsheets](http://www.techcrunch.com/2006/10/10/google-docs-spreadsheets-launches)'

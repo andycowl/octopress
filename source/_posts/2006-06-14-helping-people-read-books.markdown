@@ -6,7 +6,6 @@ title: helping people read books
 layout: post
 comments: true
 ---
-
 Someone recently asked me at a dinner party: 'So, Norman, tell me what
 you do in life ?'. I spontaneously replied: 'I help people read books'.
 The lady (for it was a she) exclaimed: 'Oh how absolutely fabulous. You

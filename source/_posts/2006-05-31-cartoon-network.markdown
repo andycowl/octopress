@@ -6,7 +6,6 @@ title: cartoon network
 layout: post
 comments: true
 ---
-
 Maybe Doug's right. Perhaps WordPress isn't a suitable blogging platform
 for serious technical Web journals (with 473 lines of 10046 trace) after
 all.

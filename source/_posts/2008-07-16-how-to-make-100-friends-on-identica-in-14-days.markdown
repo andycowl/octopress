@@ -6,7 +6,6 @@ title: how to make 100 friends on identi.ca in 14 days
 layout: post
 comments: true
 ---
-
 -   Look for people with similar interests.
 -   Look at the friends of people you have just followed.
 -   Look out for people who have criteria for following others e.g. 'I

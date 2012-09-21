@@ -6,7 +6,6 @@ title: can Gerry Robinson fix IT ?
 layout: post
 comments: true
 ---
-
 I was fascinated by the '[Can Gerry Robinson fix the
 NHS](http://www.open2.net/nhs/)' series broadcast on BBC2 this week.
 

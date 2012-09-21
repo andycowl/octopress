@@ -6,7 +6,6 @@ title: Matt Mullenweg on scalability
 layout: post
 comments: true
 ---
-
 WordPress recently bought a ton of resilient hardware and have
 undoubtedly improved the quality of service for the 200,000 WordPress
 users.

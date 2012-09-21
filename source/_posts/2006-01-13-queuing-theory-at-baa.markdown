@@ -6,7 +6,6 @@ title: queuing theory at BAA
 layout: post
 comments: true
 ---
-
 On Wednesday, I found myself patiently waiting in a queue, talking with
 a nice lady from Toronto, to get through airport security at Heathrow
 Terminal 4. Nothing unusual there.

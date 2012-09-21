@@ -1,12 +1,11 @@
 ---
 date: '2007-01-29 15:20:02'
 categories:
-    - uncategorised
+    - football
 title: Wayne Rooney - an apology
 layout: post
 comments: true
 ---
-
 In recent weeks, this esteemed publication (Daily Excess) has been
 critical of Wayne Rooney's recent performances for Manchester United.
 

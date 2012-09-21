@@ -6,7 +6,6 @@ title: an unusual load average
 layout: post
 comments: true
 ---
-
 I might have been dreaming but I swear that the load average on this
 DreamHost server was over
 [400](http://flickr.com/photos/70276096@N00/267787342/).

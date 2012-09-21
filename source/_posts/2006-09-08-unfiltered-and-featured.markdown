@@ -6,7 +6,6 @@ title: unfiltered and featured
 layout: post
 comments: true
 ---
-
 I just changed my
 [Thunderbird](http://www.nbrightside.com/blog/2006/03/08/thunderbirds-are-go/)
 setup to move all messages from the IMAP server to local folders and

@@ -6,7 +6,6 @@ title: practical parenting
 layout: post
 comments: true
 ---
-
 I have some news for the parents of [Georgia
 Brown](http://news.bbc.co.uk/1/hi/england/hampshire/6229738.stm) of
 Aldershot

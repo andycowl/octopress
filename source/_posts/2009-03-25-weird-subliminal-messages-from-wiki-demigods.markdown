@@ -6,7 +6,6 @@ title: weird subliminal messages from Wiki demigods
 layout: post
 comments: true
 ---
-
 Recently, I started messing around with
 [DokuWiki](http://www.dokuwiki.org/dokuwiki) as a
 [replacement](http://www.nbrightside.com/dokuwiki/doku.php?id=tag:bookmark&do=showtag&tag=bookmark)

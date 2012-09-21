@@ -6,7 +6,6 @@ title: the real star of 'Saxondale'
 layout: post
 comments: true
 ---
-
 [Morwenna Banks](http://en.wikipedia.org/wiki/Morwenna_Banks), who plays
 Vicky in [Saxondale](http://www.bbc.co.uk/comedy/saxondale/), is superb.
 While she gets some of the best lines in the comedy series, co-written

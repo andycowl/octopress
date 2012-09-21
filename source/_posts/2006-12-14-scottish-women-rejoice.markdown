@@ -6,7 +6,6 @@ title: Scottish women rejoice
 layout: post
 comments: true
 ---
-
 'Oh aye Janice, listen. When my Dougie gave up smoking, the
 transformation was miraculous. He seemed like a new man. It was
 absolutely fantastic. His breath was fresh and clean. His teeth were

@@ -6,7 +6,6 @@ title: blog housekeeping
 layout: post
 comments: true
 ---
-
 -   Upgraded to WordPress
     [2.3.2](http://wordpress.org/development/2007/12/wordpress-232/)
 -   [Plaintxt](http://www.plaintxt.org/themes/plaintxtblog/) theme

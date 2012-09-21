@@ -6,7 +6,6 @@ title: circular discussions
 layout: post
 comments: true
 ---
-
 Just bought 30 second class stamps and sent a parcel recorded delivery
 in the Post Office. The stamps cost &pound;6.30 and the recorded delivery
 costs &pound;2.25.

@@ -6,7 +6,6 @@ title: automated MySQL backups
 layout: post
 comments: true
 ---
-
 After my recent brush with
 [disaster](http://www.nbrightside.com/blog/2007/01/24/fun-with-disaster-recovery/),
 I realised that my, err, backup strategy relied on me remembering to

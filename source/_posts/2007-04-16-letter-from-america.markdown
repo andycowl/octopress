@@ -6,7 +6,6 @@ title: letter from America
 layout: post
 comments: true
 ---
-
 I have been a little quiet recently because I have spent the last two
 weeks in Florida during which time I didn't see a computer, pick up a
 newspaper and thankfully, didn't speak on a phone.

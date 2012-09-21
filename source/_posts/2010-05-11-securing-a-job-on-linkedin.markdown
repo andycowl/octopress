@@ -6,7 +6,6 @@ title: securing a job on LinkedIn
 layout: post
 comments: true
 ---
-
 > Hi Norman. You and I haven't spoken before so please excuse the
 > intrusion. However Sandstone Search & Selection are a specialist
 > recruitment consultancy, focused on the Enterprise Software and

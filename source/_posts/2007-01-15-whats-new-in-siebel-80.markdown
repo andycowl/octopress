@@ -6,7 +6,6 @@ title: what's new in Siebel 8.0
 layout: post
 comments: true
 ---
-
 Siebel 8.0 is the first major release since the Oracle takeover and is
 now imminent.
 

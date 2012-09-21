@@ -6,7 +6,6 @@ title: Premier League expansion
 layout: post
 comments: true
 ---
-
 'Every club knows they will have an equal chance of being treated
 unfairly.'
 

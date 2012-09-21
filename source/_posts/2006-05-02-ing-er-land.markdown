@@ -6,7 +6,6 @@ title: Ing-er-land
 layout: post
 comments: true
 ---
-
 I am sorry Wayne Rooney broke a toe and will
 [miss](http://news.bbc.co.uk/sport1/hi/football/world_cup_2006/4959564.stm)
 the World Cup.

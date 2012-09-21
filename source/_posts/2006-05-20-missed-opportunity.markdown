@@ -6,7 +6,6 @@ title: missed opportunity
 layout: post
 comments: true
 ---
-
 I don't know whether
 [this](http://blackandwhiteandreadallover.blogspot.com/2005/11/mark-e-smith-1-0-ray-stubbs.html)
 is genuine but, if so, I am gravely disappointed that I missed it.

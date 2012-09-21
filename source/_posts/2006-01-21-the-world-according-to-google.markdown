@@ -6,7 +6,6 @@ title: The world according to Google
 layout: post
 comments: true
 ---
-
 Tonight's Money Programme ('['The world according To
 Google](http://news.bbc.co.uk/2/hi/business/4598090.stm)') on BBC2 was
 about the history, the success and the possible future diversification

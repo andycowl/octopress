@@ -6,7 +6,6 @@ title: Stadium Rock etiquette
 layout: post
 comments: true
 ---
-
 Lyrics [plugin](http://www.lyricsplugin.com/) for Media Player and
 Winamp.
 

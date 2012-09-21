@@ -6,7 +6,6 @@ title: Manchester City's title winning lineup
 layout: post
 comments: true
 ---
-
 Exclusive - the Manchester City 2009-2010 Premiership winning lineup in
 full.
 

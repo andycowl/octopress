@@ -6,7 +6,6 @@ title: death by PowerPoint
 layout: post
 comments: true
 ---
-
 One reason I am slightly averse to presentations is that I once attended
 a 'Presentation Skills' course that unequivocally stated 'There is no
 room for humour in presentations'.

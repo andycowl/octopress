@@ -6,7 +6,6 @@ title: product minimalism
 layout: post
 comments: true
 ---
-
 Garry Tan, a developer for [Posterous](http://posterous.com/) (a simple
 but powerful blog platform), wrote a brilliant
 [post](http://garry.posterous.com/practicing-product-minimalism) about

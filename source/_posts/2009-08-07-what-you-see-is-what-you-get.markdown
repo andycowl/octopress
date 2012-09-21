@@ -6,7 +6,6 @@ title: what you see is what you get
 layout: post
 comments: true
 ---
-
 This is a quick test to check that Habari is no longer adding additional
 paragragh tags and random line breaks for people consuming this blog in
 a feed reader.

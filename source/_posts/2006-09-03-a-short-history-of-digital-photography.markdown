@@ -6,7 +6,6 @@ title: a short history of digital photography
 layout: post
 comments: true
 ---
-
 Back in the old days, things were very simple. We had a camera. We took
 photographs. We sent the prints away to BonusPrint. We discarded
 mistakes. We filed the photos in albums. We ordered duplicates for

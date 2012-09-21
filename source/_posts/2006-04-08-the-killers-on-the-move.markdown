@@ -6,7 +6,6 @@ title: The Killers on the move
 layout: post
 comments: true
 ---
-
 The Killers (Glastonbury 2005) has successfully been converted from DVD
 to WAV format and to ATRAC format on a CD.
 

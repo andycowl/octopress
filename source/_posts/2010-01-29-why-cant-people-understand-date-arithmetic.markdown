@@ -6,7 +6,6 @@ title: why can't people understand date arithmetic ?
 layout: post
 comments: true
 ---
-
 ` AND TO_NUMBER(TO_CHAR(appt_start_dt + 9/24, 'YYYYMMDDHH24MISS')) <= TO_NUMBER(TO_CHAR((TO_DATE(:b1, 'DD/MM/YYYY HH24:MI:SS')), 'YYYYMMDDHH24MISS'))`
 
 Please can a clever Oracle person explain, in English, the precise

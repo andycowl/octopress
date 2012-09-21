@@ -6,7 +6,6 @@ title: intelligent automatic follow/block script for Twitter
 layout: post
 comments: true
 ---
-
 London, near England - 23 April 2008. For immediate release.
 
 Brightside Software Enterprises are pleased to announce the immediate

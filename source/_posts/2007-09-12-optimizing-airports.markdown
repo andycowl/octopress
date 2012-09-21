@@ -6,7 +6,6 @@ title: optimizing airports
 layout: post
 comments: true
 ---
-
 Spending a lot of time in airports is an occupational hazard in the
 glamorous and fast moving world of IT consultancy. Most of us are
 intimate with the various methods of tuning Oracle databases and Siebel

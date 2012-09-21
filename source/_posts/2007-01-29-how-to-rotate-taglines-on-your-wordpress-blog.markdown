@@ -1,12 +1,11 @@
 ---
 date: '2007-01-29 20:42:57'
 categories:
-    - uncategorised
+    - wordpress
 title: how to rotate taglines on your WordPress blog
 layout: post
 comments: true
 ---
-
 Another thing on my todo list was to learn PHP and write a WordPress
 plugin to randomly select quotes stored in the database to rotate the
 tagline.

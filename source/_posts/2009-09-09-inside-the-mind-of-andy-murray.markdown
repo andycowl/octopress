@@ -6,7 +6,6 @@ title: inside the mind of Andy Murray
 layout: post
 comments: true
 ---
-
 Andy Murray's hopes of lifting his first major were thwarted by
 [defeat](http://news.bbc.co.uk/sport1/hi/tennis/8242435.stm) yesterday
 in the last 16 of the US Open to Croat, Marin Cilic.

@@ -6,7 +6,6 @@ title: the wit and wisdom of Sven Goran Eriksson
 layout: post
 comments: true
 ---
-
 From yesterday's Press conference
 
 [ Would Defoe have been a better selection than Walcot ? ]

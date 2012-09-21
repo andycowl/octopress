@@ -6,7 +6,6 @@ title: WorldCup fallout
 layout: post
 comments: true
 ---
-
 Did my eyes deceive me or did Jamie Carragher come on as an England
 substitute specifically to take a penalty in the shoot-out ?
 

@@ -6,7 +6,6 @@ title: good news for WordPress users
 layout: post
 comments: true
 ---
-
 The news is out.
 [Yahoo!](http://smallbusiness.yahoo.com/webhosting/problogs.php?p=BALLOON)
 will be offering WordPress hosted blogs for small businesses and

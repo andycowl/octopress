@@ -6,7 +6,6 @@ title: not dead, just resting
 layout: post
 comments: true
 ---
-
 Darren Prowse kicked off an interesting
 [discussion](http://www.problogger.net/archives/2007/02/27/what-makes-you-unsubscribe-from-a-blogs-rss-feed/)
 asking what makes you unsubscribe from a feed.

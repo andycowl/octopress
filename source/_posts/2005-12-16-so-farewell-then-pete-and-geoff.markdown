@@ -6,7 +6,6 @@ title: so farewell then, Pete and Geoff
 layout: post
 comments: true
 ---
-
 Not many things make me laugh out loud.
 
 Pete Mitchell and Geoff Lloyd on the Virgin Radio breakfast show were

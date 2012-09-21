@@ -6,7 +6,6 @@ title: Forza Italia !
 layout: post
 comments: true
 ---
-
 Congratulations to Italy. They deserved to win as they scored two
 sublime goals and played the game to the bitter end in the right spirit
 and style.

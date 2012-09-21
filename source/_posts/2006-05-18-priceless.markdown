@@ -6,7 +6,6 @@ title: Priceless
 layout: post
 comments: true
 ---
-
 Oh no. The first
 [pictures](http://www.flickr.com/photos/70276096@N00/148721879/) are
 starting to circulate.

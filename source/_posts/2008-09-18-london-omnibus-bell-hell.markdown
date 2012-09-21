@@ -6,7 +6,6 @@ title: London omnibus bell hell
 layout: post
 comments: true
 ---
-
 Last night, I took a number 521, red, bendy bus from St. Paul's to
 Waterloo station.
 

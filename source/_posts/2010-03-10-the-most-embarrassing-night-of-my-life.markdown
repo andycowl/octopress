@@ -6,7 +6,6 @@ title: the most embarrassing night of my life
 layout: post
 comments: true
 ---
-
 Working title: the dangers of Facebook, online dating, stranger danger
 and gross stupidity.
 

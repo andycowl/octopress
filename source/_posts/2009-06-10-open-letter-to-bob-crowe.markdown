@@ -6,7 +6,6 @@ title: open letter to Bob Crowe
 layout: post
 comments: true
 ---
-
 Dear Bob
 
 Congratulations on disrupting the lives of millions of Londoners by

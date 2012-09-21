@@ -6,7 +6,6 @@ title: back seat driver
 layout: post
 comments: true
 ---
-
 'Who is the SQL Server DBA ?'
 
 'I am'

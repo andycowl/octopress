@@ -6,7 +6,6 @@ title: helping people write things down
 layout: post
 comments: true
 ---
-
 Today, a gentleman approached me and politely asked if he could ask me a
 question.
 

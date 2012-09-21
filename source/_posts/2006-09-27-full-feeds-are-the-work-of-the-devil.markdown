@@ -6,7 +6,6 @@ title: full feeds are the work of the devil
 layout: post
 comments: true
 ---
-
 When you turn to the light and start to fully embrace the [River of
 News](http://www.nbrightside.com/blog/2006/09/21/drowning-in-a-river-of-news/),
 the sickening realisation slowly dawns that you might actually have been

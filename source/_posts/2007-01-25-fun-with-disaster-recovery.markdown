@@ -6,7 +6,6 @@ title: fun with disaster recovery
 layout: post
 comments: true
 ---
-
 Sort of.
 
 I decided to remove all posts from my newly created Habari

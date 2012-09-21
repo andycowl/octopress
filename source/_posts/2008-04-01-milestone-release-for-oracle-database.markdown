@@ -6,7 +6,6 @@ title: milestone release for Oracle database
 layout: post
 comments: true
 ---
-
 Oracle Corporation - Redwood Shores, near California.
 
 Oracle today announced the release of a major maintenance release of

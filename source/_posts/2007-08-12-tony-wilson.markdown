@@ -6,7 +6,6 @@ title: Tony Wilson
 layout: post
 comments: true
 ---
-
 Thanks for bringing us Joy Division, New Order, The Hacienda and your
 faith and passion for Manchester.
 

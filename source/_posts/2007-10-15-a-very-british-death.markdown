@@ -6,7 +6,6 @@ title: a very British death
 layout: post
 comments: true
 ---
-
 An inquest has reached an open verdict on the death of a judge, six
 years ago.
 

@@ -6,7 +6,6 @@ title: a rush of blood
 layout: post
 comments: true
 ---
-
 I'm not normally a sucker for these free, pyramid style, link exchange
 schemes to drive more traffic to your blog but as
 simply[everyone](http://www.problogger.net/archives/2007/09/17/tips-for-using-blogrush-to-generate-traffic-for-your-blog/)

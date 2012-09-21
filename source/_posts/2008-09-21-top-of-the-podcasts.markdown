@@ -6,7 +6,6 @@ title: Top of the Podcasts
 layout: post
 comments: true
 ---
-
 I recently got an iTouch and, as I have been commuting into London
 recently, I have been listening to a few podcasts in an effort to
 usefully pass the time.

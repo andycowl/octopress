@@ -6,7 +6,6 @@ title: inevitable parting of the ways
 layout: post
 comments: true
 ---
-
 When I went to bed, I closed the curtains. Unfortunately even at full
 stretch, the curtains only spanned half the width of the window. This
 was excellent news as I was able to cancel my 07:30 wake-up call as the

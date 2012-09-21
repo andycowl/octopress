@@ -6,7 +6,6 @@ title: wit and wisdom of Arsenal fans
 layout: post
 comments: true
 ---
-
 The first (and probably the last) in a very occasional series.
 
 > 'Channel 5. Thursday night'.

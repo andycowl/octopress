@@ -6,7 +6,6 @@ title: don't cry for me, Argentina
 layout: post
 comments: true
 ---
-
 You were good but not that good otherwise you wouldn't have needed extra
 time against Mexico and would have beaten the Germans in two hours of
 football.

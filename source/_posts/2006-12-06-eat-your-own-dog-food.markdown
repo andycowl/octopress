@@ -6,7 +6,6 @@ title: eat your own dog food
 layout: post
 comments: true
 ---
-
 I bought my children an advent calendar each to initiate the Christmas
 celebrations (and shut them up).
 

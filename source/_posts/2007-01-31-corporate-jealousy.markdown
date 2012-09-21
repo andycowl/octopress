@@ -6,7 +6,6 @@ title: corporate jealousy
 layout: post
 comments: true
 ---
-
 I always smile whenever I receive an email that opens 'I heard that
 Stephen Hawksworth Smithers-Jones in ABC division gets...'
 

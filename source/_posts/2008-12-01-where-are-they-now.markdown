@@ -6,7 +6,6 @@ title: where are they now ?
 layout: post
 comments: true
 ---
-
 On 8 May 2001, Leeds United played in the European Champions League Semi
 Final at Valencia in Spain. I thought it might be fun to look at the
 Leeds lineup for that night and see what each player is up to now.

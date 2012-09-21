@@ -6,7 +6,6 @@ title: further afield
 layout: post
 comments: true
 ---
-
 I am going on a training course about Oracle RAC at Microsoft's offices
 in Redmond (near America) so I get to wear chinos and a polo shirt and
 play with an Xbox in reception.

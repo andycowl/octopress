@@ -6,7 +6,6 @@ title: things that go bump in the night
 layout: post
 comments: true
 ---
-
 Tuesday - An empty black hold-all crashes to the floor from its
 precarious position on top of the wardrobe alongside miscellaneous
 Christmas packages.

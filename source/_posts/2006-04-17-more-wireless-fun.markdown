@@ -6,7 +6,6 @@ title: more wireless fun
 layout: post
 comments: true
 ---
-
 Buoyed by my recent, successful firmware
 [upgrade](http://www.nbrightside.com/blog/2006/04/11/wireless-upgrade/)
 of my Linksys wireless router, and for the sake of completeness, I

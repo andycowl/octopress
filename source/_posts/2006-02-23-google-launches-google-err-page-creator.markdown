@@ -6,7 +6,6 @@ title: Google launches Google, err, Page Creator
 layout: post
 comments: true
 ---
-
 Important message to all you bloggers contemplating a migration to
 WordPress.com.
 

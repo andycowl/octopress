@@ -6,7 +6,6 @@ title: stampede at London Waterloo
 layout: post
 comments: true
 ---
-
 Last night, I was standing at London Waterloo station, sincerely hoping
 that the engineer would be able to fix the carriages for my train home.
 

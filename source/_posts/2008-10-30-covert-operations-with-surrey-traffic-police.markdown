@@ -6,7 +6,6 @@ title: covert operations with Surrey Traffic Police
 layout: post
 comments: true
 ---
-
 Surrey Traffic Police should run a recruitment campaign with the tagline
 
 > 'Join Surrey Traffic Police and see the world.'

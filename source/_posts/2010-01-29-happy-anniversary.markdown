@@ -6,7 +6,6 @@ title: Happy Anniversary
 layout: post
 comments: true
 ---
-
 This year's Carling Cup Final between Aston Villa and Manchester United
 will take place at Wembley on Sunday 28th February 2010.Curiously, this
 date marks the exact 34th anniversary, to the very day, of Manchester

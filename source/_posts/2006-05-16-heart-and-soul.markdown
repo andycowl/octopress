@@ -6,7 +6,6 @@ title: heart and soul
 layout: post
 comments: true
 ---
-
 Originally, I was going to post about my visit last week to the
 Microsoft campus in Redmond on a training course. The technical workshop
 was excellent: there were some great presentations and interesting

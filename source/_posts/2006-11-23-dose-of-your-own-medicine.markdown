@@ -6,7 +6,6 @@ title: dose of your own medicine
 layout: post
 comments: true
 ---
-
 I had the misfortune to visit a very angry customer today. He was having
 problems loading customer data into Siebel. I sat him down with a nice
 cup of tea and invited him to tell me all about his woes.

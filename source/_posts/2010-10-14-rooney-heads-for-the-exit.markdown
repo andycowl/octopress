@@ -7,7 +7,6 @@ title: Rooney heads for the exit
 layout: post
 comments: true
 ---
-
 I admire Wayne Rooney's skills as a footballer and I honestly don't give
 a flying fig about his sordid, personal life. Unfortunately, I don't
 think Wayne Rooney is blessed with that much intelligence. This isn't a

@@ -7,7 +7,6 @@ title: a cause for concern
 layout: post
 comments: true
 ---
-
 I am fortunate to find myself staying in a pleasant enough hotel in
 Newcastle upon Tyne. It is called the
 '[Malmaison](http://www.malmaison-newcastle.com/main.asp)' which is a

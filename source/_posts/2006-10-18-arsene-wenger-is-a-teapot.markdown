@@ -6,7 +6,6 @@ title: Arsene Wenger is a teapot
 layout: post
 comments: true
 ---
-
 Arsene Wenger is
 [bleating](http://news.bbc.co.uk/sport1/hi/football/europe/6050848.stm)
 about a referee who 'doesn't see things that exist'. This is the

@@ -6,7 +6,6 @@ title: deep meaningful questions
 layout: post
 comments: true
 ---
-
 The courteous, cheerful, courtesy bus driver from the car park to
 Terminal 1 at London Heathrow Airport greeted me with: 'Got your mobile
 phone safe, Sir ?'. Unfortunately, I was a little taken aback by this

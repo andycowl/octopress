@@ -6,7 +6,6 @@ title: a short conversation with Les Battersby
 layout: post
 comments: true
 ---
-
 Met up with some friends last night in a very busy [Freemasons
 Arms](http://www.beerintheevening.com/pubs/s/50/5069/Freemasons_Arms/Covent_Garden)
 in Covent Garden.

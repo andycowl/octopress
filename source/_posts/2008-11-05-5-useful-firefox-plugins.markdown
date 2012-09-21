@@ -6,7 +6,6 @@ title: 5 useful Firefox plugins
 layout: post
 comments: true
 ---
-
 For reasons that are too long and tedious to recount here, I have had
 cause to rebuild my Lenovo T61 laptop many times over the last month,
 using a bewildering range of operating systems, Linux distributions,

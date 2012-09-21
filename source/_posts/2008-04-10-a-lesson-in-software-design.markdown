@@ -6,7 +6,6 @@ title: a lesson in software design
 layout: post
 comments: true
 ---
-
 This blog used to run on [WordPress](http://wordpress.org/) but now runs
 on [Habari](http://www.habariproject.org/en/) which is a blogging
 platform currently being developed by a set of very talented people.

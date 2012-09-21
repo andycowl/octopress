@@ -6,7 +6,6 @@ title: a day in the life
 layout: post
 comments: true
 ---
-
 A blog post in the classic retro style of 'Dear Diary'. Stay tuned next
 week for relationship woes, football reports, psychotherapy, unexpunged
 details on my health, teenage angst, my current mood, the music I am

@@ -6,7 +6,6 @@ title: New York nostalgia
 layout: post
 comments: true
 ---
-
 Back in 1995, I was a software engineer for Ingres, working on the OS/2
 port. A merchant bank had a serious, intermittent, non-reproducible
 problem and Computer Associates kindly bought me a ticket to New York to

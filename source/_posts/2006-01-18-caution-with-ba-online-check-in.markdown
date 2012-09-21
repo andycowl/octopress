@@ -6,7 +6,6 @@ title: caution with BA online check-in
 layout: post
 comments: true
 ---
-
 You can save lots of time and get even more things done by checking in
 online for your flight at
 [www.britishairways.com](http://www.britishairways.com/).

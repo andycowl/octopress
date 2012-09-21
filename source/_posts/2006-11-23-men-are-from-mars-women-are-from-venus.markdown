@@ -6,7 +6,6 @@ title: Men Are from Mars, Women Are from Venus
 layout: post
 comments: true
 ---
-
 'Norman. Come here. I have a crisis. Quickly.'
 
 'What's up ?'

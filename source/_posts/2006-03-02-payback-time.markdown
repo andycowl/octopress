@@ -6,7 +6,6 @@ title: payback time
 layout: post
 comments: true
 ---
-
 I'd just like to say that my Palm Vx repaid me today for a small element
 of all the valuable time it has wasted in the past.
 

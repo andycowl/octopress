@@ -6,7 +6,6 @@ title: in praise of Emacs
 layout: post
 comments: true
 ---
-
 Been using Emacs for years but still learning
 
     M-x sort-lines

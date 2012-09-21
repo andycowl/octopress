@@ -6,7 +6,6 @@ title: travelogue
 layout: post
 comments: true
 ---
-
 People never ask me 'Hey Norman - where has your glamorous globe
 trotting lifestyle as a IT consultant taken you this year ?'
 

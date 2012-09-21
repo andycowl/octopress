@@ -6,7 +6,6 @@ title: Adsense case study for a personal blog
 layout: post
 comments: true
 ---
-
 One of the reasons I
 [decided](http://www.nbrightside.com/blog/2007/05/23/sit-back-and-watch-the-money-roll-in/)
 to put Adsense on this blog was out of sheer curiosity. There are plenty

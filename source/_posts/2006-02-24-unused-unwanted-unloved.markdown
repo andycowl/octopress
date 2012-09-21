@@ -6,7 +6,6 @@ title: unused, unwanted, unloved
 layout: post
 comments: true
 ---
-
 No - not another 'poem' from an angst ridden, lovesick teenager
 listening to Joy Division and Morrissey.
 

@@ -6,7 +6,6 @@ title: playing mind games with Mourinho
 layout: post
 comments: true
 ---
-
 How the big clubs approach the problem...
 
 Manchester United - Alex Ferguson chooses to invite Jose Mourinho to the

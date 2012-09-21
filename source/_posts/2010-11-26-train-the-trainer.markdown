@@ -7,7 +7,6 @@ title: train the trainer
 layout: post
 comments: true
 ---
-
 In my job as a roving IT consultant, I have given a number of technical
 presentations about Siebel. During that time, I have learned that I am
 much more comfortable presenting material and content that I have

@@ -6,7 +6,6 @@ title: don't believe the truth
 layout: post
 comments: true
 ---
-
 I am currently trying to assist with a couple of long standing Service
 Requests. This type of work is interesting because the issue is normally
 pretty deep rooted and complicated. These escalations are also very

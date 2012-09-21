@@ -6,7 +6,6 @@ title: beat the bookie with Brightside
 layout: post
 comments: true
 ---
-
 Seven weeks ago on this blog, I
 [predicted](http://www.nbrightside.com/blog/2007/05/15/manchester-city-announce-new-manager/)
 that Manchester City would appoint a foreign manager.

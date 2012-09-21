@@ -6,7 +6,6 @@ title: if Carlsberg made typos
 layout: post
 comments: true
 ---
-
 My two favourite typos of all time, which are guaranteed to bring a
 smile to my face, are:
 

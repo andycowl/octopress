@@ -6,7 +6,6 @@ title: out of office
 layout: post
 comments: true
 ---
-
 Thank you for your email. I am currently working in a bunker deep
 underground in the heart of Brussels (near Belgium).
 

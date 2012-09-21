@@ -6,7 +6,6 @@ title: Gary Neville - no apology whatsoever
 layout: post
 comments: true
 ---
-
 The Mayor of Liverpool announced that there would a extraordinary 5
 minute silence held across the city tomorrow at 12 noon.
 

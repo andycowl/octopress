@@ -6,7 +6,6 @@ title: surreal taxi ride
 layout: post
 comments: true
 ---
-
 Last Thursday, I enjoyed an superbly entertaining taxi ride back from
 LHR. Unusually, the taxi driver wasn't waiting for me at the meeting
 point. I called the taxi company and was told he was '3 minutes away'.

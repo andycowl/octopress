@@ -6,7 +6,6 @@ title: Google versus Microsoft
 layout: post
 comments: true
 ---
-
 Thankfully, I don't have cause to use Microsoft Excel much. My kids can
 produce pretty charts about the demographics of pet ownership in the
 classroom better and quicker than I can.

@@ -6,7 +6,6 @@ title: Michael Essien
 layout: post
 comments: true
 ---
-
 For the most part, unsung and largely unnoticed at Chelsea. Simply
 outstanding for Ghana against high quality opposition (Italy) yesterday.
 Continually in the action, absolutely everywhere, superb fitness levels,

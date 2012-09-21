@@ -6,7 +6,6 @@ title: June spawned a monster
 layout: post
 comments: true
 ---
-
 Graham started a technical [blog](http://www.digitalteddy.com/techblog/)
 and Andy used the Drupal theme on his new WordPress
 [blog](http://oracleandy.wordpress.com/).

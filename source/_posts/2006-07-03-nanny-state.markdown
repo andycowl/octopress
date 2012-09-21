@@ -6,7 +6,6 @@ title: Nanny state
 layout: post
 comments: true
 ---
-
 Golly. It is very hot today. Thankfully, the UK
 [Government](http://www.met-office.gov.uk/weather/europe/uk/heat_health.html)
 has told me the solution:

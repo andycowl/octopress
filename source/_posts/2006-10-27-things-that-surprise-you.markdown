@@ -6,7 +6,6 @@ title: things that surprise you
 layout: post
 comments: true
 ---
-
 I am slowly trying to fully assimilate and comprehend these facts:
 
 1.  Google is now worth

@@ -6,7 +6,6 @@ title: Copenhagen bound
 layout: post
 comments: true
 ---
-
 Next week, I am bound for the wonderful city of
 [Copenhagen](http://www.nbrightside.com/blog/2006/04/25/wonderful-wonderful-copenhagen/),
 near Denmark. I normally aim to stay in a hotel close to the client

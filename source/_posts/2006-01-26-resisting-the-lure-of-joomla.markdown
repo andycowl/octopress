@@ -6,7 +6,6 @@ title: resisting the lure of Joomla
 layout: post
 comments: true
 ---
-
 Joomla, Chumbawamba, Oompa Loompa
 
 I really like the presentation of Howard Rogers'

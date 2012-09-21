@@ -6,7 +6,6 @@ title: forever in debt to your priceless advice
 layout: post
 comments: true
 ---
-
 Absolutely nobody writes in to ask: 'Norman - what fabulous, chart
 topping, pop-tastic long playing records are on your Christmas list this
 Yuletide ?'

@@ -6,7 +6,6 @@ title: the importance of end users
 layout: post
 comments: true
 ---
-
 Cary Millsap posts a brilliant
 [article](http://carymillsap.blogspot.com/2009/12/my-whole-system-is-slow-now-what.html)
 about his approach to performance troubleshooting that resonated

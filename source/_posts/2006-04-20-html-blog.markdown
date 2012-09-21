@@ -6,7 +6,6 @@ title: HTML > blog
 layout: post
 comments: true
 ---
-
 [Michael Brundage](http://www.qbrundage.com/michaelb/index.html) writes
 an popular article about what it is really like to
 [work](http://www.qbrundage.com/michaelb/pubs/essays/working_at_microsoft.html)

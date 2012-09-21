@@ -6,7 +6,6 @@ title: Cock Watch
 layout: post
 comments: true
 ---
-
 The Guardian has a decent
 [summary](http://www.guardian.co.uk/football/2010/jan/29/manchester-city-garry-cook-sheikh-mansour)
 of the various cock ups, gaffes and clangers dropped by Garry Cock.

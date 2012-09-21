@@ -6,7 +6,6 @@ title: the unbearable coolness of VOIP
 layout: post
 comments: true
 ---
-
 As part of my job, I often have the pleasure of walking around call
 centers where agents use headsets to enable them to interact with a
 computer while conducting a telephone call with a customer.

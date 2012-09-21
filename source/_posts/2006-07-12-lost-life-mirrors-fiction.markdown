@@ -6,7 +6,6 @@ title: Lost - life mirrors fiction
 layout: post
 comments: true
 ---
-
 When I visit customers, I am usually granted read-access to production
 servers. Mostly I am working closely with IT staff to explain what I am
 doing and why. I am not normally granted the passwords to administer the

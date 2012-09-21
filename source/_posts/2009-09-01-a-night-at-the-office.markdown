@@ -6,7 +6,6 @@ title: a night at The Office
 layout: post
 comments: true
 ---
-
 On Saturday night, BBC2 broadcast a
 [retrospective](http://www.bbc.co.uk/blogs/comedy/2009/08/ricky-gervais-a-night-at-the-office.shtml)
 on 'The Office' and broadcast all of Series 1 together with soundbites

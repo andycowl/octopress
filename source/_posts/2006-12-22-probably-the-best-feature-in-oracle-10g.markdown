@@ -6,7 +6,6 @@ title: probably the best feature in Oracle 10g
 layout: post
 comments: true
 ---
-
 Regularly refreshing Oracle statistics on all tables, indexes and column
 histograms flushes the shared pool and can occasionally lead to some
 unexpected and unpleasant surprises.

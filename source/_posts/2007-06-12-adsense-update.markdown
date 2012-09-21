@@ -6,7 +6,6 @@ title: Adsense update
 layout: post
 comments: true
 ---
-
 After a promising start, the recent introduction of
 [Adsense](../2007/05/23/sit-back-and-watch-the-money-roll-in) on this
 blog is seriously floundering. I am bitterly disappointed with the

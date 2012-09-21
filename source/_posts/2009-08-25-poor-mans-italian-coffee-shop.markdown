@@ -6,7 +6,6 @@ title: poor man's Italian coffee shop
 layout: post
 comments: true
 ---
-
 Most companies I viist have a (subsidised) coffee shop so I am used to
 waiting for my morning coffee and hearing a wide variety of exotic
 concoctions called out to the eager, caffeine starved workforce.

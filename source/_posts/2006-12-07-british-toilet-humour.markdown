@@ -6,7 +6,6 @@ title: British toilet humour
 layout: post
 comments: true
 ---
-
 I suspect the following notice in not uncommon in toilets throughout the
 world.
 > Please show consideration for others and leave this toilet in a state

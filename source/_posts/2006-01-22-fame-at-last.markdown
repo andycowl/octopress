@@ -6,7 +6,6 @@ title: Fame at last
 layout: post
 comments: true
 ---
-
 For some reason, this blog now appears on [One Million
 Blogs](http://www.onemillionblogs.net/), which is derived from the
 [Million Dollar Homepage](http://www.milliondollarhomepage.com/) that

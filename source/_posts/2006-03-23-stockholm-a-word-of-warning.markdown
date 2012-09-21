@@ -6,7 +6,6 @@ title: Stockholm - a word of warning
 layout: post
 comments: true
 ---
-
 Just because Prince Philip
 [confirms](http://www.nbrightside.com/blog/2006/03/19/by-royal-appointment/)
 your [hotel](http://www.princephilip.se/eng/index.php3) booking, don't

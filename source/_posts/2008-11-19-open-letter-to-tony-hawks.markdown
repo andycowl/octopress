@@ -6,7 +6,6 @@ title: open letter to Tony Hawks
 layout: post
 comments: true
 ---
-
 This is the first in a series of 'open letters' when I send emails to
 people who I admire or have had a major influence on my life.
 

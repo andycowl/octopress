@@ -6,7 +6,6 @@ title: strategies for making friends on social networks
 layout: post
 comments: true
 ---
-
 Early Jurassic - Mum takes you to playgroup, kicking and screaming and
 your friends are forced upon you. Free milk at 11 am.
 

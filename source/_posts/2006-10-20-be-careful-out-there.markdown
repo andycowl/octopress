@@ -6,7 +6,6 @@ title: be careful out there
 layout: post
 comments: true
 ---
-
 Apologies for the brief radio silence.
 
 I was shocked and alarmed by this

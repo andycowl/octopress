@@ -6,7 +6,6 @@ title: open letter to Howard Rogers
 layout: post
 comments: true
 ---
-
 Howard
 
 When Tim Hall

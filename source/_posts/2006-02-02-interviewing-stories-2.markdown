@@ -6,7 +6,6 @@ title: 'interviewing stories #2'
 layout: post
 comments: true
 ---
-
 I once sat on an interview panel. Each interviewer would briefly
 summarise the strengths and weaknesses of each candidate and a decision
 would be made by consensus.

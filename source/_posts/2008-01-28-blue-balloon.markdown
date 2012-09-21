@@ -6,7 +6,6 @@ title: Blue balloon
 layout: post
 comments: true
 ---
-
 > Blue Balloon\
 >  You saw me standing alone \
 >  All those balloons in front of Joe Hart\

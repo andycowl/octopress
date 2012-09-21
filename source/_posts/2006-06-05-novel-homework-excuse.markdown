@@ -6,7 +6,6 @@ title: novel homework excuse
 layout: post
 comments: true
 ---
-
 Another article in this occasional (and extremely popular)
 [series](http://www.nbrightside.com/blog/2006/02/06/new-homework-excuse/).
 

@@ -6,7 +6,6 @@ title: small is beautiful
 layout: post
 comments: true
 ---
-
 I had a beautifully crafted draft that said...
 > So MySpace has a staggering [55
 > million](http://money.cnn.com/2006/02/16/technology/business2_myspace0216/)

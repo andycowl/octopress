@@ -6,7 +6,6 @@ title: Paul Stamatiou, I salute you
 layout: post
 comments: true
 ---
-
 Have a look at this [blog](http://www.paulstamatiou.com/). Lots of
 interesting, varied material, frequently updated, nicely presented,
 excellent use of images, easy to navigate, searchable, well structured

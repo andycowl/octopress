@@ -6,6 +6,5 @@ title: moving house
 layout: post
 comments: true
 ---
-
 Please [update](http://my.telegraph.co.uk/lordst_stevensbarnstormworth/)
 your bookmarks and feeds with immediate effect.

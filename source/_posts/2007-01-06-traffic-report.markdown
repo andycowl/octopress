@@ -6,7 +6,6 @@ title: traffic report
 layout: post
 comments: true
 ---
-
 The year end always sees lots of people post meaningless stats about
 blog traffic. Unfortunately, I only have tracking data since my move to
 Bluehost in late September but I am not going to let that stop me.

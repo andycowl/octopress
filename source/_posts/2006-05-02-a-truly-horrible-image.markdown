@@ -6,7 +6,6 @@ title: a truly horrible image
 layout: post
 comments: true
 ---
-
 I dearly wish I had not opened a newspaper this weekend.
 
 The image of John

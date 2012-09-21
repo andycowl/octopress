@@ -6,7 +6,6 @@ title: dumb, captive animals at Australia zoo
 layout: post
 comments: true
 ---
-
 I'm not a big fan of zoos but in Brisbane, we visited [Australia
 Zoo](http://www.australiazoo.com.au/about-us/the-irwins/) as it had been
 recommended by a few people. Also, we were keen to see some native

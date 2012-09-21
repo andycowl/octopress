@@ -6,7 +6,6 @@ title: Snap made me finally snap
 layout: post
 comments: true
 ---
-
 Thankfully, Scoble has finally found the '[Disable
 Snap](http://scobleizer.com/2007/01/30/i-removed-snaps-previews-from-here/)'
 button on his WP

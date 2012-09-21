@@ -6,7 +6,6 @@ title: plans for the weekend
 layout: post
 comments: true
 ---
-
 My friends were disappointed, insulted and absolutely mortified at the
 suggestion (from a
 [comment](http://www.nbrightside.com/blog/2007/07/10/damned-with-faint-praise/#comment-83082)

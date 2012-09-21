@@ -6,7 +6,6 @@ title: Mike Ashley reverse 914 scam uncovered
 layout: post
 comments: true
 ---
-
 From the desk of Mr. Ashley. Good day. Private message to you.
 
 I know you don't mind me contacting you by this means since we have not

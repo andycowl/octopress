@@ -6,7 +6,6 @@ title: The Killers
 layout: post
 comments: true
 ---
-
 The Killers are in the UK to promote 'Sam's Town' and their new facial
 hair. The band made an
 [appearance](http://youtube.com/watch?v=P4knkxYGz5I) on Jonathan Ross'

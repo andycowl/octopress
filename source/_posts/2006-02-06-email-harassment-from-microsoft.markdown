@@ -6,7 +6,6 @@ title: email harassment (from Microsoft)
 layout: post
 comments: true
 ---
-
 The BBC [reports](http://news.bbc.co.uk/2/hi/uk_news/4682462.stm) that 1
 in 8 people have been 'harassed by email'. But what is amusing about
 this story is the screenshot that shows an Inbox displaying emails

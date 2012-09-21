@@ -6,7 +6,6 @@ title: 'Most Haunted #1'
 layout: post
 comments: true
 ---
-
 I have been playing a CD in my car on Disc-Random-Shuffle mode for ten
 weeks. The CD contains close to 200 songs. I have heard all the songs
 once, some twice and a handful three times.

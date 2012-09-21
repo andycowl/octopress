@@ -6,7 +6,6 @@ title: Adsense milestone
 layout: post
 comments: true
 ---
-
 It is just over six months since I first
 [placed](http://www.nbrightside.com/blog/2007/05/23/sit-back-and-watch-the-money-roll-in/)
 banner ads on this blog and, much to my surprise, the accumulated income

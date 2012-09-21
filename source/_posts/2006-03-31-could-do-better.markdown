@@ -6,7 +6,6 @@ title: could do better
 layout: post
 comments: true
 ---
-
 Some people might have expected the clock on an expensive Sony digital
 car
 [radio](http://www.nbrightside.com/blog/2005/11/12/sony-car-radiocddab/)

@@ -6,7 +6,6 @@ title: How to write for your blog
 layout: post
 comments: true
 ---
-
 Take some time to think of ideas and develop content for the blog. I
 tend to jot down lots of different ideas for possible brilliant,
 informative articles for the blog. However, most get discarded as when I

@@ -6,7 +6,6 @@ title: sync, sync, sync
 layout: post
 comments: true
 ---
-
 [With apologies to Cabaret
 [Voltaire](http://www.amazon.co.uk/Nag-Cabaret-Voltaire/dp/B00006IK6Y)]
 

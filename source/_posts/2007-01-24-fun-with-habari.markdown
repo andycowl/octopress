@@ -1,12 +1,11 @@
 ---
 date: '2007-01-24 21:27:13'
 categories:
-    - uncategorised
+    - habari
 title: fun with Habari
 layout: post
 comments: true
 ---
-
 There's been a lot of
 [excitement](http://www.brokenkode.com/archives/habari/) and
 [discussion](http://www.bloggingpro.com/archives/2007/01/08/habari-a-new-blogging-tool/)

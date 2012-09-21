@@ -6,7 +6,6 @@ title: dyslexic graffiti
 layout: post
 comments: true
 ---
-
 Driving along the M25, my son noticed some large graffiti on a bridge
 
 > 'Give peas a chance'

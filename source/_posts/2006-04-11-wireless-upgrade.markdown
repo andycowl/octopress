@@ -6,7 +6,6 @@ title: wireless upgrade
 layout: post
 comments: true
 ---
-
 I have been experiencing more wireless
 [weirdness](http://www.nbrightside.com/blog/2006/02/24/wireless-wierdness/)
 recently. What once was stable and reliable has become increasingly

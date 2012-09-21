@@ -6,7 +6,6 @@ title: screaming babies
 layout: post
 comments: true
 ---
-
 Another criteria for the inverse law of
 [airports](http://www.nbrightside.com/blog/2006/06/12/inverse-law-of-airports/).
 The strange thing is, you are most susceptible and sensitive to a

@@ -6,7 +6,6 @@ title: John Peel and The Chameleons
 layout: post
 comments: true
 ---
-
 Thoroughly enjoying '[Margave of the
 Marshes](http://www.nbrightside.com/blog/2006/09/07/margrave-of-the-marshes/)'
 and pleased to see [The

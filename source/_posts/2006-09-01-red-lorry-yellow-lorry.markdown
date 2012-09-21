@@ -6,7 +6,6 @@ title: Red lorry, yellow lorry
 layout: post
 comments: true
 ---
-
 Dear Red Lorry
 
 You are a similar size to yellow lorry. You are a similar weight to

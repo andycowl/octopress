@@ -6,7 +6,6 @@ title: hostelries in West Bromwich
 layout: post
 comments: true
 ---
-
 Days Inn Hotel. No restaurant service 'because it is Christmas'. No
 cooked breakfast 'because it is Christmas'. No Sky Sports which is
 normally available but has been withdrawn 'because it is Christmas'.

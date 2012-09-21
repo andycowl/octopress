@@ -6,7 +6,6 @@ title: 'recycle pool #1: Oracle '
 layout: post
 comments: true
 ---
-
 Good evening. My name is 'Google Bot'. It was a difficult (N-P complete)
 and very time consuming task to decide on the precise content for this
 article. After all, I have crawled 2.6 billion pages in the last seven

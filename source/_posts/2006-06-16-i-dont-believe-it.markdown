@@ -6,6 +6,5 @@ title: I don't believe it
 layout: post
 comments: true
 ---
-
 England qualifying for the last 16 in the World Cup after those two very
 mediocre displays.

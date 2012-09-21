@@ -6,7 +6,6 @@ title: night out in London
 layout: post
 comments: true
 ---
-
 Last night, I enjoyed a pleasant evening in this
 [pub](http://www.beerintheevening.com/pubs/s/26/2611/Sun_Tavern/Covent_Garden)
 with a few friends. We watched a mediocre team in white draw with a

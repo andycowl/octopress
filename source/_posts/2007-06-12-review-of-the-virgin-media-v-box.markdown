@@ -6,7 +6,6 @@ title: review of the Virgin Media V+ box
 layout: post
 comments: true
 ---
-
 I
 [upgraded](http://www.nbrightside.com/blog/2007/03/09/free-upgrades-from-virgin-media/)
 to a Virgin Media V+ service three months ago. Although I have had some

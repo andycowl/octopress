@@ -6,7 +6,6 @@ title: more statistics from WordPress
 layout: post
 comments: true
 ---
-
 Just noticed that those nice people at Wordpress.com have added
 aggregated statistics over 7 and 30 days.
 

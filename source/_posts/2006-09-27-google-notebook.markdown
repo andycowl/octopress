@@ -6,7 +6,6 @@ title: Google Notebook
 layout: post
 comments: true
 ---
-
 Google recently announced some
 [enhancements](http://www.google.com/googlenotebook/newfeatures.html) to
 the [Notebook](http://www.google.com/notebook) and I must admit that,

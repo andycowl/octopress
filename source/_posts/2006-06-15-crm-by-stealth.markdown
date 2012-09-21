@@ -6,7 +6,6 @@ title: CRM by stealth
 layout: post
 comments: true
 ---
-
 I was travelling on a train in Stockholm today when a man walked through
 the carriage selling something. Unlike London, he wasn't flogging copies
 of the 'Big Issue' to feed his dog or demanding money with menaces.

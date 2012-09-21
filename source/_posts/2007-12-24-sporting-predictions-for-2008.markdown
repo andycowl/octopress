@@ -6,7 +6,6 @@ title: sporting predictions for 2008
 layout: post
 comments: true
 ---
-
 January - Andy Murray reaches the quarter finals of the Australian Open
 but mysteriously withdraws citing a 'bad hair day'. An inquiry is
 immediately launched into irregular gambling patterns preceding the

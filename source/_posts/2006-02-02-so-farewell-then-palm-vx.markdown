@@ -6,7 +6,6 @@ title: so farewell then, Palm Vx
 layout: post
 comments: true
 ---
-
 A couple of messages to the kind person who accidentally took my Palm Vx
 from the safety of its docking cradle. Clearly, like me, you can resist
 everything but temptation.

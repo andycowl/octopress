@@ -6,7 +6,6 @@ title: plans for the weekend, Sir ?
 layout: post
 comments: true
 ---
-
 What could possibly be better than a romantic city break in Amsterdam
 with your loved one in the glorious spring sunshine ?
 

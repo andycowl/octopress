@@ -6,7 +6,6 @@ title: British Airways - making travel easier
 layout: post
 comments: true
 ---
-
 Once upon a time, I flew back from Lausanne in Switzerland to London.
 Although the skies were clear, there had been heavy thunderstoms earlier
 in the day so the plane was forced to hold above Heathrow. We flew

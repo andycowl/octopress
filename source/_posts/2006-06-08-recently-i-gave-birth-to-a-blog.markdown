@@ -6,7 +6,6 @@ title: Recently I Gave Birth To A Blog
 layout: post
 comments: true
 ---
-
 ...and it really hurt.
 
 I continue to be intrigued by this

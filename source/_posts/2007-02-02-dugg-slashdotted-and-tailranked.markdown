@@ -6,7 +6,6 @@ title: dugg, slashdotted and tailranked
 layout: post
 comments: true
 ---
-
 Dear Reader
 
 My cruel owner got very excited last night when he went to play with his

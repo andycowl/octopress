@@ -6,7 +6,6 @@ title: consolidation
 layout: post
 comments: true
 ---
-
 Occasionally, I have posted stuff on Posterous and Tumblr because I
 didn't really feel it ‘belonged' on this blog, it wasn't worthy or it
 was a throwaway one-liner and not a proper blog post. As I subsequently

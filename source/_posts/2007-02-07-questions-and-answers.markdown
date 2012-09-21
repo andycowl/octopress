@@ -6,7 +6,6 @@ title: questions and answers
 layout: post
 comments: true
 ---
-
 Over the past couple of days, much to my surprise, I have actually
 managed to answer some questions.
 

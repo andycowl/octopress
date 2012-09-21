@@ -6,7 +6,6 @@ title: here we go
 layout: post
 comments: true
 ---
-
 The mySql database for this WordPress blog was unavailable at 18:45.
 
 Service was restored at 19:15.

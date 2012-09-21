@@ -6,7 +6,6 @@ title: holiday highlights
 layout: post
 comments: true
 ---
-
 The annual Brightside family vacation in Norway is now over and the
 nominations for 'Highlight of the Holiday' have just been received:
 

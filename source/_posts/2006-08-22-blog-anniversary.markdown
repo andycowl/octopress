@@ -6,7 +6,6 @@ title: blog anniversary
 layout: post
 comments: true
 ---
-
 The first blog I ever saw was this
 [one](http://fleetie.livejournal.com/) (this
 [entry](http://fleetie.livejournal.com/12067.html) to be precise) and to

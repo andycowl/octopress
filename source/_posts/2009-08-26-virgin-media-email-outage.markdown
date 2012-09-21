@@ -6,7 +6,6 @@ title: Virgin Media email outage
 layout: post
 comments: true
 ---
-
 Virgin Media email has been
 [down](http://status-cable.virginmedia.com/vmstatus/serviceissue.do?ticket=1066470)
 for 48 hours and counting...

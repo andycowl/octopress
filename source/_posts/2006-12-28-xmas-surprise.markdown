@@ -6,7 +6,6 @@ title: Xmas surprise
 layout: post
 comments: true
 ---
-
 Cousin John called with best wishes for the New Year and just wanted to
 mention the Billy Connolly double CD. He was absolutely delighted with
 this thoughtful gift and was looking forward immensely to listening to

@@ -6,7 +6,6 @@ title: UKOUG agenda
 layout: post
 comments: true
 ---
-
 Monday 3 December
 
 Get up very early and drive to Birmingham.

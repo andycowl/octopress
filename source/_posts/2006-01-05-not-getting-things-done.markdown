@@ -6,7 +6,6 @@ title: not getting things done
 layout: post
 comments: true
 ---
-
 Dear Cathy and Clare
 
 I am increasingly worried about the size of my Inbox. I am almost

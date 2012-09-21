@@ -6,7 +6,6 @@ title: watching you watching me
 layout: post
 comments: true
 ---
-
 The more observant among you will have noticed the addition of a
 [StatCounter](http://www.statcounter.com/) button to the sidebar.
 

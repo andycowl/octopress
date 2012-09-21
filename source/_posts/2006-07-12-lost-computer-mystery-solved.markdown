@@ -6,7 +6,6 @@ title: Lost - computer mystery solved
 layout: post
 comments: true
 ---
-
 On message [boards](http://www.losttv-forum.com/forum/) and
 [blogs](http://www.filmfodder.com/tv/lost/) around the interweb, fans of
 the TV series '[Lost](http://abc.go.com/primetime/lost/index.html)' are

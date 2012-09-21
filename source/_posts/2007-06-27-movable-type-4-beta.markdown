@@ -6,7 +6,6 @@ title: Movable Type 4 (beta)
 layout: post
 comments: true
 ---
-
 No one ever asks me: 'Hey, Norman - why haven't you installed Movable
 Type 4 (beta) yet ?'
 

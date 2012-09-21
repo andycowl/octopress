@@ -6,7 +6,6 @@ title: top 10 concerts of all time
 layout: post
 comments: true
 ---
-
 1.  The Fall - Hazel Grove Youth Club (1979) - 'We are The Fall. Rule
     One: no-one gets on stage. Rule Two: no spitting. Rule Three: no
     requests.'

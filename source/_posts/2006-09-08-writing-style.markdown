@@ -6,7 +6,6 @@ title: writing style
 layout: post
 comments: true
 ---
-
 Judy Rose has an interesting article on the importance of writing
 [style](http://writingenglish.wordpress.com/2006/08/21/good-writing-it-makes-a-difference/)
 and Paul Stamatiou also has some excellent

@@ -6,7 +6,6 @@ title: am I a Google whore yet ?
 layout: post
 comments: true
 ---
-
 'OK. OK. I give in. Please stop hurting me, Brin. I now realise that
 resistance is futile.'
 

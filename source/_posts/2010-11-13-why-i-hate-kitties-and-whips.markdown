@@ -7,7 +7,6 @@ categories:
     - uk
     - humour
 ---
-
 I was recently in a pub when a lady looked expectantly at me and said
 ‘Fancy a whip for this ?' I looked a little taken aback and hesitated
 until she helpfully clarified ‘A kitty. For the drinks. Shall we have a

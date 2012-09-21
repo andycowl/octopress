@@ -6,7 +6,6 @@ title: plugin extravaganza
 layout: post
 comments: true
 ---
-
 The observant reader will have noticed some minor changes to the
 sidebar. The thousands of one hit wonders from Google won't.
 

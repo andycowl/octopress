@@ -6,7 +6,6 @@ date: '2007-05-25 07:47:15'
 categories:
     - google
 ---
-
 The recent
 [storm](http://scobleizer.com/2007/05/23/dog-distrustdisdain-of-google-moves-in/)
 in the

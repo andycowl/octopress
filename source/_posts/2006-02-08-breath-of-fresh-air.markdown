@@ -6,7 +6,6 @@ title: breath of fresh air
 layout: post
 comments: true
 ---
-
 It's easy to get carried away with all this Web 2.0 nonsense. So while
 you are trawling the blogosphere, desperately looking for invites to
 [CoComment](http://www.cocomment.com/) and seeing whether [30

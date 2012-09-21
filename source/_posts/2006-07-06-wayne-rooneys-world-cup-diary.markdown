@@ -6,7 +6,6 @@ title: Wayne Rooney's World Cup diary
 layout: post
 comments: true
 ---
-
 Saturday 1 July
 
 Get sent off. Lose to Portugal on penalties. After the game, Sven is

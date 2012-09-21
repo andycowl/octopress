@@ -6,7 +6,6 @@ title: thoughts on digital radio
 layout: post
 comments: true
 ---
-
 Two things that are not immediately obvious about digital radio.
 
 1.  Not all DAB stations are national. You may be able to listen to

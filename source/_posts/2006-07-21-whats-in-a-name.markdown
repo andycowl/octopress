@@ -6,7 +6,6 @@ title: what's in a name ?
 layout: post
 comments: true
 ---
-
 There's nothing worse than slaving away all day over a hot keyboard
 trying to coerce various pieces of software to synchronise a single
 customer record from one legacy system to another.

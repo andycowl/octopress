@@ -6,7 +6,6 @@ title: Unix for lazy people
 layout: post
 comments: true
 ---
-
 I am a very efficient lazy person. I don't like to type seven characters
 when two will suffice. I think Unix is a fantastic development
 environment. However, the overly long, verbose commands irritate me

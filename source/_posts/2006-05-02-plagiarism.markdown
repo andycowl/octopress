@@ -6,7 +6,6 @@ title: Plagiarism
 layout: post
 comments: true
 ---
-
 ...begins at home and is often misspelled.
 
 I didn't mind [Tom Kyte](http://tkyte.blogspot.com/) copying my

@@ -6,7 +6,6 @@ title: worry ye not
 layout: post
 comments: true
 ---
-
 My mailbox is bulging with letters from recent and occasional visitors
 worried that they may have missed some WordPress themes in the recent
 blitzkrieg of posts during the ongoing and exciting Theme

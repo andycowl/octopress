@@ -6,7 +6,6 @@ title: Guilty Pleasures
 layout: post
 comments: true
 ---
-
 OK. I [own](http://www.nbrightside.com/blog/2005/12/22/confession-time/)
 up. Although I have superb
 [taste](http://www.nbrightside.com/blog/2005/11/13/music-for-a-very-long-car-journey/)

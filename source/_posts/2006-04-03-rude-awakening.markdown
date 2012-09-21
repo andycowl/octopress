@@ -6,7 +6,6 @@ title: rude awakening
 layout: post
 comments: true
 ---
-
 I was at my desk at 09.05 this Monday morning. Nothing extraordinary
 there but considering I live in South West London and this particular
 desk was in Newcastle, this represented quite an achievement. And this

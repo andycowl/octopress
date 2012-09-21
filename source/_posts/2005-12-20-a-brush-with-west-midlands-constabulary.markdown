@@ -6,7 +6,6 @@ title: a brush with West Midlands constabulary
 layout: post
 comments: true
 ---
-
 I am fortunate that my job takes me to lots of exotic locations (Prague,
 Bergen, Amsterdam, Munich, Oslo, Nice, Paris) and now, err, West
 Bromwich.

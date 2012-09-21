@@ -6,7 +6,6 @@ title: a night of outrageous flirting in Copenhagen
 layout: post
 comments: true
 ---
-
 [Well, my SEO professor said it was much better than 'Sports Bars of
 Europe \#7']
 

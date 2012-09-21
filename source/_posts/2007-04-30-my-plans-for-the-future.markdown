@@ -6,7 +6,6 @@ title: my plans for the future
 layout: post
 comments: true
 ---
-
 The climax of the football season is currently dominating my life
 somewhat. However, I feel obliged to inform the world of my exciting
 plans for the next fortnight.

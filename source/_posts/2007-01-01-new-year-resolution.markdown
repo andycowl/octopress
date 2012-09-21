@@ -6,7 +6,6 @@ title: New Year resolution
 layout: post
 comments: true
 ---
-
 I hereby pledge to carefully research every single customer I will be
 visiting. This means talking to the account manager, reviewing
 outstanding service requests and making a courtesy call to the technical

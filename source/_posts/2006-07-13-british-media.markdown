@@ -6,7 +6,6 @@ title: British media
 layout: post
 comments: true
 ---
-
 Occasionally, I have had the odd dig at the parochial, inward looking
 nature of the US TV
 and[printed](http://www.nbrightside.com/blog/2006/06/14/the-imminent-death-of-newspapers/)

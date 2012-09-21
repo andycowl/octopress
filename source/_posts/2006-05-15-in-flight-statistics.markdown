@@ -6,7 +6,6 @@ title: in flight statistics
 layout: post
 comments: true
 ---
-
 510 - duration in minutes of the (direct) flight from LHR to SEA
 
 0 (zero) - number of times my immediate neighbour left his seat to

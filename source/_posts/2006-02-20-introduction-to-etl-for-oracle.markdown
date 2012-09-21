@@ -6,7 +6,6 @@ title: introduction to ETL for Oracle
 layout: post
 comments: true
 ---
-
 There are a variety of methods to extract, transform and load (ETL) data
 in and out of an Oracle database. This short article provides an
 overview of some of the basic options that are supplied with Oracle.

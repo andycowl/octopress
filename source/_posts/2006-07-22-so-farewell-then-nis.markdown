@@ -6,7 +6,6 @@ title: so farewell then, NIS
 layout: post
 comments: true
 ---
-
 Norton Internet Security
 
 Our love affair began back in the days of running a cable across my

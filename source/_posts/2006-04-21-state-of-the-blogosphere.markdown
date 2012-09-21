@@ -6,7 +6,6 @@ title: state of the blogosphere
 layout: post
 comments: true
 ---
-
 Web 2.0 aficionados, across the globe, held their collective breath
 today as Mr. Norman Brightside, a little known and largely unsung
 blogger, from Newcastle (near Norway) delivered his much awaited,

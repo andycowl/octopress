@@ -6,7 +6,6 @@ title: in praise of Disqus
 layout: post
 comments: true
 ---
-
 Disqus recently released a
 [update](http://blog.disqus.net/2008/08/12/introducing-the-new-disqus/)
 which includes the ability to export comments on a WordPress blog so I

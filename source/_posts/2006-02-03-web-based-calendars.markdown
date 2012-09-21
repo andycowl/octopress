@@ -6,7 +6,6 @@ title: Web based calendars
 layout: post
 comments: true
 ---
-
 I have been thinking (yes I do a lot of that) recently about managing my
 personal calendar more effectively. Ideally, I would like a simple Web
 based calendar that could also sync to my Palm.

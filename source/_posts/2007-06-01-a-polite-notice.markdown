@@ -6,7 +6,6 @@ title: a polite notice
 layout: post
 comments: true
 ---
-
 Two weeks ago, I was working in the beautiful city of Oslo. After a
 couple of hours, the client finally couldn't take any more of my tedious
 hand-waving and badly drawn architecture diagrams so he suggested we had

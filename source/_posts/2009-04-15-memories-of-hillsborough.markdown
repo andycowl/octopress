@@ -6,7 +6,6 @@ title: memories of Hillsborough
 layout: post
 comments: true
 ---
-
 On Wednesday 11 January 1989, I went to Loftus Road to see Manchester
 United play QPR in an FA Cup 3rd round replay.
 

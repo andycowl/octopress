@@ -6,7 +6,6 @@ title: mascot mismatch
 layout: post
 comments: true
 ---
-
 Why did all the England players have tiny, little mascots apart from
 Michael Owen who had a strapping teenager who was actually taller than
 him ?

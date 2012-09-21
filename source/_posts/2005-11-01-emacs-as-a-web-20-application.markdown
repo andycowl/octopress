@@ -6,7 +6,6 @@ title: Emacs as a Web 2.0 application
 layout: post
 comments: true
 ---
-
 When I started this blog, I simply composed the posts in the Blogger
 editor which was adequate. Until one day, when I lost the complete text
 of a draft posting due to finger trouble. As I laboriously re-typed my

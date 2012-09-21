@@ -6,7 +6,6 @@ title: now on Habari
 layout: post
 comments: true
 ---
-
 I simply couldn't resist the temptation any longer so this blog is now
 running on [Habari](http://habariproject.org/en/) because:
 

@@ -6,7 +6,6 @@ title: The National - Royal Albert Hall
 layout: post
 comments: true
 ---
-
 After weeks of anticipation, the day finally dawned - Thursday 6 May and
 The National's concert at the Royal Albert Hall.
 

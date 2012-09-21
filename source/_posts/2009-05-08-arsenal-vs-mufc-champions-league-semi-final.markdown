@@ -6,7 +6,6 @@ title: Arsenal vs MUFC - Champions League Semi Final
 layout: post
 comments: true
 ---
-
 Unfortunately, I wasn't able to get a ticket to the Emirates on Tuesday
 night so here is my match report culled from my stream of inane drivel
 on [identi.ca](http://identi.ca/andyc/).

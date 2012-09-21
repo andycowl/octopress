@@ -6,7 +6,6 @@ title: the black stuff
 layout: post
 comments: true
 ---
-
 Had a drink in [The
 Plough](http://www.pub-explorer.com/herts/pub/ploughleverstockgreen.htm)
 in [Hemel

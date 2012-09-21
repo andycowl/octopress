@@ -6,7 +6,6 @@ title: credit card security
 layout: post
 comments: true
 ---
-
 Yesterday, I had a credit card transaction rejected which is always a
 little embarrassing. Thankfully, this was over the phone and not in a
 shop where embarrassed people would quickly avert their gaze, thinking

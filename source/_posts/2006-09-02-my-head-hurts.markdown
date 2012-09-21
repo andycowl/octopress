@@ -6,7 +6,6 @@ title: my head hurts
 layout: post
 comments: true
 ---
-
 Tough week. Lots of driving to and from the bleak, industrial North.
 Lots of head scratching, pouring over computers and log files, talking
 to different people, all working together to try to fix a difficult,

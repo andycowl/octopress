@@ -6,7 +6,6 @@ title: Web 2.0 - am I infected ?
 layout: post
 comments: true
 ---
-
 Email
 
 1.  You use ELM on a VT220.

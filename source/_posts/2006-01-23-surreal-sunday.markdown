@@ -6,7 +6,6 @@ title: surreal Sunday
 layout: post
 comments: true
 ---
-
 Amazing news - whales have feelings and can understand humans.
 
 'How a wave of human compassion will have comforted the whale in his

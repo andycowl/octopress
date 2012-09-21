@@ -6,7 +6,6 @@ title: Virgin Media V-- downgrade
 layout: post
 comments: true
 ---
-
 Inevitably, my new best friend, Michael, the Virgin Media engineer
 didn't return on Friday afternoon to complete the
 [installation](http://www.nbrightside.com/blog/2007/03/23/virgin-media-v-upgrade/)

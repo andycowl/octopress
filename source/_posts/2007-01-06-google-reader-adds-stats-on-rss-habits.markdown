@@ -6,7 +6,6 @@ title: Google Reader adds stats on RSS habits
 layout: post
 comments: true
 ---
-
 I have experimented with many different RSS
 [readers](http://www.nbrightside.com/blog/2005/12/13/comparison-of-rss-readers/)
 in the past. However, in recent months, nothing has managed to dislodge

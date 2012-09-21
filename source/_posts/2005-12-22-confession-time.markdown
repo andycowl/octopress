@@ -6,7 +6,6 @@ title: confession time
 layout: post
 comments: true
 ---
-
 Dear Jeff Bozos
 
 It is 39 years and 7 months since my last confession.

@@ -6,7 +6,6 @@ title: recursive financial advice from the BBC
 layout: post
 comments: true
 ---
-
 The BBC have a program called 'Pay off your mortgage in 2 years'.
 Tonight's episode featured a couple from
 [Cornwall](http://www.thisisthewestcountry.co.uk/the_west_country/cornwall_redruth_camborne/news/CORNWALL_REDRUTH_CAMBORNE_NEWS_NEWS3.html)

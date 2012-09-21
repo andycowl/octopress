@@ -6,7 +6,6 @@ title: float in isolation
 layout: post
 comments: true
 ---
-
 Many years ago, in a parallel universe not far from here, I worked for a
 small dot com Internet company.
 

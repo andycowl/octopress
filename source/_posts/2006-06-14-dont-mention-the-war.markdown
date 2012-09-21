@@ -6,7 +6,6 @@ title: don't mention the war
 layout: post
 comments: true
 ---
-
 > 'I am really sorry that we have 125 German tourists staying in the
 > hotel.'
 

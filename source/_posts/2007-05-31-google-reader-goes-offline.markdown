@@ -6,7 +6,6 @@ title: Google Reader goes offline
 layout: post
 comments: true
 ---
-
 Not it's not unavailable but Google have added support for
 [offline](http://googlereader.blogspot.com/2007/05/oh-sam-i-am-can-i-read-it-on-tram.html)
 reading of up to 2,000 items using the recently announced Google

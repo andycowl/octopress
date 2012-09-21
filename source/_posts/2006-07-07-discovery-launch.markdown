@@ -6,7 +6,6 @@ title: Discovery launch
 layout: post
 comments: true
 ---
-
 This superb
 [photograph](http://www.nasa.gov/images/content/151717main_image_feature_607_ys_full.jpg)
 from

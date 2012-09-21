@@ -6,7 +6,6 @@ title: word of caution
 layout: post
 comments: true
 ---
-
 I used to politely spurn all invitations to join
 [LinkedIn.com](http://www.nbrightside.com/blog/2006/03/03/linkedincom/)
 with 'No thanks. I already get enough spam email'.

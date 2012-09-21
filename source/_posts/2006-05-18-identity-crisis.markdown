@@ -6,7 +6,6 @@ title: identity crisis
 layout: post
 comments: true
 ---
-
 Dear Reader
 
 Apologies but it has indeed been a long time since my last

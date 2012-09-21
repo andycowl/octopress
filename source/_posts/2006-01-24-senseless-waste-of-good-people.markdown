@@ -6,7 +6,6 @@ title: senseless waste of good people
 layout: post
 comments: true
 ---
-
 Mark Burgess once introduced 'Here Today' with these words.
 
 I just read on [The Chameleons](http://www.thechameleons.com/) message

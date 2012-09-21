@@ -6,7 +6,6 @@ title: UK tabloid Daily Express files for bankruptcy
 layout: post
 comments: true
 ---
-
 Finally, after nine years, we now learn that Princess Diana (Queen Of
 Our Hearts ©) was actually
 [killed](http://news.bbc.co.uk/1/hi/uk/6170763.stm) by a drunk driver

@@ -6,7 +6,6 @@ title: floating on air
 layout: post
 comments: true
 ---
-
 During a ritual purge of 'Inbox', I just discovered the following email
 
 > Years ago, in a different life. I worked as an Oracle DBA for a dot

@@ -6,7 +6,6 @@ title: infrequent flyer
 layout: post
 comments: true
 ---
-
 Well it's been a while but tomorrow I will be resuming my battle with
 BAA security
 [staff](http://www.nbrightside.com/blog/2006/01/16/revenge-of-the-baa-queue-monitor/)

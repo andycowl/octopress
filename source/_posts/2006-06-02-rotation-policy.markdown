@@ -6,7 +6,6 @@ title: rotation policy
 layout: post
 comments: true
 ---
-
 WordPress has a total of 37 themes. I have recently fallen out with my
 long standing favourite and top scorer, Regulus 2.1.3, after he
 blatantly deceived me over the state of his CSS injury.

@@ -6,7 +6,6 @@ title: the art of lazy programming
 layout: post
 comments: true
 ---
-
 Throw away that Mavis Beacon touch typing CD.
 
 This hilarious

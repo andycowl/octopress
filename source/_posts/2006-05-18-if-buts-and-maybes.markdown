@@ -6,7 +6,6 @@ title: if, buts and maybes
 layout: post
 comments: true
 ---
-
 With apologies to Mr. [Kipling](http://www.kipling.org.uk/poems_if.htm)
 (who does bake exceedingly good cakes) and Tele Savalas
 

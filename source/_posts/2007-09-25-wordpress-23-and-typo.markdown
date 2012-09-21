@@ -6,7 +6,6 @@ title: WordPress 2.3 and Typo
 layout: post
 comments: true
 ---
-
 I have upgraded this blog to the recently released WordPress
 [2.3](http://wordpress.org/development/2007/09/wordpress-23/). However,
 I have deep rooted concerns that the new tagging functionality will

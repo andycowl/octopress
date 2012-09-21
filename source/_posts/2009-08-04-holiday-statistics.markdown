@@ -6,7 +6,6 @@ title: holiday statistics
 layout: post
 comments: true
 ---
-
 Just got back from three weeks in Australia visiting family and friends.
 
 -   Countries: 3 (England, Singapore, Australia)

@@ -6,7 +6,6 @@ title: out with the old, in with the new
 layout: post
 comments: true
 ---
-
 A minor irritant with uninteresting email cluttering up my Inbox has
 resulted in some minor changes to my Web 2.0 first-team squad.
 

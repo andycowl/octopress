@@ -6,7 +6,6 @@ title: rising from the ashes
 layout: post
 comments: true
 ---
-
 I forgot to pack my WordPress hosted
 [images](http://www.nbrightside.com/blog/2006/10/04/checkpoint-charlie/)
 when

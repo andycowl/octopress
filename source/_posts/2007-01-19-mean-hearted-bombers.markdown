@@ -6,7 +6,6 @@ title: mean hearted bombers
 layout: post
 comments: true
 ---
-
 I am not overly surprised the Al Qaeda training camp in Afghanistan
 educates people about how to assemble explosive devices and avoid
 detection by security forces in addition to tips on identifying soft

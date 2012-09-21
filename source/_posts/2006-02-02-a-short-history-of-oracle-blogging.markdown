@@ -6,7 +6,6 @@ title: a short history of Oracle blogging
 layout: post
 comments: true
 ---
-
 I was just reviewing the list of Oracle related blogs I subscribe to.
 Here they are in approximate chronological order with the blogging
 platform. Apologies for any inaccuracies.

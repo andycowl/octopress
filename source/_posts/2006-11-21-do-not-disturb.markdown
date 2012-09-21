@@ -6,6 +6,5 @@ title: do not disturb
 layout: post
 comments: true
 ---
-
 Phil McIntyre is busy [blogging](http://www.philtube.com/?id=27) right
 now.

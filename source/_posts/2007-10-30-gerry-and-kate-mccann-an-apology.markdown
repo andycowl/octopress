@@ -6,7 +6,6 @@ title: Gerry and Kate McCann - an apology
 layout: post
 comments: true
 ---
-
 On May 21 2007, this newspaper published an
 [article](http://www.nbrightside.com/blog/2007/05/21/the-tragic-case-of-madeleine-mccann/)
 that was somehow misconstrued by some idiotic readers to imply that the

@@ -6,7 +6,6 @@ title: PC backups with SyncBack
 layout: post
 comments: true
 ---
-
 Two years ago, my hard disk failed. Completely. This was excellent news
 as my computer ran a lot faster after a clean installation of Windows XP
 but bad news because I lost email, names and addresses, documents etc.

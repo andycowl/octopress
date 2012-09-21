@@ -6,7 +6,6 @@ title: idiot's guide to Oracle installation
 layout: post
 comments: true
 ---
-
 Not many things make me laugh out loud. Especially about
 [Oracle](http://uk.youtube.com/watch?v=CHzV4LZnvHc).
 

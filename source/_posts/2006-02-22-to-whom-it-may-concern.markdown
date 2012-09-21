@@ -6,7 +6,6 @@ title: to whom it may concern
 layout: post
 comments: true
 ---
-
 To the good people who were searching for answers and somehow blundered
 onto my blog, here is my considered response.
 

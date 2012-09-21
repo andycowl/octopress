@@ -6,7 +6,6 @@ title: another legal battle
 layout: post
 comments: true
 ---
-
 I received a summons yesterday for non-payment of council tax. Ah well.
 It was good while it lasted. I reckon at &pound;1,000 each year for 10 years
 residence at this address, I probably saved in excess of &pound;10,000.

@@ -1,12 +1,11 @@
 ---
 date: '2007-01-24 16:46:24'
 categories:
-    - uncategorised
+    - travel
 title: lost in transit
 layout: post
 comments: true
 ---
-
 Last night I returned to London from Brussels. Unfortunately, my
 overnight bag didn't.
 

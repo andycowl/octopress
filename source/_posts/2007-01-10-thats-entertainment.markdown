@@ -6,7 +6,6 @@ title: that's entertainment
 layout: post
 comments: true
 ---
-
 Two paltry efforts by yours truly to brighten up everyone's morning in
 the Brightside household.
 

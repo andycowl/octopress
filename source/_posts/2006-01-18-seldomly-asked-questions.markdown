@@ -6,7 +6,6 @@ title: seldomly asked questions
 layout: post
 comments: true
 ---
-
 People never ask me 'Just who is this Norman Brightside character ?'
 
 'Norman Brightside' is an alias for a fictitious Oracle Database

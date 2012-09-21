@@ -6,7 +6,6 @@ title: twitter killed the blogging star
 layout: post
 comments: true
 ---
-
 I have tried many times, in many different places, to articluate the
 idea that micro-blogging reduces ones blogging output but [Russell
 Beattie](http://www.russellbeattie.com/blog/about) completely expresses

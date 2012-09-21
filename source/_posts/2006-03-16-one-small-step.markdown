@@ -6,7 +6,6 @@ title: One small step...
 layout: post
 comments: true
 ---
-
 Thanks to [Igor](http://igor-db.blogspot.com/) (who is a human being and
 not a [monster](http://en.wikipedia.org/wiki/Fictional_Character_Igor))
 kindly modifying an inbound link, an

@@ -6,7 +6,6 @@ title: knowing me, knowing you
 layout: post
 comments: true
 ---
-
 [ This post also had working titles of 'Friends, bloggers and
 countrymen' and 'anti-social networking'. ]
 

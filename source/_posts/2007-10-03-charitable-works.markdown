@@ -6,7 +6,6 @@ title: charitable works
 layout: post
 comments: true
 ---
-
 Many years ago, Norma and I bought my son a Formula 1 racing car. The
 car cost &pound;230,000 and the wrapping paper cost &pound;47.50. It was really
 difficult to conceal the present prior to the big day and the mystery

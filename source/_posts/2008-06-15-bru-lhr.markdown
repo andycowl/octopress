@@ -6,7 +6,6 @@ title: BRU-LHR
 layout: post
 comments: true
 ---
-
 On Friday I returned from a very enjoyable week in Brussels. Hard work,
 challenging customer and miscellaneous technical issues. However,
 unusually, I had the pleasure of the company of a few of colleagues so

@@ -6,7 +6,6 @@ title: who wants to be an Adsense millionaire ?
 layout: post
 comments: true
 ---
-
 Occasionally, I have been tempted to experiment with Google
 [Adsense](https://www.google.com/adsense/default?destination=/adsense/home)
 on this blog. Not because I think I will get rich and be able to retire

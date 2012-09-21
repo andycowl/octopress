@@ -6,7 +6,6 @@ title: England v Switzerland
 layout: post
 comments: true
 ---
-
 Last night, I took Norman Junior III to visit the new, improved Wembley
 stadium last night to see England play Switzerland in a friendly.
 

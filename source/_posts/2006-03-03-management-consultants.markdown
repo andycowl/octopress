@@ -6,7 +6,6 @@ title: management consultants
 layout: post
 comments: true
 ---
-
 One of the
 [candidates](http://www.bbc.co.uk/apprentice/candidates/mani.shtml) on
 BBC2's ['The Apprentice'](http://www.bbc.co.uk/apprentice/) is a

@@ -6,7 +6,6 @@ title: comment abuse
 layout: post
 comments: true
 ---
-
 Some principled bloggers leave all comments untouched afraid that any
 subsequent edit (no matter how seemingly trivial) would represent the
 slippery slope to censorship, a police state, the inevitable involvement

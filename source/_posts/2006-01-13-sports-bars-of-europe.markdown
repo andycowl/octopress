@@ -6,7 +6,6 @@ title: sports bars of Europe
 layout: post
 comments: true
 ---
-
 The first in an occasional series.
 
 No. 1 - [O'Reilly's](http://www.oreillys.com/brussels/index.htm) in

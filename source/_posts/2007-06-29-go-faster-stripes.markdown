@@ -6,7 +6,6 @@ title: go faster stripes
 layout: post
 comments: true
 ---
-
 This Bluehost powered blog is now
 [FastCGI](http://helpdesk.bluehost.com/kb/index.php?x=&mod_id=2&root=50&id=461)
 enabled. You may find the site faster but, then again, hyperlinks may

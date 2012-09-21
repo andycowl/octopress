@@ -6,7 +6,6 @@ title: great balls of fire
 layout: post
 comments: true
 ---
-
 Mum and Dad
 
 Having cool time on Crete (geddit ?) with Bazzer, Nobby, TenBob,

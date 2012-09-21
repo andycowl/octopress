@@ -6,7 +6,6 @@ title: in flight humour
 layout: post
 comments: true
 ---
-
 I enjoyed these [quotes](http://funny2.com/inflight.htm) from airline
 staff with a sense of humour (via [Tom
 Kyte](http://tkyte.blogspot.com/2006/04/just-for-fun.html)).

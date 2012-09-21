@@ -6,7 +6,6 @@ title: how to migrate a WordPress blog to Django
 layout: post
 comments: true
 ---
-
 There is currently no utility to migrate existing blog content to
 [django](http://www.nbrightside.com/blog/2007/09/26/last-django-in-london/).
 

@@ -6,7 +6,6 @@ title: disk storage is cheap
 layout: post
 comments: true
 ---
-
 I find it weird that I can carry around
 [4GB](http://www.amazon.co.uk/Integral-4GB-USB-Flash-Drive/dp/B000BRC906)
 of disk storage in my pocket.

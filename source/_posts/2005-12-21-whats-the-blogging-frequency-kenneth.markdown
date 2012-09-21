@@ -6,7 +6,6 @@ title: what's the (blogging) frequency, Kenneth ?
 layout: post
 comments: true
 ---
-
 Some professional (but impecunious) bloggers feel it is very important
 that there should be a regular, repeating cycle to the frequency of your
 blog articles to capture the hearts and minds of your tens of readers.

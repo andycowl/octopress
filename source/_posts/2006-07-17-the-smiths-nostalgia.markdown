@@ -6,7 +6,6 @@ title: The Smiths nostalgia
 layout: post
 comments: true
 ---
-
 A [video](http://www.youtube.com/watch?v=hB_VmZMQj5c) of 'Jean'
 (unplugged) with Sandie Shaw on vocals and Johnny Marr on acoustic
 guitar in Kew gardens surrounded by Morrissey, Rourke, Joyce and

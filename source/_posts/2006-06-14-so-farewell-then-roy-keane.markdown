@@ -6,7 +6,6 @@ title: so farewell then, Roy Keane
 layout: post
 comments: true
 ---
-
 > I don't think I could have a higher opinion of any footballer than I
 > already had of the Irishman, but he rose even further in my estimation
 > at the Stadio Delle Alpi. The minute he was booked and out of the

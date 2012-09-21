@@ -6,7 +6,6 @@ title: blankety blank - World Cup Special
 layout: post
 comments: true
 ---
-
 Another in this occasional but very popular
 [series](http://www.nbrightside.com/blog/2006/04/03/blankety-blank-competition/):
 > 'I am doing this in the best interests of Rooney, the England team and

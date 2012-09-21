@@ -6,7 +6,6 @@ title: taking a back seat
 layout: post
 comments: true
 ---
-
 Rich Manalang is taking a [back
 seat](http://theappslab.com/2010/02/16/my-anti-social-experiment/) and
 suspending some but not all of his online activities which is an

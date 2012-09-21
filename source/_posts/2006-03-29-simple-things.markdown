@@ -6,7 +6,6 @@ title: simple things
 layout: post
 comments: true
 ---
-
 [InterWeb](http://en.wikipedia.org/wiki/Interweb).
 
 I think I first heard the term used, while working for a small Internet

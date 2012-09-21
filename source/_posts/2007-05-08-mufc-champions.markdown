@@ -6,7 +6,6 @@ title: MUFC - Champions
 layout: post
 comments: true
 ---
-
 The Guardian's Rob Smyth has a fascinating
 [article](http://blogs.guardian.co.uk/sport/2007/05/06/where_does_uniteds_title_victo.html)
 where he eats humble pie and ranks Manchester United's nine Premiership

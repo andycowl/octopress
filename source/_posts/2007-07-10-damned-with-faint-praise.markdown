@@ -6,7 +6,6 @@ title: damned with faint praise
 layout: post
 comments: true
 ---
-
 My son, Norman Junior III, plays competitive junior tennis. When I
 [watch](http://www.nbrightside.com/blog/2006/10/25/celebrity-watch-2/)
 him play, I tend to stand at a distance and remain completely silent.

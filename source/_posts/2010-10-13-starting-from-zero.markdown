@@ -6,7 +6,6 @@ title: starting from zero
 layout: post
 comments: true
 ---
-
 One of my favourite and regular UK bloggers, Jonathan Beckett had gone
 rather quiet recently so I assumed he must have moved blogging platform
 the the Nth time, gone on holiday or possibly his feed was screwed

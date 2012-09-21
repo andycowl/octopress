@@ -6,7 +6,6 @@ title: autograph hunting
 layout: post
 comments: true
 ---
-
 The following celebrities have graced my blog with the odd (in some
 cases, very odd) comment:
 

@@ -6,7 +6,6 @@ title: finally succumbed
 layout: post
 comments: true
 ---
-
 [Tim Hall](http://oracle-base.blogspot.com/) was right. I can resist
 everything except temptation.
 

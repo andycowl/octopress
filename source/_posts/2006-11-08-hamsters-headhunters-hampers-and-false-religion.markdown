@@ -6,7 +6,6 @@ title: hamsters, headhunters, hampers and false religion
 layout: post
 comments: true
 ---
-
 I never used to work from home much. When the kids were younger, my wife
 was at home and without an office, quiet room or even a shed, I found it
 difficult to concentrate. Accessing the work network over dial-up also

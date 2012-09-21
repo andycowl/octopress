@@ -6,7 +6,6 @@ title: trumpet blowing
 layout: post
 comments: true
 ---
-
 Doug [Burns](http://oracledoug.com/index.html) posts a typically honest
 [article](http://oracledoug.com/serendipity/index.php?/archives/1116-Blowing-my-own-trumpet.html)
 about the art of self-promotion and the issue of references. Personally,

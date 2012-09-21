@@ -6,7 +6,6 @@ title: upside down season
 layout: post
 comments: true
 ---
-
 I'm confused.
 
 Arsenal are playing like Chelsea.

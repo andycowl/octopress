@@ -6,7 +6,6 @@ title: Tom Raftery podcast with WordPress
 layout: post
 comments: true
 ---
-
 I just downloaded an interesting, wide ranging
 [interview](http://www.podleaders.com/matt-mullenweg-podcast/) (sorry
 podcast) by Tom Raftery with Matt Mullenweg and Donncha O'Caoimh, the

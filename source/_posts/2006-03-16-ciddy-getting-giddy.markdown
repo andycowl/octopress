@@ -6,7 +6,6 @@ title: Ciddy getting giddy
 layout: post
 comments: true
 ---
-
 \13. Years since Manchester City
 [reached](http://news.bbc.co.uk/sport2/hi/football/fa_cup/4796150.stm)
 the quarter finals of the FA Cup.

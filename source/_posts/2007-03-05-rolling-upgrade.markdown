@@ -6,7 +6,6 @@ title: rolling upgrade
 layout: post
 comments: true
 ---
-
 Until 30 minutes ago, this blog was running Wordpress 2.1 courtesy of
 the Fantastico installation at Bluehost. The blog was fairly stable and
 worked fine.

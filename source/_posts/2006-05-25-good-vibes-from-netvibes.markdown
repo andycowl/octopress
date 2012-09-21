@@ -6,7 +6,6 @@ title: good vibes from Netvibes
 layout: post
 comments: true
 ---
-
 I currently use [MyYahoo!](http://my.yahoo.com/) as my home page. I have
 looked at MyYahoo's next
 [incarnation](http://www.yahoo.com/?p=1148568392), played with Google's

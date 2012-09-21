@@ -6,7 +6,6 @@ title: make your mind up
 layout: post
 comments: true
 ---
-
 Americans see nothing but gloom and
 [doom](http://news.yahoo.com/s/ap/20061231/ap_on_re_us/2007_predictions_ap_poll)
 on the horizon in 2007.

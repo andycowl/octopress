@@ -6,7 +6,6 @@ title: how to display Google shared items on WordPress
 layout: post
 comments: true
 ---
-
 This [post](http://ocaoimh.ie/2007/02/20/writing-perl-the-vista-way/)
 put me in a quandry. I found the video very amusing so I was torn
 between leaving a grateful comment on [Donncha](http://ocaoimh.ie/)'s

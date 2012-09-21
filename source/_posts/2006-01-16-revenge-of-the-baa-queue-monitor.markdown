@@ -6,7 +6,6 @@ title: revenge of the BAA queue monitor
 layout: post
 comments: true
 ---
-
 This morning at some unearthly hour, I found myself standing once again
 in the queue to clear security at Heathrow Terminal 4. I was almost at
 the X-ray machine when a member of staff approached me and invited me to

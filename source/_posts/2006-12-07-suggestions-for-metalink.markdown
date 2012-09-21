@@ -6,7 +6,6 @@ title: suggestions for Metalink
 layout: post
 comments: true
 ---
-
 1.  Tighten security for all parties by addressing this issue:
     > 'The **Password** must contain only ASCII alphanumeric
     > characters.'

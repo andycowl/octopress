@@ -6,7 +6,6 @@ title: goodbye last.fm
 layout: post
 comments: true
 ---
-
 You are supposed to be unobtrusive software.
 
 On two computers, you have spontaneously stopped working.

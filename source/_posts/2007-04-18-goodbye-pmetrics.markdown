@@ -6,7 +6,6 @@ title: goodbye pMetrics
 layout: post
 comments: true
 ---
-
 Looked [good](http://performancing.com/node/6464) but you forgot the
 cardinal rule of CRM.
 

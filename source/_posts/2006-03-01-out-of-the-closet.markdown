@@ -6,7 +6,6 @@ title: out of the closet
 layout: post
 comments: true
 ---
-
 My name is Norman Brightside. I work for [Siebel
 Systems](http://www.siebel.com/) based in Egham in the UK. I am a Senior
 Architecture Specialist in Expert Services. Expert Services provide a

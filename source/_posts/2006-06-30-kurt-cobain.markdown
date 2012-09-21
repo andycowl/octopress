@@ -6,7 +6,6 @@ title: Kurt Cobain
 layout: post
 comments: true
 ---
-
 Maybe I am [obsessed](http://www.nbrightside.com/blog/2006/05/08/lwtua/)
 with dead pop
 [stars](http://www.nbrightside.com/blog/2006/05/11/dead-pop-stars/) but

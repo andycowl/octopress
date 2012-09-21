@@ -6,7 +6,6 @@ title: fighting email spam on Blueyonder
 layout: post
 comments: true
 ---
-
 In recent weeks, I have been peppered with increasing amounts of spam to
 my Blueyonder account despite the fact that I rarely use or divulge this
 email address.

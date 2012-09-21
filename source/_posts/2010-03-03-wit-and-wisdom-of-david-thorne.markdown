@@ -6,7 +6,6 @@ title: wit and wisdom of David Thorne
 layout: post
 comments: true
 ---
-
 I'm not sure if it was [Doug](http://oracledoug.com/serendipity/) or
 [Michael](http://twofishcreative.com/michael/blog/) who first pointed
 me towards David Thorne's [27bslash6](http://27bslash6.com) site but

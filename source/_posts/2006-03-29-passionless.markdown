@@ -6,7 +6,6 @@ title: passion(less)
 layout: post
 comments: true
 ---
-
 I just watched Arsenal beat Juventus 2-0 in the Champions League. I
 don't support Arsenal. I don't really care whether they win or lose. I
 only watched the game to kill two hours on a slow Tuesday evening in

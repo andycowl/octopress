@@ -6,7 +6,6 @@ title: from zero to eternity
 layout: post
 comments: true
 ---
-
 Thanks to [Jeff Hunter](http://marist89.blogspot.com/) kindly updating
 the link on his blogroll, this blog has awoken from a period of slumber.
 > Day 201. Technorati Rank: 187,013 (28 links from 15 sites)

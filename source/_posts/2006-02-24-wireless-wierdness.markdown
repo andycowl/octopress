@@ -6,7 +6,6 @@ title: wireless wierdness
 layout: post
 comments: true
 ---
-
 I have a Linksys Wireless Broadband router (WRT54G).
 
 I have a Linksys Wireless USB network adapter (WUSB54G).

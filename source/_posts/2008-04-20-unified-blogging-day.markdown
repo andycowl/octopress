@@ -6,7 +6,6 @@ title: Unified Blogging Day
 layout: post
 comments: true
 ---
-
 Many disgruntled readers have contacted me via email, IM, facsimilie,
 phone and anonymous posion pen letters to ask 'Hey Norman - whatever
 happened to the unified blogging day scheduled for Friday 18 April ?'

@@ -6,7 +6,6 @@ title: Sharpcast versus Picasa
 layout: post
 comments: true
 ---
-
 Curiously, after reading about the Picasa
 [upgrade](http://www.nbrightside.com/blog/2007/03/08/picasa-web-albums-upgraded-to-1gb/),
 a related article about photo management software popped up in Google

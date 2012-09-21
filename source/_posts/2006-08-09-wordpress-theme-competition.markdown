@@ -6,7 +6,6 @@ title: WordPress theme competition
 layout: post
 comments: true
 ---
-
 After two months and two days, the music has stopped, the theme
 [rotation](http://www.nbrightside.com/blog/2006/06/02/rotation-policy/)
 carousel has travelled full circle and finally come to a halt.

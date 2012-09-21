@@ -6,7 +6,6 @@ title: how bind variables made me a demigod
 layout: post
 comments: true
 ---
-
 In a previous life, I was a development DBA. Sorry that's not quite
 true. My job title was 'Persistence Architect' for a J2EE application.
 The Oracle database wasn't really considered to be a database. In fact,

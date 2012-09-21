@@ -6,7 +6,6 @@ title: balls up
 layout: post
 comments: true
 ---
-
 Q: Who on earth could manage to screw up a Cup draw involving just four
 teams ?
 

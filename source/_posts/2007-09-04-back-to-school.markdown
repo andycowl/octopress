@@ -6,7 +6,6 @@ title: back to school
 layout: post
 comments: true
 ---
-
 When my daughter went to secondary school, like every other dutiful
 parent, we religiously completed all the necessary forms and paperwork.
 

@@ -6,7 +6,6 @@ title: standing at the urinals
 layout: post
 comments: true
 ---
-
 Maybe it's just me but I have a slight unease about sitting next to a
 stranger who is reading email. Obviously, I try to avert my gaze but
 sometimes you can't help but read the words on the screen, no matter how

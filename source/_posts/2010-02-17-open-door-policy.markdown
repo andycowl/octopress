@@ -6,7 +6,6 @@ title: open door policy
 layout: post
 comments: true
 ---
-
 'Who's there ?'
 
 'It's me - Jamie.'

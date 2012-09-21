@@ -6,7 +6,6 @@ title: dreaming spires
 layout: post
 comments: true
 ---
-
 After my recent
 [holiday](http://www.nbrightside.com/blog/2007/04/16/letter-from-america/),
 I have been sent on the road for two weeks. I am currently staying at

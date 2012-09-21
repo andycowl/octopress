@@ -7,7 +7,6 @@ title: lost-in translation
 layout: post
 comments: true
 ---
-
 I don't know if al the clever Spanish people who study English leave the
 country or whether translators aren't very well paid in Spain but here's
 some amusing signs from my recent holiday in Marbella.

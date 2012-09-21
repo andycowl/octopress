@@ -6,7 +6,6 @@ title: from zero to hero
 layout: post
 comments: true
 ---
-
 Up by around 13,000 due to an arbitrary inbound link from the WordPress
 [tags](http://wordpress.com/tags/) page
 

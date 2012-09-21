@@ -6,7 +6,6 @@ title: SonicStage 3.3 released
 layout: post
 comments: true
 ---
-
 Don't know where, don't know when but SonicStage 3.3 is
 [available](http://www.sonydigital-link.com/DNA/sonicstage/sstage_dl.asp?r=&l=en).
 

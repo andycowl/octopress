@@ -6,7 +6,6 @@ title: inverse law of airports
 layout: post
 comments: true
 ---
-
 The larger the airport, the longer it takes to drive there, check in,
 clear security, order a sandwich, find a seat in the lounge, secure a
 taxi.

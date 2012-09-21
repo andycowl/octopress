@@ -6,7 +6,6 @@ title: bingo night
 layout: post
 comments: true
 ---
-
 Oracle 'A' lister and Scottish football fan, Doug Burns, was celebrating
 last night as he hoisted the inaugural 'Champions League
 [Bingo](http://www.nbrightside.com/blog/2006/05/17/champions-league-bingo/)'

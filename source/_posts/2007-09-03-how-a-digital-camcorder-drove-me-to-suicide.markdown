@@ -6,7 +6,6 @@ title: how a digital camcorder drove me to suicide
 layout: post
 comments: true
 ---
-
 Back in the old days, things were very
 [simple](http://www.nbrightside.com/blog/2006/09/03/a-short-history-of-digital-photography/).
 You filmed endless hours of footage with your analog camcorder; your

@@ -6,7 +6,6 @@ title: WordPress.com open up user forums
 layout: post
 comments: true
 ---
-
 Those busy people at WordPress have opened up a couple of
 [forums](http://wordpress.com/blog/2006/01/05/forums/) for support
 issues and feedback for users of WordPress.com

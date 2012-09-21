@@ -6,7 +6,6 @@ title: in praise of Google Desktop
 layout: post
 comments: true
 ---
-
 Like most people, I store information in many different places. Lots of
 data is stored directly on my work laptop while yet more data is stored
 on my computer at home.

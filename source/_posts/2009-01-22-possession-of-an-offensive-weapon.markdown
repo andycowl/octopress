@@ -6,7 +6,6 @@ title: possession of an offensive weapon
 layout: post
 comments: true
 ---
-
 Last Friday, I found myself standing in a short queue at Newcastle
 airport. I could immediately discern that the global economic recession
 is starting to take hold up in the bleak, industrial North. Normally, at

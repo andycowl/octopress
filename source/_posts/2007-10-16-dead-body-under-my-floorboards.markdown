@@ -6,7 +6,6 @@ title: dead body under my floorboards
 layout: post
 comments: true
 ---
-
 When your children ask for a pet hamster, always follow your gut
 instincts and refuse.
 

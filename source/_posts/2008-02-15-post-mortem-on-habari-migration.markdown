@@ -6,7 +6,6 @@ title: post mortem on the WordPress to Habari migration
 layout: post
 comments: true
 ---
-
 > 'Those who forget the past are condemned to relive it.'
 
 The migration of this blog from WordPress to Habari is mostly complete.

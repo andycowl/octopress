@@ -6,7 +6,6 @@ title: minimalism begins in Nepal
 layout: post
 comments: true
 ---
-
 The [Sandbox](http://wordpress.com/blog/2006/08/04/sandbox-theme/) theme
 recently added to WordPress is pleasant enough but the original
 [themes](http://www.plaintxt.org/themes/) developed by [Scott

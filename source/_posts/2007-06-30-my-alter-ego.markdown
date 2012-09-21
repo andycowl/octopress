@@ -6,7 +6,6 @@ title: my alter ego
 layout: post
 comments: true
 ---
-
 During the week I am a boring IT consultant.
 
 However, at weekends, I transform into a massive, dance, trance, garage,

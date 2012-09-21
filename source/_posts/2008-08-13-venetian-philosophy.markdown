@@ -6,7 +6,6 @@ title: Venetian philosophy
 layout: post
 comments: true
 ---
-
 Holidays are a time blissfully free of the modern distractions of
 computers, mobile phones, games consoles, televisions and a time for the
 family to spend some quality time together and eventually fall out.

@@ -6,7 +6,6 @@ title: fringe benefit of SezWho
 layout: post
 comments: true
 ---
-
 Occasionally, people take the time to comment on this blog which is
 always welcome.
 

@@ -6,7 +6,6 @@ title: Guinness brewery tour
 layout: post
 comments: true
 ---
-
 Scobleizer's
 [trip](http://scobleizer.wordpress.com/2005/12/02/guinness-anyone/) to
 the Guinness brewery reminds me of a similar visit I enjoyed many years

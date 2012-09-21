@@ -6,7 +6,6 @@ title: Metro on UK blogging
 layout: post
 comments: true
 ---
-
 The '[Metro](http://www.metro.co.uk/)' is a free, lightweight,
 disposable newspaper, aimed at commuters, which is solely funded by
 advertising revenues. So lightweight, you can finish it by the time you

@@ -6,7 +6,6 @@ title: I come to praise WordPress
 layout: post
 comments: true
 ---
-
 ...not to bury them.
 
 I have been unable to administer this blog for a couple of days.

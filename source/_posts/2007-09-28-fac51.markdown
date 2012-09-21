@@ -6,7 +6,6 @@ title: FAC51
 layout: post
 comments: true
 ---
-
 Enjoyed this BBC4 [program](http://www.bbc.co.uk/musictv/factory/) on
 the history of Factory with lots of interviews with Tony Wilson, Peter
 Saville, Vini Reilly, Shaun and Paul Ryder, Stephen Morris, Peter Hook

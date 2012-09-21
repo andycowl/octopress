@@ -6,7 +6,6 @@ title: dead pop stars
 layout: post
 comments: true
 ---
-
 Kurt Cobain. Seattle. 8 April 1994. Cremated and ashes scattered into
 the Wishkah river.
 

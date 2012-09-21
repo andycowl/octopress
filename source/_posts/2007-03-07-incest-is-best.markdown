@@ -6,7 +6,6 @@ title: incest is best
 layout: post
 comments: true
 ---
-
 Patrick [Stuebing](http://news.bbc.co.uk/1/hi/world/europe/6424937.stm)
 from Leipzig (near Germany) has a few issues
 

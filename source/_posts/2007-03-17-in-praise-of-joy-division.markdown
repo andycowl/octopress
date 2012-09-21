@@ -6,7 +6,6 @@ title: in praise of Joy Division
 layout: post
 comments: true
 ---
-
 As part of the ongoing
 [vinyl](http://www.nbrightside.com/blog/2007/01/29/music-for-homesick-people/)
 replacement program, I finally bought 'Unknown Pleasures', 'Closer' and

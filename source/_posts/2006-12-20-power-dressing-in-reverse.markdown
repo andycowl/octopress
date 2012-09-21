@@ -6,7 +6,6 @@ title: power dressing in reverse
 layout: post
 comments: true
 ---
-
 In the 1980's, some ladies chose to wear dark trouser suits and blouses
 in an effort to match their male counterparts in the workplace. This fad
 was known as '[power

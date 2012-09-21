@@ -6,7 +6,6 @@ title: comeback kid
 layout: post
 comments: true
 ---
-
 I honestly didn't think I would see this Ole Gunnar
 [Solskjaer](http://en.wikipedia.org/wiki/Ole_Gunnar_Solskjaer) wear a
 Red shirt again, let alone

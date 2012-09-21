@@ -6,7 +6,6 @@ title: Artificial Intelligence
 layout: post
 comments: true
 ---
-
 Weird. [This](http://news.bbc.co.uk/1/hi/sci/tech/6907018.stm) was also
 the subject of my final year project at University. My AI creation was
 written in 'C' on Unix and used the curses package.

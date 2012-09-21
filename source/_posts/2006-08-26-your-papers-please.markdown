@@ -6,7 +6,6 @@ title: Your papers, please !
 layout: post
 comments: true
 ---
-
 Just returned from the annual torture of the seemingly simple task to
 renew two parking permits. Yes folks, we have to pay for the privilege
 of parking our cars in a nearby road, miles from our house.

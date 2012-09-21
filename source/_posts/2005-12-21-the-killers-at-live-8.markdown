@@ -6,7 +6,6 @@ title: The Killers at Live 8
 layout: post
 comments: true
 ---
-
 Bob Geldof wanted The Killers to appear at Live 8 at Hyde Park in
 London.
 

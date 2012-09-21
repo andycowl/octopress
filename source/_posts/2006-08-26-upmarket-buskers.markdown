@@ -6,7 +6,6 @@ title: upmarket buskers
 layout: post
 comments: true
 ---
-
 Just encountered two very talented buskers, attired in an immaculate
 dinner jacket with bow tie and a lovely, long, sparkly dress, singing
 the most beautiful opera.

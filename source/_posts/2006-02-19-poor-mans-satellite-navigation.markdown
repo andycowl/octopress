@@ -6,7 +6,6 @@ title: poor man's satellite navigation
 layout: post
 comments: true
 ---
-
 Buy one of
 [these](http://www.amazon.co.uk/exec/obidos/ASIN/0749547103/qid=1140362110/sr=2-2/ref=sr_2_3_2/026-5546328-6308424)
 for 10 GBP. Give to partner as early Valentine present. Jot down

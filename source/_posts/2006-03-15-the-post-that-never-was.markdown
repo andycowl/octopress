@@ -6,7 +6,6 @@ title: the post that never was
 layout: post
 comments: true
 ---
-
 I am a fan of WordPress. I like their software. I like their
 [humour](http://www.nbrightside.com/blog/2006/03/12/wordpress-humour/).
 

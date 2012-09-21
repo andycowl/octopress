@@ -6,7 +6,6 @@ title: comparison of Blinklist, del.icio.us and Furl
 layout: post
 comments: true
 ---
-
 After briefly evaluating [Furl](http://furl.net/),
 [del.icio.us](http://del.icio.us/) and
 [Blinklist](http://www.blinklist.com/), I finally decided to ditch Furl

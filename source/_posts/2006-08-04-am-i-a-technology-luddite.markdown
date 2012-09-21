@@ -6,7 +6,6 @@ title: am I a technology Luddite ?
 layout: post
 comments: true
 ---
-
 I am interested in IT, technology and gadgets. Not obsessed but
 interested and curious.
 

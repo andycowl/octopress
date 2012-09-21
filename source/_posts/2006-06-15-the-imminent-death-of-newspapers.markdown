@@ -6,7 +6,6 @@ title: the imminent death of newspapers
 layout: post
 comments: true
 ---
-
 I am one of those 40-50 year olds who disagree with Stowe Boyd who
 predicts the
 [death](http://www.stoweboyd.com/message/2006/05/hypergene_on_bu.html)

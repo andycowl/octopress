@@ -6,7 +6,6 @@ title: the curious case of Michael Shields
 layout: post
 comments: true
 ---
-
 I believe [Michael
 Shields](http://www.telegraph.co.uk/news/uknews/1495692/Innocent-gentle-giant-Or-remorseless-thug-guilty-of-attempted-murder.html)
 is guilty of attempted murder by dropping a paving slab on a Bulgarian

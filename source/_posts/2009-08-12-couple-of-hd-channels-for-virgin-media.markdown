@@ -6,7 +6,6 @@ title: couple of HD channels for Virgin Media
 layout: post
 comments: true
 ---
-
 Recently noticed a couple of additional HD channels now available on
 Virgin Media.
 

@@ -6,7 +6,6 @@ title: that was the week that was
 layout: post
 comments: true
 ---
-
 After a detailed, comprehensive '[root and
 branch](http://news.bbc.co.uk/sport1/hi/football/internationals/7100393.stm)'
 inspection, the English FA have discovered that the organisation bears

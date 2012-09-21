@@ -6,7 +6,6 @@ title: the only search engine in town
 layout: post
 comments: true
 ---
-
 John [Chow](http://www.johnchow.com/) notes the vast
 [majority](http://www.johnchow.com/yahoo-msn-who-the-hell-are-they/) of
 traffic to his blog from search engines comes from Google. I see a

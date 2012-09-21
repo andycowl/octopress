@@ -6,7 +6,6 @@ title: why Ballack, Drogba and Terry need to look inwardly
 layout: post
 comments: true
 ---
-
 A lot has been written about Chelsea's recent exit from the Champions
 League to an injury time winner from Iniesta at Stamford Bridge that
 dumped Chelsea out of the competition on the away goals rule to

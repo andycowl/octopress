@@ -6,7 +6,6 @@ title: Bluehost upgrade to WordPress 2.0.5
 layout: post
 comments: true
 ---
-
 Bluehost have upgraded WordPress to 2.0.5 so I ignored this warning and
 clicked 'Upgrade'
 > Click on Upgrade only if\

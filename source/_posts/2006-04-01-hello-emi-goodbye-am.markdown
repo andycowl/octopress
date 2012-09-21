@@ -6,7 +6,6 @@ title: Hello EMI, Goodbye A&M
 layout: post
 comments: true
 ---
-
 Or, in my case: Hello BMI, Goodbye BA. Last Monday, my flight to
 Newcastle was cancelled and the later one was delayed. When I rebooked
 at Ticket Sales, I asked whether I could make use of the business lounge

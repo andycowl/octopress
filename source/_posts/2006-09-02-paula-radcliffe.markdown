@@ -6,7 +6,6 @@ title: Paula Radcliffe
 layout: post
 comments: true
 ---
-
 Congratulations to Paula Radcliffe who is
 [pregnant](http://www.paularadcliffe.com/diary/026.php).
 

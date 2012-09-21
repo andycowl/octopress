@@ -6,7 +6,6 @@ title: Charlton on Best
 layout: post
 comments: true
 ---
-
 I always was led to believe that Bobby Charlton and George Best didn't
 get on. I read it in books and interviews and heard it from various
 different sources. Of course, this fact wasn't a total surprise as the

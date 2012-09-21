@@ -6,7 +6,6 @@ title: too good to be true ?
 layout: post
 comments: true
 ---
-
 I am
 [lazy](http://www.nbrightside.com/blog/2006/01/27/unix-for-lazy-people/).
 I buy my gas from British Gas and my electricity from Seeboard. It takes

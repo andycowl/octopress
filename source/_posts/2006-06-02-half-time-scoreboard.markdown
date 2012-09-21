@@ -6,7 +6,6 @@ title: half time scoreboard
 layout: post
 comments: true
 ---
-
 Days: 289 days\
  Posts: 261\
  Comments: 222 (209 by yours truly)\

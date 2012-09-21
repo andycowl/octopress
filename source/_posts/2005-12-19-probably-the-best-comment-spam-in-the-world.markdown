@@ -6,7 +6,6 @@ title: probably the best comment spam in the world
 layout: post
 comments: true
 ---
-
 The Akismet spam filter included with WordPress.com means I am not
 troubled by comment spam on my blog at all, ever.
 

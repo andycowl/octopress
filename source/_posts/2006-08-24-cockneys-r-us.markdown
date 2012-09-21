@@ -6,7 +6,6 @@ title: Cockneys 'R' Us
 layout: post
 comments: true
 ---
-
 I was enjoying a stroll along The Embankment yesterday morning, dressed
 in my Pearly King outfit, listening to Chas'n'Dave tunes on my iPod,
 munching on cockles and mussels, when I noticed banners hanging from

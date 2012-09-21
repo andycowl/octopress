@@ -6,7 +6,6 @@ title: The Story of The Who
 layout: post
 comments: true
 ---
-
 Thoroughly enjoyed 2 hours of 'The Story of The Who' last night on
 [BBC4](http://www.bbc.co.uk/bbcfour/listings/programme.shtml?day=yesterday&filename=20080418/20080418_2130_4544_15851_120&service_id=4544).
 What a story it was.

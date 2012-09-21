@@ -6,7 +6,6 @@ title: complaint to Ofcom
 layout: post
 comments: true
 ---
-
 Last night, Sky News played audio footage of Raoul Moat's last moments.
 This included detailed analysis of the sounds by an expert of the three
 ‘gunshots' and some idle chit-chat about whether someone was screaming

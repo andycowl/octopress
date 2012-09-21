@@ -6,7 +6,6 @@ title: Hook Norton
 layout: post
 comments: true
 ---
-
 As
 [predicted](http://www.nbrightside.com/blog/2006/07/18/out-of-sight/),
 another fantastic

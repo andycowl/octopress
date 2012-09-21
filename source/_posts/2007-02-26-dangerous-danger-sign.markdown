@@ -6,7 +6,6 @@ title: dangerous danger sign
 layout: post
 comments: true
 ---
-
 This [sign](http://www.flickr.com/photos/70276096@N00/403356821/) in my
 hotel room intrigued me. Every time I entered the bathroom, I gazed at
 the [sign](http://www.flickr.com/photos/70276096@N00/403356821/). I

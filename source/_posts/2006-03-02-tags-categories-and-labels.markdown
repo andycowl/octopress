@@ -6,7 +6,6 @@ title: tags, categories and labels
 layout: post
 comments: true
 ---
-
 Lorelle is getting a little
 [vexed](http://lorelle.wordpress.com/2006/03/01/tags-are-not-categories-got-it/)
 about the the precise semantics and usage of tags and categories.

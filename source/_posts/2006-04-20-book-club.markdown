@@ -6,7 +6,6 @@ title: book club
 layout: post
 comments: true
 ---
-
 I have started a book club. I am the only member. I realise that this is
 a little unusual but I prefer to choose the books myself rather than
 someone else (or even worse, the Daily Mail).

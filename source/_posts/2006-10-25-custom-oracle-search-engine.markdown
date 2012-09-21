@@ -6,7 +6,6 @@ title: custom Oracle search engine
 layout: post
 comments: true
 ---
-
 Google [Co-op](http://www.google.com/coop/) is a customisable Google
 search engine and I just created a personalised, custom
 [search](http://www.google.com/coop/cse?cx=012976428869982644131:gyw-d0vkp10)

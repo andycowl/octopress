@@ -6,7 +6,6 @@ title: probably the best phish in the world
 layout: post
 comments: true
 ---
-
 A few months ago, I was shocked and amazed to receive an email from
 Friends Reunited entitled 'Janet Oldsgate has sent you a private
 message'.

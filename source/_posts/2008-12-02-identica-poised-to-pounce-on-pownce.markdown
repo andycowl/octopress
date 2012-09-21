@@ -6,7 +6,6 @@ title: identica poised to pounce on Pownce
 layout: post
 comments: true
 ---
-
 [Pownce](http://pownce.com/) (a microblogging service) has been sold to
 [SixApart](http://www.sixapart.com/blog/2008/12/welcome-pownce-team.html)
 and decided to close the service on December 15 which is a nice early

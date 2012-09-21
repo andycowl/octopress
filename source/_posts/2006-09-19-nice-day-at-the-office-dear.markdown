@@ -6,7 +6,6 @@ title: nice day at the office, dear ?
 layout: post
 comments: true
 ---
-
 Yesterday I had a pretty bad day. I got up early and drove to
 Chesterfield. Unfortunately, the performance environment was not
 available as originally planned (overrunning weekend engineering works)

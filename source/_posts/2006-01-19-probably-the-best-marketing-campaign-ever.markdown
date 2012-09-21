@@ -6,7 +6,6 @@ title: probably the best marketing campaign ever
 layout: post
 comments: true
 ---
-
 Agency: London Rubber Company
 
 Location: Heathrow T4 toilets.

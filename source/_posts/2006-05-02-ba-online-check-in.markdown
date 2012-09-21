@@ -6,7 +6,6 @@ title: BA online check-in
 layout: post
 comments: true
 ---
-
 British Airways are taking
 [steps](http://management.silicon.com/itdirector/0,39024673,39157435,00.htm)
 to move the queues from the conventional check-in desks on UK domestic

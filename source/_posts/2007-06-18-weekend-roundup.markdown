@@ -6,7 +6,6 @@ title: weekend roundup
 layout: post
 comments: true
 ---
-
 Phew - what a
 [relief](http://women.timesonline.co.uk/tol/life_and_style/women/body_and_soul/article1937266.ece).
 I often spend a night in the pub or a whole weekend at a beer

@@ -6,7 +6,6 @@ title: the fickle hand of fate
 layout: post
 comments: true
 ---
-
 There I was - teetering on the precipice of getting my own domain name,
 a hosted blog, Website, anonymous FTP server, message board, Wiki and
 countless other stuff I would never use.

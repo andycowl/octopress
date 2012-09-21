@@ -6,7 +6,6 @@ title: Oracle Open Underworld
 layout: post
 comments: true
 ---
-
 I decided to save Oracle Corporation lots of money by not attending
 Oracle Open World in San Francisco. Initially, my manager spent a lot of
 time trying to dissuade me but as soon as he uttered the words 'Billy

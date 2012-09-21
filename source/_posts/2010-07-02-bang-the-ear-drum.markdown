@@ -6,7 +6,6 @@ title: bang the (ear) drum
 layout: post
 comments: true
 ---
-
 [ Working title: Torture on a shoestring ]
 
 A couple of weeks ago on a normal, routine Tuesday morning, I did what I

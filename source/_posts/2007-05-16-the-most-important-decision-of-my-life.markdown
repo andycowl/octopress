@@ -6,7 +6,6 @@ title: the most important decision of my life
 layout: post
 comments: true
 ---
-
 ...lies in your hands, dear reader.
 
 Another baby when my wife is 57 years old ? - discuss.

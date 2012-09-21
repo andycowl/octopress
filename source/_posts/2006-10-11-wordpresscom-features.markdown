@@ -6,7 +6,6 @@ title: WordPress.com features
 layout: post
 comments: true
 ---
-
 After my recent
 [move](http://www.nbrightside.com/blog/2006/09/30/from-wordpresscom-to-wordpressorg/)
 from the community of WordPress.com, once again I truly feel like a

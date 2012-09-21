@@ -6,7 +6,6 @@ title: Imitation
 layout: post
 comments: true
 ---
-
 ...is the sincerest form of flattery.
 
 I note [Tom Kyte](http://tkyte.blogspot.com/2006/04/around-london.html)

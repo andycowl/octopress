@@ -6,7 +6,6 @@ title: well played, Owen Hargreaves
 layout: post
 comments: true
 ---
-
 One of the few England players who can hold his head up high after this
 World Cup.
 

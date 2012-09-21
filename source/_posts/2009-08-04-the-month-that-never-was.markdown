@@ -6,7 +6,6 @@ title: the month that never was
 layout: post
 comments: true
 ---
-
 Since I started this blog almost four years ago, I have posted every
 month. Until last month - July 2009.
 

@@ -6,7 +6,6 @@ title: AOL search data released
 layout: post
 comments: true
 ---
-
 Norman Brightside, a little known UK blogger from the London (near
 England), was reeling yesterday from a cataclysmic, violent (yet
 unwanted) backlash of media inspired attention from Web 2.0 types in

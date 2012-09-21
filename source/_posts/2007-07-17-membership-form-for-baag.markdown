@@ -6,7 +6,6 @@ title: membership form for BAAG
 layout: post
 comments: true
 ---
-
 I own up. It's a fair cop. It is 27 years and 5 months since my last
 confession. Since then, I have sinned, Holy Father. In fact, I have
 committed an absolutely heinous crime. Please forgive me for I have

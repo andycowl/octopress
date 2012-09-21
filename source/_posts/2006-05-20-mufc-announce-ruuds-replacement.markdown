@@ -6,7 +6,6 @@ title: MUFC announce Ruud's replacement
 layout: post
 comments: true
 ---
-
 In response to Chelsea's recent acquistion of Michael
 [Ballack](http://news.bbc.co.uk/sport1/hi/football/teams/c/chelsea/4769763.stm)
 and continued pursuit of

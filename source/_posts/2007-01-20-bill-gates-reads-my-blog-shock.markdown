@@ -6,7 +6,6 @@ title: Bill Gates reads my blog shock !
 layout: post
 comments: true
 ---
-
 Great news. Bill Gates has heeded my
 [advice](http://www.nbrightside.com/blog/2005/11/09/e-commerce-at-microsoft-uk/)
 and I will be able to purchase Vista online

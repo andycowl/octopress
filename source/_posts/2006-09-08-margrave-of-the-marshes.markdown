@@ -6,7 +6,6 @@ title: Margrave of the Marshes
 layout: post
 comments: true
 ---
-
 Last night the [book
 club](http://www.nbrightside.com/blog/2006/04/19/book-club/) met again
 after the summer recess. Rosemary Barnstormworth suggested an

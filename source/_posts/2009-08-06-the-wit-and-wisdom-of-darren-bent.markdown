@@ -6,7 +6,6 @@ title: the wit and wisdom of Darren Bent
 layout: post
 comments: true
 ---
-
 A sheet of A4. Blank. Completely blank.
 
 I don't know which is worse. Being rejected by Darren Bent. Or hearing

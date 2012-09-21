@@ -6,7 +6,6 @@ title: High Definition TV on Virgin Media V+
 layout: post
 comments: true
 ---
-
 I finally caved in and replaced a 15 year old Sony TV with a Panasonic
 32″ LCD TV
 ([TX32LXD700](http://www.dabs.com/productview.aspx?Quicklinx=4HFN&CategorySelectedId=11229&PageMode=1&NavigationKey=11229,48050000,49870000,50300))

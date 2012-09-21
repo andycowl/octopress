@@ -6,7 +6,6 @@ title: Yak shaving
 layout: post
 comments: true
 ---
-
 'How I ditched Windows and embraced Linux' - the prequel.
 
 On Saturday morning, I thought it might be fun to install Linux on my

@@ -6,7 +6,6 @@ title: In Shreds
 layout: post
 comments: true
 ---
-
 Everything was in its
 [place](http://www.nbrightside.com/blog/2006/02/27/full-circle/). Then I
 went and changed

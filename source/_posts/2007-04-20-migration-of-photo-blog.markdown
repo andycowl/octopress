@@ -6,7 +6,6 @@ title: migration of photo blog
 layout: post
 comments: true
 ---
-
 Yahoo! kindly chose to close my Flickr! account because it was
 associated with an additional email and not my primary Yahoo Id. I
 contacted support in an effort to resurrect my Flickr account but to no

@@ -6,7 +6,6 @@ title: back seat driver
 layout: post
 comments: true
 ---
-
 Since accumulating 9 penalty
 [points](http://www.nbrightside.com/blog/2007/12/22/seasons-greetings/),
 Norma has been very worried about the possible consequences of my

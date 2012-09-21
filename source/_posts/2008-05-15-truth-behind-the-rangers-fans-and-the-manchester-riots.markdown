@@ -6,7 +6,6 @@ title: truth behind the Rangers fans and the Manchester riots
 layout: post
 comments: true
 ---
-
 Thursday 15 May - Manchester, near England
 
 107,239 hungover Rangers' supporters (and an exiled Scotsman who drove

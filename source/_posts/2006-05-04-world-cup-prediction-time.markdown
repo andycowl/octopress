@@ -6,7 +6,6 @@ title: World Cup prediction time
 layout: post
 comments: true
 ---
-
 Rooney will (and should not) play no part whatsoever. He should not even
 travel.
 

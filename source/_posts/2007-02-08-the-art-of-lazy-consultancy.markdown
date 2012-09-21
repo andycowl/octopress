@@ -6,7 +6,6 @@ title: the art of lazy consultancy
 layout: post
 comments: true
 ---
-
 Many years ago, a customer thanked me which was a pleasant surprise and
 quite unusual. Most simply ask 'When will your report be ready ?'
 

@@ -6,7 +6,6 @@ title: Google Browser Sync
 layout: post
 comments: true
 ---
-
 > What could be worse than forgetting to bookmark the obscure page you
 > found that maps out the perfect walking tour of Venice ?
 

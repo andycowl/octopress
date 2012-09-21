@@ -6,7 +6,6 @@ title: out of sight
 layout: post
 comments: true
 ---
-
 My long suffering wife and I celebrate our wedding anniversary every
 year in July.
 

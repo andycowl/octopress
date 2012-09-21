@@ -6,7 +6,6 @@ title: 'Most Haunted #2'
 layout: post
 comments: true
 ---
-
 '[Most Haunted](http://www.livingtv.co.uk/mosthaunted/)' is a fantastic
 TV program hosted by Yvette Fielding, where a Liverpudlian psychic
 medium, Derek Acorah, visits haunted properties resurrecting the spirits

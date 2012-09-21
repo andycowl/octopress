@@ -6,7 +6,6 @@ title: flying visit
 layout: post
 comments: true
 ---
-
 Last night, I flew to Stockholm
 [airport](http://www.arlandaexpress.com/). I stayed overnight in a
 [hotel](http://www.radissonsas.com/servlet/ContentServer?pagename=RadissonSAS/integration/hotelInfo&hotelCode=stozr&language=en&backURI=/reservation/rateSearch.do&origin=Rates%20And%20Availability)

@@ -6,7 +6,6 @@ title: Burns night
 layout: post
 comments: true
 ---
-
 Ladies and Gentlemen
 
 1.  The [Slashdot effect](http://en.wikipedia.org/wiki/Slashdot_effect)

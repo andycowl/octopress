@@ -6,7 +6,6 @@ title: embarassing Dad
 layout: post
 comments: true
 ---
-
 Recently I collected Norma-Jean from one of her hobbies. As we departed,
 I stopped to bid farewell to a couple of boys who were preparing to
 cycle home: 'See you next time, lads.'

@@ -6,7 +6,6 @@ title: celebrity watch
 layout: post
 comments: true
 ---
-
 Last night as I waited for the baggage carousel to leap into action at
 Terminal 1, I heard a familiar voice speaking on his phone. I looked
 round and there was a very familiar face - the face of Michael Aspel.

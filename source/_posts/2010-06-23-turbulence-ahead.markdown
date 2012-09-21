@@ -6,7 +6,6 @@ title: turbulence ahead
 layout: post
 comments: true
 ---
-
 I am about to embark on migrating this blog from WordPress to
 Django-Mingus because I simply can't stand the WordPress 'Compose Post'
 interface (if you can call it that).

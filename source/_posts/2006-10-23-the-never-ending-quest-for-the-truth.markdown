@@ -6,7 +6,6 @@ title: the never ending quest for the truth
 layout: post
 comments: true
 ---
-
 Modern versions of Siebel use the Cost Based Optimizer (CBO) so the
 strategy used for gathering (and refreshing) statistics and histograms
 becomes increasingly important.

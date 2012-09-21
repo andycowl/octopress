@@ -6,7 +6,6 @@ title: rare occurrence
 layout: post
 comments: true
 ---
-
 'Far, far away' by Slade, from 1974, as the music used to entertain
 customers placed on hold.
 

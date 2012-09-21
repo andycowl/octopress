@@ -6,7 +6,6 @@ title: software upgrades
 layout: post
 comments: true
 ---
-
 [Drupal](http://www.nbrightside.com/drupal/) gets an upgrade to 4.7.4
 via the Bluehost Fantastico auto-installer.
 

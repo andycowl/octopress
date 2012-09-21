@@ -6,7 +6,6 @@ title: death of a Kirby salesman
 layout: post
 comments: true
 ---
-
 A few years ago, on a Wednesday night, I returned from work and Norma
 told me in passing that she had got a man coming to clean our carpets
 for free.

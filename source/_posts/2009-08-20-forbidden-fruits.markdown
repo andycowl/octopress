@@ -6,7 +6,6 @@ title: forbidden fruits
 layout: post
 comments: true
 ---
-
 Friday
 
 'Can I touch them ?'

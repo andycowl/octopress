@@ -6,7 +6,6 @@ title: curious case of the missing spool file
 layout: post
 comments: true
 ---
-
 Bit of a ghostly theme today.
 
 One great aspect of my job is that I write SQL scripts that are reviewed

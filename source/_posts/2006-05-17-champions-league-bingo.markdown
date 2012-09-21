@@ -6,7 +6,6 @@ title: Champions League bingo
 layout: post
 comments: true
 ---
-
 To liven up tonights Champions League Final between Arsenal and
 Barcelona, score the following number of points for each and every
 mention of the following:

@@ -6,7 +6,6 @@ title: another mangerial casualty
 layout: post
 comments: true
 ---
-
 London - 5 November 2007
 
 The football world was left reeling after Norman Brightside was fired

@@ -6,7 +6,6 @@ title: aftermath of flight AF447
 layout: post
 comments: true
 ---
-
 I probably shouldn't ask this question and watch a 'CSI New York' box
 set to find the answer but still...
 

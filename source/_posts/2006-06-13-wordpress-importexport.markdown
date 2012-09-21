@@ -6,7 +6,6 @@ title: WordPress import/export
 layout: post
 comments: true
 ---
-
 Maybe a fraction too late for [Doug
 Burns](http://oracledoug.com/serendipity/) (whose Blogger blog has been
 recently

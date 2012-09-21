@@ -6,7 +6,6 @@ title: blogging statistics
 layout: post
 comments: true
 ---
-
 Just quickly reviewed the number of posts in each full year since I
 started this blog.
 

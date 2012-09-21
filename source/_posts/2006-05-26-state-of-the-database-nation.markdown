@@ -6,7 +6,6 @@ title: state of the database nation
 layout: post
 comments: true
 ---
-
 A Gartner/IDC [report](http://news.zdnet.com/2100-3513_22-6077017.html)
 summarising the state of the database market in 2005 contains some
 interesting nuggets of information.

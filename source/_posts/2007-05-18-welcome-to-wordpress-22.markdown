@@ -6,7 +6,6 @@ title: Welcome to WordPress 2.2
 layout: post
 comments: true
 ---
-
 I don't know what I did wrong but I just upgraded to [WordPress
 2.2](http://wordpress.org/development/2007/05/wordpress-22/) and
 everything still works.

@@ -6,7 +6,6 @@ title: breaking news
 layout: post
 comments: true
 ---
-
 Good news. A kind, thoughtful, considerate colleague noticed my
 unattended Palm and placed it in a locked drawer for safe keeping.
 Unusually, for such a kind, thoughtful and considerate person, he

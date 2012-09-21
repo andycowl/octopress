@@ -6,7 +6,6 @@ title: editting Flickr photos
 layout: post
 comments: true
 ---
-
 [Preloadr](http://preloadr.com/) is an interesting, free utility that
 allows seamless manipulation of [Flickr](http://flickr.com/) photos.
 

@@ -6,7 +6,6 @@ title: interview with Mark Burgess
 layout: post
 comments: true
 ---
-
 Here is a series of email exchanges I had with Mark Burgess in late
 1998. I converted the original text to HTML and corrected a couple of
 minor typos.

@@ -6,7 +6,6 @@ title: testing debut at book club
 layout: post
 comments: true
 ---
-
 I made an unexpected debut at my wife's book club last night because
 because I just happened to have read the book in question and my wife
 (still) has a flat tyre.

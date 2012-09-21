@@ -6,7 +6,6 @@ title: open letter to Mark Burgess
 layout: post
 comments: true
 ---
-
 Last week, I travelled to Hamburg, near Germany, on business. As Mark
 Burgess (lead singer of The Chameleons) now lives there, I took the
 opportunity to send an email to one of my all-time heroes (even though

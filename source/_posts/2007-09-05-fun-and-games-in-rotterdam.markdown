@@ -6,7 +6,6 @@ title: fun and games in Rotterdam
 layout: post
 comments: true
 ---
-
 Arrived in Rotterdam and checked into the [Grand
 Hotel](http://www.nbrightside.com/blog/2007/09/04/fear-and-trepidation/)
 which isn't quite as grand as the inviting and expensive (but fully

@@ -40,8 +40,7 @@ blog posts, configure a automatic redirect and use rsync to upload
 this site to some alternative, cheaper (or free) Web hosting.
 
 So, I have decided to use [Octopress](http://octopress.org/) and
-[Amazon
-S3](http://aws.typepad.com/aws/2011/02/host-your-static-website-on-amazon-s3.html)
+[Amazon S3](http://aws.typepad.com/aws/2011/02/host-your-static-website-on-amazon-s3.html)
 to host this humble, annually updated blog in the future. I may be
 able to reuse some of the Hyde content with judicious use of sed to
 convert the meta data in the header sections or I may just start

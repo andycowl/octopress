@@ -6,7 +6,6 @@ title: Posterous leveraging Tumblr themes
 layout: post
 comments: true
 ---
-
 I have experimented at various times with both
 [Tumblr](http://tumblr.com/) and [Posterous](http://posterous.com/)
 which are hosted blog services. I tend to view them as useful services

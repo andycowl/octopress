@@ -6,7 +6,6 @@ title: the sole responsibility of a production Oracle DBA
 layout: post
 comments: true
 ---
-
 Many years ago, I managed a set of Oracle databases for various clients.
 
 However, I was not an Oracle DBA. I was an Unix/C developer who happened

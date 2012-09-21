@@ -6,7 +6,6 @@ title: heart stopping moment
 layout: post
 comments: true
 ---
-
 Just went to delete 'whiteside.wordpress.com'.
 
 Hit 'Yes' I am really, really sure I want to delete this blog for

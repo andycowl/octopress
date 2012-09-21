@@ -6,7 +6,6 @@ title: new dawn fades
 layout: post
 comments: true
 ---
-
 > 'A change of speed, a change of style A change of scene, with no
 > regrets '
 

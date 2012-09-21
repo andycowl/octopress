@@ -6,7 +6,6 @@ title: review of 'Control'
 layout: post
 comments: true
 ---
-
 I went to see '[Control](http://www.controlthemovie.com/)' last night
 which is a film directed by Anton Corbijn about the life of Ian Curtis,
 lead singer with Joy Division.

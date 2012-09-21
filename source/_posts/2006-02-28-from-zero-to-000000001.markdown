@@ -6,7 +6,6 @@ title: from zero to 0.00000001
 layout: post
 comments: true
 ---
-
 I am following, with interest, the
 [progress](http://www.stoweboyd.com/message/2006/01/starting_from_z.html)
 of Stowe Boyd's [/Message](http://www.stoweboyd.com/message/) blog as it

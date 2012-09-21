@@ -6,7 +6,6 @@ title: packet sniffer
 layout: post
 comments: true
 ---
-
 Holy Father
 
 It is 23 years and 7 months since my last confession. Since then, I have

@@ -6,7 +6,6 @@ title: the wit and wisdom of Terry McDermott
 layout: post
 comments: true
 ---
-
 > 'We were the best team. People say over a season you finish where you
 > deserve to, but we didn't deserve to finish behind Manchester United.
 > We were everyone's second team.'

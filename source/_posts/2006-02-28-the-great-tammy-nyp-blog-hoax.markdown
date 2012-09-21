@@ -6,7 +6,6 @@ title: the great Tammy NYP blog hoax
 layout: post
 comments: true
 ---
-
 Remember the tiresome, well-intentioned emails at work that spread fear,
 uncertainty and doubt, waste a lot of time and hence, cost a lot of
 money but actually transpire to be a well documented

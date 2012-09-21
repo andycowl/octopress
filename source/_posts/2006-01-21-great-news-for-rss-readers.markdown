@@ -6,7 +6,6 @@ title: great news for RSS readers
 layout: post
 comments: true
 ---
-
 [GreatNews](http://www.curiostudio.com/), in fact. I just discovered
 this RSS reader which is a Windows desktop RSS reader but can
 synchronise with Bloglines for Web based access.

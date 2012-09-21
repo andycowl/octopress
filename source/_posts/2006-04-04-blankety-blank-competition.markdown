@@ -6,7 +6,6 @@ title: blankety blank competition
 layout: post
 comments: true
 ---
-
 Lee Trundle's smile after Swansea's victory (in the Sunday Pub League
 Final played at, of all places, Cardiff) couldn't be any wider without
 fracturing his jaw. But what I love about this

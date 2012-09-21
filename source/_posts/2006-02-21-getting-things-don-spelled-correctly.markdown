@@ -6,7 +6,6 @@ title: Getting Things Don - spelled correctly
 layout: post
 comments: true
 ---
-
 When you find typos in Dave Allen's 'Getting Thing Done' book, it's a
 little deflating.
 

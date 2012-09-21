@@ -6,7 +6,6 @@ title: UK edging towards 1984
 layout: post
 comments: true
 ---
-
 Just got my car a shiny, new MOT certificate as an early Christmas
 present. The MOT certificate is a pre-requisite for renewing the tax
 disc which expires at the end of the month.

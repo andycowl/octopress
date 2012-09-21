@@ -6,7 +6,6 @@ title: London Metrosexual
 layout: post
 comments: true
 ---
-
 A week savouring the joys of commuting to Waterloo on South West Trains.
 Oxford Street is packed, the Christmas lights are on, the temporary ice
 rinks are open and lots of people are enjoying Christmas parties.

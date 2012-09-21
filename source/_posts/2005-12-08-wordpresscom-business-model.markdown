@@ -6,7 +6,6 @@ title: WordPress.com business model
 layout: post
 comments: true
 ---
-
 I am worried about those developers at WordPress. They have to eat food,
 drink coffee and wear clothes but how are they ever going to make any
 money ? There isn't even a 'Donate' button anywhere on the site.

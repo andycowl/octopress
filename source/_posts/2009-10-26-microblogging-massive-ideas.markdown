@@ -6,7 +6,6 @@ title: microblogging massive ideas
 layout: post
 comments: true
 ---
-
 This conversation didn't actually take place but it could have.
 
 Last week, friends and I were discussing µblogging in the pub. Well not
