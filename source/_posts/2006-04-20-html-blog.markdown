@@ -6,21 +6,23 @@ title: HTML > blog
 layout: post
 comments: true
 ---
-[Michael Brundage](http://www.qbrundage.com/michaelb/index.html) writes
-an popular article about what it is really like to
+[Michael Brundage](http://www.qbrundage.com/michaelb/index.html)
+writes an popular article about what it is really like to
 [work](http://www.qbrundage.com/michaelb/pubs/essays/working_at_microsoft.html)
 at Microsoft. Flexible working environment, minimal paperwork, hard
 work, gripes about managers, free drinks. So nothing too earth
 shattering or surprising there.
 
-But what struck me about this blog is that it [isn't a
-blog](http://www.qbrundage.com/michaelb/pubs/essays/this_is_not_a_blog.html).
+But what struck me about this blog is that it
+[isn't a blog](http://www.qbrundage.com/michaelb/pubs/essays/this_is_not_a_blog.html).
 It is simply a good old fashioned Web page.
 
 No categories. No comments. No statistics. No trackbacks. No fancy
 themes. No calendar. No widgets. No plugins.
 
-Just words that fill most of the screen on a HTML page. And undoubtedly
-the most interesting content I have stumbled across this week.
-Sometimes, [less is
-more](http://www.nbrightside.com/blog/2006/01/16/less-is-more-2/).
+Just words that fill most of the screen on a HTML page. And
+undoubtedly the most interesting content I have stumbled across this
+week.
+
+Sometimes,
+[less is more](http://www.nbrightside.com/blog/2006/01/16/less-is-more/).

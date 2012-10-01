@@ -7,7 +7,8 @@ layout: post
 comments: true
 ---
 Answered by our roving reporter,
-[Kenneth](http://www.nbrightside.com/blog/2005/12/20/whats-the-blogging-frequency-kenneth/).
+[Kenneth](http://www.nbrightside.com/blog/2005/12/21/whats-the-blogging-frequency-kenneth/).
+
 Posts by month. Draw your own conclusions.
 ![image](http://spreadsheets.google.com/pub?key=pHBwkjgvEIx6vrJYL9mbCcQ&oid=7&output=image)
 

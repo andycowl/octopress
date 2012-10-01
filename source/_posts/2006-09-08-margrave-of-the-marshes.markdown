@@ -6,11 +6,11 @@ title: Margrave of the Marshes
 layout: post
 comments: true
 ---
-Last night the [book
-club](http://www.nbrightside.com/blog/2006/04/19/book-club/) met again
-after the summer recess. Rosemary Barnstormworth suggested an
-interesting tome titled '[Margrave of the
-Marshes](http://www.amazon.co.uk/Margrave-Marshes-John-Peel/dp/0552551198/sr=8-1/qid=1157649295/ref=pd_ka_1/026-8111829-2918848?ie=UTF8&s=gateway)'.
+Last night the
+[book club](http://www.nbrightside.com/blog/2006/04/19/book-club/) met
+again after the summer recess. Rosemary Barnstormworth suggested an
+interesting tome titled
+'[Margrave of the Marshes](http://www.amazon.co.uk/Margrave-Marshes-John-Peel/dp/0552551198/sr=8-1/qid=1157649295/ref=pd_ka_1/026-8111829-2918848?ie=UTF8&s=gateway)'.
 
 This is John Peel's partly completed autobiography which was completed
 by his family after his untimely death. I really think I am going to

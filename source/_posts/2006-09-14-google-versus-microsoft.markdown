@@ -27,10 +27,10 @@ idiot ?'. Try some random control key combinations. Plaintively ask for
 the data in Oracle DMP format.
 
 Slump over the keyboard, weeping in despair, randomly striking keys
-which unexpectedly reveals a buried [Easter
-Egg](http://www.eeggs.com/items/719.html) (a fully fledged Doom clone).
-No wonder Excel is so bloated. Search the Microsoft Web site. Search
-using Google.
+which unexpectedly reveals a buried
+[Easter Egg](http://www.eeggs.com/items/719.html) (a fully fledged
+Doom clone).  No wonder Excel is so bloated. Search the Microsoft Web
+site. Search using Google.
 
 Finally, admit defeat and sheepishly ask a (Microsoft Certified)
 colleague who sneers 'God - don't you even know that ? Place the cursor
@@ -43,5 +43,5 @@ Google Spreadsheets
 Sort - Fix Header Rows - Freeze 1 row. Screen updated to reflect user
 action (1 row frozen). Done.
 
-Sometimes, [less is
-more](http://www.nbrightside.com/blog/2006/01/16/less-is-more-2/).
+Sometimes,
+[less is more](http://www.nbrightside.com/blog/2006/01/16/less-is-more/).

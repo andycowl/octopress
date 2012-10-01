@@ -14,14 +14,14 @@ accessed Web sites, I would simply type the start of the address into
 the browser and simply let auto-complete do its work which was
 quicker.
 
-A couple of weeks ago, Yahoo launched [My
-Web](http://uk.search.yahoo.com/myresults/benefits)which overhauled
-the bookmarks functionality and added the ability to save a copy of
-the Web page so that the referenced content was preserved in the event
-that the Web site was subsequently moved or deleted. However, My Web
-still uses a hierarchical system of folders to store the
-bookmarks. For example, the Manchester United home page would
-typically be stored in a folder named 'Sport-Football-Manchester
+A couple of weeks ago, Yahoo launched
+[My Web](http://uk.search.yahoo.com/myresults/benefits)which
+overhauled the bookmarks functionality and added the ability to save a
+copy of the Web page so that the referenced content was preserved in
+the event that the Web site was subsequently moved or
+deleted. However, My Web still uses a hierarchical system of folders
+to store the bookmarks. For example, the Manchester United home page
+would typically be stored in a folder named 'Sport-Football-Manchester
 United'.
 
 Then I discovered social bookmarking (Furl, del.ico.us, spurl) which

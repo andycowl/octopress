@@ -6,13 +6,13 @@ title: UK broadsheets narrow view of syndication
 layout: post
 comments: true
 ---
-Stuart Brown from the excellent [Modern
-Life](http://www.modernlifeisrubbish.co.uk/) asks 'Why is RSS adoption
-so
+Stuart Brown from the excellent
+[Modern Life](http://www.modernlifeisrubbish.co.uk/) asks 'Why is RSS
+adoption so
 [abysmal](http://www.modernlifeisrubbish.co.uk/article/why-is-rss-adoption-so-abysmal-amongst-uk-newspapers-online)
-amongst UK newspapers online ?' with some interesting analysis including
-the staggering fact (to me at least) that Modern Life has more Bloglines
-subscribers than The Daily Torygraph.
+amongst UK newspapers online ?' with some interesting analysis
+including the staggering fact (to me at least) that Modern Life has
+more Bloglines subscribers than The Daily Torygraph.
 
 The detailed analysis in this article interested me. I (delude myself
 that I) am technically literate. I subscribe to around 100 varied feeds

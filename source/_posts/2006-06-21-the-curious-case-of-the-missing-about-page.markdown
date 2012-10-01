@@ -18,12 +18,13 @@ absence of an '[About](../about)' page is one of Collin's pet hates and
 While I agree that background information about the author may be
 interesting and contact details may be useful for establishing dialog
 that isn't suited for comments, I don't think that the lack of an
-'[About](../about)' page is necessarily a habit of an
-[ineffectual](../2006/06/09/7-habits-of-highly-ineffectual-bloggers)
+'[About](http://www.nbrightside.com/about/)' page is necessarily a habit of an
+[ineffectual](http://www.nbrightside.com/blog/2006/06/09/7-habits-of-highly-ineffectual-bloggers/)
 blogger.
 
-For example, let's build my new, shiny '[About](../about)' page by
-answering Lorelle's probing
+For example, let's build my new, shiny
+'[About](http://www.nbrightside.com/about/)' page by answering
+Lorelle's probing
 [questions](http://lorelle.wordpress.com/2005/09/28/who-the-hell-are-you/):
 
 *Who are you ?*
