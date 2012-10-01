@@ -1,9 +1,9 @@
 ---
-date: '2008-04-01 00:56:29'
+layout: post
+title: milestone release for Oracle database
+date: '2008-03-31 00:56:29'
 categories:
     - uncategorised
-title: milestone release for Oracle database
-layout: post
 comments: true
 ---
 Oracle Corporation - Redwood Shores, near California.

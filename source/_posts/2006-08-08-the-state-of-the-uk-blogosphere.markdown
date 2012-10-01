@@ -1,5 +1,5 @@
 ---
-date: '2006-08-09 05:08:02'
+date: '2006-08-08 05:08:02'
 categories:
     - uncategorised
 title: the state of the UK blogosphere

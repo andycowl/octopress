@@ -28,9 +28,9 @@ The only package that failed to arrive safely was
 as Bluehost currently supports PHP 4.4 and mySQL 4.1 but
 [PhpWiki](http://phpwiki.sourceforge.net/) is available.
 
-Still, [Gregarius](../../gregarius) works fine and
-[Drupal](../../drupal) is available as a one-click (rather than custom)
-install. Some you win, some you lose.
+Still, [Gregarius](http://sourceforge.net/projects/gregarius/) works
+fine and [Drupal](http://drupal.org/) is available as a one-click
+(rather than custom) install. Some you win, some you lose.
 
 While the DNS changes are still propagating around the Interweb, I found
 a useful

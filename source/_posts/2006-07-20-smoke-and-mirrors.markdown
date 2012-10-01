@@ -1,5 +1,5 @@
 ---
-date: '2006-07-21 04:02:48'
+date: '2006-07-20 04:02:48'
 categories:
     - uncategorised
 title: smoke and mirrors

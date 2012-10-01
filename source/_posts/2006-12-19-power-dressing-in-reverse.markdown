@@ -1,15 +1,15 @@
 ---
-date: '2006-12-20 01:19:45'
+date: '2006-12-19 01:19:45'
 categories:
     - uncategorised
 title: power dressing in reverse
 layout: post
 comments: true
 ---
-In the 1980's, some ladies chose to wear dark trouser suits and blouses
-in an effort to match their male counterparts in the workplace. This fad
-was known as '[power
-dressing](http://news.bbc.co.uk/1/hi/business/2815859.stm)'.
+In the 1980's, some ladies chose to wear dark trouser suits and
+blouses in an effort to match their male counterparts in the
+workplace. This fad was known as
+'[power dressing](http://news.bbc.co.uk/1/hi/business/2815859.stm)'.
 
 One of my least favourite films is 'What Women Want' starring Mel
 Gibson. I also thought Kurt Cobain looked pretty cool in a

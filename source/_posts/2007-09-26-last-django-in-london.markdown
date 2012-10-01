@@ -1,7 +1,7 @@
 ---
-date: '2007-09-27 04:53:06'
+date: '2007-09-26 04:53:06'
 categories:
-    - uncategorised
+    - blogging
 title: last django in London
 layout: post
 comments: true

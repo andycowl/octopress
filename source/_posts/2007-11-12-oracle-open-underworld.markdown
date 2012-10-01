@@ -1,9 +1,9 @@
 ---
-date: '2007-11-13 06:39:55'
-categories:
-    - uncategorised
-title: Oracle Open Underworld
 layout: post
+date: '2007-11-12 06:39:55'
+categories:
+    - oracle
+title: Oracle Open Underworld
 comments: true
 ---
 I decided to save Oracle Corporation lots of money by not attending

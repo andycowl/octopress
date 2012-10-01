@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "8 things"
-date: 2008-01-10 04:52
+date: 2008-01-09 04:52
 comments: true
 categories:
     - uk

@@ -1,7 +1,7 @@
 ---
-date: '2006-11-08 00:22:10'
+date: '2006-11-07 00:22:10'
 categories:
-    - uncategorised
+    - blogging
 title: plugin extravaganza
 layout: post
 comments: true

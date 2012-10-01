@@ -1,10 +1,9 @@
 ---
+date: '2007-05-22 17:48:22'
 title: the tragic case of Madeleine McCann
-layout: post
 comments: true
 categories:
     - uk
-date: '2007-05-21 17:48:22'
 ---
 On 3 May 2007, a four year old toddler (not girl), Madeleine McCann, was
 [abducted](http://news.bbc.co.uk/1/hi/uk/6677803.stm) from her hotel

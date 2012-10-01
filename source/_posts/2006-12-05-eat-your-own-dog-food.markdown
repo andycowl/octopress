@@ -1,5 +1,5 @@
 ---
-date: '2006-12-06 03:03:04'
+date: '2006-12-05 03:03:04'
 categories:
     - uncategorised
 title: eat your own dog food

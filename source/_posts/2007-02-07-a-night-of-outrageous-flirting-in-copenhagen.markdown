@@ -1,7 +1,7 @@
 ---
-date: '2007-02-08 06:41:19'
+date: '2007-02-07 06:41:19'
 categories:
-    - uncategorised
+    - travel
 title: a night of outrageous flirting in Copenhagen
 layout: post
 comments: true

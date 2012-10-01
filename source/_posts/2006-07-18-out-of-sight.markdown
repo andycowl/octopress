@@ -1,5 +1,5 @@
 ---
-date: '2006-07-19 05:39:47'
+date: '2006-07-18 05:39:47'
 categories:
     - uncategorised
 title: out of sight
@@ -21,8 +21,9 @@ match reports for the
 and
 [2003](http://goathurling.blogspot.com/2003_07_01_goathurling_archive.html#105907557962806664)
 festivals are already available online together with photos of a human
-[pyramid](http://www.flickr.com/photos/25633426@N00/31142547/). We even
-have our own [stalker](http://www2.flickr.com/photos/mymuk/28264243/).
+[pyramid](http://www.flickr.com/photos/25633426@N00/31142547/). We
+even have our own
+[stalker](http://www2.flickr.com/photos/mymuk/28264243/).
 
 So, it transpires that my first blog article was actually written four
 years ago - not just a personal web journal but collaborative blogging

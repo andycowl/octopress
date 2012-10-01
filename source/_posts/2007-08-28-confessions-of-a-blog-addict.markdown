@@ -1,7 +1,7 @@
 ---
-date: '2007-08-29 06:13:38'
+date: '2007-08-28 06:13:38'
 categories:
-    - uncategorised
+    - blogging
 title: confessions of a blog addict
 layout: post
 comments: true

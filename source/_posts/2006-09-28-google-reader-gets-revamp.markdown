@@ -1,7 +1,7 @@
 ---
-date: '2006-09-29 06:48:41'
+date: '2006-09-28 06:48:41'
 categories:
-    - uncategorised
+    - google
 title: Google Reader gets revamp
 layout: post
 comments: true
