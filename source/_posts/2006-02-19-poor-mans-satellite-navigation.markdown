@@ -11,11 +11,11 @@ Buy one of
 for 10 GBP. Give to partner as early Valentine present. Jot down
 following notes as contingency in case navigator happens to be asleep
 during crucial section around Antwerp ring road.
-> Folkestone. Eurotunnel to Calais \
->  E40 Ostende \
->  E40 Bruges \
->  E40 Gent \
->  E17 Antwerp \
+> Folkestone. Eurotunnel to Calais  
+>  E40 Ostende  
+>  E40 Bruges  
+>  E40 Gent  
+>  E17 Antwerp  
 >  E34 Eindhoven
 
 If you note the time and zero the trip-o-meter, you can even get

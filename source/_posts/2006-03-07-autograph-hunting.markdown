@@ -20,8 +20,7 @@ cases, very odd) comment:
     extraordinaire)
 -   [Doug Burns](http://oracledoug.com/serendipity/) (roaming, humorous,
     loyal, Scottish Oracle DBA type)
--   [Norman
-    Whiteside](http://www.manutdzone.com/legends/NormanWhiteside.htm)
+-   [Norman Whiteside](http://www.manutdzone.com/legends/NormanWhiteside.htm)
     (MUFC)
 
 One of these is a joke.

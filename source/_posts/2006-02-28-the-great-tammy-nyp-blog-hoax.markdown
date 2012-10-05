@@ -14,10 +14,8 @@ money but actually transpire to be a well documented
 Well the blogosphere has its own endless loop equivalents for the
 unwary.
 
--   The recursive [best blonde
-    joke](http://scobleizer.wordpress.com/2006/01/18/the-best-blonde-joke)
--   The [Tammy
-    NYP](http://kevinhenrikson.com/2006/02/26/best-of-tammy-nyp/)
+-   The recursive [best blonde joke](http://scobleizer.wordpress.com/2006/01/18/the-best-blonde-joke)
+-   The [Tammy NYP](http://kevinhenrikson.com/2006/02/26/best-of-tammy-nyp/)
     treasure hunt
 -   The
     [Origami](http://blog.seattlepi.nwsource.com/microsoft/archives/101700.asp?source=rss)

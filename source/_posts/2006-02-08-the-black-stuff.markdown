@@ -6,10 +6,8 @@ title: the black stuff
 layout: post
 comments: true
 ---
-Had a drink in [The
-Plough](http://www.pub-explorer.com/herts/pub/ploughleverstockgreen.htm)
-in [Hemel
-Hempstead](http://streetmap.co.uk/newmap.srf?x=507936&y=207021&z=2&sv=507936,207021&st=4&mapp=newmap.srf&searchp=newsearch.srf&ax=507936&ay=207021)
+Had a drink in [The Plough](http://www.pub-explorer.com/herts/pub/ploughleverstockgreen.htm)
+in [Hemel Hempstead](http://streetmap.co.uk/newmap.srf?x=507936&y=207021&z=2&sv=507936,207021&st=4&mapp=newmap.srf&searchp=newsearch.srf&ax=507936&ay=207021)
 last night.
 
 Conveniently located for the

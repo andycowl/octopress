@@ -7,8 +7,9 @@ layout: post
 comments: true
 ---
 I will stop wasting time evaluating every RSS reader in the universe and
-simply revert to [NewsGator
-Online](http://www.newsgator.co.uk/ngs/default.aspx). This will help me
+simply revert to 
+[NewsGator Online](http://www.newsgator.co.uk/ngs/default.aspx). 
+This will help me
 to read and enjoy content when I actually have the time and inclination.
 This will also stop me being distracted by that insidious 'There is 1
 new article' irritant which just leads to skim reading lots of

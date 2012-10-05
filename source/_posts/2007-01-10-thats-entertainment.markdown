@@ -9,13 +9,13 @@ comments: true
 Two paltry efforts by yours truly to brighten up everyone's morning in
 the Brightside household.
 
-\1. I decided to hoist my boxer shorts as high as humanly possible in
+1. I decided to hoist my boxer shorts as high as humanly possible in
 the style of [Borat](http://www.borat.tv/ms_blog/cannes.jpg) (although,
 disappointingly, mine are black not lime green). You can only imagine my
 wife's surprise and delight when she (finally) emerged from the bathroom
 to be greeted by this unexpected and wonderful sight.
 
-\2. Fifteen minutes later, following a dramatic and rapid
+2. Fifteen minutes later, following a dramatic and rapid
 transformation, I have changed into an immaculate dark suit, freshly
 pressed, crisp white shirt and an expensive Italian silk tie. I lurk
 outside the lounge door humming the theme music from James Bond. The

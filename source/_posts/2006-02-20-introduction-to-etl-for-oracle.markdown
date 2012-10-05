@@ -260,8 +260,7 @@ It is then trivial to load data from the external table into a
 conventional Oracle table as follows:
     SQL> insert into person select * from person_ext;
 
-\
- This method of data loading took 39 secs.
+This method of data loading took 39 secs.
 
 ### T is for Transform
 

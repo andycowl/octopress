@@ -21,14 +21,13 @@ I am following the development of
 interest but this project is still in development and I think Sunbird
 only runs locally.
 
-I have an outstanding, low priority ToDo to evaluate [Remember The
-Milk](http://www.rememberthemilk.com/) but keep forgetting.
+I have an outstanding, low priority ToDo to evaluate 
+[Remember The Milk](http://www.rememberthemilk.com/) but keep forgetting.
 
 So, I was interested to read [Matt Mullenweg](http://photomatt.net/)
 speaking in glowing [terms](http://photomatt.net/2006/02/02/30-boxes/)
-about the calendar functionality from [30
-Boxes](http://www.30boxes.com/) rapidly followed by similar sentiments
-from
+about the calendar functionality from [30 Boxes](http://www.30boxes.com/) 
+rapidly followed by similar sentiments from
 [Scobleizer](http://scobleizer.wordpress.com/2006/02/03/calendaring-heats-up).
 
 Mental note. Forego 'Songs of Praise' for just one week and remember to

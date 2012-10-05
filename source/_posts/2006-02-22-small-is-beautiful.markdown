@@ -7,8 +7,9 @@ layout: post
 comments: true
 ---
 I had a beautifully crafted draft that said...
-> So MySpace has a staggering [55
-> million](http://money.cnn.com/2006/02/16/technology/business2_myspace0216/)
+
+> So MySpace has a staggering 
+> [55 million](http://money.cnn.com/2006/02/16/technology/business2_myspace0216/)
 > users (well 54 million angst ridden, teen blogs with garish colours,
 > dodgy photos and flash animations galore) while the more recently
 > launched WordPress.com has a mere

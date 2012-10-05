@@ -8,7 +8,7 @@ comments: true
 ---
 That's it. Enough procrastination. Finished.
 
-I will use Microsoft
+I will use Microsoft 
 [Outlook](http://office.microsoft.com/en-gb/FX010857931033.aspx) to
 manage my email, contacts, tasks and calendar at work.
 
@@ -16,11 +16,11 @@ I will store work related and personal data in the same repository.
 
 I will not store any data on a Web based service.
 
-I will use [Beyond
-Contacts](http://www.dataviz.com/products/beyondcontacts/index.html)
+I will use 
+[Beyond Contacts](http://www.dataviz.com/products/beyondcontacts/index.html)
 (from [DataViz](http://www.dataviz.com/)) to synchronise my contacts,
-tasks and calendar to my aging but perfectly adequate monochrome [Palm
-Vx](http://euro.palm.com/uk/en/products/palmvx/index.html).
+tasks and calendar to my aging but perfectly adequate monochrome 
+[Palm Vx](http://euro.palm.com/uk/en/products/palmvx/index.html).
 
 I will either use old fashioned paper and cheap biros from leading hotel
 chains (I would only lose an expensive
@@ -32,12 +32,12 @@ hostelry or away from my work computer.
 I may also send emails to myself from my home computer to work.
 
 I will manually manage my address book on my Nokia phone. This is more
-work for me but absolutely necessary because I dislike the Nokia [PC
-Suite](http://www.nokiausa.com/support/pcsuite/main.html) program so
+work for me but absolutely necessary because I dislike the Nokia 
+[PC Suite](http://www.nokiausa.com/support/pcsuite/main.html) program so
 intensely.
 
-I will capture my personal finances in [Microsoft
-Money](http://www.microsoft.com/uk/homepc/money/default.mspx).
+I will capture my personal finances in 
+[Microsoft Money](http://www.microsoft.com/uk/homepc/money/default.mspx).
 
 I will continue to use [TiddlyWiki](http://www.tiddlywiki.com/) (in
 preference to

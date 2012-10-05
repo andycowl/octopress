@@ -8,8 +8,8 @@ comments: true
 ---
 It's easy to get carried away with all this Web 2.0 nonsense. So while
 you are trawling the blogosphere, desperately looking for invites to
-[CoComment](http://www.cocomment.com/) and seeing whether [30
-Boxes](http://www.30boxes.com/) does indeed live up to all the hype,
+[CoComment](http://www.cocomment.com/) and seeing whether 
+[30 Boxes](http://www.30boxes.com/) does indeed live up to all the hype,
 pause for a moment and look at two of my favourite blogs that offer a
 slightly different perspective on Web 2.0.
 
