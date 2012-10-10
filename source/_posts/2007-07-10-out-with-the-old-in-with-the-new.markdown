@@ -19,10 +19,11 @@ Initially, I toyed with the option to simply disable comments on
 articles older than 90 days which accounted for 95% of the spam but
 would block authors with valid contributions.
 
-A little research revealed a possible alternative - [Spam
-Karma](http://unknowngenius.com/blog/wordpress/spam-karma/). I was
+A little research revealed a possible alternative -
+[Spam Karma](http://unknowngenius.com/blog/wordpress/spam-karma/). I was
 loosely aware of Spam Karma from the footer in Tim Hall's excellent
 [blog](http://www.oracle-base.com/blog)
+
 > This blog is protected by [dr
 > Dave](http://unknowngenius.com/blog/ "Dave")'s Spam Karma 2: 23182
 > Spams eaten and counting...
@@ -64,21 +65,21 @@ A few features in Spam Karma I really like:
 -   A detailed breakdown of the score assigned to any comment is
     available.
 
-> -12.5 \
->  0: Encrypted payload valid: IP matching.\
->  -2: Browser doesn't support Javascript\
->  0.5: Comment has no URL in content (but one author URL)\
+> -12.5 
+>  0: Encrypted payload valid: IP matching. 
+>  -2: Browser doesn't support Javascript 
+>  0.5: Comment has no URL in content (but one author URL) 
 >  -2: Flash Gordon was here (comment posted 8 seconds after page
-> load).\
+> load). 
 >  -9: Entry posted 7 months, 3 weeks ago. 0 comments in the past 15
-> days.\
+> days. 
 >  Current Karma: -3.
 
 I was so impressed I donated $20 to the author and that doesn't happen
-very often.
-Another source of unnecessary email was valid blog comments (albeit much
-fewer). The solution for this was obvious. Subscribe to my own comments
-feed and read them in Google Reader.
+very often.  Another source of unnecessary email was valid blog
+comments (albeit much fewer). The solution for this was
+obvious. Subscribe to my own comments feed and read them in Google
+Reader.
 
 Another source of Web 2.0 irritation was that the Firefox extension for
 [coComment](http://www.cocomment.com/) broke some of the drilldowns in

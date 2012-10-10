@@ -1,14 +1,13 @@
 ---
 date: '2006-10-11 19:26:43'
 categories:
-    - uncategorised
+    - google
 title: Google Docs and Spreadsheets
 layout: post
 comments: true
 ---
 Google have [announced](http://www.google.com/google-d-s/whatsnew.html)
-'[Docs &
-Spreadsheets](http://www.techcrunch.com/2006/10/10/google-docs-spreadsheets-launches)'
+'[Docs & Spreadsheets](http://www.techcrunch.com/2006/10/10/google-docs-spreadsheets-launches)'
 which is an overhaul of the original Writely interface and integration
 with Google Spreadsheets. I must admit I prefer the Google Docs
 interface and was interested to see that Docs can still publish to a

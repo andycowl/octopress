@@ -1,7 +1,7 @@
 ---
 date: '2007-04-30 21:07:33'
 categories:
-    - uncategorised
+    - oracle
 title: 'attention all Oracle bloggers '
 layout: post
 comments: true
@@ -28,6 +28,7 @@ companies are perceived by the Web 2.0 community to know whether Oracle
 is hard done by.
 
 That said, a couple of points on Justin's original post
+
 > 'Oracle's aggressive support of blogging'
 
 As an Oracle employee, while Oracle encourages and supports the blogging
@@ -64,11 +65,12 @@ technical, well researched, accurate, interesting and valuable content.
 In my current role, I spend most of my working time working for
 customers. I simply do not have the spare time to spend maintaining a
 corporate blog.
+
 > 'Or maybe I shouldn't even care !'
 
 Justin's closing paragraph is interesting. I am an Oracle employee and I
 also hold Oracle stock. Consequently, I am more concerned with Oracle
 product development and the stock price than how many engineers are
 blogging this week and whether Oracle have been invited to participate
-or host the latest '[Lunch
-2.0](http://www.web-strategist.com/blog/2007/04/27/dear-oracle-bloggers-host-a-lunch-20/)'.
+or host the latest
+'[Lunch 2.0](http://www.web-strategist.com/blog/2007/04/27/dear-oracle-bloggers-host-a-lunch-20/)'.

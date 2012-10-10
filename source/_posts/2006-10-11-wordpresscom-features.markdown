@@ -1,7 +1,7 @@
 ---
 date: '2006-10-11 09:21:03'
 categories:
-    - uncategorised
+    - wordpress
 title: WordPress.com features
 layout: post
 comments: true
@@ -31,7 +31,7 @@ from the community of WordPress.com, once again I truly feel like a
     like them, I simply download and experiment on this blog.
 -   Latest WordPress posts - an occasional diversion. No real equivalent
     (unless I login to my placeholder WP account)
--   [Avatars](http://wordpress.com/blog/2006/08/30/new-feature-avatars/)
-    - Not bothered but [favicon](http://en.wikipedia.org/wiki/Favicon)
-    is your friend.
+- [Avatars](http://wordpress.com/blog/2006/08/30/new-feature-avatars/) - 
+  Not bothered but [favicon](http://en.wikipedia.org/wiki/Favicon)
+  is your friend.
 

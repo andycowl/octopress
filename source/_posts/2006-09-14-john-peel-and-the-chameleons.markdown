@@ -1,15 +1,15 @@
 ---
 date: '2006-09-14 15:04:34'
-categories:
-    - uncategorised
 title: John Peel and The Chameleons
 layout: post
 comments: true
+categories:
+    - music
 ---
-Thoroughly enjoying '[Margave of the
-Marshes](http://www.nbrightside.com/blog/2006/09/07/margrave-of-the-marshes/)'
-and pleased to see [The
-Chameleons](http://www.nbrightside.com/blog/2006/01/10/in-praise-of-mark-burgess/)
+Thoroughly enjoying '
+[Margave of the Marshes](http://www.nbrightside.com/blog/2006/09/07/margrave-of-the-marshes/)'
+and pleased to see
+[The Chameleons](http://www.nbrightside.com/blog/2006/01/10/in-praise-of-mark-burgess/)
 get a mention:
 
 > For David Fielding of The Chameleons, that meant loitering outside

@@ -17,6 +17,7 @@ I have tried out all the WP themes as they became available but it was
 interesting to live with each theme for a day or so.
 
 My personal favourites were:
+
 > [Andreas04](http://www.flickr.com/photos/70276096@N00/162240611/in/set-72157594157259315/)
 > - I don't normally like three column themes but this was an notable
 > exception.
@@ -36,20 +37,17 @@ My personal favourites were:
 > - a building block for DIY enthusiasts.
 > [](http://www.flickr.com/photos/70276096@N00/202237366/in/set-72157594157259315/)
 >
-> [White As
-> Milk](http://www.flickr.com/photos/70276096@N00/202237366/in/set-72157594157259315/)
+> [White As Milk](http://www.flickr.com/photos/70276096@N00/202237366/in/set-72157594157259315/)
 > - clean, minimalist look but narrow text.
 
 And my hall of shame:
-> [Banana
-> Smoothie](http://www.flickr.com/photos/70276096@N00/163570474/in/set-72157594157259315/)
+
+> [Banana Smoothie](http://www.flickr.com/photos/70276096@N00/163570474/in/set-72157594157259315/)
 > - not for everyone but undeniably very distinctive.
-> [Flower
-> Power](http://www.flickr.com/photos/70276096@N00/170564221/in/set-72157594157259315/)
+> [Flower Power](http://www.flickr.com/photos/70276096@N00/170564221/in/set-72157594157259315/)
 > - not sure why this theme only uses half the screen.
 >
-> [Sweet
-> Blossoms](http://www.flickr.com/photos/70276096@N00/194227376/in/set-72157594157259315/)
+> [Sweet Blossoms](http://www.flickr.com/photos/70276096@N00/194227376/in/set-72157594157259315/)
 > - too much colour, not enough screen.
 
 I guess my perfect theme would be a two column, minimalist theme with an
@@ -58,10 +56,11 @@ emphasis on the article text. In fact, Scott's Wallick's
 close to perfection.
 
 I guess I always could shell out 15 USD and build it myself on WordPress
-using the recently launched [custom
-CSS](http://wordpress.com/blog/2006/08/04/custom-css/). Alternatively, I
-could just pay up and get my own hosted WordPress blog with complete
-control over everything.
+using the recently launched
+[custom CSS](http://wordpress.com/blog/2006/08/04/custom-css/).
+
+Alternatively, I could just pay up and get my own hosted WordPress blog
+with complete control over everything.
 
 So, review the Flickr
 [set](http://www.flickr.com/photos/70276096@N00/sets/72157594157259315/)

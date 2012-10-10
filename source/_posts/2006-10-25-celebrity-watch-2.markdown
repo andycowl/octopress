@@ -19,6 +19,7 @@ just try to support them in everything they do - win, lose or draw.
 
 I adjourned to the clubhouse for a coffee and took a moment to enjoy the
 hilarious, self-important, officious proclamations on the noticeboard:
+
 > 'Members are reminded that predominantly white tops or T-shirts must
 > be worn at all times.'
 > 'All members are reminded that, during the club tournament, sporting
@@ -33,5 +34,5 @@ hilarious, self-important, officious proclamations on the noticeboard:
 
 As I emerged again with my coffee, I noticed another parent quietly
 watching his son from the sidelines. However, this gentleman probably
-wasn't living his dreams through his child. It was [Pat
-Cash](http://www.patcash.co.uk/).
+wasn't living his dreams through his child. It was
+[Pat Cash](http://www.patcash.co.uk/).

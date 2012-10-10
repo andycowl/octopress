@@ -9,10 +9,10 @@ comments: true
 Mark Burgess once introduced 'Here Today' with these words.
 
 I just read on [The Chameleons](http://www.thechameleons.com/) message
-board that Mancunian musician, [Bryan
-Glancy](http://www.music-dash.co.uk/news/news.asp?item=1283), died at
-the weekend. I didn't know Bryan Glancy. I never met Bryan Glancy. I
-just happened to see him supporting The Chameleons in Camden back in
+board that Mancunian musician, 
+[Bryan Glancy](http://www.music-dash.co.uk/news/news.asp?item=1283), 
+died at the weekend. I didn't know Bryan Glancy. I never met Bryan Glancy.
+I just happened to see him supporting The Chameleons in Camden back in
 November 2002. Just very sad for his friends and family to think of
 another young person gone before his time.
 

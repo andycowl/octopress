@@ -10,8 +10,6 @@ The Guardian's Rob Smyth has a fascinating
 [article](http://blogs.guardian.co.uk/sport/2007/05/06/where_does_uniteds_title_victo.html)
 where he eats humble pie and ranks Manchester United's nine Premiership
 titles.
-layout: post
-comments: true
 
 Curiously enough, I have also given this matter a lot of thought over
 the weekend. I place this title second after Alex Ferguson's very first

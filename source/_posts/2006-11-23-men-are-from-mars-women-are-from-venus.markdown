@@ -49,7 +49,7 @@ the jack and extract the spare tyre.
 using it.'
 
 'What does that massive '80' mean ?' 'You're not supposed to drive over
-80 miles per hours but that won't be a problem for you tomorrow
+80 miles per hour but that won't be a problem for you tomorrow
 morning.'
 
 We locate the jacking point and replace the tyre.

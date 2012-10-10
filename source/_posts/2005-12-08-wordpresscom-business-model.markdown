@@ -1,10 +1,10 @@
 ---
 date: '2005-12-08 17:29:22'
-categories:
-    - uncategorised
 title: WordPress.com business model
 layout: post
 comments: true
+categories:
+    - wordpress
 ---
 I am worried about those developers at WordPress. They have to eat food,
 drink coffee and wear clothes but how are they ever going to make any

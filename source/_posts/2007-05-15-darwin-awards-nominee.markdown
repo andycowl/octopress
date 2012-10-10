@@ -15,8 +15,8 @@ a high speed train.
 Thankfully, this woman escaped with her life and will probably sue
 [TomTom](http://www.tomtom.com/), her boyfriend and Carlos Tevez.
 However, Paula Ceely is so unbelievably stupid, hopefully she will
-manage to secure an early nomination for the [Darwin
-Awards](http://en.wikipedia.org/wiki/Darwin_Awards) imminently.
+manage to secure an early nomination for the
+[Darwin Awards](http://en.wikipedia.org/wiki/Darwin_Awards) imminently.
 
 The online version of this story omits a crucial section - the picture
 of the warning sign that was clearly displayed on the level crossing

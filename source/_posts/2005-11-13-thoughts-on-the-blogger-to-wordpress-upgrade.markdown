@@ -8,6 +8,7 @@ categories:
     - wordpress
 ---
 Things I like about Wordpress after a couple of days...
+
 -   The dashboard summary which includes 'Incoming Links', recent posts
     and comments at a glance. Wordpress also provides? basic statistics
     (hits, entry page, referrer). It looks like the data? is
@@ -43,6 +44,7 @@ Things I like about Wordpress after a couple of days...
 -   The price.
 
 Minor things I don't like so much
+
 -   The lack of template editing isn't a big issue for me. If I was that
     fussed, I would use wordpress.org and host it myself. Manually
     tweaking HTML templates isn't exactly my idea of fun. What I would
@@ -58,4 +60,3 @@ Minor things I don't like so much
     comments).
 -   No support for Technorati tags in the post editor but I think I
     prefer using Wordpress categories anyway.
-

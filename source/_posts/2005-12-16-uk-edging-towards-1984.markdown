@@ -18,7 +18,7 @@ This means that you can now apply for your road tax
 as VOSA can also verify that the vehicle is insured using another
 computer system.
 
-Good news for me. One less trip into the [Post
-Office](http://www.nbrightside.com/blog/2005/12/13/circular-discussions/).
+Good news for me. One less trip into the 
+[Post Office](http://www.nbrightside.com/blog/2005/12/13/circular-discussions/).
 
 Bad news for car criminals.

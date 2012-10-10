@@ -10,9 +10,10 @@ When you are in a crisis meeting, and a consultant or project manager
 says 'We desperately need an intervention from ABC - now !', do you ever
 find yourself idly scribbling the lyrics from Interpol's 'Say Hello To
 the Angels' on your pristine pad of white paper ?
-> This is a concept\
->  This is a bracelet\
->  This isn't no intervention
+
+> This is a concept 
+> This is a bracelet 
+> This isn't no intervention
 
 Two hours later, in the same crisis meeting, when the same consultant or
 project manager forcefully asks 'Is Freddie Geekmeister from Advanced

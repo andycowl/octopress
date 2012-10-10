@@ -19,8 +19,8 @@ However, I needn't have worried as I already knew some of the ladies
 present and I was warmly welcomed with a large glass of wine.
 
 After 45 minutes and some pleasantries, I tentatively asked whether we
-could actually discuss our thoughts on '[The Kite
-Runner](http://www.amazon.co.uk/Kite-Runner-Khaled-Hosseini/dp/0747566534/sr=1-1/qid=1164747783/ref=sr_1_1/203-2869917-8143900?ie=UTF8&s=books)'.
+could actually discuss our thoughts on '
+[The Kite Runner](http://www.amazon.co.uk/Kite-Runner-Khaled-Hosseini/dp/0747566534/sr=1-1/qid=1164747783/ref=sr_1_1/203-2869917-8143900?ie=UTF8&s=books)'.
 Hiliary Montague replied 'Oh hang on Norman. There's plenty of time for
 that. Oh I see you're empty. Let me see to that.' and promptly refilled
 my glass.
@@ -84,8 +84,8 @@ January so, come on, what was the last book you read ?'
 'Oh come on Norman. Don't be so shy now. We are all friends here
 tonight'
 
-'Well it is called '[Cost Based Oracle:
-Fundamentals](http://www.amazon.co.uk/Cost-Based-Oracle-Fundamentals-v/dp/1590596366/sr=1-1/qid=1164751165/ref=sr_1_1/203-2869917-8143900?ie=UTF8&s=books)
+'Well it is called '
+[Cost Based Oracle:Fundamentals](http://www.amazon.co.uk/Cost-Based-Oracle-Fundamentals-v/dp/1590596366/sr=1-1/qid=1164751165/ref=sr_1_1/203-2869917-8143900?ie=UTF8&s=books)
 (Volume 1)' by Jonathan Lewis but it is a very technical book about the
 Oracle database. To be honest, the book contains lots of mathematics and
 statistical theory and it was pretty heavy going even for me and I still
@@ -94,8 +94,8 @@ haven't actually finished it.'
 'Hmm. Although I bet no-one else will choose it, that doesn't sound
 entirely suitable. What about the book you are currently reading ?'
 
-'Err, well. I'm half way through '[Heavier than
-Heaven](http://www.amazon.co.uk/Heavier-Than-Heaven-Biography-Cobain/dp/0340739398/sr=1-1/qid=1164750166/ref=sr_1_1/203-2869917-8143900?ie=UTF8&s=books)'
+'Err, well. I'm half way through '
+[Heavier than Heaven](http://www.amazon.co.uk/Heavier-Than-Heaven-Biography-Cobain/dp/0340739398/sr=1-1/qid=1164750166/ref=sr_1_1/203-2869917-8143900?ie=UTF8&s=books)'
 by Charles Cross.'
 
 Margaret Smithers-Jones pipes up: 'Oh I think I read about that one in

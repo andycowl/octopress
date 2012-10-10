@@ -19,5 +19,7 @@ determine the winner.
 
 Then I will reinstate Regulus 2.1.3.
 
-You are currently admiring Solipsus 1.5 (aka [Cartoon
-Network](http://www.nbrightside.com/blog/2006/05/31/cartoon-network/)).
+You are currently admiring Solipsus 1.5 (aka
+[Cartoon Network](http://www.nbrightside.com/blog/2006/05/31/cartoon-network/)
+).
+

@@ -11,13 +11,12 @@ when two will suffice. I think Unix is a fantastic development
 environment. However, the overly long, verbose commands irritate me
 slightly. So I use the following aliases and shell functions
 
-> a = tail -f ${ORACLE\_HOME}/rdbms/log/alert\_PRD.log\
->  l = ls\
->  ll = ls -l\
->  up = cd ..\
->  x = rm -fr \*\
->  z = wall 'Anyone fancy a quickie after work ?' [disciplinary action
-> pending]
+    a = tail -f ${ORACLE\_HOME}/rdbms/log/alert\_PRD.log
+    l = ls
+    ll = ls -l
+    up = cd ..
+    x = rm -fr \*
+    z = wall 'Anyone fancy a quickie after work ?' [disciplinary action pending]
 
 One of the happiest days of my life was when I discovered the tab
 completion feature in the GNU bash shell and the environment variable

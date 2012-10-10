@@ -9,13 +9,15 @@ comments: true
 A kind gentleman (on The Chameleons
 [forums](http://forums.thechameleons.com/)) once reviewed
 '[Interpol](http://www.interpolnyc.com/)'s 'Antics' thus:
-> No thanks. If I want to listen to [Joy
-> Division](http://andycowl.googlepages.com/), I will put 'Unknown
+
+> No thanks. If I want to listen to 
+> [Joy Division](http://andycowl.googlepages.com/), I will put 'Unknown
 > Pleasures' on.
 
 A worthy review which introduced me to one of my favourite bands.
-He also followed up more recently by reviewing 'The Back Room' by [The
-Editors](http://www.editorsofficial.com/) as follows:
+He also followed up more recently by reviewing 'The Back Room' by 
+[The Editors](http://www.editorsofficial.com/) as follows:
+
 > No thanks. If I want to listen to Interpol, I will put 'Antics' on.
 
 The jury is still out on this one but worth listening to, I think.

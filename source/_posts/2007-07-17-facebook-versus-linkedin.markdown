@@ -12,8 +12,8 @@ about this killer Google Reader application forced me to sign up for yet
 another pointless, short-lived, social network, Web 2.0 application -
 [Facebook](http://www.facebook.com).
 
-I was keen to preserve my '[Johnny Come
-Lately](http://www.nbrightside.com/blog/2005/08/23/firefox-and-thunderbird/)'
+I was keen to preserve my
+'[Johnny Come Lately](http://www.nbrightside.com/blog/2005/08/23/firefox-and-thunderbird/)'
 status and was relieved to find, coincidentally, that
 [Donncha](http://ocaoimh.ie/2007/07/16/oh-facebook-i-feel-so-dirty/) had
 signed up just ahead of me so I am now confirmed as the very last person

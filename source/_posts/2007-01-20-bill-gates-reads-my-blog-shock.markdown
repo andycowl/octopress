@@ -8,8 +8,8 @@ comments: true
 ---
 Great news. Bill Gates has heeded my
 [advice](http://www.nbrightside.com/blog/2005/11/09/e-commerce-at-microsoft-uk/)
-and I will be able to purchase Vista online
-and[download](http://news.yahoo.com/s/ap/20070118/ap_on_hi_te/microsoft_vista)
+and I will be able to purchase Vista online and
+[download](http://news.yahoo.com/s/ap/20070118/ap_on_hi_te/microsoft_vista)
 the media. This means that I no longer have to buy an expensive box full
 of fresh air from Microsoft.
 

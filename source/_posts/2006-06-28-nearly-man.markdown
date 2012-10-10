@@ -8,9 +8,9 @@ comments: true
 ---
 In August 2002, I visited Florida on holiday. In return for what seemed
 like 7 successive days at theme parks in sweltering weather, my family
-kindly allowed me a visit to the [Kennedy Space
-Center](http://www.nasa.gov/centers/kennedy/home/index.html) which was a
-fantastic day out.
+kindly allowed me a visit to the
+[Kennedy Space Center](http://www.nasa.gov/centers/kennedy/home/index.html)
+which was a fantastic day out.
 
 As luck would have it, a shuttle launch was actually scheduled during
 our stay so I planned to drive out to the

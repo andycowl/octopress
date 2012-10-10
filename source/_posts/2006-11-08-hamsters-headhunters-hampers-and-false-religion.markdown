@@ -79,8 +79,8 @@ writing.
 
 Peace at last. Until the telephone rings. Some direct marketeer brings
 me tidings of great joy. My wife and I have won a Christmas Hamper. I am
-immediately suspicious and ask if this is surplus stock
-from[Farepak](http://news.bbc.co.uk/1/hi/england/wiltshire/6115626.stm).
+immediately suspicious and ask if this is surplus stock from
+[Farepak](http://news.bbc.co.uk/1/hi/england/wiltshire/6115626.stm).
 She assures me that it isn't and tells me that my wife and I just need
 to come to a local hotel on Saturday to collect this hamper.
 

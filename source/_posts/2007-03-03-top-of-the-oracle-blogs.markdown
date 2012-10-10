@@ -26,12 +26,12 @@ Led Zeppelin's 'Whole Lotta Love'.
     Kevin Closson - Rank: 87,506 (100 links from 44 blogs)
 8.  [The Oracle Sponge](http://oraclesponge.wordpress.com) - David
     Aldridge - Rank: 102,376 (72 links from 38 blogs)
-9.  [The Oracle-Base Blog](http://www.oracle-base.com/blog/) - Tim Hall
-    - Rank: 112,139 (57 links from 35 blogs)
-10. [So What Co-Operative](http://marist89.blogspot.com/) - Jeff Hunter
-    - Rank: 154,372 (62 links from 26 blogs)
-11. [Pete-s Random Notes](http://pjsrandom.wordpress.com/) - Peter Scott
-    - Rank: 161,008 (92 links from 25 blogs)
+9.  [The Oracle-Base Blog](http://www.oracle-base.com/blog/) - Tim
+    Hall - Rank: 112,139 (57 links from 35 blogs)
+10. [So What Co-Operative](http://marist89.blogspot.com/) - Jeff
+    Hunter - Rank: 154,372 (62 links from 26 blogs)
+11. [Pete-s Random Notes](http://pjsrandom.wordpress.com/) - Peter
+    Scott - Rank: 161,008 (92 links from 25 blogs)
 12. [Radio Free Tooting](http://radiofreetooting.blogspot.com/) - Andrew
     Clarke - Rank: 168,201 (70 links from 24 blogs)
 13. [Oracle 10g Blog](http://www.dbazine.com/blogs/blog-cf/chrisfoot/) -
@@ -43,13 +43,13 @@ Led Zeppelin's 'Whole Lotta Love'.
 16. [OracleBlog](http://thinkoracle.blogspot.com/) - Robert Vollman -
     Rank: 194,372 (44 links from 21 blogs)
 17. [Oracle Stuff I should have known](http://oracleandy.blogspot.com/)
-    - Andy Campbell - Rank TBD (55 links from X blogs)
+    \- Andy Campbell - Rank TBD (55 links from X blogs)
 18. [We Do Not Use Blogs](http://wedonotuse.blogspot.com/) - Mogens
     Norgaard - Rank: 259,194 (26 links from 16 blogs)
 19. [Laurent Schneider OCM](http://laurentschneider.com/) - Laurent
     Schneider - Rank: 322,022 (176 links from 13 blogs)
-20. [Oracle Newbies Blog](http://newbiedba.blogspot.com/) - Lisa Dobson
-    - Rank: 322,022 (29 links from 13 blogs)
+20. [Oracle Newbies Blog](http://newbiedba.blogspot.com/) - Lisa
+    Dobson - Rank: 322,022 (29 links from 13 blogs)
 21. [OraMoss Oracle](http://oramossoracle.blogspot.com) - Jeff Moss -
     Rank: 347,530 (150 links from 12 blogs)
 22. [Confessions of a database geek](http://datageekgal.blogspot.com) -

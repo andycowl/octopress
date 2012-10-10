@@ -14,8 +14,8 @@ teething
 [problems](http://www.nbrightside.com/blog/2007/05/02/a-day-in-the-life/),
 I am pretty satisfied with the V+ service.
 
-The V+ box is a personal video recorder (PVR) similar to the [Sky
-Plus](http://www.sky.com/portal/site/skycom/products/equipment/skyplus)
+The V+ box is a personal video recorder (PVR) similar to the
+[Sky Plus](http://www.sky.com/portal/site/skycom/products/equipment/skyplus)
 service. The V+ box contains a 160GB hard drive which can store 80 hours
 of recorded TV programs.
 
@@ -84,8 +84,7 @@ possible.
 
 More info on V+:
 
--   [Virgin
-    Media](http://allyours.virginmedia.com/html/dtv/vplus/index.html)
+-   [Virgin Media](http://allyours.virginmedia.com/html/dtv/vplus/index.html)
     (costs and marketing fluff)
 -   [Wikipedia](http://en.wikipedia.org/wiki/V+) (what do all those
     [connectors](http://www.nbrightside.com/blog/2007/06/12/pictures-of-a-virgin-media-v-box/)

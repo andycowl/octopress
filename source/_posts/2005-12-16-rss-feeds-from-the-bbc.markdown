@@ -1,10 +1,10 @@
 ---
 date: '2005-12-16 18:01:41'
-categories:
-    - uncategorised
 title: RSS feeds from the BBC
 layout: post
 comments: true
+categories:
+    - rss
 ---
 I subscribe to an RSS feed from the BBC about Manchester United.
 

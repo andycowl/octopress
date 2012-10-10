@@ -1,10 +1,10 @@
 ---
 date: '2006-09-27 07:49:54'
-categories:
-    - uncategorised
 title: The Wonderful and Frightening World of Mark E. Smith
 layout: post
 comments: true
+categories:
+    - music
 ---
 BBC2 Friday night. A [repeat](http://www.thefall.info/fallsite/?p=320)
 but memorable for some great footage, interviews and these two
@@ -20,6 +20,7 @@ Smith
 > than Siouxsie and the Banshees. I didn't believe it was possible.' You
 > know what I mean? [laughs] He was a gem, what a gem. He said, 'please
 > do a session' [laughs].
+>
 > All the group stayed up to watch the Old Grey Whistle Test. Not that I
 > would, personally but you couldn't see the group, that was the
 > funniest bit. They stayed up to watch

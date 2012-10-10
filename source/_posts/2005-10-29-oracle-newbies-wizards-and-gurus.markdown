@@ -51,4 +51,4 @@ repeatedly requested but ignored (or denied) for many months can
 miraculously become feasible almost immediately.
 
 It is surprising how many so called technical issues actually turn out
-to be about communication.[\ ](http://www.technorati.com/tags/Oracle)
+to be about communication.

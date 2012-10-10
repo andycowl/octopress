@@ -6,8 +6,8 @@ title: Broadband for the masses
 layout: post
 comments: true
 ---
-Last night's '[Money
-Program](http://news.bbc.co.uk/1/hi/in_depth/business/money_programme/default.stm)'
+Last night's '
+[Money Program](http://news.bbc.co.uk/1/hi/in_depth/business/money_programme/default.stm)'
 was about the increasing consumer demand for
 [broadband](http://news.bbc.co.uk/1/hi/business/5234024.stm) services
 and the various options available from the suppliers.

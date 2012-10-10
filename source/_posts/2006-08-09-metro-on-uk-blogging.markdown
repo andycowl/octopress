@@ -27,9 +27,9 @@ The article then goes on to claim 'growing numbers of writers see
 get your voice heard if your blog is not even published on the internet.
 
 I don't think this superb journalism coupled with the deep, considered
-incisive analysis is going to challenge Dave Sifry's '[State of the
-Blogosphere](http://www.sifry.com/alerts/archives/2006_08.html)'.
+incisive analysis is going to challenge Dave Sifry's '
+[State of the Blogosphere](http://www.sifry.com/alerts/archives/2006_08.html)'.
 
-PS. Memo to self: Idea for [Dragon's
-Den](http://www.bbc.co.uk/dragonsden/) - a decent portal for UK
+PS. Memo to self: Idea for
+[Dragon's Den](http://www.bbc.co.uk/dragonsden/) - a decent portal for UK
 bloggers.

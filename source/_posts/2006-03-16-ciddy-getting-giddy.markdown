@@ -1,16 +1,16 @@
 ---
 date: '2006-03-16 17:24:26'
-categories:
-    - uncategorised
 title: Ciddy getting giddy
 layout: post
 comments: true
+categories:
+    - football
 ---
-13. Years since Manchester City
+13\. Years since Manchester City
 [reached](http://news.bbc.co.uk/sport2/hi/football/fa_cup/4796150.stm)
 the quarter finals of the FA Cup.
 
-30. Years since Manchester City last won a trophy.
+30\. Years since Manchester City last won a trophy.
 
 The best football banner in the world was very simple and understated -
 just two large digits at the Stretford End. The number was incremented

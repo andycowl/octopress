@@ -6,9 +6,9 @@ title: WordPress import/export
 layout: post
 comments: true
 ---
-Maybe a fraction too late for [Doug
-Burns](http://oracledoug.com/serendipity/) (whose Blogger blog has been
-recently
+Maybe a fraction too late for
+[Doug Burns](http://oracledoug.com/serendipity/)
+(whose Blogger blog has been recently
 [hijacked](http://oracledoug.com/serendipity/index.php?/archives/436-Blogger-Hacked.html))
 but WordPress have just announced the availability of XML
 [import/export](http://wordpress.com/blog/2006/06/12/xml-import-export/)

@@ -18,9 +18,9 @@ sleeping blogs to see whether the feed has actually died or migrated
 elsewhere and prune my subscription list accordngly.
 
 The blog on my reading list, showing the longest period of inactivity is
-Andrew Campbell's [Oracle Stuff I Should Have
-Known](http://oracleandy.blogspot.com/). The last post to this blog was
-made way back on 24 September 2006.
+Andrew Campbell's
+[Oracle Stuff I Should Have Known](http://oracleandy.blogspot.com/).
+The last post to this blog was made way back on 24 September 2006.
 
 Now, this is an interesting, technical Oracle blog so I will remain
 subscribed because the next post could be a gem and might even be

@@ -14,8 +14,7 @@ newspaper and thankfully, didn't speak on a phone.
 -   Stubbornly refuse the persistent [Alamo](http://www.alamo.com/)
     sales pitch offering an upgrade to a oversized vehicle, pre-paid
     petrol and a host of other unwanted 'options'.
--   Visit [Magic
-    Kingdom](http://disneyworld.disney.go.com/wdw/parks/parkLanding?id=MKLandingPage&bhcp=1)
+-   Visit [Magic Kingdom](http://disneyworld.disney.go.com/wdw/parks/parkLanding?id=MKLandingPage&bhcp=1)
     on the busiest day of the year. Queue to board a ferry boat. Queue
     to buy tickets. Queue to get bag checked. Queue to enter park. Queue
     for restrooms. Queue for food. Board every ride almost immediately.
@@ -36,21 +35,21 @@ newspaper and thankfully, didn't speak on a phone.
 -   Car park attendant at [Sea World](http://www.seaworld.com) finally
     rumbles the state of origin trick - 'hey - did you just read my name
     badge ?'
--   [Kennedy Space
-    Center](http://www.nasa.gov/centers/kennedy/home/index.html) -
+-   [Kennedy Space Center](http://www.nasa.gov/centers/kennedy/home/index.html) -
     'Awesome' is a much overused word in America but on this occasion,
     completely justified.
--   Early start for Universal [Islands of
-    Adventure](http://www.universalorlando.com/ioa_index.html). Splash
-    out on Fast Pass tickets and gloat as we march to the front of the
+-   Early start for Universal
+[Islands of Adventure](http://www.universalorlando.com/ioa_index.html).
+    Splash out on Fast Pass tickets and gloat as we march to the front of the
     lines.
--   Forcibly ejected from [Dixie
-    Stampede](http://www.dixiestampede.com/orlando.php) after answering
+-   Forcibly ejected from
+    [Dixie Stampede](http://www.dixiestampede.com/orlando.php)
+    after answering
     'Stand up if you are proud to be in America' by placing hand on
     heart, waving a star spangled banner and bellowing 'We applaud your
     war of terror'.
--   Don ski-suit, hats and gloves for [Blizzard
-    Beach](http://disneyworld.disney.go.com/wdw/parks/parkLanding?id=BBLandingPage).
+-   Don ski-suit, hats and gloves for
+    [Blizzard Beach](http://disneyworld.disney.go.com/wdw/parks/parkLanding?id=BBLandingPage).
     Shocked to discover it is a Water Park with massive queues and no
     space to sit down.
 -   Drive to Miami Beach. Beautiful people driving flash cars past
@@ -62,9 +61,9 @@ newspaper and thankfully, didn't speak on a phone.
     DOWN' which, surprisingly, has desired effect. Wife still unable to
     sleep as she fears drug mafia will enter room to exact dreadful
     revenge.
--   Airboat ride at Everglades [Alligator
-    Farm](http://www.everglades.com/). Too scared to hold a cuddly
-    alligator or a large yellow snake.
+-   Airboat ride at Everglades
+    [Alligator Farm](http://www.everglades.com/).
+    Too scared to hold a cuddly alligator or a large yellow snake.
 -   Meet a lady who 'loves my accent'. She spent time in England last
     summer. In the famous English town of Newport (near Wales).
 -   Hotel safe jams containing passports and valuables (United scarf).
@@ -80,8 +79,8 @@ newspaper and thankfully, didn't speak on a phone.
 -   Gain 3 stone as result of outsize American portions. Started to
     share meals, only eat starters, request childrens menu and finally
     skip meals completely. Weight gain limited to 5 stone as a result.
--   Key Largo. Superb snorkelling on Banana Reef in [John
-    Pennekamp](http://www.pennekamppark.com/) Park.
+-   Key Largo. Superb snorkelling on Banana Reef in
+    [John Pennekamp](http://www.pennekamppark.com/) Park.
 -   Put petrol in car. Advanced computer system for automated
     self-service payment means I only have to enter garage three times
     to complete transaction.
@@ -93,5 +92,5 @@ newspaper and thankfully, didn't speak on a phone.
     of abuse.
 -   Fly back from Miami airport. Sophisticated on-demand video and
     entertainment system functional after a 'master-master reset'. Play
-    Tetris continuously for 6 hours with attractive girl seated in 32B.
-
+    Tetris continuously for 6 hours with attractive girl seated in
+    32B.

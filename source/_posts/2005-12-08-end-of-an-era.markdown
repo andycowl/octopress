@@ -1,10 +1,10 @@
 ---
 date: '2005-12-08 16:30:38'
-categories:
-    - uncategorised
 title: End of an era ?
 layout: post
 comments: true
+categories:
+    - football
 ---
 The Glazer takeover was not the end of an era. Manchester United is a
 PLC not a football club.

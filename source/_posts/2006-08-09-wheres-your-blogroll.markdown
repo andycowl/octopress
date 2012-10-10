@@ -39,8 +39,9 @@ think about it. No need to export your OPML and upload it (again).
 Bloglines manages this for you. OK - it was the only thing I liked about
 my Bloglines [blog](http://www.bloglines.com/blog/andycowl) but still.
 
-This is exactly how it should be and what [Share Your
-OPML](http://share.opml.org/) is sadly lacking. Share Your OPML has some
+This is exactly how it should be and what
+[Share Your OPML](http://share.opml.org/)
+is sadly lacking. Share Your OPML has some
 promising features for popular and common feeds, feed discovery,
 recommendations and match
 [making](http://www.nbrightside.com/blog/2006/06/02/blind-date/).

@@ -26,9 +26,9 @@ struggling to find the reservation made on my behalf for Monday night,
 yourself.' She nodded sagely as she eventually unearthed my booking for
 Tuesday night by which time I would have left the country.
 
-Unlike [Mark
-Rittman](http://www.rittman.net/2006/11/15/wheres-everything-gone/), I
-can't really count on the goodwill of both my readers to manually type
+Unlike
+[Mark Rittman](http://www.rittman.net/2006/11/15/wheres-everything-gone/),
+I can't really count on the goodwill of both my readers to manually type
 in more than 500 articles, so I looked around for a fully automated
 backup that would backup all of my MySQL databases (not just WordPress)
 using cron.

@@ -1,15 +1,15 @@
 ---
 date: '2006-11-15 17:58:44'
-categories:
-    - uncategorised
 title: Bluehost upgrade to WordPress 2.0.5
 layout: post
 comments: true
+categories:
+    - wordpress
 ---
 Bluehost have upgraded WordPress to 2.0.5 so I ignored this warning and
 clicked 'Upgrade'
-> Click on Upgrade only if\
->  - no files, languages, themes have been modified\
+> Click on Upgrade only if 
+>  - no files, languages, themes have been modified 
 >  - you haven't added mods to this installation of WordPress
 
 After all, the whole point of hosting a blog is to add

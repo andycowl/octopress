@@ -6,8 +6,8 @@ title: rapid fire service from Dell
 layout: post
 comments: true
 ---
-I celebrated my recent promotion (to [BMI
-Silver](http://www.flybmi.com/bmi/en-gb/frequentflyers/membershipbenefits/silvermembership.aspx))
+I celebrated my recent promotion (to
+[BMI Silver](http://www.flybmi.com/bmi/en-gb/frequentflyers/membershipbenefits/silvermembership.aspx))
 by ordering a brand new Dell
 [computer](http://www1.euro.dell.com/content/products/features.aspx/desktops_better?c=uk&cs=ukdhs1&l=en&s=dhs)
 running Windows Vista (Premium) and proudly attaching the tag to my

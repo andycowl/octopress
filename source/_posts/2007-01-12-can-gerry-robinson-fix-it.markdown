@@ -6,8 +6,9 @@ title: can Gerry Robinson fix IT ?
 layout: post
 comments: true
 ---
-I was fascinated by the '[Can Gerry Robinson fix the
-NHS](http://www.open2.net/nhs/)' series broadcast on BBC2 this week.
+I was fascinated by the 
+'[Can Gerry Robinson fix the NHS](http://www.open2.net/nhs/)'
+series broadcast on BBC2 this week.
 
 Not because I learned a lot about how the NHS works. Not because I was
 staggered at the simplicity of Robinson's approach. Not because I was

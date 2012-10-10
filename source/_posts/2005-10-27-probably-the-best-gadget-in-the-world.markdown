@@ -7,6 +7,7 @@ categories:
     - gadget
 ---
 Watches are useful. My main requirements for a watch are:
+
 1.  Display the precise time at all times.
 2.  Do not need any maintenance like winding or changing the batteries.
 3.  Automatically adjust for GMT/BST.
@@ -16,6 +17,7 @@ Watches are useful. My main requirements for a watch are:
 
 So I bought this Casio Waveceptor
 [watch](http://www.casio.co.uk/Products/Watches/Wave%20Ceptor/WVA-430TDU-1A2VER%20-%7C%20Radio%20Controlled,%20Solar%20Power%20/At%20a%20Glance/).
+
 1.  This watch synchronises with a radio transmitter to guarantee the
     time is absolutely 100% correct at all times. I know this works
     because the watch is always precisely in sync with my digital TV

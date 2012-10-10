@@ -48,7 +48,7 @@ Unfortunately, I appear to have mislaid (or Yahoo have inactivated) my
 Yahoo! credentials for my world famous Flickr stream so let's try some
 inline thumbnails. Apologies for the quality.
 
-<a title="Yahoo! Adware! Mail!" href="http://picasaweb.google.com/lh/photo/ssTcKh6a_jSF5qWEXzdKUA?feat=embedwebsite"><img src="http://lh3.ggpht.com/_l2uGy1RGCiE/TRDRZUwJVmI/AAAAAAAABqA/Rz9NxecUuUE/s640/googlemail.JPG" height="480" width="640" /></a>
+<a title="Yahoo! Adware! Mail!" href="http://picasaweb.google.com/lh/photo/edF_YB5l8t1IfZ9Svg0QMg?feat=embedwebsite"><img src="http://lh3.ggpht.com/_l2uGy1RGCiE/TRDRaOxyrdI/AAAAAAAABqM/W4WjcuxBoBM/s640/yahoomail.JPG" height="480" width="640" /></a>
 
 Note the MASSIVE banner ad on RHS (no I didn't photoshop the red border)
 and the more subtle ads bottom left.
@@ -70,4 +70,4 @@ the text (not banner) ads coupled with the white background although I
 am not sure what advertising men in new media glasses would make of
 this.
 
-<a title="Google Mail" href="http://picasaweb.google.com/lh/photo/edF_YB5l8t1IfZ9Svg0QMg?feat=embedwebsite"><img src="http://lh3.ggpht.com/_l2uGy1RGCiE/TRDRaOxyrdI/AAAAAAAABqM/W4WjcuxBoBM/s640/yahoomail.JPG" height="480" width="640" /></a>
+<a title="Google Mail" href="http://picasaweb.google.com/lh/photo/ssTcKh6a_jSF5qWEXzdKUA?feat=embedwebsite"><img src="http://lh3.ggpht.com/_l2uGy1RGCiE/TRDRZUwJVmI/AAAAAAAABqA/Rz9NxecUuUE/s640/googlemail.JPG" height="480" width="640" /></a>

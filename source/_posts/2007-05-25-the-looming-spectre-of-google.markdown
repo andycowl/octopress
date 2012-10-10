@@ -39,8 +39,8 @@ reports in the revamped Analytics and
 [deficiencies](http://groups.google.com/group/Google-Labs-Reader/browse_frm/thread/46ecef4ffd2722da)
 in Reader.
 
-If you don't like Analytics V2, go back to [Site
-Meter](http://sitemeter.sitetoolbox.com/) to track your e-commerce
+If you don't like Analytics V2, go back to
+[Site Meter](http://sitemeter.sitetoolbox.com/) to track your e-commerce
 site.  Let me know how you get on.
 
 If you can't stand [Reader](http://www.google.com/reader/view/), shut
@@ -79,8 +79,7 @@ retrieve the remainder as I have lost some magnificent blogging
 material over the years.
 
 If you are genuinely worried that Google is going to tell you what to
-'[eat for
-tea](http://www.ft.com/cms/s/c3e49548-088e-11dc-b11e-000b5df10621.html)',
+'[eat for tea](http://www.ft.com/cms/s/c3e49548-088e-11dc-b11e-000b5df10621.html)',
 maybe you should do the world a favour and start a protest on behalf
 of all Interweb users by going on an indefinite hunger
 strike. Immediately.

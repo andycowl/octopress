@@ -1,10 +1,10 @@
 ---
 date: '2005-12-21 06:50:25'
-categories:
-    - uncategorised
 title: good news for WordPress users
 layout: post
 comments: true
+categories:
+    - wordpress
 ---
 The news is out.
 [Yahoo!](http://smallbusiness.yahoo.com/webhosting/problogs.php?p=BALLOON)

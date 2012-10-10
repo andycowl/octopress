@@ -11,9 +11,9 @@ today as Mr. Norman Brightside, a little known and largely unsung
 blogger, from Newcastle (near Norway) delivered his much awaited,
 quarterly update to his renowned 'State of the Blogosphere' address.
 
-Fresh from the successful launch of a [book
-club](http://www.nbrightside.com/blog/2006/04/19/book-club/), Brightside
-told an adoring and expectant audience:
+Fresh from the successful launch of a
+[book club](http://www.nbrightside.com/blog/2006/04/19/book-club/),
+Brightside told an adoring and expectant audience:
 
 > The blogosphere is in a right old state. There are a few more blogs
 > appearing and the rate of growth is directly proportional to a

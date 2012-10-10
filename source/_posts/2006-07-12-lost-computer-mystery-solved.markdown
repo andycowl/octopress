@@ -22,10 +22,11 @@ in time...
 
 A corporate screensaver appears displaying perplexing, enigmatic, dark,
 cryptic words which, in turn, only fuels more mystery and suspense...
-> We lead by example\
->  We work together\
->  We respect the individual\
->  We seek the facts and provide insight\
->  We are open and honest in our communication\
->  We are committed to our communities\
->  Above all, we act with integrity
+
+> We lead by example 
+> We work together 
+> We respect the individual 
+> We seek the facts and provide insight 
+> We are open and honest in our communication 
+> We are committed to our communities 
+> Above all, we act with integrity

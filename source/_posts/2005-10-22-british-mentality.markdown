@@ -26,10 +26,11 @@ business class if you can't even offer me an English newspaper ?' and
 finally let the subject die.
 
 Two things struck me:
--   I bet his company, or more likely, his client are the ones paying
-    the premium for business class and not him.
--   I was simply dying to say 'Well next time you fly on British Airways
-    at 17.00 on a Friday to any German destination, why don't you see
-    how many copies of 'Die Welt' and 'Der Spiegel' are available for
-    German passengers ?'
 
+- I bet his company, or more likely, his client are the ones paying
+  the premium for business class and not him.
+
+- I was simply dying to say 'Well next time you fly on British Airways
+  at 17.00 on a Friday to any German destination, why don't you see
+  how many copies of 'Die Welt' and 'Der Spiegel' are available for
+  German passengers ?'

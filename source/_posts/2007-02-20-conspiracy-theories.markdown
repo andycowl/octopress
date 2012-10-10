@@ -12,7 +12,7 @@ teddy bears, I sat down with a hot cup of Horlicks to enjoy two hours of
 high quality Sunday night viewing.
 
 I don't know why but I have always had an interest in 'conspiracy
-therories'. When I was a lad, I was convinced that
+theories'. When I was a lad, I was convinced that
 
 -   Marilyn Monroe was killed by the Kennedy brothers.
 -   Ashley Grimes was a undercover Manchester City spy.
@@ -31,8 +31,8 @@ beliefs accordingly.
 -   Kurt Cobain's death was directly or indirectly arranged by Courtney
     Love.
 
-Imagine my horror, when last night's BBC [Conspiracy
-Files](http://news.bbc.co.uk/1/hi/programmes/conspiracy_files/6160775.stm)
+Imagine my horror, when last night's BBC
+[Conspiracy Files](http://news.bbc.co.uk/1/hi/programmes/conspiracy_files/6160775.stm)
 tells me that 9/11 was the work of Al Qaeda terrorist cells coupled with
 failings by the US intelligence services.
 

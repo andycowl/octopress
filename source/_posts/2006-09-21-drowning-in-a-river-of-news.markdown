@@ -8,15 +8,15 @@ layout: post
 comments: true
 ---
 I have an increasing tendency to skim all my RSS feeds in
-[Netvibes](http://www.nbrightside.com/blog/2006/05/25/good-vibes-from-netvibes/)just
-to finish reading them as quickly as possible and not really reading (or
+[Netvibes](http://www.nbrightside.com/blog/2006/05/25/good-vibes-from-netvibes/)
+just to finish reading them as quickly as possible and not really reading (or
 enjoying) the content.
 
 My therapist recommended some diversion therapy; install the
 [Gregarius](http://gregarius.net/) aggregator locally on my PC, import
 my OPML and experiment with Dave
-[Winer](http://scripting.wordpress.com/)'s controversial '[River of
-News](http://www.reallysimplesyndication.com/riverOfNews)' concept.
+[Winer](http://scripting.wordpress.com/)'s controversial '
+[River of News](http://www.reallysimplesyndication.com/riverOfNews)' concept.
 
 Now my previous experiments with
 [Joomla](http://www.nbrightside.com/blog/2006/01/31/finally-succumbed/)
@@ -31,8 +31,8 @@ resurrect and export some dear, dead departed
 [feeds](http://oracledoug.com/serendipity/) (with Japanese writing) from
 beyond the grave.
 
-Gregarius has the conventional [two
-pane](http://flickr.com/photos/70276096@N00/249333422/in/photostream/)
+Gregarius has the conventional
+[two pane](http://flickr.com/photos/70276096@N00/249333422/in/photostream/)
 (feed-article) view and you can quickly review all articles from all
 blogs in reverse date order. You can then choose to expand any
 [articles](http://flickr.com/photos/70276096@N00/249333418/in/photostream/)

@@ -15,7 +15,7 @@ the browser and simply let auto-complete do its work which was
 quicker.
 
 A couple of weeks ago, Yahoo launched
-[My Web](http://uk.search.yahoo.com/myresults/benefits)which
+[My Web](http://uk.search.yahoo.com/myresults/benefits) which
 overhauled the bookmarks functionality and added the ability to save a
 copy of the Web page so that the referenced content was preserved in
 the event that the Web site was subsequently moved or
@@ -27,7 +27,7 @@ United'.
 Then I discovered social bookmarking (Furl, del.ico.us, spurl) which
 also saves the state of the Web page and maintains a personal,
 searchable archive (just like My Web). However, the key difference
-with [Furl](http://www.furl.net/)(et al) is that all Web pages for all
+with [Furl](http://www.furl.net/) (et al) is that all Web pages for all
 users are stored on a central server. For any Web page, Furl can then
 quickly display similar, related, associated pages which have also
 been stored by different Furl users. This is what those Web 2.0 people

@@ -54,10 +54,10 @@ customer services told me the
 [upgrade](http://www.nbrightside.com/blog/2007/03/09/free-upgrades-from-virgin-media/)
 would be effective from last Friday.
 
-Out of curiosity, I downloaded a [100MB
-file](http://fuller.zen.co.uk/test/) (twice) and looked at the download
-speeds which were in the range 360-390 KB/sec. Quick but less than you
-would expect for a 10Mb connection.
+Out of curiosity, I downloaded a
+[100MB file](http://fuller.zen.co.uk/test/) (twice) and looked at the
+download speeds which were in the range 360-390 KB/sec. Quick but less
+than you would expect for a 10Mb connection.
 
 I called my friends at Virgin Media to check the status of my broadband
 upgrade. Sure enough, contrary to what I was told, the 10Mb upgrade will

@@ -22,6 +22,6 @@ Yet another interrupted night's sleep.
 
 Even more spooky, each occurrence happened at 03:58 precisely.
 
-Time to call Yvette Fielding and get the [Most
-Haunted](http://www.nbrightside.com/blog/2006/01/27/most-haunted-2/)
+Time to call Yvette Fielding and get the
+[Most Haunted](http://www.nbrightside.com/blog/2006/01/27/most-haunted-2/)
 crew around.

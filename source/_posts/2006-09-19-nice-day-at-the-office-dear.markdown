@@ -15,8 +15,8 @@ Still, it could have been worse. The original plan had me staying
 overnight in a hotel in Chesterfield.
 
 Although this unexpected change of plan was inconvenient and tiring, it
-still wasn't as terrible as this gentleman's [bad
-day](http://oiyoublogoff.blogspot.com/2006/09/fear-not-blog-fans.html)
+still wasn't as terrible as this gentleman's
+[bad day](http://oiyoublogoff.blogspot.com/2006/09/fear-not-blog-fans.html)
 
 > I'm still here. I've been in hospital after accidently locking myself
 > in one of my beehouses. I was stung so much that I have given up

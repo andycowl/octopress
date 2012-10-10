@@ -25,8 +25,8 @@ detailed investigations into the optimal degree of
 More recently, it would appear that homesickness coupled with the
 extreme
 [cold](http://oracledoug.com/serendipity/index.php?/archives/1189-A-Bit-Brisk,-Eh.html)
-is affecting his brain. He is now listening to '[The
-Proclaimers](http://oracledoug.com/serendipity/index.php?/archives/1190-While-The-Chief-....html)'
+is affecting his brain. He is now listening to
+'[The Proclaimers](http://oracledoug.com/serendipity/index.php?/archives/1190-While-The-Chief-....html)'
 and viewing questionable videos on YouTube.
 
 So, to preserve poor Doug's sanity and seed some new ideas, I have

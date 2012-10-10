@@ -1,10 +1,10 @@
 ---
 date: '2005-11-12 03:09:23'
-categories:
-    - uncategorised
 title: Sony car radio/CD/DAB
 layout: post
 comments: true
+categories:
+    - music
 ---
 I have got an old radio cassette in my car with a aerial mounted in the
 rear windscreen. The MW reception is pretty poor and if you go under a

@@ -33,6 +33,7 @@ two outright winners during the whole 24 minutes.
 
 When I asked my son for tips to improve my all-round game, he graciously
 replied
+
 > 'You actually weren't as bad I thought. You did get some serves in.'
 
 I may have lost but I can tell you, I really looked the part as I
@@ -43,17 +44,16 @@ cream blazer with a cream holdall embossed in gold lettering with 'NB'.
 
 We then adjourned to Asda for an emergency purchase (toilet rolls) and I
 cheered myself up with the purchase of
-[Editors](http://www.editorsofficial.com/) '[An End Has a
-Start](http://www.amazon.co.uk/End-Has-Start-Editors/dp/B000PUAZDW/ref=pd_bbs_sr_1/202-9208489-4082238?ie=UTF8&s=music&qid=1184074770&sr=8-1)'.
+[Editors](http://www.editorsofficial.com/)
+'[An End Has a Start](http://www.amazon.co.uk/End-Has-Start-Editors/dp/B000PUAZDW/ref=pd_bbs_sr_1/202-9208489-4082238?ie=UTF8&s=music&qid=1184074770&sr=8-1)'.
 This CD has been on my wishlist for a whole but I have been poised on
-tenterhooks, waiting for [Doug
-Burns](http://oracledoug.com/serendipity/) to divulge his innermost
-thoughts on this indie band but, sorry, Doug, I simply can not bear the
-suspense any longer.
+tenterhooks, waiting for
+[Doug Burns](http://oracledoug.com/serendipity/)
+to divulge his innermost thoughts on this indie band but, sorry, Doug,
+I simply can not bear the suspense any longer.
 
-I see [Interpol'](http://www.interpolnyc.com/)s third album ('[Our Love
-To
-Admire](http://www.amazon.co.uk/Our-Love-Admire-Interpol/dp/B000R7HQVW/ref=sr_1_1/202-9208489-4082238?ie=UTF8&s=music&qid=1184074858&sr=1-1)')
+I see [Interpol'](http://www.interpolnyc.com/)s third album
+('[Our Love To Admire](http://www.amazon.co.uk/Our-Love-Admire-Interpol/dp/B000R7HQVW/ref=sr_1_1/202-9208489-4082238?ie=UTF8&s=music&qid=1184074858&sr=1-1)')
 is also out which has received negative reviews for being too similar to
 the previous two with vivid echoes of Joy Division so that has also been
 ordered.

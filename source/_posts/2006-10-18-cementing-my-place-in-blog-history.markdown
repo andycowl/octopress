@@ -6,14 +6,12 @@ title: cementing my place in blog history
 layout: post
 comments: true
 ---
-There is nothing worse than a blog entry titled 'Dear Diary' - hence the
-title - but this is my humble submission for '[One Day in
-layout: post
-comments: true
-History](http://www.historymatters.org.uk/output/page96.asp)' so please
-forgive me. Of course, I could author this piece directly on the site
-but that would mean checking I am within the 650 word limit which is far
-too much work (unless I use Microsoft Word).
+There is nothing worse than a blog entry titled 'Dear Diary' - hence
+the title - but this is my humble submission for '
+[One Day in History](http://www.historymatters.org.uk/output/page96.asp)'
+so please forgive me. Of course, I could author this piece directly on
+the site but that would mean checking I am within the 650 word limit
+which is far too much work (unless I use Microsoft Word).
 
 Get up at 7am and unload dishwasher. My one and only household chore but
 one I perform very well. Breakfast of cereal, tea and orange juice.
@@ -25,8 +23,8 @@ email.
 Quick scan of
 [Netvibes](http://www.nbrightside.com/blog/2006/05/25/good-vibes-from-netvibes/).
 The only thing to interest me is the recent update to
-[TailRank](http://blog.tailrank.com/2006/10/tailrank_20_is_.html). I
-have occasionally played with various meme trackers
+[TailRank](http://blog.tailrank.com/2006/10/tailrank_20_is_.html).
+I have occasionally played with various meme trackers
 ([TechMeme](http://techmeme.com/), [Digg](http://digg.com/),
 [Reddit](http://reddit.com/), [populicio.us](http://populicio.us/)) but
 usually my feeds contain the same stories of interest. I also like

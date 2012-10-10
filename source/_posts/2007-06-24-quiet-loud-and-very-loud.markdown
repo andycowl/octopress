@@ -14,11 +14,11 @@ from Iggy and The Stooges on Jonathan Ross. I never realised
 '[Elves](http://www.last.fm/music/The+Fall/_/Elves)' by The Fall was
 such a complete rip-off of 'I wanna be your dog'.
 
-[Seven Ages of
-Rock](http://www.bbc.co.uk/music/sevenages/programmes/left-of-the-dial/)
+[Seven Ages of Rock](http://www.bbc.co.uk/music/sevenages/programmes/left-of-the-dial/)
 - Black Flag, R.E.M, Pixies and Nirvana.
+
 > 'Some people can not do that and will not do that.' (simple bass riff)
-> - Kim Deal on 'Where is my mind'
+> \- Kim Deal on 'Where is my mind'
 
 > 'It had to end right there. Right with that scream. Right with that
 > song. Right with that howl' - Scott Litt on Kurt Cobain's final

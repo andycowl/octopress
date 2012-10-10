@@ -70,7 +70,7 @@ any computer. I liked the clean, simple interface with the emphasis on
 the text of the article. Newsgator also supports Clippings for articles
 of interest.
 
-[Omea](http://www.jetbrains.com/omea/reader/)from Jetbrains- a polished
+[Omea](http://www.jetbrains.com/omea/reader/) from Jetbrains- a polished
 professional .NET application. Excellent drag'n'drop interface for
 quickly organising feeds into categories. Fast performance, easy to
 understand, rich functionality. Probably my favourite desktop RSS
@@ -108,8 +108,8 @@ I also briefly looked at [RSSBandit](http://www.rssbandit.org/)(which
 seemed to be unique in that it supported synchronistation using
 FTP/WebDAV) and [SharpReader](http://www.sharpreader.net) but by this
 time I was suffering from RSS fatigue although Wikipedia had a tempting
-[list](http://en.wikipedia.org/wiki/List_of_news_aggregators)of even
-more candidates.
+[list](http://en.wikipedia.org/wiki/List_of_news_aggregators)
+of even more candidates.
 
 For desktop readers, I really liked Omea (apart from the silly icon) and
 RSSOwl (very nice icon) but after a few days, I realised that a unified

@@ -12,9 +12,9 @@ Europe \#7']
 Feverishly scoured the Interweb looking for alternative sports bars in
 Copenhagen. Once I saw the address of my previous
 [haunt](http://www.nbrightside.com/blog/2006/04/25/sports-bars-of-europe-2/),
-the marvellous '[Irish
-Rover](http://www.the-irish-rover.com/HTML/Home.htm)', my mind was
-instantly made up.
+the marvellous
+'[Irish Rover](http://www.the-irish-rover.com/HTML/Home.htm)',
+my mind was instantly made up.
 
 Tomorrow morning, when the customer politely asks me what I got up to
 last night, instead of 'Caught up with my email and ordered room

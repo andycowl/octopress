@@ -22,17 +22,25 @@ There is only one thing stopping you. We have to choose a name for the
 
 Your heart sinks as the integrator pauses for an eternity, pauses again,
 looks enquiringly and then suddenly types in:
-> Username: TESTUSER FirstName: TEST LastName: USER
+
+> Username: TESTUSER 
+> FirstName: TEST 
+> LastName: USER
 
 You politely plead: 'That's really not a good name to use.' 'Why ? Oh
 wait. I get it. We will need more than one account for testing.' Your
 mood darkens still further as he modifies the data:
-> Username: TESTUSER1 FirstName: TEST LastName: USER1
+
+> Username: TESTUSER1 
+> FirstName: TEST 
+> LastName: USER1
 
 You snap and the wafer thin veneer of professionalism and consulting is
 shattered. 'Excuse me. Can I drive for just one minute ?'
 
-> Username: MSTIPE FirstName: Michael LastName: Stipe
+> Username: MSTIPE 
+> FirstName: Michael 
+> LastName: Stipe
 
 A small point admittedly but one that significantly increases the
 satisfaction levels for everyone concerned when that confounded customer

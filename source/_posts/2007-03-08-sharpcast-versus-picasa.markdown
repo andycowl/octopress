@@ -10,8 +10,8 @@ Curiously, after reading about the Picasa
 [upgrade](http://www.nbrightside.com/blog/2007/03/08/picasa-web-albums-upgraded-to-1gb/),
 a related article about photo management software popped up in Google
 [Reader](http://www.nbrightside.com/blog/2007/02/18/resisting-the-lure-of-google-reader/),
-courtesy of Robert [Scoble](http://scobleizer.com/)'s excellent [link
-blog](http://www.google.com/reader/shared/14480565058256660224).
+courtesy of Robert [Scoble](http://scobleizer.com/)'s excellent
+[link blog](http://www.google.com/reader/shared/14480565058256660224).
 
 Robert Scoble had published a couple of podcasts featuring a product
 [demo](http://www.podtech.net/home/technology/2313/sharpcast-demo-brings-simple-way-to-manage-photos)

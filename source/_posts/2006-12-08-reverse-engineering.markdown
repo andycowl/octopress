@@ -15,12 +15,12 @@ assumption proved be to false. I think something must have gone awry
 during my disaster recovery testing in the summer.
 
 Anyway, if you can remember aunties name, street name and town, you can
-obtain the correct postcode from the [Royal
-Mail](http://www.royalmail.com/portal/rm/postcodefinder?catId=400145).
+obtain the correct postcode from the
+[Royal Mail](http://www.royalmail.com/portal/rm/postcodefinder?catId=400145).
 
 Then, armed with the full postal address, you can (probably) obtain her
-phone number from [British
-Telecom](http://www.thephonebook.bt.com/publisha.content/en/find/residential/residential_numbers.publisha?com.bea.event.type=linkclick&oLName=link.searchresults&oLDesc=KB_687)
+phone number from
+[British Telecom](http://www.thephonebook.bt.com/publisha.content/en/find/residential/residential_numbers.publisha?com.bea.event.type=linkclick&oLName=link.searchresults&oLDesc=KB_687)
 so you can thank her for the thoughtful present in January.
 
 Finally, if you bribe a call centre employee (or root around in the bins

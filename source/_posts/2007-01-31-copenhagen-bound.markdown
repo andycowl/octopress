@@ -12,7 +12,7 @@ near Denmark. I normally aim to stay in a hotel close to the client
 offices. If my commute can be done on foot, I am absolutely delighted.
 
 However, on this one occasion, I have elected to stay on the other side
-of town which, unfortunately, will mean a very long [taxi
-ride](http://ocaoimh.ie/2007/01/31/topless-speed-bandits-cause-traffic-pile-up/)
+of town which, unfortunately, will mean a very long
+[taxi ride](http://ocaoimh.ie/2007/01/31/topless-speed-bandits-cause-traffic-pile-up/)
 over a congested bridge, to cross the city in rush-hour. Once in the
 morning and again in the afternoon.

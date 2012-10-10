@@ -7,9 +7,8 @@ categories:
     - uk
     - tv
 ---
-I also enjoyed last night's '[Did they pay off their mortgage in two
-years
-?](http://www.bbc.co.uk/pressoffice/proginfo/tv/wk2/unplaced.shtml#unplaced_mortgage)'
+I also enjoyed last night's 
+'[Did they pay off their mortgage in two years ?](http://www.bbc.co.uk/pressoffice/proginfo/tv/wk2/unplaced.shtml#unplaced_mortgage)'
 about a likable creative artist from Cornwall who makes interesting,
 arty (and high margin) stoves from VW car parts aimed at rich people
 in South Kensington.
@@ -32,7 +31,7 @@ Rene's closing words
 
 > 'Congratulations. You have done it. You have paid your mortgage off.
 > Now there's just one more small thing to do. Review the books and
-see > how much you owe the tax man.'
+> see how much you owe the tax man.'
 
 So, although they paid their mortgage off, the couple are now saddled
 with a sizable personal loan to clear their debts to the Inland

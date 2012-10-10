@@ -94,8 +94,8 @@ Howver, I think I would rather shell out for the print edition rather
 than waste 12 minutes and miss the 07:58 but this is a different format
 from the competition.
 
-Interestingly, like the [New York
-Times](http://scobleizer.com/2007/02/22/why-do-a-reader-only-for-one-publication-adobe-vs-microsoft-for-developers/),
+Interestingly, like the
+[New York Times](http://scobleizer.com/2007/02/22/why-do-a-reader-only-for-one-publication-adobe-vs-microsoft-for-developers/),
 The Guardian also offers its own newsreader,
 [Newspoint](http://www.guardian.co.uk/newspoint/), which seems to defeat
 the point of RSS but may be helpful for newcomers (or confused readers

@@ -1,10 +1,10 @@
 ---
 date: '2005-12-23 23:15:32'
-categories:
-    - uncategorised
 title: WordPress.com improves statistics
 layout: post
 comments: true
+categories:
+    - wordpress
 ---
 There are new, improved blog
 [statistics](http://wordpress.com/blog/2005/12/23/new-stats-system-live/)

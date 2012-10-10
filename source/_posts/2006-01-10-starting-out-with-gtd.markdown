@@ -16,12 +16,11 @@ Allen's
 (having read snippets in a bookshop who were nice enough to give me a
 nice leather armchair for my comfort).
 
-I found a lot of good information and interesting ideas at [43
-Folders](http://www.43folders.com/) and
+I found a lot of good information and interesting ideas at 
+[43 Folders](http://www.43folders.com/) and
 [Lifehacker](http://www.lifehacker.com/).
 
-I then heeded the very advice I was slightly disparaging about in a
-previous
+I then heeded the very advice I was slightly disparaging about in a previous
 [article](http://www.nbrightside.com/blog/2006/01/05/not-getting-things-done/)
 and moved absolutely everything (over 6,000 messages) from my fat,
 bloated Inbox into a new DMZ folder.

@@ -6,8 +6,8 @@ title: Snap made me finally snap
 layout: post
 comments: true
 ---
-Thankfully, Scoble has finally found the '[Disable
-Snap](http://scobleizer.com/2007/01/30/i-removed-snaps-previews-from-here/)'
+Thankfully, Scoble has finally found the
+'[Disable Snap](http://scobleizer.com/2007/01/30/i-removed-snaps-previews-from-here/)'
 button on his WP
 [dashboard](http://flickr.com/photos/70276096@N00/375498720/). Only
 another 641,000 WordPress blogs to go.
@@ -25,6 +25,7 @@ factor.
 the dreaded [Snap](http://www.tomrafteryit.net/annoying-snaps/) preview
 and asks for opinions. In fact, this post started out as a comment on
 Tom's blog but I think this now merits a full-blown rant.
+
 > Hi Tom
 > I dislike those Snap previews immensely.
 >

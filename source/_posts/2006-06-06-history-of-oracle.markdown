@@ -12,8 +12,8 @@ of Oracle' but ultimately go away
 
 For those people, there is a brief but interesting timeline (covering
 1977 to 2001) detailing the development of Oracle Corporation in this
-freely available screensaver available from [Club
-Oracle](http://www.oracle.com/cluboracle/screensavers.html).
+freely available screensaver available from
+[Club Oracle](http://www.oracle.com/cluboracle/screensavers.html).
 
 The screensaver is the one titled 'Oracle Defining Moments - 25 Years of
 Technology Innovation'.

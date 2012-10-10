@@ -1,10 +1,10 @@
 ---
 date: '2005-12-19 21:56:14'
-categories:
-    - uncategorised
 title: probably the best comment spam in the world
 layout: post
 comments: true
+categories:
+    - blogging
 ---
 The Akismet spam filter included with WordPress.com means I am not
 troubled by comment spam on my blog at all, ever.

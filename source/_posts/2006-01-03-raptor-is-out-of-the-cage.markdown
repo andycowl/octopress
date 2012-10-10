@@ -1,10 +1,10 @@
 ---
 date: '2006-01-03 18:05:06'
-categories:
-    - uncategorised
 title: Raptor is out of the cage
 layout: post
 comments: true
+categories:
+    - oracle
 ---
 Oracle have released
 [Raptor](http://www.oracle.com/technology/products/database/project_raptor/index.html)

@@ -20,8 +20,8 @@ lingerie. The highly prestigious Terrorist Certificated Professional
 on completion of the course.
 
 However, I am a little surprised the terrorist training course also
-includes 'How to negotiate a discount for bulk purchases of [hydrogen
-peroxide](http://www.timesonline.co.uk/article/0,,2-2555956.html).'
+includes 'How to negotiate a discount for bulk purchases of
+[hydrogen peroxide](http://www.timesonline.co.uk/article/0,,2-2555956.html).'
 
 Turning your back, as you prepare to meet your maker and detonate your
 device, to face a mother with a baby in a push-chair is pretty mean

@@ -28,12 +28,12 @@ Amazon replied promptly, helpfully confirming when the package was
 dispatched and that, unfortunately, there was no way of tracking the
 item.
 
-* Please note that we take full responsibility should any item become
-lost or damaged while being delivered, and we are more than happy to
-replace these items at a cost to ourselves. If your package does not
-arrive by September 23, 2005, please contact us to confirm that it has
-not been received and that your delivery address is correct for your
-order, so we can investigate and take the appropriate action. *
+> Please note that we take full responsibility should any item become
+> lost or damaged while being delivered, and we are more than happy to
+> replace these items at a cost to ourselves. If your package does not
+> arrive by September 23, 2005, please contact us to confirm that it
+> has not been received and that your delivery address is correct for
+> your order, so we can investigate and take the appropriate action.
 
 Now what was interesting about this reply was:
 

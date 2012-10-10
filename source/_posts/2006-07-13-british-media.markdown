@@ -7,8 +7,8 @@ layout: post
 comments: true
 ---
 Occasionally, I have had the odd dig at the parochial, inward looking
-nature of the US TV
-and[printed](http://www.nbrightside.com/blog/2006/06/14/the-imminent-death-of-newspapers/)
+nature of the US TV and
+[printed](http://www.nbrightside.com/blog/2006/06/14/the-imminent-death-of-newspapers/)
 media.
 
 However, last week, the UK media commemorated the first anniversary of

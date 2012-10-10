@@ -18,14 +18,14 @@ have easily retrieved these files too. Or a simple
 '[wget](http://www.gnu.org/software/wget/)' of the complete site would
 have done the job.
 
-Time for a checkpoint, I think. Activate the [WP-DB
-Backup](http://www.skippy.net/blog/category/wordpress/plugins/wp-db-backup/)
+Time for a checkpoint, I think. Activate the
+[WP-DB Backup](http://www.skippy.net/blog/category/wordpress/plugins/wp-db-backup/)
 plugin and take a full backup of the MySQL database. Export the complete
 blog (posts and comments) to XML. As for Charlie - well that's yours
 truly for not taking a checkpoint earlier.
 
-I decided I didn't like the format of the '[Related
-Posts](http://www.w-a-s-a-b-i.com/archives/2006/02/02/wordpress-related-entries-20/)'
+I decided I didn't like the format of the '
+[Related Posts](http://www.w-a-s-a-b-i.com/archives/2006/02/02/wordpress-related-entries-20/)'
 plugin and uninstalled it. However, when I reversed the database
 changes, I inadvertently deleted two key WP tables instead of column
 attributes. This idiotic error broke my blog. Totally.

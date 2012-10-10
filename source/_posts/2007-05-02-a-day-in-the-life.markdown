@@ -13,6 +13,7 @@ listening to and why I am going to be quiet for the next 13 days.
 
 Or, as Mark E. Smith of The Fall, once said to requests for 'Bingo
 Masters Breakout'
+
 > 'Are you still doing what you did 5 years ago ?'
 > 'Yeah - well don't make a career out of it.'
 
@@ -94,8 +95,8 @@ I get an 'Exception Report' because I booked a slightly more expensive
 direct flight rather than going via Amsterdam and arriving 3 hours
 later.
 
-I am going to Norway on a '[deep
-dive](http://www.nbrightside.com/blog/2007/04/30/my-plans-for-the-future/)'
+I am going to Norway on a
+'[deep dive](http://www.nbrightside.com/blog/2007/04/30/my-plans-for-the-future/)'
 but I have subsequently learned this is a technical training exercise
 run by, err, me to provide knowledge transfer and actually perform some
 real-life data migration with a Siebel integrator rather than scuba
@@ -170,8 +171,8 @@ Frank has also noted some error codes on the diagnostics screen and
 offers to replace the V+ box. Before he does so, he wants to ensure I am
 happy to re-enter my 'Planned Recordings' which will be lost. I tell him
 to swap the box and I will reluctantly re-program 'Relocation,
-Relocation, Relocation', 'American Idol' and '[Dragon's
-Den](http://www.nbrightside.com/blog/2006/09/16/dragons-den/)'.
+Relocation, Relocation', 'American Idol' and
+'[Dragon's Den](http://www.nbrightside.com/blog/2006/09/16/dragons-den/)'.
 
 Skip lunch in favour of water as I have 4 stone of blubber to sustain
 myself.
@@ -222,5 +223,3 @@ least, I hope it's complimentary.
 
 With no more distractions, the nerves, the tension, the excitement and
 the sense of anticipation slowly continue to build.
-
-

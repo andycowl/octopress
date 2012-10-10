@@ -1,10 +1,10 @@
 ---
 date: '2006-09-11 15:38:11'
-categories:
-    - uncategorised
 title: The Killers
 layout: post
 comments: true
+categories:
+    - music
 ---
 The Killers are in the UK to promote 'Sam's Town' and their new facial
 hair. The band made an
@@ -17,6 +17,7 @@ interviews and a concert from Blackpool Empress Ballroom recorded on
 Friday 8 September. Irritatingly, the BBC haven't grasped podcasts yet
 and the concert includes some of the following songs but not necessarily
 in this order. The concert starts at 1 hr 20 min.
+
 -   Sam's Town
 -   Enterlude
 -   When You Were Young
@@ -31,4 +32,3 @@ in this order. The concert starts at 1 hr 20 min.
 -   Uncle Johnny
 -   My List
 -   Mr. Brightside
-

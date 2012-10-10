@@ -50,9 +50,9 @@ Digital cameras came bundled with cut down trial versions of expensive
 photo editting software packages. Typically, this software was bloated,
 slow, difficult to use for novices and horrendously complicated.
 
-After an unfortunate experience with [Ulead Photo
-Express](http://www.ulead.com/pe/runme.htm) and a short stay in The
-Priory, my counsellor suggested using Kodak
+After an unfortunate experience with
+[Ulead Photo Express](http://www.ulead.com/pe/runme.htm) and a short
+stay in The Priory, my counsellor suggested using Kodak
 [EasyShare](http://www.kodak.com/eknec/PageQuerier.jhtml?pq-locale=en_GB&pq-path=130&CID=go&idhbx=f_p_easysharesw&_requestid=5771).
 This software was still slow and bloated but free. Eventually, I was
 able to modify images, save images and burn a CD. Then I would simply

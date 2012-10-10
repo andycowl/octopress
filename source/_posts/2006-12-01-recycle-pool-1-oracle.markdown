@@ -56,14 +56,14 @@ from Doug's shed. Our spies in Scotland claim Burns is preparing for a
 spell on the bench by carving one by hand. Made of solid oak.
 
 Tim [Hall](http://www.oracle-base.com/blog/) has started a bulc-koob.
-This is like a [book
-club](http://www.nbrightside.com/blog/2006/11/28/testing-debut-at-book-club/)
+This is like a 
+[book club](http://www.nbrightside.com/blog/2006/11/28/testing-debut-at-book-club/)
 but works in reverse. Most book clubs have 12 members and read 1 book a
 month. Tim's variation has 1 member and reads 12 books a month -
 [all](http://www.oracle-base.com/blog/2006/11/23/the-blood-canticle/)
 [about](http://www.oracle-base.com/blog/2006/11/20/blackwood-farm/)
-[vampires](http://www.oracle-base.com/blog/2006/11/25/pandora/). Oracle
-sources are a little worried about Tim. Apparently at UKOUG, he was
+[vampires](http://www.oracle-base.com/blog/2006/11/25/pandora/).
+Oracle sources are a little worried about Tim. Apparently at UKOUG, he was
 always dressed in
 [black](http://www.flickr.com/photos/markrittman/299646279/in/set-72157594380437598/)
 and only came out at night. He also looked a little pale and was never
