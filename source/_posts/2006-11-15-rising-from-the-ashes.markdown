@@ -1,5 +1,5 @@
 ---
-date: '2006-11-15 17:41:21'
+date: 2006-11-15 17:41:21
 categories:
     - uncategorised
 title: rising from the ashes

@@ -1,5 +1,5 @@
 ---
-date: '2007-01-24 16:46:24'
+date: 2007-01-24 16:46:24
 categories:
     - travel
 title: lost in transit

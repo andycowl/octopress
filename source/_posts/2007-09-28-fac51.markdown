@@ -1,5 +1,5 @@
 ---
-date: '2007-09-28 21:40:14'
+date: 2007-09-28 21:40:14
 categories:
     - uncategorised
 title: FAC51

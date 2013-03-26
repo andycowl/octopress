@@ -2,7 +2,7 @@
 title: something about nothing
 layout: post
 comments: true
-date: '2008-01-15 07:00:48'
+date: 2008-01-15 07:00:48
 categories:
     - uk
 ---

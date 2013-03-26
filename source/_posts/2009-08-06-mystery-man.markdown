@@ -1,5 +1,5 @@
 ---
-date: '2009-08-06 09:59:12'
+date: 2009-08-06 09:59:12
 categories:
     - uncategorised
 title: mystery man

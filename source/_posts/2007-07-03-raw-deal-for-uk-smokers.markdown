@@ -1,5 +1,5 @@
 ---
-date: '2007-07-03 03:38:07'
+date: 2007-07-03 03:38:07
 categories:
     - uncategorised
 title: raw deal for UK smokers

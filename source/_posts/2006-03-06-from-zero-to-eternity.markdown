@@ -1,5 +1,5 @@
 ---
-date: '2006-03-06 18:57:08'
+date: 2006-03-06 18:57:08
 categories:
     - uncategorised
 title: from zero to eternity

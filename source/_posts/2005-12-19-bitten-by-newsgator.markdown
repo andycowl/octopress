@@ -1,5 +1,5 @@
 ---
-date: '2005-12-19 21:02:43'
+date: 2005-12-19 21:02:43
 title: bitten by Newsgator
 layout: post
 comments: true

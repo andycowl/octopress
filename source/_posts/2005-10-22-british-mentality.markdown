@@ -2,7 +2,7 @@
 title: British mentality
 layout: post
 comments: true
-date: '2005-10-22 22:57:25'
+date: 2005-10-22 22:57:25
 categories:
     - uk
 ---

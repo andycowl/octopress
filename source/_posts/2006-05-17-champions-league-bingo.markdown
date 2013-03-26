@@ -1,5 +1,5 @@
 ---
-date: '2006-05-17 20:32:16'
+date: 2006-05-17 20:32:16
 categories:
     - uncategorised
 title: Champions League bingo

@@ -1,5 +1,5 @@
 ---
-date: '2006-03-30 08:10:44'
+date: 2006-03-30 08:10:44
 categories:
     - uncategorised
 title: critical mass

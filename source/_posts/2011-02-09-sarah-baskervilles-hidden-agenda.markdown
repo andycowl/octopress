@@ -1,5 +1,5 @@
 ---
-date: '2011-02-09 12:25:24'
+date: 2011-02-09 12:25:24
 categories:
     - twitter
     - uk

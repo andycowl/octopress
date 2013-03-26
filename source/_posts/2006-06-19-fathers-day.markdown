@@ -1,5 +1,5 @@
 ---
-date: '2006-06-19 21:52:31'
+date: 2006-06-19 21:52:31
 categories:
     - uncategorised
 title: Fathers Day

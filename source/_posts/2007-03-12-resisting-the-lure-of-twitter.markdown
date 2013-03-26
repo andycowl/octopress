@@ -1,5 +1,5 @@
 ---
-date: '2007-03-12 14:00:13'
+date: 2007-03-12 14:00:13
 categories:
     - uncategorised
 title: resisting the lure of Twitter

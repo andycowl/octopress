@@ -2,7 +2,7 @@
 title: music for nothing
 layout: post
 comments: true
-date: '2008-12-26 08:33:36'
+date: 2008-12-26 08:33:36
 categories:
     - uk
     - music

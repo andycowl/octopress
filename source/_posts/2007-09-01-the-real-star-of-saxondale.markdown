@@ -1,5 +1,5 @@
 ---
-date: '2007-09-01 02:49:49'
+date: 2007-09-01 02:49:49
 categories:
     - uncategorised
 title: the real star of 'Saxondale'

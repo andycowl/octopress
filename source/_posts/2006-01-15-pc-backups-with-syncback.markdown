@@ -1,5 +1,5 @@
 ---
-date: '2006-01-15 04:21:21'
+date: 2006-01-15 04:21:21
 categories:
     - uncategorised
 title: PC backups with SyncBack

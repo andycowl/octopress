@@ -1,5 +1,5 @@
 ---
-date: '2007-10-06 23:52:26'
+date: 2007-10-06 23:52:26
 categories:
     - uncategorised
 title: review of 'Control'

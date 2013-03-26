@@ -1,5 +1,5 @@
 ---
-date: '2007-11-29 16:16:17'
+date: 2007-11-29 16:16:17
 categories:
     - uncategorised
 title: fringe benefit of SezWho

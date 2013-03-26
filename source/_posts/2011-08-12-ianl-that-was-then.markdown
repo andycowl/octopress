@@ -2,7 +2,7 @@
 title: I Am Not Left Handed - That Was Then
 layout: post
 comments: true
-date: '2011-08-12 12:18:42'
+date: 2011-08-12 12:18:42
 categories:
     - music
 ---

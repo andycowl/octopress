@@ -1,5 +1,5 @@
 ---
-date: '2006-06-02 17:58:40'
+date: 2006-06-02 17:58:40
 categories:
     - blogging
     - wordpress

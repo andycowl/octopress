@@ -1,5 +1,5 @@
 ---
-date: '2007-01-29 23:53:12'
+date: 2007-01-29 23:53:12
 categories:
     - uncategorised
 title: aim for the stars

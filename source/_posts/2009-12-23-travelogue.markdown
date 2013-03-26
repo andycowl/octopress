@@ -1,5 +1,5 @@
 ---
-date: '2009-12-23 13:49:30'
+date: 2009-12-23 13:49:30
 categories:
     - uncategorised
 title: travelogue

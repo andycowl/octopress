@@ -1,5 +1,5 @@
 ---
-date: '2006-01-27 17:52:11'
+date: 2006-01-27 17:52:11
 categories:
     - uncategorised
 title: curious case of the missing spool file

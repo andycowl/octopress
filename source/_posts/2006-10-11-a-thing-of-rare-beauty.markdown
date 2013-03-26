@@ -1,5 +1,5 @@
 ---
-date: '2006-10-11 10:55:20'
+date: 2006-10-11 10:55:20
 categories:
     - uncategorised
 title: a thing of rare beauty

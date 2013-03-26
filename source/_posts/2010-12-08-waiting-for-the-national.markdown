@@ -2,7 +2,7 @@
 title: waiting for The National
 layout: post
 comments: true
-date: '2010-12-08 13:26:00'
+date: 2010-12-08 13:26:00
 categories:
     - music
 ---

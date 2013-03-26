@@ -1,5 +1,5 @@
 ---
-date: '2006-07-05 01:53:21'
+date: 2006-07-05 01:53:21
 categories:
     - uncategorised
 title: ifs, buts and maybes

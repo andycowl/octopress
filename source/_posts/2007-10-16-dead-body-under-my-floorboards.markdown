@@ -1,5 +1,5 @@
 ---
-date: '2007-10-16 21:27:09'
+date: 2007-10-16 21:27:09
 categories:
     - uncategorised
 title: dead body under my floorboards

@@ -1,5 +1,5 @@
 ---
-date: '2007-02-26 20:36:00'
+date: 2007-02-26 20:36:00
 categories:
     - uncategorised
 title: dangerous danger sign

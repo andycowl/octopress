@@ -1,5 +1,5 @@
 ---
-date: '2006-06-08 15:19:10'
+date: 2006-06-08 15:19:10
 categories:
     - blogging
 title: don't talk to strangers

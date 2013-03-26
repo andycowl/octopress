@@ -1,5 +1,5 @@
 ---
-date: '2009-08-12 08:21:01'
+date: 2009-08-12 08:21:01
 categories:
     - uncategorised
 title: couple of HD channels for Virgin Media

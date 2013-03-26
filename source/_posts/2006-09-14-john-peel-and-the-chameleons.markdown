@@ -1,5 +1,5 @@
 ---
-date: '2006-09-14 15:04:34'
+date: 2006-09-14 15:04:34
 title: John Peel and The Chameleons
 layout: post
 comments: true

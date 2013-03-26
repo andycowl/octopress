@@ -1,5 +1,5 @@
 ---
-date: '2007-07-27 00:12:30'
+date: 2007-07-27 00:12:30
 categories:
     - uncategorised
 title: Kettle Chips rant

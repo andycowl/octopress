@@ -1,5 +1,5 @@
 ---
-date: '2006-10-03 04:51:23'
+date: 2006-10-03 04:51:23
 categories:
     - rss
 title: full feed readers of the world unite and take over

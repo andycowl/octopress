@@ -1,5 +1,5 @@
 ---
-date: '2007-11-05 15:27:38'
+date: 2007-11-05 15:27:38
 categories:
     - uncategorised
 title: another mangerial casualty

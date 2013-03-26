@@ -1,5 +1,5 @@
 ---
-date: '2007-06-28 07:29:44'
+date: 2007-06-28 07:29:44
 categories:
     - travel
 title: my worst nightmare

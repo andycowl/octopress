@@ -1,5 +1,5 @@
 ---
-date: '2009-08-04 17:14:47'
+date: 2009-08-04 17:14:47
 categories:
     - uncategorised
 title: death of a disco dancer

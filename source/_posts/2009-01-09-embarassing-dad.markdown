@@ -1,5 +1,5 @@
 ---
-date: '2009-01-09 15:19:38'
+date: 2009-01-09 15:19:38
 categories:
     - uncategorised
 title: embarassing Dad

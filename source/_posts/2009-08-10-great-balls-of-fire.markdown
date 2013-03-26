@@ -1,5 +1,5 @@
 ---
-date: '2009-08-10 08:44:15'
+date: 2009-08-10 08:44:15
 categories:
     - uncategorised
 title: great balls of fire

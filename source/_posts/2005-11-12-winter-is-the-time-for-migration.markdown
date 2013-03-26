@@ -2,7 +2,7 @@
 title: Winter is the time for migration
 layout: post
 comments: true
-date: '2005-11-12 03:22:04'
+date: 2005-11-12 03:22:04
 categories:
     - blogging
     - wordpress

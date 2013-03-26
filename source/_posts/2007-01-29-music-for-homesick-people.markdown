@@ -2,7 +2,7 @@
 title: music for homesick people
 layout: post
 comments: true
-date: '2007-01-29 17:34:30'
+date: 2007-01-29 17:34:30
 categories:
     - uk
     - music

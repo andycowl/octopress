@@ -1,5 +1,5 @@
 ---
-date: '2007-04-30 21:07:33'
+date: 2007-04-30 21:07:33
 categories:
     - oracle
 title: 'attention all Oracle bloggers '

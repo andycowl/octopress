@@ -1,5 +1,5 @@
 ---
-date: '2007-02-02 15:52:07'
+date: 2007-02-02 15:52:07
 categories:
     - uncategorised
 title: dugg, slashdotted and tailranked

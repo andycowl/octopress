@@ -1,5 +1,5 @@
 ---
-date: '2007-09-04 18:48:34'
+date: 2007-09-04 18:48:34
 categories:
     - uncategorised
 title: fear and trepidation

@@ -1,5 +1,5 @@
 ---
-date: '2007-01-25 16:12:31'
+date: 2007-01-25 16:12:31
 categories:
     - uncategorised
 title: another shattered dream

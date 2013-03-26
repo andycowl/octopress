@@ -1,5 +1,5 @@
 ---
-date: '2010-04-08 12:28:13'
+date: 2010-04-08 12:28:13
 categories:
     - uncategorised
 title: why Susan Kramer didn't vote on Digital Economy Bill

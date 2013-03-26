@@ -1,5 +1,5 @@
 ---
-date: '2008-01-03 20:17:27'
+date: 2008-01-03 20:17:27
 categories:
     - uncategorised
 title: Barton watch

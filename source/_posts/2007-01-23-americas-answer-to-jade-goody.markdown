@@ -1,5 +1,5 @@
 ---
-date: '2007-01-23 08:10:30'
+date: 2007-01-23 08:10:30
 categories:
     - uncategorised
 title: America's answer to Jade Goody

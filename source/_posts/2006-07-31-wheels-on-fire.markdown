@@ -1,5 +1,5 @@
 ---
-date: '2006-07-31 05:36:26'
+date: 2006-07-31 05:36:26
 categories:
     - uncategorised
 title: wheels on fire

@@ -1,5 +1,5 @@
 ---
-date: '2006-07-22 03:53:59'
+date: 2006-07-22 03:53:59
 categories:
     - uncategorised
 title: so farewell then, NIS

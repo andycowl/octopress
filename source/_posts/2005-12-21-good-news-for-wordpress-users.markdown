@@ -1,5 +1,5 @@
 ---
-date: '2005-12-21 06:50:25'
+date: 2005-12-21 06:50:25
 title: good news for WordPress users
 layout: post
 comments: true

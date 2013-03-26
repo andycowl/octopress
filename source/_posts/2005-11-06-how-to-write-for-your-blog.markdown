@@ -1,5 +1,5 @@
 ---
-date: '2005-11-06 19:17:47'
+date: 2005-11-06 19:17:47
 title: How to write for your blog
 layout: post
 comments: true

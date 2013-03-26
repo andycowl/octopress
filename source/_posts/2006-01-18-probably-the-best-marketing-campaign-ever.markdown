@@ -1,5 +1,5 @@
 ---
-date: '2006-01-18 01:44:59'
+date: 2006-01-18 01:44:59
 categories:
     - uncategorised
 title: probably the best marketing campaign ever

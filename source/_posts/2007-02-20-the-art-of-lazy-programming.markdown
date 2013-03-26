@@ -1,5 +1,5 @@
 ---
-date: '2007-02-20 15:44:48'
+date: 2007-02-20 15:44:48
 categories:
     - uncategorised
 title: the art of lazy programming

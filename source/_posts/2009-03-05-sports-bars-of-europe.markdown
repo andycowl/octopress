@@ -1,5 +1,5 @@
 ---
-date: '2009-03-05 13:12:54'
+date: 2009-03-05 13:12:54
 categories:
     - sport
 title: sports bars of Europe

@@ -1,5 +1,5 @@
 ---
-date: '2006-10-11 10:05:41'
+date: 2006-10-11 10:05:41
 categories:
     - uncategorised
 title: browser upgrades

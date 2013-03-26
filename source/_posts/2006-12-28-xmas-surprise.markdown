@@ -1,5 +1,5 @@
 ---
-date: '2006-12-28 17:14:43'
+date: 2006-12-28 17:14:43
 categories:
     - uncategorised
 title: Xmas surprise

@@ -1,5 +1,5 @@
 ---
-date: '2007-09-26 04:53:06'
+date: 2007-09-26 04:53:06
 categories:
     - blogging
 title: last django in London

@@ -1,5 +1,5 @@
 ---
-date: '2007-03-16 18:26:33'
+date: 2007-03-16 18:26:33
 categories:
     - uncategorised
 title: plans for the weekend, Sir ?

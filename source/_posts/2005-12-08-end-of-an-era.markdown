@@ -1,5 +1,5 @@
 ---
-date: '2005-12-08 16:30:38'
+date: 2005-12-08 16:30:38
 title: End of an era ?
 layout: post
 comments: true

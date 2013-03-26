@@ -1,5 +1,5 @@
 ---
-date: '2006-06-15 03:09:26'
+date: 2006-06-15 03:09:26
 categories:
     - uncategorised
 title: CRM by stealth

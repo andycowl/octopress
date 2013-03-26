@@ -1,5 +1,5 @@
 ---
-date: '2008-04-11 13:59:33'
+date: 2008-04-11 13:59:33
 categories:
     - uncategorised
 title: the thorny issue of blog comment ownership

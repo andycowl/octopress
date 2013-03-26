@@ -1,5 +1,5 @@
 ---
-date: '2010-07-05 11:10:53'
+date: 2010-07-05 11:10:53
 categories:
     - football
 title: Deutschland - eine Entschuldigung

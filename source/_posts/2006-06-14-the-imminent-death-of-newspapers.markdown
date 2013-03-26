@@ -1,5 +1,5 @@
 ---
-date: '2006-06-14 05:47:13'
+date: 2006-06-14 05:47:13
 categories:
     - uncategorised
 title: the imminent death of newspapers

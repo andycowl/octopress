@@ -1,5 +1,5 @@
 ---
-date: '2007-07-17 18:16:03'
+date: 2007-07-17 18:16:03
 categories:
     - uncategorised
 title: Facebook versus LinkedIn

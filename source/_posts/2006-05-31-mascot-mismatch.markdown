@@ -1,5 +1,5 @@
 ---
-date: '2006-05-31 22:23:30'
+date: 2006-05-31 22:23:30
 categories:
     - uncategorised
 title: mascot mismatch

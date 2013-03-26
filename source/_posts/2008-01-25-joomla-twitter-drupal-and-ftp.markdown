@@ -1,5 +1,5 @@
 ---
-date: '2008-01-25 05:45:02'
+date: 2008-01-25 05:45:02
 categories:
     - uncategorised
 title: Joomla, Twitter, Drupal and ftp

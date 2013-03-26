@@ -1,5 +1,5 @@
 ---
-date: '2007-01-24 21:27:13'
+date: 2007-01-24 21:27:13
 categories:
     - habari
 title: fun with Habari

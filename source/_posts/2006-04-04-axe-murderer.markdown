@@ -1,5 +1,5 @@
 ---
-date: '2006-04-04 20:24:11'
+date: 2006-04-04 20:24:11
 categories:
     - oracle
     - humour

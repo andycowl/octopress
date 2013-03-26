@@ -1,5 +1,5 @@
 ---
-date: '2009-09-10 08:24:39'
+date: 2009-09-10 08:24:39
 categories:
     - uncategorised
 title: the curious case of Michael Shields

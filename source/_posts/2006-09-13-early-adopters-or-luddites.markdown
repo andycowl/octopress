@@ -1,5 +1,5 @@
 ---
-date: '2006-09-13 21:00:21'
+date: 2006-09-13 21:00:21
 categories:
     - uncategorised
 title: early adopters or Luddites ?

@@ -1,5 +1,5 @@
 ---
-date: '2006-10-11 09:21:03'
+date: 2006-10-11 09:21:03
 categories:
     - wordpress
 title: WordPress.com features

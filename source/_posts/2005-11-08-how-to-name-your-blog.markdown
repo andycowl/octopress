@@ -2,7 +2,7 @@
 title: How to name your blog
 layout: post
 comments: true
-date: '2005-11-08 03:17:13'
+date: 2005-11-08 03:17:13
 categories:
     - blogging
 ---

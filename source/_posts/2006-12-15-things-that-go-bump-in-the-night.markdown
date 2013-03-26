@@ -1,5 +1,5 @@
 ---
-date: '2006-12-15 21:39:04'
+date: 2006-12-15 21:39:04
 categories:
     - uncategorised
 title: things that go bump in the night

@@ -1,5 +1,5 @@
 ---
-date: '2009-09-01 21:48:36'
+date: 2009-09-01 21:48:36
 categories:
     - uncategorised
 title: a night at The Office

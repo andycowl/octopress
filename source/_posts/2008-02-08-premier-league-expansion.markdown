@@ -1,5 +1,5 @@
 ---
-date: '2008-02-08 15:37:17'
+date: 2008-02-08 15:37:17
 categories:
     - uncategorised
 title: Premier League expansion

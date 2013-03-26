@@ -1,5 +1,5 @@
 ---
-date: '2006-06-02 08:18:24'
+date: 2006-06-02 08:18:24
 categories:
     - uncategorised
 title: blind date

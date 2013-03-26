@@ -1,5 +1,5 @@
 ---
-date: '2006-10-16 17:09:39'
+date: 2006-10-16 17:09:39
 categories:
     - uncategorised
 title: couple of useful Wordpress plugins

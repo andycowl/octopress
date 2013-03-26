@@ -1,5 +1,5 @@
 ---
-date: '2008-08-31 10:04:06'
+date: 2008-08-31 10:04:06
 categories:
     - music
 title: R.E.M setlist Twickenham - 30 August 2008

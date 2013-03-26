@@ -1,5 +1,5 @@
 ---
-date: '2007-06-24 19:38:55'
+date: 2007-06-24 19:38:55
 categories:
     - uncategorised
 title: quiet, loud and very loud

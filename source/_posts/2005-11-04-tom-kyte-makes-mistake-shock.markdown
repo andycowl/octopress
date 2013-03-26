@@ -1,5 +1,5 @@
 ---
-date: '2005-11-04 16:31:35'
+date: 2005-11-04 16:31:35
 categories:
     - oracle
 title: Tom Kyte makes mistake shock

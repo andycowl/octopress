@@ -1,5 +1,5 @@
 ---
-date: '2006-08-04 22:15:18'
+date: 2006-08-04 22:15:18
 categories:
     - uncategorised
 title: am I a technology Luddite ?

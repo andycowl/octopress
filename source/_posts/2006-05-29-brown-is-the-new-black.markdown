@@ -1,5 +1,5 @@
 ---
-date: '2006-05-29 04:47:57'
+date: 2006-05-29 04:47:57
 categories:
     - football
 title: brown is the new black

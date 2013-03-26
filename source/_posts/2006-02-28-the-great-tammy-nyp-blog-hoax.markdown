@@ -1,5 +1,5 @@
 ---
-date: '2006-02-28 00:02:00'
+date: 2006-02-28 00:02:00
 categories:
     - uncategorised
 title: the great Tammy NYP blog hoax

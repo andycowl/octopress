@@ -1,5 +1,5 @@
 ---
-date: '2007-09-04 20:02:11'
+date: 2007-09-04 20:02:11
 categories:
     - uncategorised
 title: back to school

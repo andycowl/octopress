@@ -1,5 +1,5 @@
 ---
-date: '2005-12-01 15:04:48'
+date: 2005-12-01 15:04:48
 title: SonicStage 3.3 released
 layout: post
 comments: true

@@ -1,5 +1,5 @@
 ---
-date: '2006-05-24 15:12:27'
+date: 2006-05-24 15:12:27
 categories:
     - uncategorised
 title: Da Vinci Code review

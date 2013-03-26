@@ -1,5 +1,5 @@
 ---
-date: '2006-07-04 14:03:40'
+date: 2006-07-04 14:03:40
 categories:
     - uncategorised
 title: psychic powers

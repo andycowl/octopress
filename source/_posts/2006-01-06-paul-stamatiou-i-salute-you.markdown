@@ -1,5 +1,5 @@
 ---
-date: '2006-01-06 01:10:38'
+date: 2006-01-06 01:10:38
 categories:
     - uncategorised
 title: Paul Stamatiou, I salute you

@@ -2,7 +2,7 @@
 title: my personal pensions crisis
 layout: post
 comments: true
-date: '2005-11-21 05:09:46'
+date: 2005-11-21 05:09:46
 categories:
     - uk
 ---

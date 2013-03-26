@@ -1,5 +1,5 @@
 ---
-date: '2006-07-26 17:02:19'
+date: 2006-07-26 17:02:19
 categories:
     - uncategorised
 title: Hook Norton

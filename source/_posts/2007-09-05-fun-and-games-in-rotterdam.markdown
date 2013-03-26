@@ -1,5 +1,5 @@
 ---
-date: '2007-09-05 04:09:07'
+date: 2007-09-05 04:09:07
 categories:
     - uncategorised
 title: fun and games in Rotterdam

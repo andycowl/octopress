@@ -1,5 +1,5 @@
 ---
-date: '2006-07-24 17:27:56'
+date: 2006-07-24 17:27:56
 categories:
     - uncategorised
 title: rare occurrence

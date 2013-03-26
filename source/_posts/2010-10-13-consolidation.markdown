@@ -1,5 +1,5 @@
 ---
-date: '2010-10-13 09:35:00'
+date: 2010-10-13 09:35:00
 categories:
     - blogging
 title: consolidation

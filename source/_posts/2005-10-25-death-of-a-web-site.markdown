@@ -2,7 +2,7 @@
 title: death of a Web site
 layout: post
 comments: true
-date: '2005-10-25 04:41:53'
+date: 2005-10-25 04:41:53
 categories:
     - uncategorised
 ---

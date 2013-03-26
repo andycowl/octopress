@@ -1,5 +1,5 @@
 ---
-date: '2006-11-24 15:23:41'
+date: 2006-11-24 15:23:41
 categories:
     - uncategorised
 title: Baywatch in Birmingham

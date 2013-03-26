@@ -1,5 +1,5 @@
 ---
-date: '2008-04-02 20:16:41'
+date: 2008-04-02 20:16:41
 categories:
     - uncategorised
 title: resurrection of Disqus comments

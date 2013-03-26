@@ -2,7 +2,7 @@
 title: a blog is born
 layout: post
 comments: true
-date: '2005-09-28 21:10:42'
+date: 2005-09-28 21:10:42
 categories:
     - blogging
 ---

@@ -2,7 +2,7 @@
 title: Manchester City in Cup Final shock !
 layout: post
 comments: true
-date: '2006-10-05 06:41:26'
+date: 2006-10-05 06:41:26
 categories:
     - uk
     - football

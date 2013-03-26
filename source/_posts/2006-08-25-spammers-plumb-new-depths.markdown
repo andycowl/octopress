@@ -1,5 +1,5 @@
 ---
-date: '2006-08-25 04:31:32'
+date: 2006-08-25 04:31:32
 categories:
     - uncategorised
 title: spammers plumb new depths

@@ -1,5 +1,5 @@
 ---
-date: '2007-12-11 15:16:40'
+date: 2007-12-11 15:16:40
 categories:
     - uncategorised
 title: Charlton on Best

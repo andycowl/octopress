@@ -1,5 +1,5 @@
 ---
-date: '2006-10-23 23:28:36'
+date: 2006-10-23 23:28:36
 categories:
     - uncategorised
 title: the never ending quest for the truth

@@ -1,5 +1,5 @@
 ---
-date: '2006-06-12 19:06:05'
+date: 2006-06-12 19:06:05
 categories:
     - uncategorised
 title: screaming babies

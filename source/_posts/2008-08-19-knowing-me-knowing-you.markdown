@@ -1,5 +1,5 @@
 ---
-date: '2008-08-19 12:58:40'
+date: 2008-08-19 12:58:40
 categories:
     - uncategorised
 title: knowing me, knowing you

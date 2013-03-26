@@ -1,5 +1,5 @@
 ---
-date: '2006-07-03 16:01:22'
+date: 2006-07-03 16:01:22
 categories:
     - uncategorised
 title: WorldCup fallout

@@ -1,5 +1,5 @@
 ---
-date: '2010-04-16 15:28:28'
+date: 2010-04-16 15:28:28
 categories:
     - uncategorised
 title: The National - Royal Albert Hall

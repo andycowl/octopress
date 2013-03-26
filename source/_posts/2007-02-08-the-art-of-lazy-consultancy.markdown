@@ -1,5 +1,5 @@
 ---
-date: '2007-02-08 00:50:25'
+date: 2007-02-08 00:50:25
 categories:
     - uncategorised
 title: the art of lazy consultancy

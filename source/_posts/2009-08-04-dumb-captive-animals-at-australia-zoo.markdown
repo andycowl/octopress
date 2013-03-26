@@ -1,5 +1,5 @@
 ---
-date: '2009-08-04 16:42:09'
+date: 2009-08-04 16:42:09
 categories:
     - uncategorised
 title: dumb, captive animals at Australia zoo

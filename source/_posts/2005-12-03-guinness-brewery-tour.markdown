@@ -1,5 +1,5 @@
 ---
-date: '2005-12-03 07:45:24'
+date: 2005-12-03 07:45:24
 categories:
     - uncategorised
 title: Guinness brewery tour

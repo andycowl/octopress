@@ -1,5 +1,5 @@
 ---
-date: '2007-06-11 19:31:29'
+date: 2007-06-11 19:31:29
 categories:
     - uncategorised
 title: Surbiton Trophy

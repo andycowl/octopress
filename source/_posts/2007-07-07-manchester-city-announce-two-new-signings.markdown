@@ -2,7 +2,7 @@
 title: Manchester City announce two new signings
 layout: post
 comments: true
-date: '2007-07-07 02:17:34'
+date: 2007-07-07 02:17:34
 categories:
     - uk
     - football

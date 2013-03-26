@@ -1,5 +1,5 @@
 ---
-date: '2008-03-31 02:13:02'
+date: 2008-03-31 02:13:02
 categories:
     - uk
     - blogging

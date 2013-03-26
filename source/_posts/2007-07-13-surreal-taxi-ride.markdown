@@ -1,5 +1,5 @@
 ---
-date: '2007-07-13 04:09:53'
+date: 2007-07-13 04:09:53
 categories:
     - uncategorised
 title: surreal taxi ride

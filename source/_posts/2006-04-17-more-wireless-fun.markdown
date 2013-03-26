@@ -1,5 +1,5 @@
 ---
-date: '2006-04-17 16:14:32'
+date: 2006-04-17 16:14:32
 categories:
     - uncategorised
 title: more wireless fun

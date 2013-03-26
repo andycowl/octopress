@@ -1,5 +1,5 @@
 ---
-date: '2006-06-14 03:19:54'
+date: 2006-06-14 03:19:54
 categories:
     - uncategorised
 title: don't mention the war

@@ -1,5 +1,5 @@
 ---
-date: '2006-07-17 22:28:46'
+date: 2006-07-17 22:28:46
 categories:
     - uncategorised
 title: The Smiths nostalgia

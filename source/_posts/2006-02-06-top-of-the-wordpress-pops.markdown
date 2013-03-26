@@ -1,5 +1,5 @@
 ---
-date: '2006-02-06 23:41:40'
+date: 2006-02-06 23:41:40
 categories:
     - uncategorised
 title: top of the (WordPress) pops

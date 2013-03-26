@@ -1,5 +1,5 @@
 ---
-date: '2008-01-15 09:02:39'
+date: 2008-01-15 09:02:39
 categories:
     - uncategorised
 title: just grow up

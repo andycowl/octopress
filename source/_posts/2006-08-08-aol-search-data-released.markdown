@@ -1,5 +1,5 @@
 ---
-date: '2006-08-08 03:06:59'
+date: 2006-08-08 03:06:59
 categories:
     - uncategorised
 title: AOL search data released

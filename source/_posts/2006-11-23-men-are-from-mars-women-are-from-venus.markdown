@@ -1,5 +1,5 @@
 ---
-date: '2006-11-23 16:18:20'
+date: 2006-11-23 16:18:20
 categories:
     - uncategorised
 title: Men Are from Mars, Women Are from Venus

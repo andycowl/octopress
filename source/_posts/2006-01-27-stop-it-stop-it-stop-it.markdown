@@ -1,5 +1,5 @@
 ---
-date: '2006-01-27 18:04:46'
+date: 2006-01-27 18:04:46
 categories:
     - uncategorised
 title: stop it, stop it, stop it

@@ -1,5 +1,5 @@
 ---
-date: '2006-09-27 08:09:38'
+date: 2006-09-27 08:09:38
 categories:
     - uncategorised
 title: full feeds are the work of the devil

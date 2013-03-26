@@ -1,5 +1,5 @@
 ---
-date: '2006-09-14 19:55:29'
+date: 2006-09-14 19:55:29
 categories:
     - uncategorised
 title: Google versus Microsoft

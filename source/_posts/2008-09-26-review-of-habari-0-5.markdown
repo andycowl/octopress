@@ -1,5 +1,5 @@
 ---
-date: '2008-09-26 10:47:42'
+date: 2008-09-26 10:47:42
 categories:
     - blogging
     - habari

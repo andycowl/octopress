@@ -1,5 +1,5 @@
 ---
-date: '2006-10-05 09:54:07'
+date: 2006-10-05 09:54:07
 categories:
     - uncategorised
 title: free 20GB memory stick

@@ -1,5 +1,5 @@
 ---
-date: '2009-12-16 09:26:56'
+date: 2009-12-16 09:26:56
 categories:
     - linux
 title: why Linux will never succeed in the mainstream

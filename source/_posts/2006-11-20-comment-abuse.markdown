@@ -1,5 +1,5 @@
 ---
-date: '2006-11-20 17:53:24'
+date: 2006-11-20 17:53:24
 categories:
     - uncategorised
 title: comment abuse

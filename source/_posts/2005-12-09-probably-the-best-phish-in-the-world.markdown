@@ -1,5 +1,5 @@
 ---
-date: '2005-12-09 17:01:52'
+date: 2005-12-09 17:01:52
 categories:
     - uncategorised
 title: probably the best phish in the world

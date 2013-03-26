@@ -1,5 +1,5 @@
 ---
-date: '2011-05-17 22:27:58'
+date: 2011-05-17 22:27:58
 categories:
     - blogging
     - markdown

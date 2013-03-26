@@ -2,7 +2,7 @@
 title: Theatre of Comedy
 layout: post
 comments: true
-date: '2007-06-22 16:57:35'
+date: 2007-06-22 16:57:35
 categories:
     - uk
     - football

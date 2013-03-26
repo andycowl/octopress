@@ -1,5 +1,5 @@
 ---
-date: '2006-04-18 21:20:16'
+date: 2006-04-18 21:20:16
 categories:
     - uncategorised
 title: too good to be true ?

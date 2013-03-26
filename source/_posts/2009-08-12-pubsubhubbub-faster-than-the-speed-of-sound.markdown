@@ -1,5 +1,5 @@
 ---
-date: '2009-08-12 13:47:00'
+date: 2009-08-12 13:47:00
 categories:
     - blogging
 title: PubSubHubbub - faster than the speed of sound

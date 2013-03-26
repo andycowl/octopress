@@ -2,7 +2,7 @@
 title: Rene Carayol's clever approach to taxation
 layout: post
 comments: true
-date: '2007-01-12 19:42:37'
+date: 2007-01-12 19:42:37
 categories:
     - uk
     - tv

@@ -1,5 +1,5 @@
 ---
-date: '2006-10-04 04:37:17'
+date: 2006-10-04 04:37:17
 categories:
     - uncategorised
 title: initial impressions of Dreamhost

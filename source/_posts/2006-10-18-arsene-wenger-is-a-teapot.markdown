@@ -1,5 +1,5 @@
 ---
-date: '2006-10-18 15:10:43'
+date: 2006-10-18 15:10:43
 categories:
     - uncategorised
 title: Arsene Wenger is a teapot

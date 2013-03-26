@@ -1,5 +1,5 @@
 ---
-date: '2008-06-10 00:46:25'
+date: 2008-06-10 00:46:25
 categories:
     - uncategorised
 title: reader fragmentation

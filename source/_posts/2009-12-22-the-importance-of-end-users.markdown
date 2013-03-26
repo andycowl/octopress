@@ -1,5 +1,5 @@
 ---
-date: '2009-12-22 15:53:28'
+date: 2009-12-22 15:53:28
 categories:
     - uncategorised
 title: the importance of end users

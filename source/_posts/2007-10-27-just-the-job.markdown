@@ -1,5 +1,5 @@
 ---
-date: '2007-10-27 20:44:45'
+date: 2007-10-27 20:44:45
 categories:
     - uncategorised
 title: just the job

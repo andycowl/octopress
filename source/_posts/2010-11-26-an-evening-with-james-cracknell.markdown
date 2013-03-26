@@ -1,5 +1,5 @@
 ---
-date: '2010-11-26 10:02:55'
+date: 2010-11-26 10:02:55
 title: an evening with James Cracknell
 layout: post
 comments: true

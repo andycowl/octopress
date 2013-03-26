@@ -1,5 +1,5 @@
 ---
-date: '2006-09-08 00:10:15'
+date: 2006-09-08 00:10:15
 categories:
     - uncategorised
 title: unfiltered and featured

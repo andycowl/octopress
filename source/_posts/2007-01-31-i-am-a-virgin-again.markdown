@@ -1,5 +1,5 @@
 ---
-date: '2007-01-31 18:23:18'
+date: 2007-01-31 18:23:18
 categories:
     - uncategorised
 title: I am a Virgin (again)

@@ -1,5 +1,5 @@
 ---
-date: '2009-08-25 08:33:58'
+date: 2009-08-25 08:33:58
 categories:
     - uncategorised
 title: celebrities on Twitter

@@ -1,5 +1,5 @@
 ---
-date: '2006-09-30 19:12:55'
+date: 2006-09-30 19:12:55
 categories:
     - uncategorised
 title: from WordPress.com to WordPress.org

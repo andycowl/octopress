@@ -1,5 +1,5 @@
 ---
-date: '2007-07-04 08:17:02'
+date: 2007-07-04 08:17:02
 categories:
     - google
 title: 'SEO wars: Google versus Yahoo!'

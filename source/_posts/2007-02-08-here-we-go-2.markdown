@@ -1,5 +1,5 @@
 ---
-date: '2007-02-08 08:53:03'
+date: 2007-02-08 08:53:03
 categories:
     - uk
 title: Here we go

@@ -1,5 +1,5 @@
 ---
-date: '2007-03-27 10:16:34'
+date: 2007-03-27 10:16:34
 categories:
     - uncategorised
 title: the sole responsibility of a production Oracle DBA

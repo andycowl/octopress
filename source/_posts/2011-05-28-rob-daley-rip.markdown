@@ -2,7 +2,7 @@
 title: Rob Daley RIP
 layout: post
 comments: true
-date: '2011-05-28 13:12:00'
+date: 2011-05-28 13:12:00
 categories:
     - sport
     - uk

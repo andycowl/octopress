@@ -1,5 +1,5 @@
 ---
-date: '2007-06-12 19:45:39'
+date: 2007-06-12 19:45:39
 categories:
     - uncategorised
 title: pictures of a Virgin Media V+ box

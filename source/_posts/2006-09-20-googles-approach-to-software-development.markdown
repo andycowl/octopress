@@ -1,5 +1,5 @@
 ---
-date: '2006-09-20 18:18:59'
+date: 2006-09-20 18:18:59
 categories:
     - uncategorised
 title: Google's approach to software development

@@ -1,5 +1,5 @@
 ---
-date: '2006-03-02 22:14:37'
+date: 2006-03-02 22:14:37
 categories:
     - uncategorised
 title: tags, categories and labels

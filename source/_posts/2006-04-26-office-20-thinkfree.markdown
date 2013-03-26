@@ -1,5 +1,5 @@
 ---
-date: '2006-04-26 19:32:15'
+date: 2006-04-26 19:32:15
 categories:
     - software
 title: Office 2.0 - ThinkFree

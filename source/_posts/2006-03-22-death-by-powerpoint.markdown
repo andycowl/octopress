@@ -1,5 +1,5 @@
 ---
-date: '2006-03-22 07:08:43'
+date: 2006-03-22 07:08:43
 categories:
     - uncategorised
 title: death by PowerPoint

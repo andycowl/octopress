@@ -2,7 +2,7 @@
 title: Wimbledon match report
 layout: post
 comments: true
-date: '2008-07-06 13:00:49'
+date: 2008-07-06 13:00:49
 categories:
     - uncategorised
 ---

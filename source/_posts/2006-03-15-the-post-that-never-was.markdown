@@ -1,5 +1,5 @@
 ---
-date: '2006-03-15 03:26:02'
+date: 2006-03-15 03:26:02
 categories:
     - uncategorised
 title: the post that never was

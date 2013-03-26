@@ -2,7 +2,7 @@
 title: The curious case of Patrick Gibson
 layout: post
 comments: true
-date: '2005-11-09 15:41:26'
+date: 2005-11-09 15:41:26
 categories:
     - tv
 ---

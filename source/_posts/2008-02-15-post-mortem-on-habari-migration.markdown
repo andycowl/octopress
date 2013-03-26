@@ -1,5 +1,5 @@
 ---
-date: '2008-02-15 17:56:13'
+date: 2008-02-15 17:56:13
 categories:
     - uncategorised
 title: post mortem on the WordPress to Habari migration

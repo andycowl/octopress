@@ -1,5 +1,5 @@
 ---
-date: '2008-08-13 13:50:03'
+date: 2008-08-13 13:50:03
 categories:
     - uncategorised
 title: Venetian philosophy

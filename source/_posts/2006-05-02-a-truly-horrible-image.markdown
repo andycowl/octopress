@@ -1,5 +1,5 @@
 ---
-date: '2006-05-02 22:30:26'
+date: 2006-05-02 22:30:26
 categories:
     - uncategorised
 title: a truly horrible image

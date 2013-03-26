@@ -1,5 +1,5 @@
 ---
-date: '2007-02-15 16:30:19'
+date: 2007-02-15 16:30:19
 categories:
     - uncategorised
 title: undercover with Surrey Traffic Police

@@ -1,5 +1,5 @@
 ---
-date: '2006-11-05 03:01:54'
+date: 2006-11-05 03:01:54
 categories:
     - uncategorised
 title: a brush with social services

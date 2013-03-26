@@ -1,5 +1,5 @@
 ---
-date: '2005-12-20 06:31:03'
+date: 2005-12-20 06:31:03
 categories:
     - music
 title: The Killers at Live 8

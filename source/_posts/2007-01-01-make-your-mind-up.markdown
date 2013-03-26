@@ -1,5 +1,5 @@
 ---
-date: '2007-01-01 16:01:36'
+date: 2007-01-01 16:01:36
 categories:
     - uncategorised
 title: make your mind up

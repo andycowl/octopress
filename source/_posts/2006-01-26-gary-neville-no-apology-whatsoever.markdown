@@ -1,5 +1,5 @@
 ---
-date: '2006-01-26 00:16:10'
+date: 2006-01-26 00:16:10
 categories:
     - uncategorised
 title: Gary Neville - no apology whatsoever

@@ -1,5 +1,5 @@
 ---
-date: '2006-06-30 06:18:24'
+date: 2006-06-30 06:18:24
 categories:
     - uncategorised
 title: Taxi for Poll

@@ -1,5 +1,5 @@
 ---
-date: '2006-12-01 21:01:55'
+date: 2006-12-01 21:01:55
 categories:
     - music
 title: forever in debt to your priceless advice

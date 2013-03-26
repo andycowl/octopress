@@ -1,5 +1,5 @@
 ---
-date: '2008-12-01 14:06:45'
+date: 2008-12-01 14:06:45
 categories:
     - uncategorised
 title: where are they now ?

@@ -2,7 +2,7 @@
 title: BlogShares
 layout: post
 comments: true
-date: '2005-11-30 00:53:48'
+date: 2005-11-30 00:53:48
 categories:
     - blogging
 ---

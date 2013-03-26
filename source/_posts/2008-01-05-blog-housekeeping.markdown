@@ -1,5 +1,5 @@
 ---
-date: '2008-01-05 19:33:20'
+date: 2008-01-05 19:33:20
 categories:
     - uncategorised
 title: blog housekeeping

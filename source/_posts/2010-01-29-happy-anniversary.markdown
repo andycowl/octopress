@@ -1,5 +1,5 @@
 ---
-date: '2010-01-29 12:47:28'
+date: 2010-01-29 12:47:28
 categories:
     - uncategorised
 title: Happy Anniversary

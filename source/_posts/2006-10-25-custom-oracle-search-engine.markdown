@@ -1,5 +1,5 @@
 ---
-date: '2006-10-25 01:01:36'
+date: 2006-10-25 01:01:36
 categories:
     - uncategorised
 title: custom Oracle search engine

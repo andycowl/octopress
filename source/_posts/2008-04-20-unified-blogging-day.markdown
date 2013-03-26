@@ -1,5 +1,5 @@
 ---
-date: '2008-04-20 08:08:50'
+date: 2008-04-20 08:08:50
 categories:
     - uncategorised
 title: Unified Blogging Day

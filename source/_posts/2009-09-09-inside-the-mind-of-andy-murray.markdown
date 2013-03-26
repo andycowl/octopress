@@ -1,5 +1,5 @@
 ---
-date: '2009-09-09 12:27:15'
+date: 2009-09-09 12:27:15
 categories:
     - uncategorised
 title: inside the mind of Andy Murray

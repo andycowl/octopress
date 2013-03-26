@@ -1,5 +1,5 @@
 ---
-date: '2006-06-01 21:51:50'
+date: 2006-06-01 21:51:50
 categories:
     - uncategorised
 title: probably the best World Cup chart

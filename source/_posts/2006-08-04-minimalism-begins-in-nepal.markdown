@@ -1,5 +1,5 @@
 ---
-date: '2006-08-04 22:49:50'
+date: 2006-08-04 22:49:50
 categories:
     - uncategorised
 title: minimalism begins in Nepal

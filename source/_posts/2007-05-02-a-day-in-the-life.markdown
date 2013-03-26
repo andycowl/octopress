@@ -1,5 +1,5 @@
 ---
-date: '2007-05-02 00:35:50'
+date: 2007-05-02 00:35:50
 categories:
     - uncategorised
 title: a day in the life

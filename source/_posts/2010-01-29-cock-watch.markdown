@@ -1,5 +1,5 @@
 ---
-date: '2010-01-29 10:45:33'
+date: 2010-01-29 10:45:33
 categories:
     - uncategorised
 title: Cock Watch

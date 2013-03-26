@@ -1,5 +1,5 @@
 ---
-date: '2008-09-21 13:45:15'
+date: 2008-09-21 13:45:15
 categories:
     - uncategorised
 title: onwards and upwards

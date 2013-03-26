@@ -1,5 +1,5 @@
 ---
-date: '2006-11-23 22:47:38'
+date: 2006-11-23 22:47:38
 categories:
     - uncategorised
 title: from beyond the grave

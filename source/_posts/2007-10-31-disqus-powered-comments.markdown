@@ -1,5 +1,5 @@
 ---
-date: '2007-10-31 14:42:15'
+date: 2007-10-31 14:42:15
 categories:
     - uncategorised
 title: Disqus powered comments

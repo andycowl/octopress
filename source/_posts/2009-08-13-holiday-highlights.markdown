@@ -1,5 +1,5 @@
 ---
-date: '2009-08-13 08:24:33'
+date: 2009-08-13 08:24:33
 categories:
     - travel
 title: holiday highlights

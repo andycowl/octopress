@@ -1,5 +1,5 @@
 ---
-date: '2006-01-13 22:31:42'
+date: 2006-01-13 22:31:42
 categories:
     - uncategorised
 title: sports bars of Europe

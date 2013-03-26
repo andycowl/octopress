@@ -4,7 +4,7 @@ layout: post
 comments: true
 categories:
     - drupal
-date: '2010-12-22 12:53:00'
+date: 2010-12-22 12:53:00
 ---
 People never ask me 'Hey Norman - what modules have you installed thus
 far on this wonderful Drupal 7 powered blog ?'

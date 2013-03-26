@@ -1,5 +1,5 @@
 ---
-date: '2008-07-16 23:32:11'
+date: 2008-07-16 23:32:11
 categories:
     - uncategorised
 title: how to make 100 friends on identi.ca in 14 days

@@ -1,5 +1,5 @@
 ---
-date: '2007-07-06 22:06:34'
+date: 2007-07-06 22:06:34
 categories:
     - uncategorised
 title: beat the bookie with Brightside

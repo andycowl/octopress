@@ -1,5 +1,5 @@
 ---
-date: '2007-07-30 06:54:02'
+date: 2007-07-30 06:54:02
 categories:
     - blogging
     - google

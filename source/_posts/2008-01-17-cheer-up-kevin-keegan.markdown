@@ -1,5 +1,5 @@
 ---
-date: '2008-01-17 07:59:56'
+date: 2008-01-17 07:59:56
 categories:
     - uncategorised
 title: Cheer up Kevin Keegan

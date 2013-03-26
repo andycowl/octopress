@@ -1,5 +1,5 @@
 ---
-date: '2009-01-22 11:31:02'
+date: 2009-01-22 11:31:02
 categories:
     - uncategorised
 title: possession of an offensive weapon

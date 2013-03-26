@@ -1,5 +1,5 @@
 ---
-date: '2007-05-02 16:34:39'
+date: 2007-05-02 16:34:39
 categories:
     - uncategorised
 title: in memoriam

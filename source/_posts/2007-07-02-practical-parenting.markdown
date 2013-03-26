@@ -1,5 +1,5 @@
 ---
-date: '2007-07-02 16:24:58'
+date: 2007-07-02 16:24:58
 categories:
     - uncategorised
 title: practical parenting

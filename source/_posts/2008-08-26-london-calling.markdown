@@ -1,5 +1,5 @@
 ---
-date: '2008-08-26 11:01:17'
+date: 2008-08-26 11:01:17
 categories:
     - uncategorised
 title: London calling

@@ -1,5 +1,5 @@
 ---
-date: '2007-07-01 18:16:44'
+date: 2007-07-01 18:16:44
 categories:
     - uncategorised
 title: under the covers at Wimbledon

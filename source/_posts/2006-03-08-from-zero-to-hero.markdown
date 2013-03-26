@@ -1,5 +1,5 @@
 ---
-date: '2006-03-08 04:59:00'
+date: 2006-03-08 04:59:00
 categories:
     - uncategorised
 title: from zero to hero

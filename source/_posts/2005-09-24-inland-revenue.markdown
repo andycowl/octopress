@@ -2,7 +2,7 @@
 title: Inland Revenue
 layout: post
 comments: true
-date: '2005-09-24 22:58:42'
+date: 2005-09-24 22:58:42
 categories:
     - uncategorised
 ---

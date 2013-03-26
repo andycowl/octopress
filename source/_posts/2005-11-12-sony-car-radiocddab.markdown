@@ -1,5 +1,5 @@
 ---
-date: '2005-11-12 03:09:23'
+date: 2005-11-12 03:09:23
 title: Sony car radio/CD/DAB
 layout: post
 comments: true

@@ -1,5 +1,5 @@
 ---
-date: '2006-05-18 15:31:55'
+date: 2006-05-18 15:31:55
 categories:
     - uncategorised
 title: bingo night

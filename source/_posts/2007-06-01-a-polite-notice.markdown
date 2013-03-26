@@ -1,5 +1,5 @@
 ---
-date: '2007-06-01 17:34:21'
+date: 2007-06-01 17:34:21
 categories:
     - uncategorised
 title: a polite notice

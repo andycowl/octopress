@@ -2,7 +2,7 @@
 title: top Premiership star sectioned
 layout: post
 comments: true
-date: '2008-02-26 11:45:17'
+date: 2008-02-26 11:45:17
 categories:
     - uncategorised
 ---

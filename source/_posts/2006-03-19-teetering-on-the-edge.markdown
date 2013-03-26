@@ -1,5 +1,5 @@
 ---
-date: '2006-03-19 20:38:40'
+date: 2006-03-19 20:38:40
 categories:
     - uncategorised
 title: teetering on the edge

@@ -1,5 +1,5 @@
 ---
-date: '2007-02-27 17:16:17'
+date: 2007-02-27 17:16:17
 categories:
     - uncategorised
 title: UK broadsheets narrow view of syndication

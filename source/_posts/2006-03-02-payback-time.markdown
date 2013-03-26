@@ -1,5 +1,5 @@
 ---
-date: '2006-03-02 22:20:15'
+date: 2006-03-02 22:20:15
 categories:
     - uncategorised
 title: payback time

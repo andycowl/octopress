@@ -1,5 +1,5 @@
 ---
-date: '2007-02-21 02:35:47'
+date: 2007-02-21 02:35:47
 categories:
     - uncategorised
 title: how to display Google shared items on WordPress

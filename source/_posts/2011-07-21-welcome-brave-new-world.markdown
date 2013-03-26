@@ -4,7 +4,7 @@ layout: post
 comments: true
 description: >
     Blog suicide is painless
-date: '2011-07-21 17:25:00'
+date: 2011-07-21 17:25:00
 categories:
     - uncategorised
 categories:

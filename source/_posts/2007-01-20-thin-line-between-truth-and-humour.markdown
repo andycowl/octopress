@@ -1,5 +1,5 @@
 ---
-date: '2007-01-20 00:59:16'
+date: 2007-01-20 00:59:16
 categories:
     - uncategorised
 title: thin line between truth and humour

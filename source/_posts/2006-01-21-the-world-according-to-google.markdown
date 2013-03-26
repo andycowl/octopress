@@ -1,5 +1,5 @@
 ---
-date: '2006-01-21 03:19:31'
+date: 2006-01-21 03:19:31
 categories:
     - uncategorised
 title: The world according to Google

@@ -1,5 +1,5 @@
 ---
-date: '2006-01-26 21:43:55'
+date: 2006-01-26 21:43:55
 categories:
     - uncategorised
 title: Burns night

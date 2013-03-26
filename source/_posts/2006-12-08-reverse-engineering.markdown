@@ -1,5 +1,5 @@
 ---
-date: '2006-12-08 23:52:37'
+date: 2006-12-08 23:52:37
 categories:
     - uncategorised
 title: reverse engineering

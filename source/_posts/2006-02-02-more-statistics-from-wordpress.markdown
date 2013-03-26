@@ -1,5 +1,5 @@
 ---
-date: '2006-02-02 00:39:28'
+date: 2006-02-02 00:39:28
 categories:
     - uncategorised
 title: more statistics from WordPress

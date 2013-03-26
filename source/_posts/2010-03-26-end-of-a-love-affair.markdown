@@ -1,5 +1,5 @@
 ---
-date: '2010-03-26 11:58:27'
+date: 2010-03-26 11:58:27
 categories:
     - uncategorised
 title: end of a love affair

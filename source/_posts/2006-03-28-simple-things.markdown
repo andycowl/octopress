@@ -1,5 +1,5 @@
 ---
-date: '2006-03-28 06:38:35'
+date: 2006-03-28 06:38:35
 categories:
     - uncategorised
 title: simple things

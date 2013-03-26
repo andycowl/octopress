@@ -2,7 +2,7 @@
 title: the looming spectre of Google
 layout: post
 comments: true
-date: '2007-05-25 07:47:15'
+date: 2007-05-25 07:47:15
 categories:
     - google
 ---

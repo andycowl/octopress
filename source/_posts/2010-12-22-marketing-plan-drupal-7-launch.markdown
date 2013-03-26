@@ -1,5 +1,5 @@
 ---
-date: '2010-12-22 12:05:00'
+date: 2010-12-22 12:05:00
 categories:
     - drupal
 title: marketing plan for Drupal 7 launch

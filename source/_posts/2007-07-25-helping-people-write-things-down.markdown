@@ -1,5 +1,5 @@
 ---
-date: '2007-07-25 08:05:05'
+date: 2007-07-25 08:05:05
 categories:
     - uncategorised
 title: helping people write things down

@@ -1,5 +1,5 @@
 ---
-date: '2006-03-03 19:39:23'
+date: 2006-03-03 19:39:23
 categories:
     - uncategorised
 title: management consultants

@@ -1,5 +1,5 @@
 ---
-date: '2010-01-02 11:28:51'
+date: 2010-01-02 11:28:51
 categories:
     - blogging
 title: meaningless annual stats review

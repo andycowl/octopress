@@ -1,5 +1,5 @@
 ---
-date: '2009-08-25 10:52:22'
+date: 2009-08-25 10:52:22
 categories:
     - uncategorised
 title: more questions than answers

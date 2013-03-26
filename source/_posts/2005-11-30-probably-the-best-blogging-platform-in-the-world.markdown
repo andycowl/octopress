@@ -2,7 +2,7 @@
 title: probably the best blogging platform in the world
 layout: post
 comments: true
-date: '2005-11-30 05:49:34'
+date: 2005-11-30 05:49:34
 categories:
     - blogging
     - wordpress

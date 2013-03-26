@@ -1,5 +1,5 @@
 ---
-date: '2006-06-14 05:29:16'
+date: 2006-06-14 05:29:16
 categories:
     - uncategorised
 title: Michael Essien

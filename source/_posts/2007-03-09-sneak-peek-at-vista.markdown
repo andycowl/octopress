@@ -1,5 +1,5 @@
 ---
-date: '2007-03-09 20:41:05'
+date: 2007-03-09 20:41:05
 categories:
     - uncategorised
 title: sneak peek at Vista

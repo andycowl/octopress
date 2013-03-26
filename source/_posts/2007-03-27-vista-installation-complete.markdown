@@ -1,5 +1,5 @@
 ---
-date: '2007-03-27 07:22:58'
+date: 2007-03-27 07:22:58
 categories:
     - uncategorised
 title: Vista installation complete

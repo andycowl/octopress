@@ -1,5 +1,5 @@
 ---
-date: '2007-10-14 22:57:45'
+date: 2007-10-14 22:57:45
 categories:
     - uncategorised
 title: how to migrate a WordPress blog to Django

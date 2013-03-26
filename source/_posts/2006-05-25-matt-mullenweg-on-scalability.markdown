@@ -1,5 +1,5 @@
 ---
-date: '2006-05-25 22:48:05'
+date: 2006-05-25 22:48:05
 categories:
     - uncategorised
 title: Matt Mullenweg on scalability

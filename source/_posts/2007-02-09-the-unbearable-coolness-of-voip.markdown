@@ -1,5 +1,5 @@
 ---
-date: '2007-02-09 23:55:30'
+date: 2007-02-09 23:55:30
 categories:
     - uncategorised
 title: the unbearable coolness of VOIP

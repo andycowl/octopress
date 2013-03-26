@@ -1,5 +1,5 @@
 ---
-date: '2006-04-03 23:44:02'
+date: 2006-04-03 23:44:02
 categories:
     - uncategorised
 title: rude awakening

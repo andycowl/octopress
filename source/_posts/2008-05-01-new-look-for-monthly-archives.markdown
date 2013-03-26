@@ -1,5 +1,5 @@
 ---
-date: '2008-05-01 17:59:52'
+date: 2008-05-01 17:59:52
 categories:
     - uncategorised
 title: new look for monthly archives

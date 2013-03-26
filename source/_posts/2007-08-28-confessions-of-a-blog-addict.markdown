@@ -1,5 +1,5 @@
 ---
-date: '2007-08-28 06:13:38'
+date: 2007-08-28 06:13:38
 categories:
     - blogging
 title: confessions of a blog addict

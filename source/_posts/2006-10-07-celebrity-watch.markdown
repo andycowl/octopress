@@ -1,5 +1,5 @@
 ---
-date: '2006-10-07 02:20:19'
+date: 2006-10-07 02:20:19
 categories:
     - uncategorised
 title: celebrity watch

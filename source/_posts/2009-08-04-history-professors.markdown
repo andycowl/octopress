@@ -1,5 +1,5 @@
 ---
-date: '2009-08-04 21:13:05'
+date: 2009-08-04 21:13:05
 categories:
     - uncategorised
 title: History professors

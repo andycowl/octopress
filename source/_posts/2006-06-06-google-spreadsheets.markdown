@@ -1,5 +1,5 @@
 ---
-date: '2006-06-06 19:34:38'
+date: 2006-06-06 19:34:38
 categories:
     - uncategorised
 title: Google Spreadsheets

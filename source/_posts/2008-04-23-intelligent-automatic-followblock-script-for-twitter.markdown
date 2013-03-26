@@ -1,5 +1,5 @@
 ---
-date: '2008-04-23 09:58:48'
+date: 2008-04-23 09:58:48
 categories:
     - uncategorised
 title: intelligent automatic follow/block script for Twitter

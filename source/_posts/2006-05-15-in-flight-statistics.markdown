@@ -1,5 +1,5 @@
 ---
-date: '2006-05-15 15:11:57'
+date: 2006-05-15 15:11:57
 categories:
     - uncategorised
 title: in flight statistics

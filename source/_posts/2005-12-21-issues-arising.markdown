@@ -1,5 +1,5 @@
 ---
-date: '2005-12-21 08:22:14'
+date: 2005-12-21 08:22:14
 title: issues arising
 layout: post
 comments: true

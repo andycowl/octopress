@@ -1,5 +1,5 @@
 ---
-date: '2007-03-08 15:27:52'
+date: 2007-03-08 15:27:52
 categories:
     - uncategorised
 title: Picasa Web Albums upgraded to 1GB

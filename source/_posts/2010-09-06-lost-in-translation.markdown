@@ -1,5 +1,5 @@
 ---
-date: '2010-09-06 12:09:00'
+date: 2010-09-06 12:09:00
 categories:
     - travel
     - humour

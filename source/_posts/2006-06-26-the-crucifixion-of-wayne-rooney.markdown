@@ -1,5 +1,5 @@
 ---
-date: '2006-06-26 03:22:11'
+date: 2006-06-26 03:22:11
 categories:
     - uncategorised
 title: the crucifixion of Wayne Rooney

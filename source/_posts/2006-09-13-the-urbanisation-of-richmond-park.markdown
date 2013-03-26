@@ -1,5 +1,5 @@
 ---
-date: '2006-09-13 15:16:26'
+date: 2006-09-13 15:16:26
 categories:
     - uk
 title: the urbanisation of Richmond Park

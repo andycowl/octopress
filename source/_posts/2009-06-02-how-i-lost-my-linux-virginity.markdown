@@ -1,5 +1,5 @@
 ---
-date: '2009-06-02 22:02:08'
+date: 2009-06-02 22:02:08
 categories:
     - uncategorised
 title: how I lost my Linux virginity

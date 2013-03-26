@@ -1,5 +1,5 @@
 ---
-date: '2007-07-20 16:28:08'
+date: 2007-07-20 16:28:08
 categories:
     - uncategorised
 title: Artificial Intelligence

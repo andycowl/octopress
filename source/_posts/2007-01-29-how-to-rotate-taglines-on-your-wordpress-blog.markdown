@@ -1,5 +1,5 @@
 ---
-date: '2007-01-29 20:42:57'
+date: 2007-01-29 20:42:57
 categories:
     - wordpress
 title: how to rotate taglines on your WordPress blog

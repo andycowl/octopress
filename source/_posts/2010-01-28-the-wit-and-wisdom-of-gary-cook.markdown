@@ -1,5 +1,5 @@
 ---
-date: '2010-01-28 12:57:39'
+date: 2010-01-28 12:57:39
 categories:
     - uncategorised
 title: the wit and wisdom of Gary Cook

@@ -1,5 +1,5 @@
 ---
-date: '2005-12-14 22:29:43'
+date: 2005-12-14 22:29:43
 title: British Airways - making travel easier
 layout: post
 comments: true

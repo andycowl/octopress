@@ -1,5 +1,5 @@
 ---
-date: '2008-10-08 09:34:02'
+date: 2008-10-08 09:34:02
 categories:
     - uncategorised
 title: Mike Ashley reverse 914 scam uncovered

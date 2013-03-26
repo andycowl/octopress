@@ -1,5 +1,5 @@
 ---
-date: '2010-01-13 10:02:55'
+date: 2010-01-13 10:02:55
 categories:
     - uncategorised
 title: Arthur Smith nails it

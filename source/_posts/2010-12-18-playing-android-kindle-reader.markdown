@@ -5,7 +5,7 @@ comments: true
 categories:
     - amazon
     - kindle
-date: '2010-12-18 16:01:00'
+date: 2010-12-18 16:01:00
 ---
 Shamefully, I don't read many
 [books][bookclub]

@@ -1,5 +1,5 @@
 ---
-date: '2006-01-21 22:08:54'
+date: 2006-01-21 22:08:54
 categories:
     - uncategorised
 title: great news for RSS readers

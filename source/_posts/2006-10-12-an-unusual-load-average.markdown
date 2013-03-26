@@ -1,5 +1,5 @@
 ---
-date: '2006-10-12 22:57:37'
+date: 2006-10-12 22:57:37
 categories:
     - uncategorised
 title: an unusual load average

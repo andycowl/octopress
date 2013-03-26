@@ -2,7 +2,7 @@
 title: Planet Earth by Prince
 layout: post
 comments: true
-date: '2007-07-16 23:32:35'
+date: 2007-07-16 23:32:35
 categories:
     - uk
     - music

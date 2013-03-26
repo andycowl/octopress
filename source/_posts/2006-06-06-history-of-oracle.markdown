@@ -1,5 +1,5 @@
 ---
-date: '2006-06-06 17:43:16'
+date: 2006-06-06 17:43:16
 categories:
     - uncategorised
 title: history of Oracle

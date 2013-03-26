@@ -1,5 +1,5 @@
 ---
-date: '2006-11-17 06:22:36'
+date: 2006-11-17 06:22:36
 categories:
     - uncategorised
 title: night out in London

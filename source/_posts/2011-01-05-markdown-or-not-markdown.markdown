@@ -1,5 +1,5 @@
 ---
-date: '2011-01-05 14:57:00'
+date: 2011-01-05 14:57:00
 categories:
     - uk
 title: to markdown or not to markdown

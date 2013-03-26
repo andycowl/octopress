@@ -1,5 +1,5 @@
 ---
-date: '2009-08-04 11:49:07'
+date: 2009-08-04 11:49:07
 categories:
     - uncategorised
 title: holiday statistics

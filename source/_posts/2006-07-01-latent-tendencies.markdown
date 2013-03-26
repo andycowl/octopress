@@ -1,5 +1,5 @@
 ---
-date: '2006-07-01 21:44:26'
+date: 2006-07-01 21:44:26
 categories:
     - uncategorised
 title: latent tendencies

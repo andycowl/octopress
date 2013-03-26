@@ -1,5 +1,5 @@
 ---
-date: '2006-03-29 06:26:58'
+date: 2006-03-29 06:26:58
 categories:
     - uncategorised
 title: passion(less)

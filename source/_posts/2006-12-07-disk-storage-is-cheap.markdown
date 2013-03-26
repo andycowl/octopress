@@ -1,5 +1,5 @@
 ---
-date: '2006-12-07 16:10:59'
+date: 2006-12-07 16:10:59
 categories:
     - uncategorised
 title: disk storage is cheap

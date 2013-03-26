@@ -2,7 +2,7 @@
 title: CRM for bloggers
 layout: post
 comments: true
-date: '2010-12-18 16:37:00'
+date: 2010-12-18 16:37:00
 categories:
     - crm
     - blogging

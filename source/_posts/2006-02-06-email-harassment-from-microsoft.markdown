@@ -1,5 +1,5 @@
 ---
-date: '2006-02-06 19:14:48'
+date: 2006-02-06 19:14:48
 categories:
     - uncategorised
 title: email harassment (from Microsoft)

@@ -1,5 +1,5 @@
 ---
-date: '2007-05-15 05:16:49'
+date: 2007-05-15 05:16:49
 categories:
     - uncategorised
 title: moving house

@@ -1,5 +1,5 @@
 ---
-date: '2009-03-23 10:37:59'
+date: 2009-03-23 10:37:59
 categories:
     - uncategorised
 title: Fulham 2 MUFC 0

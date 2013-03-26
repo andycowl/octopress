@@ -1,5 +1,5 @@
 ---
-date: '2010-02-17 15:01:24'
+date: 2010-02-17 15:01:24
 categories:
     - uncategorised
 title: taking a back seat

@@ -1,5 +1,5 @@
 ---
-date: '2008-10-25 13:00:48'
+date: 2008-10-25 13:00:48
 categories:
     - uncategorised
 title: Ince on Celtic

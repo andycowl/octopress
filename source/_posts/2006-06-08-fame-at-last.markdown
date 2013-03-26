@@ -1,5 +1,5 @@
 ---
-date: '2006-06-08 14:11:36'
+date: 2006-06-08 14:11:36
 categories:
     - blogging
 title: Fame at last

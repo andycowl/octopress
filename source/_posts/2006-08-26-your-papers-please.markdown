@@ -1,5 +1,5 @@
 ---
-date: '2006-08-26 23:16:04'
+date: 2006-08-26 23:16:04
 categories:
     - uncategorised
 title: Your papers, please !

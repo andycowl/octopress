@@ -1,5 +1,5 @@
 ---
-date: '2006-04-17 23:46:19'
+date: 2006-04-17 23:46:19
 categories:
     - uncategorised
 title: perspective

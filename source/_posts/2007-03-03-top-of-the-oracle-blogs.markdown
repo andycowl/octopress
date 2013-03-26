@@ -1,5 +1,5 @@
 ---
-date: '2007-03-03 03:39:44'
+date: 2007-03-03 03:39:44
 categories:
     - blogging
     - oracle

@@ -1,5 +1,5 @@
 ---
-date: '2006-03-01 04:05:00'
+date: 2006-03-01 04:05:00
 categories:
     - uncategorised
 title: from zero to infinity (and beyond)

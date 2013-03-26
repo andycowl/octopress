@@ -1,5 +1,5 @@
 ---
-date: '2006-11-23 22:21:40'
+date: 2006-11-23 22:21:40
 categories:
     - uncategorised
 title: dose of your own medicine

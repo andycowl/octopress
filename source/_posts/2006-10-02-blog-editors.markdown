@@ -1,5 +1,5 @@
 ---
-date: '2006-10-02 18:15:10'
+date: 2006-10-02 18:15:10
 categories:
     - blogging
 title: blog editors

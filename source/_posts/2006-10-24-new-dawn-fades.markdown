@@ -1,5 +1,5 @@
 ---
-date: '2006-10-24 23:32:52'
+date: 2006-10-24 23:32:52
 categories:
     - uncategorised
 title: new dawn fades

@@ -1,5 +1,5 @@
 ---
-date: '2006-05-31 22:48:07'
+date: 2006-05-31 22:48:07
 categories:
     - uncategorised
 title: cartoon network

@@ -1,5 +1,5 @@
 ---
-date: '2009-08-17 12:43:34'
+date: 2009-08-17 12:43:34
 categories:
     - uncategorised
 title: evolution

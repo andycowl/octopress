@@ -1,5 +1,5 @@
 ---
-date: '2006-01-27 17:24:26'
+date: 2006-01-27 17:24:26
 categories:
     - uncategorised
 title: 'Most Haunted #2'

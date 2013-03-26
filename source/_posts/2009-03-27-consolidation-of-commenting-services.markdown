@@ -1,5 +1,5 @@
 ---
-date: '2009-03-27 15:31:57'
+date: 2009-03-27 15:31:57
 categories:
     - blogging
 title: consolidation of commenting services

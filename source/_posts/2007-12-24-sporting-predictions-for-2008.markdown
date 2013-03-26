@@ -1,5 +1,5 @@
 ---
-date: '2007-12-24 20:01:47'
+date: 2007-12-24 20:01:47
 categories:
     - uncategorised
 title: sporting predictions for 2008

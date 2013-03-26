@@ -2,7 +2,7 @@
 title: two one-way tickets to Dublin, please
 layout: post
 comments: true
-date: '2007-01-14 18:57:31'
+date: 2007-01-14 18:57:31
 categories:
     - uk
 ---

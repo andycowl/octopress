@@ -1,5 +1,5 @@
 ---
-date: '2006-06-14 04:55:30'
+date: 2006-06-14 04:55:30
 categories:
     - football
 title: so farewell then, Roy Keane

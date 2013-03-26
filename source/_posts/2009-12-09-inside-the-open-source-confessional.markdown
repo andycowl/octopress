@@ -1,5 +1,5 @@
 ---
-date: '2009-12-09 14:16:01'
+date: 2009-12-09 14:16:01
 categories:
     - software
 title: inside the open source confessional

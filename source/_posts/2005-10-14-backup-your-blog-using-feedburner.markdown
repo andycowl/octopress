@@ -2,7 +2,7 @@
 title: backup your blog using Feedburner
 layout: post
 comments: true
-date: '2005-10-14 17:38:14'
+date: 2005-10-14 17:38:14
 categories:
     - blogging
 ---

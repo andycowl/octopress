@@ -1,5 +1,5 @@
 ---
-date: '2010-07-08 09:58:00'
+date: 2010-07-08 09:58:00
 categories:
     - uk
 title: lockdown in Rothbury

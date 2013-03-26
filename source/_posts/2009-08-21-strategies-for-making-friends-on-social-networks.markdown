@@ -1,5 +1,5 @@
 ---
-date: '2009-08-21 16:17:02'
+date: 2009-08-21 16:17:02
 categories:
     - uncategorised
 title: strategies for making friends on social networks

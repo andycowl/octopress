@@ -1,5 +1,5 @@
 ---
-date: '2005-11-01 17:07:01'
+date: 2005-11-01 17:07:01
 title: Emacs as a Web 2.0 application
 layout: post
 comments: true

@@ -1,5 +1,5 @@
 ---
-date: '2010-04-30 10:07:03'
+date: 2010-04-30 10:07:03
 categories:
     - software
 title: thoughts on browser usability

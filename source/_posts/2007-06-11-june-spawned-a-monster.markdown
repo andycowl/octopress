@@ -1,5 +1,5 @@
 ---
-date: '2007-06-11 18:06:21'
+date: 2007-06-11 18:06:21
 categories:
     - uncategorised
 title: June spawned a monster

@@ -1,5 +1,5 @@
 ---
-date: '2007-04-20 22:54:04'
+date: 2007-04-20 22:54:04
 categories:
     - uncategorised
 title: migration of photo blog

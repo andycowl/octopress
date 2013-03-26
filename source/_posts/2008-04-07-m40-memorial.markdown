@@ -1,5 +1,5 @@
 ---
-date: '2008-04-07 13:34:22'
+date: 2008-04-07 13:34:22
 categories:
     - uncategorised
 title: M40 memorial

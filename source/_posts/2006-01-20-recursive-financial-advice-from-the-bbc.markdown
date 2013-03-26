@@ -1,5 +1,5 @@
 ---
-date: '2006-01-20 05:42:23'
+date: 2006-01-20 05:42:23
 categories:
     - tv
 title: recursive financial advice from the BBC

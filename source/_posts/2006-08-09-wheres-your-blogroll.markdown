@@ -1,5 +1,5 @@
 ---
-date: '2006-08-09 09:19:55'
+date: 2006-08-09 09:19:55
 categories:
     - uncategorised
 title: where's your blogroll ?

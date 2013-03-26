@@ -1,5 +1,5 @@
 ---
-date: '2007-06-30 18:21:52'
+date: 2007-06-30 18:21:52
 categories:
     - uncategorised
 title: my alter ego

@@ -1,5 +1,5 @@
 ---
-date: '2010-03-25 11:15:00'
+date: 2010-03-25 11:15:00
 categories:
     - uncategorised
 title: when ethernet cables go bad

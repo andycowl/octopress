@@ -1,5 +1,5 @@
 ---
-date: '2009-09-24 13:12:34'
+date: 2009-09-24 13:12:34
 categories:
     - uncategorised
 title: trainspotting

@@ -1,5 +1,5 @@
 ---
-date: '2007-11-21 18:15:52'
+date: 2007-11-21 18:15:52
 categories:
     - uncategorised
 title: a brush with the Met

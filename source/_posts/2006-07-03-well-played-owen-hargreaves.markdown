@@ -1,5 +1,5 @@
 ---
-date: '2006-07-03 17:37:32'
+date: 2006-07-03 17:37:32
 categories:
     - uncategorised
 title: well played, Owen Hargreaves

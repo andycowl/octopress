@@ -1,5 +1,5 @@
 ---
-date: '2010-01-19 16:39:04'
+date: 2010-01-19 16:39:04
 categories:
     - uncategorised
 title: Steve Jobs on design

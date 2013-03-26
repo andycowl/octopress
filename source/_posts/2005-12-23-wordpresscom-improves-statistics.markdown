@@ -1,5 +1,5 @@
 ---
-date: '2005-12-23 23:15:32'
+date: 2005-12-23 23:15:32
 title: WordPress.com improves statistics
 layout: post
 comments: true

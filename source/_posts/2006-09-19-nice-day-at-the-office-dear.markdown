@@ -1,5 +1,5 @@
 ---
-date: '2006-09-19 21:18:34'
+date: 2006-09-19 21:18:34
 categories:
     - uncategorised
 title: nice day at the office, dear ?

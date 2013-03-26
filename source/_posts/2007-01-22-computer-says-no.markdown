@@ -1,5 +1,5 @@
 ---
-date: '2007-01-22 16:07:26'
+date: 2007-01-22 16:07:26
 categories:
     - uncategorised
 title: computer says 'No'

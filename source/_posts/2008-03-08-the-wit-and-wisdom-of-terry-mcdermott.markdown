@@ -1,5 +1,5 @@
 ---
-date: '2008-03-08 11:05:29'
+date: 2008-03-08 11:05:29
 categories:
     - uncategorised
 title: the wit and wisdom of Terry McDermott

@@ -1,5 +1,5 @@
 ---
-date: '2006-07-11 14:07:23'
+date: 2006-07-11 14:07:23
 categories:
     - uncategorised
 title: why England will win the next World Cup

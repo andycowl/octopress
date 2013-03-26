@@ -1,5 +1,5 @@
 ---
-date: '2006-05-02 19:36:04'
+date: 2006-05-02 19:36:04
 categories:
     - uncategorised
 title: Ing-er-land

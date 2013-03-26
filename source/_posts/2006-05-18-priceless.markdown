@@ -1,5 +1,5 @@
 ---
-date: '2006-05-18 20:45:38'
+date: 2006-05-18 20:45:38
 categories:
     - uncategorised
 title: Priceless

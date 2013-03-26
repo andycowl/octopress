@@ -1,5 +1,5 @@
 ---
-date: '2007-06-15 15:16:32'
+date: 2007-06-15 15:16:32
 categories:
     - uncategorised
 title: Welcome to England

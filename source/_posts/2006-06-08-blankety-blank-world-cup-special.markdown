@@ -1,5 +1,5 @@
 ---
-date: '2006-06-08 18:51:53'
+date: 2006-06-08 18:51:53
 categories:
     - uncategorised
 title: blankety blank - World Cup Special

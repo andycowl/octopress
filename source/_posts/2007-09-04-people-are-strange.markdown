@@ -2,7 +2,7 @@
 title: people are strange
 layout: post
 comments: true
-date: '2007-09-04 18:24:05'
+date: 2007-09-04 18:24:05
 categories:
     - uk
 ---

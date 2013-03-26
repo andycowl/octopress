@@ -1,5 +1,5 @@
 ---
-date: '2006-03-20 06:19:16'
+date: 2006-03-20 06:19:16
 categories:
     - uncategorised
 title: absolute disgrace

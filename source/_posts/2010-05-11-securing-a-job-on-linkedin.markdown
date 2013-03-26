@@ -1,5 +1,5 @@
 ---
-date: '2010-05-11 16:20:18'
+date: 2010-05-11 16:20:18
 categories:
     - uncategorised
 title: securing a job on LinkedIn

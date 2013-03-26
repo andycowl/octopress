@@ -1,5 +1,5 @@
 ---
-date: '2006-05-26 23:06:41'
+date: 2006-05-26 23:06:41
 categories:
     - uncategorised
 title: partial versus full fe…

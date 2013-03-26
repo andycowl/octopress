@@ -1,5 +1,5 @@
 ---
-date: '2005-12-16 22:45:11'
+date: 2005-12-16 22:45:11
 categories:
     - uncategorised
 title: Xmas present for bloglines users

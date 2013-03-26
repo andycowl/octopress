@@ -1,5 +1,5 @@
 ---
-date: '2006-04-21 02:57:23'
+date: 2006-04-21 02:57:23
 categories:
     - uncategorised
 title: state of the blogosphere

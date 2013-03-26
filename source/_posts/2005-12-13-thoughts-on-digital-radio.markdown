@@ -1,5 +1,5 @@
 ---
-date: '2005-12-13 17:01:54'
+date: 2005-12-13 17:01:54
 categories:
     - uncategorised
 title: thoughts on digital radio

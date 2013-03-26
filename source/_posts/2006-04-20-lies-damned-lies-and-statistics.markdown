@@ -1,5 +1,5 @@
 ---
-date: '2006-04-20 07:25:08'
+date: 2006-04-20 07:25:08
 categories:
     - uncategorised
 title: lies, damned lies and statistics

@@ -1,5 +1,5 @@
 ---
-date: '2005-12-13 21:58:40'
+date: 2005-12-13 21:58:40
 categories:
     - uncategorised
 title: circular discussions

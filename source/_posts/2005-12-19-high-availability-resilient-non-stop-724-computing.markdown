@@ -1,5 +1,5 @@
 ---
-date: '2005-12-19 21:42:46'
+date: 2005-12-19 21:42:46
 categories:
     - uncategorised
 title: high availability, resilient, non-stop, 7×24 computing

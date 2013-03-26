@@ -1,5 +1,5 @@
 ---
-date: '2008-12-02 13:18:30'
+date: 2008-12-02 13:18:30
 categories:
     - uncategorised
 title: identica poised to pounce on Pownce

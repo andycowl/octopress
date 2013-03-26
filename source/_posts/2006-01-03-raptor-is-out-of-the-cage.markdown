@@ -1,5 +1,5 @@
 ---
-date: '2006-01-03 18:05:06'
+date: 2006-01-03 18:05:06
 title: Raptor is out of the cage
 layout: post
 comments: true

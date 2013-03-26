@@ -1,5 +1,5 @@
 ---
-date: '2007-04-16 20:00:51'
+date: 2007-04-16 20:00:51
 categories:
     - uncategorised
 title: letter from America

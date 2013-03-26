@@ -1,5 +1,5 @@
 ---
-date: '2008-01-18 08:41:57'
+date: 2008-01-18 08:41:57
 categories:
     - uncategorised
 title: what's the blogging frequency ?

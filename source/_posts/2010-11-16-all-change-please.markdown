@@ -1,5 +1,5 @@
 ---
-date: '2010-11-16 20:36:00'
+date: 2010-11-16 20:36:00
 categories:
     - blogging
     - drupal

@@ -1,5 +1,5 @@
 ---
-date: '2007-09-12 22:23:18'
+date: 2007-09-12 22:23:18
 categories:
     - uncategorised
 title: analyzing cdos

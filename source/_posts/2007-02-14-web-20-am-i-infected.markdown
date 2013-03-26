@@ -1,5 +1,5 @@
 ---
-date: '2007-02-14 18:34:14'
+date: 2007-02-14 18:34:14
 categories:
     - uncategorised
 title: Web 2.0 - am I infected ?

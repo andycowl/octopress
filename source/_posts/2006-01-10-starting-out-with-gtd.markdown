@@ -1,5 +1,5 @@
 ---
-date: '2006-01-10 01:30:06'
+date: 2006-01-10 01:30:06
 categories:
     - uncategorised
 title: starting out with GTD

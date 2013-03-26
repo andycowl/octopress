@@ -1,5 +1,5 @@
 ---
-date: '2006-07-06 14:13:25'
+date: 2006-07-06 14:13:25
 categories:
     - uncategorised
 title: Wayne Rooney's World Cup diary

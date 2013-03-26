@@ -1,5 +1,5 @@
 ---
-date: '2007-06-28 09:30:06'
+date: 2007-06-28 09:30:06
 categories:
     - uncategorised
 title: Google finally sees sense

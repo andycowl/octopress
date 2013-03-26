@@ -1,5 +1,5 @@
 ---
-date: '2007-07-17 22:26:56'
+date: 2007-07-17 22:26:56
 categories:
     - uncategorised
 title: membership form for BAAG

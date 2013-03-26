@@ -1,5 +1,5 @@
 ---
-date: '2005-12-21 07:03:49'
+date: 2005-12-21 07:03:49
 categories:
     - uncategorised
 title: hostelries in West Bromwich

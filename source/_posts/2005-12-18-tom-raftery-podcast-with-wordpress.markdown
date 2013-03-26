@@ -1,5 +1,5 @@
 ---
-date: '2005-12-18 18:11:26'
+date: 2005-12-18 18:11:26
 categories:
     - uncategorised
 title: Tom Raftery podcast with WordPress

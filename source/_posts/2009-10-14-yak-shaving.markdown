@@ -1,5 +1,5 @@
 ---
-date: '2009-10-14 11:20:21'
+date: 2009-10-14 11:20:21
 categories:
     - uncategorised
 title: Yak shaving

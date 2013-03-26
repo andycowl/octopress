@@ -1,5 +1,5 @@
 ---
-date: '2008-11-27 16:58:47'
+date: 2008-11-27 16:58:47
 categories:
     - uncategorised
 title: evangelism - Habari style

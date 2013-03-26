@@ -2,7 +2,7 @@
 title: so farewell then, Roy Keane
 layout: post
 comments: true
-date: '2005-11-22 06:21:08'
+date: 2005-11-22 06:21:08
 categories:
     - football
 ---

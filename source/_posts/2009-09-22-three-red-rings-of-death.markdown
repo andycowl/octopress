@@ -2,7 +2,7 @@
 title: three red rings of death
 layout: post
 comments: true
-date: '2009-09-22 09:54:26'
+date: 2009-09-22 09:54:26
 categories:
     - uk
     - microsoft

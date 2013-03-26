@@ -1,5 +1,5 @@
 ---
-date: '2007-07-16 21:03:48'
+date: 2007-07-16 21:03:48
 categories:
     - uncategorised
 title: Stadium Rock etiquette

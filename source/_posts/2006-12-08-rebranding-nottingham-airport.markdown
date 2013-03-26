@@ -1,5 +1,5 @@
 ---
-date: '2006-12-08 19:56:57'
+date: 2006-12-08 19:56:57
 categories:
     - uncategorised
 title: rebranding Nottingham airport

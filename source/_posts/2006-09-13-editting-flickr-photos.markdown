@@ -1,5 +1,5 @@
 ---
-date: '2006-09-13 15:02:53'
+date: 2006-09-13 15:02:53
 categories:
     - uncategorised
 title: editting Flickr photos

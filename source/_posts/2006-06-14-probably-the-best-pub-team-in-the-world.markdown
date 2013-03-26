@@ -1,5 +1,5 @@
 ---
-date: '2006-06-14 06:40:42'
+date: 2006-06-14 06:40:42
 categories:
     - uncategorised
 title: probably the best pub team in the world

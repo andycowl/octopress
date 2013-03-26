@@ -1,5 +1,5 @@
 ---
-date: '2006-11-01 01:45:17'
+date: 2006-11-01 01:45:17
 categories:
     - uncategorised
 title: trumpet blowing

@@ -1,5 +1,5 @@
 ---
-date: '2008-11-13 10:12:21'
+date: 2008-11-13 10:12:21
 categories:
     - uncategorised
 title: black screen of death

@@ -1,5 +1,5 @@
 ---
-date: '2009-10-25 16:53:06'
+date: 2009-10-25 16:53:06
 categories:
     - uncategorised
 title: dyslexic graffiti

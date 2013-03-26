@@ -1,5 +1,5 @@
 ---
-date: '2005-12-13 23:23:37'
+date: 2005-12-13 23:23:37
 categories:
     - rss
 title: comparison of RSS readers

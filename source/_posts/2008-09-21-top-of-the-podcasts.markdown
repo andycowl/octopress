@@ -1,5 +1,5 @@
 ---
-date: '2008-09-21 12:09:10'
+date: 2008-09-21 12:09:10
 categories:
     - uncategorised
 title: Top of the Podcasts

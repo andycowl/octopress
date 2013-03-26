@@ -1,5 +1,5 @@
 ---
-date: '2006-09-13 15:35:20'
+date: 2006-09-13 15:35:20
 categories:
     - uncategorised
 title: packet sniffer

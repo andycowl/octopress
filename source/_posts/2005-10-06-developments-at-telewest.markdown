@@ -2,7 +2,7 @@
 title: developments at Telewest
 layout: post
 comments: true
-date: '2005-10-06 02:34:44'
+date: 2005-10-06 02:34:44
 categories:
     - uncategorised
 ---

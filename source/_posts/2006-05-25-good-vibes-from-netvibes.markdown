@@ -1,5 +1,5 @@
 ---
-date: '2006-05-25 17:32:19'
+date: 2006-05-25 17:32:19
 categories:
     - uncategorised
 title: good vibes from Netvibes

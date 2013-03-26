@@ -1,5 +1,5 @@
 ---
-date: '2010-07-08 11:25:00'
+date: 2010-07-08 11:25:00
 categories:
     - music
 title: if carlsberg made drummers

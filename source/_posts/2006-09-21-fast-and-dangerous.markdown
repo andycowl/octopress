@@ -1,5 +1,5 @@
 ---
-date: '2006-09-21 04:35:11'
+date: 2006-09-21 04:35:11
 categories:
     - uncategorised
 title: fast and dangerous

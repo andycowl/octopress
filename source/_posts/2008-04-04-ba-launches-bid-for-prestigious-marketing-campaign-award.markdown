@@ -1,5 +1,5 @@
 ---
-date: '2008-04-04 13:22:16'
+date: 2008-04-04 13:22:16
 categories:
     - uncategorised
 title: BA launches bid for prestigious 'marketing campaign' award

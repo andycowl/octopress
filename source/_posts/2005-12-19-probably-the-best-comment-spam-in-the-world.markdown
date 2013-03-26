@@ -1,5 +1,5 @@
 ---
-date: '2005-12-19 21:56:14'
+date: 2005-12-19 21:56:14
 title: probably the best comment spam in the world
 layout: post
 comments: true

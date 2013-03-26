@@ -2,7 +2,7 @@
 title: interview with I Am Not Left Handed
 layout: post
 comments: true
-date: '2011-08-12 12:09:16'
+date: 2011-08-12 12:09:16
 categories:
     - music
 ---

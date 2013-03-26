@@ -2,7 +2,7 @@
 title: Less is more
 layout: post
 comments: true
-date: '2005-09-22 04:02:10'
+date: 2005-09-22 04:02:10
 categories:
     - uncategorised
 ---

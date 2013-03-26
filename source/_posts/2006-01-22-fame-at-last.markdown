@@ -1,5 +1,5 @@
 ---
-date: '2006-01-22 22:28:20'
+date: 2006-01-22 22:28:20
 categories:
     - uncategorised
 title: Fame at last

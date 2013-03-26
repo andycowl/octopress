@@ -1,5 +1,5 @@
 ---
-date: '2006-07-18 05:39:47'
+date: 2006-07-18 05:39:47
 categories:
     - uncategorised
 title: out of sight

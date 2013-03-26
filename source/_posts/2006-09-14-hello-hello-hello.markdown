@@ -1,5 +1,5 @@
 ---
-date: '2006-09-14 22:23:23'
+date: 2006-09-14 22:23:23
 categories:
     - uk
 title: hello, hello, hello

@@ -2,7 +2,7 @@
 title: Virgin Media V+ upgrade
 layout: post
 comments: true
-date: '2007-03-23 21:37:29'
+date: 2007-03-23 21:37:29
 categories:
     - uncategorised
 ---

@@ -1,5 +1,5 @@
 ---
-date: '2006-05-02 22:03:34'
+date: 2006-05-02 22:03:34
 categories:
     - uncategorised
 title: BA online check-in

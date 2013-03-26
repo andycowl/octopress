@@ -1,5 +1,5 @@
 ---
-date: '2006-05-11 12:47:35'
+date: 2006-05-11 12:47:35
 categories:
     - uncategorised
 title: dead pop stars

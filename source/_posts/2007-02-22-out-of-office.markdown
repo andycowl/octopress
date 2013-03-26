@@ -1,5 +1,5 @@
 ---
-date: '2007-02-22 03:20:22'
+date: 2007-02-22 03:20:22
 categories:
     - uncategorised
 title: out of office

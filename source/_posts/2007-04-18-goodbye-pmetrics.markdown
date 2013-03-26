@@ -1,5 +1,5 @@
 ---
-date: '2007-04-18 09:16:50'
+date: 2007-04-18 09:16:50
 categories:
     - uncategorised
 title: goodbye pMetrics

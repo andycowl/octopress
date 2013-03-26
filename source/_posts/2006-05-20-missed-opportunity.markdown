@@ -1,5 +1,5 @@
 ---
-date: '2006-05-20 18:09:21'
+date: 2006-05-20 18:09:21
 categories:
     - uncategorised
 title: missed opportunity

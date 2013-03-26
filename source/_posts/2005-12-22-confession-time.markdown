@@ -1,5 +1,5 @@
 ---
-date: '2005-12-22 23:54:43'
+date: 2005-12-22 23:54:43
 categories:
     - uncategorised
 title: confession time

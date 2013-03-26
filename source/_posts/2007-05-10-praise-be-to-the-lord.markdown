@@ -1,5 +1,5 @@
 ---
-date: '2007-05-10 06:12:11'
+date: 2007-05-10 06:12:11
 categories:
     - uncategorised
 title: Praise be to the Lord !

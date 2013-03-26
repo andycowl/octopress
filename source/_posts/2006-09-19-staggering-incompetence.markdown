@@ -1,5 +1,5 @@
 ---
-date: '2006-09-19 23:05:08'
+date: 2006-09-19 23:05:08
 categories:
     - uncategorised
 title: staggering incompetence

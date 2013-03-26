@@ -1,5 +1,5 @@
 ---
-date: '2006-10-06 16:59:21'
+date: 2006-10-06 16:59:21
 categories:
     - uncategorised
 title: is it really worth it ?

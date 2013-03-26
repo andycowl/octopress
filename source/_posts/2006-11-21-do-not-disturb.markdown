@@ -1,5 +1,5 @@
 ---
-date: '2006-11-21 15:55:27'
+date: 2006-11-21 15:55:27
 categories:
     - uncategorised
 title: do not disturb

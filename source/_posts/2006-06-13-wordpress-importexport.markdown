@@ -1,5 +1,5 @@
 ---
-date: '2006-06-13 04:16:55'
+date: 2006-06-13 04:16:55
 categories:
     - uncategorised
 title: WordPress import/export

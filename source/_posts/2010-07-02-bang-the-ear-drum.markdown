@@ -1,5 +1,5 @@
 ---
-date: '2010-07-02 11:12:00'
+date: 2010-07-02 11:12:00
 categories:
     - uncategorised
 title: bang the (ear) drum

@@ -1,5 +1,5 @@
 ---
-date: '2008-08-30 18:43:45'
+date: 2008-08-30 18:43:45
 categories:
     - uncategorised
 title: Gondolas

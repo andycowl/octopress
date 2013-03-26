@@ -1,5 +1,5 @@
 ---
-date: '2005-12-19 06:34:04'
+date: 2005-12-19 06:34:04
 categories:
     - football
 title: a brush with West Midlands constabulary

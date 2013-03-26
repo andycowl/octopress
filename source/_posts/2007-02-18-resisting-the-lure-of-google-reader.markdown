@@ -1,5 +1,5 @@
 ---
-date: '2007-02-18 20:40:05'
+date: 2007-02-18 20:40:05
 categories:
     - uncategorised
 title: resisting the lure of Google Reader

@@ -1,5 +1,5 @@
 ---
-date: '2009-09-02 08:12:12'
+date: 2009-09-02 08:12:12
 categories:
     - football
 title: dangerous precedent

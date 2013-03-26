@@ -1,5 +1,5 @@
 ---
-date: '2007-02-19 20:02:56'
+date: 2007-02-19 20:02:56
 categories:
     - uncategorised
 title: am I a Google whore yet ?

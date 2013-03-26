@@ -1,5 +1,5 @@
 ---
-date: '2006-05-20 18:00:51'
+date: 2006-05-20 18:00:51
 categories:
     - uncategorised
 title: MUFC announce Ruud's replacement

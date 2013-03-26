@@ -1,5 +1,5 @@
 ---
-date: '2009-09-18 10:41:47'
+date: 2009-09-18 10:41:47
 categories:
     - uncategorised
 title: from insurgent to suicide bomber

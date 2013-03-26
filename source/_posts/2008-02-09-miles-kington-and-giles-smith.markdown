@@ -1,5 +1,5 @@
 ---
-date: '2008-02-09 17:17:32'
+date: 2008-02-09 17:17:32
 categories:
     - uncategorised
 title: Miles Kington and Giles Smith

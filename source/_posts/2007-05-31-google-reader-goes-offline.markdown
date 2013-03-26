@@ -1,5 +1,5 @@
 ---
-date: '2007-05-31 19:15:42'
+date: 2007-05-31 19:15:42
 categories:
     - uncategorised
 title: Google Reader goes offline

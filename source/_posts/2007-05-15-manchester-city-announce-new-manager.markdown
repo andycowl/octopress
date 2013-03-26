@@ -1,5 +1,5 @@
 ---
-date: '2007-05-15 08:12:27'
+date: 2007-05-15 08:12:27
 categories:
     - uncategorised
 title: Manchester City announce new manager

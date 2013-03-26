@@ -1,5 +1,5 @@
 ---
-date: '2006-12-07 04:16:55'
+date: 2006-12-07 04:16:55
 categories:
     - uncategorised
 title: suggestions for Metalink

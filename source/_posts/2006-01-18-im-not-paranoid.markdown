@@ -1,5 +1,5 @@
 ---
-date: '2006-01-18 06:17:38'
+date: 2006-01-18 06:17:38
 categories:
     - uncategorised
 title: I'm not paranoid

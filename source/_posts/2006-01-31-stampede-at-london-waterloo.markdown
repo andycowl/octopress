@@ -1,5 +1,5 @@
 ---
-date: '2006-01-31 18:20:29'
+date: 2006-01-31 18:20:29
 categories:
     - uncategorised
 title: stampede at London Waterloo

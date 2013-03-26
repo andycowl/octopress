@@ -1,5 +1,5 @@
 ---
-date: '2008-11-18 16:26:23'
+date: 2008-11-18 16:26:23
 categories:
     - uncategorised
 title: more fun with keyword searches

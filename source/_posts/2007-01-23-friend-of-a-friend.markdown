@@ -1,5 +1,5 @@
 ---
-date: '2007-01-23 11:07:21'
+date: 2007-01-23 11:07:21
 categories:
     - music
 title: Friend of a friend

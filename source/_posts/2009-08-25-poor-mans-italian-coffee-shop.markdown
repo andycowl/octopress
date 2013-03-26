@@ -1,5 +1,5 @@
 ---
-date: '2009-08-25 09:49:49'
+date: 2009-08-25 09:49:49
 categories:
     - uncategorised
 title: poor man's Italian coffee shop

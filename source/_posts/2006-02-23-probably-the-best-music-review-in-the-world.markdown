@@ -1,5 +1,5 @@
 ---
-date: '2006-02-23 00:52:19'
+date: 2006-02-23 00:52:19
 categories:
     - music
 title: probably the best music review in the world

@@ -2,7 +2,7 @@
 title: Doug Burns, I salute you
 layout: post
 comments: true
-date: '2005-11-06 19:40:58'
+date: 2005-11-06 19:40:58
 categories:
     - blogging
 ---

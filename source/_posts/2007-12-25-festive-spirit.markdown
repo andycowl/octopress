@@ -1,5 +1,5 @@
 ---
-date: '2007-12-25 06:43:38'
+date: 2007-12-25 06:43:38
 categories:
     - uncategorised
 title: Festive Spirit

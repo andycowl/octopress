@@ -1,5 +1,5 @@
 ---
-date: '2008-03-06 12:23:37'
+date: 2008-03-06 12:23:37
 categories:
     - uncategorised
 title: top 10 concerts of all time

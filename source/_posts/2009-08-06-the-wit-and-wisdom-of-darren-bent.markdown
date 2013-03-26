@@ -1,5 +1,5 @@
 ---
-date: '2009-08-06 10:56:01'
+date: 2009-08-06 10:56:01
 categories:
     - uncategorised
 title: the wit and wisdom of Darren Bent

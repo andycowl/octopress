@@ -1,5 +1,5 @@
 ---
-date: '2009-08-20 09:51:20'
+date: 2009-08-20 09:51:20
 categories:
     - uncategorised
 title: forbidden fruits

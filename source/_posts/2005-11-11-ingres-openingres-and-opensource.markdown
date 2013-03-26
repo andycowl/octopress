@@ -2,7 +2,7 @@
 title: Ingres, OpenIngres and OpenSource
 layout: post
 comments: true
-date: '2005-11-11 01:52:32'
+date: 2005-11-11 01:52:32
 categories:
     - ingres
 ---

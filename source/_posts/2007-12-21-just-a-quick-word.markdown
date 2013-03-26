@@ -1,5 +1,5 @@
 ---
-date: '2007-12-21 22:45:41'
+date: 2007-12-21 22:45:41
 categories:
     - uncategorised
 title: just a quick word

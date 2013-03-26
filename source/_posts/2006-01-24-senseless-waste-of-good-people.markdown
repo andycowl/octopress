@@ -1,5 +1,5 @@
 ---
-date: '2006-01-24 18:25:25'
+date: 2006-01-24 18:25:25
 categories:
     - uncategorised
 title: senseless waste of good people

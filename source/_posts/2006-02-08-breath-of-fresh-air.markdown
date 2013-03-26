@@ -1,5 +1,5 @@
 ---
-date: '2006-02-08 18:09:55'
+date: 2006-02-08 18:09:55
 categories:
     - uncategorised
 title: breath of fresh air

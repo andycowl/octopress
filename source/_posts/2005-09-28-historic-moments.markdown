@@ -2,7 +2,7 @@
 title: Historic Moments
 layout: post
 comments: true
-date: '2005-09-28 18:03:43'
+date: 2005-09-28 18:03:43
 categories:
     - tv
 ---

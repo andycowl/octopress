@@ -2,7 +2,7 @@
 title: Top 10 UK blogs
 layout: post
 comments: true
-date: '2007-11-14 09:37:59'
+date: 2007-11-14 09:37:59
 categories:
     - uncategorised
 ---

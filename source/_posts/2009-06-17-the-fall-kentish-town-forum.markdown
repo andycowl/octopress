@@ -1,5 +1,5 @@
 ---
-date: '2009-06-17 02:27:19'
+date: 2009-06-17 02:27:19
 categories:
     - uncategorised
 title: The Fall - Kentish Town Forum (10/6/09)

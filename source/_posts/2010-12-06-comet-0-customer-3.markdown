@@ -1,5 +1,5 @@
 ---
-date: '2010-12-06 14:53:00'
+date: 2010-12-06 14:53:00
 categories:
     - crm
 title: Comet 0 Customer 3

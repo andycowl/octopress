@@ -1,5 +1,5 @@
 ---
-date: '2006-03-08 21:18:14'
+date: 2006-03-08 21:18:14
 categories:
     - software
 title: Thunderbirds are go !

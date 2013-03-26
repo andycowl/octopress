@@ -1,5 +1,5 @@
 ---
-date: '2006-02-03 15:45:49'
+date: 2006-02-03 15:45:49
 categories:
     - uncategorised
 title: breaking news

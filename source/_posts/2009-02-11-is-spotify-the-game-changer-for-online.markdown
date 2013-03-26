@@ -1,5 +1,5 @@
 ---
-date: '2009-02-11 14:54:17'
+date: 2009-02-11 14:54:17
 categories:
     - uncategorised
 title: is Spotify the game changer for online music ?

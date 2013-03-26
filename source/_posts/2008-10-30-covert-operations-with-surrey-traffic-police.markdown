@@ -1,5 +1,5 @@
 ---
-date: '2008-10-30 16:16:28'
+date: 2008-10-30 16:16:28
 categories:
     - uncategorised
 title: covert operations with Surrey Traffic Police

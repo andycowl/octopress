@@ -1,5 +1,5 @@
 ---
-date: '2006-03-31 23:09:00'
+date: 2006-03-31 23:09:00
 categories:
     - uncategorised
 title: could do better

@@ -1,5 +1,5 @@
 ---
-date: '2006-03-31 15:57:17'
+date: 2006-03-31 15:57:17
 categories:
     - software
 title: from zero to hero and back again

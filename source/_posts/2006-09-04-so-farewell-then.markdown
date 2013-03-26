@@ -1,5 +1,5 @@
 ---
-date: '2006-09-04 13:48:28'
+date: 2006-09-04 13:48:28
 categories:
     - uncategorised
 title: so farewell then

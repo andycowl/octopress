@@ -1,5 +1,5 @@
 ---
-date: '2006-12-19 04:58:25'
+date: 2006-12-19 04:58:25
 categories:
     - uncategorised
 title: playing mind games with Mourinho

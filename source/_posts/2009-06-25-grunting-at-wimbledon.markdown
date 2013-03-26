@@ -1,5 +1,5 @@
 ---
-date: '2009-06-25 07:51:31'
+date: 2009-06-25 07:51:31
 categories:
     - uncategorised
 title: grunting at Wimbledon

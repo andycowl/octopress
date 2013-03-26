@@ -1,5 +1,5 @@
 ---
-date: '2006-10-27 07:11:41'
+date: 2006-10-27 07:11:41
 categories:
     - uncategorised
 title: suffer little children

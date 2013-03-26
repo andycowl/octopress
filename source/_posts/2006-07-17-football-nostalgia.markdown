@@ -1,5 +1,5 @@
 ---
-date: '2006-07-17 15:44:27'
+date: 2006-07-17 15:44:27
 categories:
     - uncategorised
 title: football nostalgia

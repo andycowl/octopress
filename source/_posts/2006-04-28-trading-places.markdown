@@ -1,5 +1,5 @@
 ---
-date: '2006-04-28 15:00:19'
+date: 2006-04-28 15:00:19
 categories:
     - uncategorised
 title: Trading Places

@@ -1,5 +1,5 @@
 ---
-date: '2010-01-04 12:09:13'
+date: 2010-01-04 12:09:13
 categories:
     - uncategorised
 title: less is more

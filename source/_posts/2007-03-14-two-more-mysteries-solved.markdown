@@ -1,5 +1,5 @@
 ---
-date: '2007-03-14 21:21:01'
+date: 2007-03-14 21:21:01
 categories:
     - uncategorised
 title: two more mysteries solved

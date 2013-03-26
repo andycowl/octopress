@@ -1,5 +1,5 @@
 ---
-date: '2006-01-18 07:38:41'
+date: 2006-01-18 07:38:41
 categories:
     - uncategorised
 title: caution with BA online check-in

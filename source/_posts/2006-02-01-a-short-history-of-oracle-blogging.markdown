@@ -1,5 +1,5 @@
 ---
-date: '2006-02-01 00:02:23'
+date: 2006-02-01 00:02:23
 categories:
     - oracle
 title: a short history of Oracle blogging

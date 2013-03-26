@@ -1,5 +1,5 @@
 ---
-date: '2008-12-27 14:33:19'
+date: 2008-12-27 14:33:19
 categories:
     - uncategorised
 title: blogging statistics

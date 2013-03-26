@@ -1,5 +1,5 @@
 ---
-date: '2007-07-24 07:55:09'
+date: 2007-07-24 07:55:09
 categories:
     - uncategorised
 title: Hook Norton Festival of Fine Ales - 2007

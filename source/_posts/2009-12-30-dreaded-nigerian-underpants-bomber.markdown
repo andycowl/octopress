@@ -1,5 +1,5 @@
 ---
-date: '2009-12-30 09:49:18'
+date: 2009-12-30 09:49:18
 categories:
     - uncategorised
 title: dreaded Nigerian underpants bomber

@@ -1,5 +1,5 @@
 ---
-date: '2007-02-22 01:42:44'
+date: 2007-02-22 01:42:44
 categories:
     - uncategorised
 title: feed overload

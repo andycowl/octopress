@@ -1,5 +1,5 @@
 ---
-date: '2009-08-04 11:58:47'
+date: 2009-08-04 11:58:47
 categories:
     - uncategorised
 title: the month that never was

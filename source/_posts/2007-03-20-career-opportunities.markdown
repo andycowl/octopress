@@ -1,5 +1,5 @@
 ---
-date: '2007-03-20 22:06:32'
+date: 2007-03-20 22:06:32
 categories:
     - uncategorised
 title: career opportunities

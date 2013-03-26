@@ -1,5 +1,5 @@
 ---
-date: '2009-10-26 16:01:44'
+date: 2009-10-26 16:01:44
 categories:
     - uncategorised
 title: death of a Kirby salesman

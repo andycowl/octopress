@@ -1,5 +1,5 @@
 ---
-date: '2006-02-03 19:51:43'
+date: 2006-02-03 19:51:43
 categories:
     - uncategorised
 title: Web based calendars

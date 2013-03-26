@@ -2,7 +2,7 @@
 title: non-stop erotic cabaret
 layout: post
 comments: true
-date: '2007-07-27 18:46:43'
+date: 2007-07-27 18:46:43
 categories:
     - uk
     - humour

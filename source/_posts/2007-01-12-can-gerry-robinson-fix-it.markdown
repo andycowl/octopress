@@ -1,5 +1,5 @@
 ---
-date: '2007-01-12 19:06:22'
+date: 2007-01-12 19:06:22
 categories:
     - uncategorised
 title: can Gerry Robinson fix IT ?

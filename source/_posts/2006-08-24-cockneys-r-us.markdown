@@ -1,5 +1,5 @@
 ---
-date: '2006-08-24 16:18:49'
+date: 2006-08-24 16:18:49
 categories:
     - uncategorised
 title: Cockneys 'R' Us

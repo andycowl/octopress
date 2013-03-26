@@ -1,5 +1,5 @@
 ---
-date: '2006-08-22 17:34:49'
+date: 2006-08-22 17:34:49
 categories:
     - uncategorised
 title: holiday highlights

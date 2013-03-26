@@ -1,5 +1,5 @@
 ---
-date: '2007-10-30 19:30:10'
+date: 2007-10-30 19:30:10
 categories:
     - uncategorised
 title: world's first blogger dies

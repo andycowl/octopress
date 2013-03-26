@@ -1,5 +1,5 @@
 ---
-date: '2008-04-09 13:29:47'
+date: 2008-04-09 13:29:47
 categories:
     - uncategorised
 title: a short conversation with Les Battersby

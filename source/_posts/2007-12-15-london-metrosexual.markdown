@@ -1,5 +1,5 @@
 ---
-date: '2007-12-15 18:37:47'
+date: 2007-12-15 18:37:47
 categories:
     - uncategorised
 title: London Metrosexual

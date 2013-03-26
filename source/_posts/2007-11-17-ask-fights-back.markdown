@@ -1,5 +1,5 @@
 ---
-date: '2007-11-17 04:22:49'
+date: 2007-11-17 04:22:49
 categories:
     - uncategorised
 title: Ask fights back

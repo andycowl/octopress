@@ -1,5 +1,5 @@
 ---
-date: '2006-05-30 22:40:54'
+date: 2006-05-30 22:40:54
 categories:
     - football
 title: 'MUFC > England #2'

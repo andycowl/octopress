@@ -1,5 +1,5 @@
 ---
-date: '2006-04-01 17:07:49'
+date: 2006-04-01 17:07:49
 categories:
     - uncategorised
 title: the innocence of youth

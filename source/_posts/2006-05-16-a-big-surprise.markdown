@@ -2,7 +2,7 @@
 title: a big surprise
 layout: post
 comments: true
-date: '2006-05-16 19:48:44'
+date: 2006-05-16 19:48:44
 categories:
     - uncategorised
 ---

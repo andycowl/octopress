@@ -1,5 +1,5 @@
 ---
-date: '2007-01-01 18:39:39'
+date: 2007-01-01 18:39:39
 categories:
     - uncategorised
 title: New Year resolution

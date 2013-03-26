@@ -1,5 +1,5 @@
 ---
-date: '2010-10-13 10:54:00'
+date: 2010-10-13 10:54:00
 categories:
     - blogging
 title: starting from zero

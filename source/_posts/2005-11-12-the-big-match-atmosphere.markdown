@@ -2,7 +2,7 @@
 title: the big match atmosphere
 layout: post
 comments: true
-date: '2005-11-12 17:56:05'
+date: 2005-11-12 17:56:05
 categories:
     - football
 ---

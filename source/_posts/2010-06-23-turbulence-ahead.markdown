@@ -1,5 +1,5 @@
 ---
-date: '2010-06-23 09:38:55'
+date: 2010-06-23 09:38:55
 categories:
     - uncategorised
 title: turbulence ahead

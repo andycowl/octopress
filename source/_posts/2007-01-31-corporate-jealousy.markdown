@@ -1,5 +1,5 @@
 ---
-date: '2007-01-31 23:19:39'
+date: 2007-01-31 23:19:39
 categories:
     - uncategorised
 title: corporate jealousy

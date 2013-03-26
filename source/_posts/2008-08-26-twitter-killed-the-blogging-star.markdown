@@ -1,5 +1,5 @@
 ---
-date: '2008-08-26 10:42:04'
+date: 2008-08-26 10:42:04
 categories:
     - uncategorised
 title: twitter killed the blogging star

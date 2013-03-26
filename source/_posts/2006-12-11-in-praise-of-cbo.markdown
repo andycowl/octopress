@@ -1,5 +1,5 @@
 ---
-date: '2006-12-11 04:48:57'
+date: 2006-12-11 04:48:57
 categories:
     - oracle
     - siebel

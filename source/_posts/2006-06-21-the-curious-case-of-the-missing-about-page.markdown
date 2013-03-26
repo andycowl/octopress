@@ -1,5 +1,5 @@
 ---
-date: '2006-06-21 14:33:22'
+date: 2006-06-21 14:33:22
 categories:
     - uncategorised
 title: the curious case of the missing 'About' page

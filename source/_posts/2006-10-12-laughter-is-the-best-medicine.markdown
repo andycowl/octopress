@@ -1,5 +1,5 @@
 ---
-date: '2006-10-12 23:35:41'
+date: 2006-10-12 23:35:41
 categories:
     - uncategorised
 title: laughter is the best medicine

@@ -1,5 +1,5 @@
 ---
-date: '2006-11-15 17:58:44'
+date: 2006-11-15 17:58:44
 title: Bluehost upgrade to WordPress 2.0.5
 layout: post
 comments: true

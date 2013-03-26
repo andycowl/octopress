@@ -1,5 +1,5 @@
 ---
-date: '2006-06-30 06:39:36'
+date: 2006-06-30 06:39:36
 categories:
     - uncategorised
 title: Rule is dead, long live Rule

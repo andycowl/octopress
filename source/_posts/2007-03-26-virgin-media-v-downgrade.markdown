@@ -1,5 +1,5 @@
 ---
-date: '2007-03-26 23:07:28'
+date: 2007-03-26 23:07:28
 categories:
     - uncategorised
 title: Virgin Media V-- downgrade

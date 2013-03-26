@@ -1,5 +1,5 @@
 ---
-date: '2007-08-14 05:10:59'
+date: 2007-08-14 05:10:59
 categories:
     - oracle
 title: please welcome Oracle 11g

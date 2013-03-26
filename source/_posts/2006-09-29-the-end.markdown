@@ -1,5 +1,5 @@
 ---
-date: '2006-09-29 09:38:15'
+date: 2006-09-29 09:38:15
 categories:
     - uncategorised
 title: The End

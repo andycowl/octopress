@@ -2,7 +2,7 @@
 title: blog etiquette
 layout: post
 comments: true
-date: '2005-11-10 17:22:30'
+date: 2005-11-10 17:22:30
 categories:
     - blogging
 ---

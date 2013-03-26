@@ -1,5 +1,5 @@
 ---
-date: '2006-08-09 04:44:04'
+date: 2006-08-09 04:44:04
 categories:
     - uncategorised
 title: Metro on UK blogging

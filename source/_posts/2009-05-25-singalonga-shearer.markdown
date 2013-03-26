@@ -1,5 +1,5 @@
 ---
-date: '2009-05-25 17:09:08'
+date: 2009-05-25 17:09:08
 categories:
     - uncategorised
 title: singalonga Shearer

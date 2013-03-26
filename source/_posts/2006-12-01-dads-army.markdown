@@ -1,5 +1,5 @@
 ---
-date: '2006-12-01 20:28:36'
+date: 2006-12-01 20:28:36
 categories:
     - uncategorised
 title: Dad's Army

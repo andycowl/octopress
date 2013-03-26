@@ -1,5 +1,5 @@
 ---
-date: '2011-07-21 09:23:58'
+date: 2011-07-21 09:23:58
 description: humour on BBC breakfast
 categories:
     - uk

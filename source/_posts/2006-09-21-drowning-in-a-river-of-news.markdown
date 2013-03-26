@@ -1,5 +1,5 @@
 ---
-date: '2006-09-21 06:29:02'
+date: 2006-09-21 06:29:02
 categories:
     - software
     - rss

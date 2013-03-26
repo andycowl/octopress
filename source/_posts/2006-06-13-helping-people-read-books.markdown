@@ -1,5 +1,5 @@
 ---
-date: '2006-06-13 04:35:59'
+date: 2006-06-13 04:35:59
 categories:
     - uncategorised
 title: helping people read books

@@ -2,7 +2,7 @@
 title: Resurrection of a gadget
 layout: post
 comments: true
-date: '2005-11-07 17:10:59'
+date: 2005-11-07 17:10:59
 categories:
     - uncategorised
 ---

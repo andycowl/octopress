@@ -1,5 +1,5 @@
 ---
-date: '2006-08-09 07:28:34'
+date: 2006-08-09 07:28:34
 categories:
     - uncategorised
 title: least popular blogging platforms

@@ -2,7 +2,7 @@
 title: urban artist
 layout: post
 comments: true
-date: '2010-08-06 11:25:00'
+date: 2010-08-06 11:25:00
 categories:
     - uk
 ---

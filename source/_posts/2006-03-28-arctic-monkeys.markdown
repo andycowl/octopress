@@ -1,5 +1,5 @@
 ---
-date: '2006-03-28 06:44:21'
+date: 2006-03-28 06:44:21
 categories:
     - uncategorised
 title: Arctic Monkeys

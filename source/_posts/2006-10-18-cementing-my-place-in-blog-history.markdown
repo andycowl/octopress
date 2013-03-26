@@ -1,5 +1,5 @@
 ---
-date: '2006-10-18 05:09:37'
+date: 2006-10-18 05:09:37
 categories:
     - uncategorised
 title: cementing my place in blog history

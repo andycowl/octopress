@@ -1,5 +1,5 @@
 ---
-date: '2007-05-15 06:31:51'
+date: 2007-05-15 06:31:51
 categories:
     - uncategorised
 title: Darwin Awards nominee

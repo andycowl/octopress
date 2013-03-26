@@ -1,5 +1,5 @@
 ---
-date: '2006-10-15 18:27:13'
+date: 2006-10-15 18:27:13
 categories:
     - uncategorised
 title: success with Firefox 2.0 RC3

@@ -1,5 +1,5 @@
 ---
-date: '2007-04-26 22:18:44'
+date: 2007-04-26 22:18:44
 categories:
     - uncategorised
 title: another legal battle

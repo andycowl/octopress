@@ -1,5 +1,5 @@
 ---
-date: '2008-11-20 09:31:34'
+date: 2008-11-20 09:31:34
 categories:
     - uncategorised
 title: has your company got a Community Manager ?

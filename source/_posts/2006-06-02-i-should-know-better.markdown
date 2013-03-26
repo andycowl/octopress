@@ -1,5 +1,5 @@
 ---
-date: '2006-06-02 05:40:52'
+date: 2006-06-02 05:40:52
 categories:
     - uncategorised
 title: I should know better

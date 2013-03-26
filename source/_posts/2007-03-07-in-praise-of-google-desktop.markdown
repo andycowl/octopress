@@ -1,5 +1,5 @@
 ---
-date: '2007-03-07 22:08:14'
+date: 2007-03-07 22:08:14
 categories:
     - uncategorised
 title: in praise of Google Desktop

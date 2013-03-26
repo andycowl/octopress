@@ -1,5 +1,5 @@
 ---
-date: '2007-03-28 10:46:01'
+date: 2007-03-28 10:46:01
 categories:
     - google
     - yahoo

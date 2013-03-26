@@ -1,5 +1,5 @@
 ---
-date: '2010-06-08 10:31:53'
+date: 2010-06-08 10:31:53
 categories:
     - uncategorised
 title: Wayne Rooney's World Cup diary

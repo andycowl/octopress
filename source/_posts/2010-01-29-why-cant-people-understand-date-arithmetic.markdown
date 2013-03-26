@@ -1,5 +1,5 @@
 ---
-date: '2010-01-29 14:53:11'
+date: 2010-01-29 14:53:11
 categories:
     - uncategorised
 title: why can't people understand date arithmetic ?

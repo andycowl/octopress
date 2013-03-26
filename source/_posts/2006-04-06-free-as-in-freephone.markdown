@@ -1,5 +1,5 @@
 ---
-date: '2006-04-06 17:20:46'
+date: 2006-04-06 17:20:46
 categories:
     - uncategorised
 title: free as in FreePhone

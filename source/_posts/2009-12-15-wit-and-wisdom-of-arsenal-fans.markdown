@@ -1,5 +1,5 @@
 ---
-date: '2009-12-15 12:54:00'
+date: 2009-12-15 12:54:00
 categories:
     - uncategorised
 title: wit and wisdom of Arsenal fans

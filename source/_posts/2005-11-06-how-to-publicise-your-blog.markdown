@@ -2,7 +2,7 @@
 title: How to publicise your blog
 layout: post
 comments: true
-date: '2005-11-06 19:01:44'
+date: 2005-11-06 19:01:44
 categories:
     - blogging
 ---

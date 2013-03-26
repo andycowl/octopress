@@ -1,5 +1,5 @@
 ---
-date: '2006-01-17 21:49:56'
+date: 2006-01-17 21:49:56
 categories:
     - uk
 title: revenge of the BAA queue monitor

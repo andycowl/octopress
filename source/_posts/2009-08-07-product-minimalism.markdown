@@ -1,5 +1,5 @@
 ---
-date: '2009-08-07 09:38:50'
+date: 2009-08-07 09:38:50
 categories:
     - uncategorised
 title: product minimalism

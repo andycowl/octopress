@@ -1,5 +1,5 @@
 ---
-date: '2006-02-20 21:56:23'
+date: 2006-02-20 21:56:23
 categories:
     - uncategorised
 title: introduction to ETL for Oracle

@@ -1,5 +1,5 @@
 ---
-date: '2005-12-01 14:54:19'
+date: 2005-12-01 14:54:19
 title: separated at birth
 layout: post
 comments: true

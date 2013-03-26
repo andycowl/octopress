@@ -1,6 +1,6 @@
 ---
 layout: post
-date: '2007-11-12 06:39:55'
+date: 2007-11-12 06:39:55
 categories:
     - oracle
 title: Oracle Open Underworld

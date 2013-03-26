@@ -1,5 +1,5 @@
 ---
-date: '2007-02-06 05:54:59'
+date: 2007-02-06 05:54:59
 categories:
     - uncategorised
 title: porting Drupal to Oracle and DB2

@@ -1,5 +1,5 @@
 ---
-date: '2007-05-08 16:19:58'
+date: 2007-05-08 16:19:58
 categories:
     - uncategorised
 title: MUFC - Champions

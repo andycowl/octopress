@@ -1,5 +1,5 @@
 ---
-date: '2006-03-16 17:24:26'
+date: 2006-03-16 17:24:26
 title: Ciddy getting giddy
 layout: post
 comments: true

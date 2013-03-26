@@ -1,5 +1,5 @@
 ---
-date: '2006-09-27 07:49:54'
+date: 2006-09-27 07:49:54
 title: The Wonderful and Frightening World of Mark E. Smith
 layout: post
 comments: true

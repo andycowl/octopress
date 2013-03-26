@@ -1,5 +1,5 @@
 ---
-date: '2009-10-10 14:58:42'
+date: 2009-10-10 14:58:42
 categories:
     - music
     - software

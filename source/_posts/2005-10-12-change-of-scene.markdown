@@ -2,7 +2,7 @@
 title: change of scene
 layout: post
 comments: true
-date: '2005-10-12 00:12:15'
+date: 2005-10-12 00:12:15
 categories:
     - blogging
 ---

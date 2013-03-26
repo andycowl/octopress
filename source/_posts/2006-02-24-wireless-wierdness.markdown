@@ -1,5 +1,5 @@
 ---
-date: '2006-02-24 15:11:07'
+date: 2006-02-24 15:11:07
 categories:
     - uncategorised
 title: wireless wierdness

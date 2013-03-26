@@ -1,5 +1,5 @@
 ---
-date: '2006-05-02 23:08:30'
+date: 2006-05-02 23:08:30
 categories:
     - uncategorised
 title: SonicStage 3.4 released

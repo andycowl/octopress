@@ -1,5 +1,5 @@
 ---
-date: '2006-09-28 06:48:41'
+date: 2006-09-28 06:48:41
 categories:
     - google
 title: Google Reader gets revamp

@@ -1,5 +1,5 @@
 ---
-date: '2006-01-26 19:14:35'
+date: 2006-01-26 19:14:35
 categories:
     - uncategorised
 title: resisting the lure of Joomla

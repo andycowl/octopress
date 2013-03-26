@@ -1,5 +1,5 @@
 ---
-date: '2007-06-19 05:25:16'
+date: 2007-06-19 05:25:16
 categories:
     - uncategorised
 title: the King is dead, long live the King

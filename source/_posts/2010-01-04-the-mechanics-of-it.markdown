@@ -1,5 +1,5 @@
 ---
-date: '2010-01-04 09:13:45'
+date: 2010-01-04 09:13:45
 categories:
     - uncategorised
 title: the mechanics of IT

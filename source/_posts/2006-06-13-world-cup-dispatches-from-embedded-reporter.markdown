@@ -1,5 +1,5 @@
 ---
-date: '2006-06-13 05:42:54'
+date: 2006-06-13 05:42:54
 categories:
     - uncategorised
 title: World Cup dispatches from embedded reporter

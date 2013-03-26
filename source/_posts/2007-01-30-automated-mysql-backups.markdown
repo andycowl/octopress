@@ -1,5 +1,5 @@
 ---
-date: '2007-01-30 22:25:35'
+date: 2007-01-30 22:25:35
 categories:
     - uncategorised
 title: automated MySQL backups

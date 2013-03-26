@@ -1,5 +1,5 @@
 ---
-date: '2007-02-27 19:26:54'
+date: 2007-02-27 19:26:54
 categories:
     - uncategorised
 title: not dead, just resting

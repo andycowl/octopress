@@ -1,5 +1,5 @@
 ---
-date: '2007-11-16 09:47:25'
+date: 2007-11-16 09:47:25
 categories:
     - uncategorised
 title: SezWho comment ratings system

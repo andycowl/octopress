@@ -1,5 +1,5 @@
 ---
-date: '2007-06-12 03:49:00'
+date: 2007-06-12 03:49:00
 categories:
     - uncategorised
 title: Safari browser available for Windows

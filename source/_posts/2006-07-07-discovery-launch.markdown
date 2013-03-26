@@ -1,5 +1,5 @@
 ---
-date: '2006-07-07 15:36:09'
+date: 2006-07-07 15:36:09
 categories:
     - uncategorised
 title: Discovery launch

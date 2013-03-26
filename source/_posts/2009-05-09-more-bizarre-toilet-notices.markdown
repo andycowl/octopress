@@ -1,5 +1,5 @@
 ---
-date: '2009-05-09 15:55:09'
+date: 2009-05-09 15:55:09
 categories:
     - uncategorised
 title: more bizarre toilet notices

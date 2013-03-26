@@ -1,5 +1,5 @@
 ---
-date: '2008-01-22 09:13:29'
+date: 2008-01-22 09:13:29
 categories:
     - uk
 title: London Heathrow incident

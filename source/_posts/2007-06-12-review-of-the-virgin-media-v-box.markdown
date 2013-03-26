@@ -1,5 +1,5 @@
 ---
-date: '2007-06-12 21:22:48'
+date: 2007-06-12 21:22:48
 categories:
     - uncategorised
 title: review of the Virgin Media V+ box

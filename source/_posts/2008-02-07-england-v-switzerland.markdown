@@ -1,5 +1,5 @@
 ---
-date: '2008-02-07 17:20:21'
+date: 2008-02-07 17:20:21
 categories:
     - uncategorised
 title: England v Switzerland

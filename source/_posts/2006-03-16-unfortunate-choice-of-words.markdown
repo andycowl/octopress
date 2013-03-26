@@ -1,5 +1,5 @@
 ---
-date: '2006-03-16 17:54:21'
+date: 2006-03-16 17:54:21
 categories:
     - uncategorised
 title: unfortunate choice of words

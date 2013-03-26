@@ -1,5 +1,5 @@
 ---
-date: '2007-10-30 20:33:39'
+date: 2007-10-30 20:33:39
 categories:
     - uncategorised
 title: Gerry and Kate McCann - an apology

@@ -1,5 +1,5 @@
 ---
-date: '2010-03-10 12:43:22'
+date: 2010-03-10 12:43:22
 categories:
     - uncategorised
 title: the most embarrassing night of my life

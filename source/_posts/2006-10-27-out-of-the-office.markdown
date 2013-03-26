@@ -1,5 +1,5 @@
 ---
-date: '2006-10-27 07:44:43'
+date: 2006-10-27 07:44:43
 categories:
     - uncategorised
 title: out of the office

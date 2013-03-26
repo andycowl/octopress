@@ -2,7 +2,7 @@
 title: CRM - Royal Mail style
 layout: post
 comments: true
-date: '2011-01-02 16:22:00'
+date: 2011-01-02 16:22:00
 categories:
     - crm
     - uk

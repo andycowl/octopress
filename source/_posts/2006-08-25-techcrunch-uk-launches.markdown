@@ -1,5 +1,5 @@
 ---
-date: '2006-08-25 04:10:10'
+date: 2006-08-25 04:10:10
 categories:
     - uncategorised
 title: TechCrunch (UK) launches

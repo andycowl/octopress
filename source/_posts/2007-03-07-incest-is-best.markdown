@@ -1,5 +1,5 @@
 ---
-date: '2007-03-07 23:31:16'
+date: 2007-03-07 23:31:16
 categories:
     - uncategorised
 title: incest is best

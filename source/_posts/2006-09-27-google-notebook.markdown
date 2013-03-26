@@ -1,5 +1,5 @@
 ---
-date: '2006-09-27 07:01:23'
+date: 2006-09-27 07:01:23
 categories:
     - uncategorised
 title: Google Notebook

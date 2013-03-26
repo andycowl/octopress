@@ -1,5 +1,5 @@
 ---
-date: '2007-01-06 19:43:21'
+date: 2007-01-06 19:43:21
 categories:
     - uncategorised
 title: Google Reader adds stats on RSS habits

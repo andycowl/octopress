@@ -1,5 +1,5 @@
 ---
-date: '2006-08-07 21:46:27'
+date: 2006-08-07 21:46:27
 categories:
     - uk
 title: Hotel Inspector

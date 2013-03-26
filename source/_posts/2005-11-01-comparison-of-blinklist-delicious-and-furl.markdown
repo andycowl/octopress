@@ -1,5 +1,5 @@
 ---
-date: '2005-11-01 00:45:33'
+date: 2005-11-01 00:45:33
 categories:
     - software
 title: comparison of Blinklist, del.icio.us and Furl

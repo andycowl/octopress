@@ -1,5 +1,5 @@
 ---
-date: '2006-07-03 17:14:10'
+date: 2006-07-03 17:14:10
 categories:
     - uncategorised
 title: Nanny state

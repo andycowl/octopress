@@ -1,5 +1,5 @@
 ---
-date: '2006-06-09 01:56:35'
+date: 2006-06-09 01:56:35
 categories:
     - uncategorised
 title: Blogger down

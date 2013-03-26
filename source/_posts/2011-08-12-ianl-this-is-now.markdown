@@ -2,7 +2,7 @@
 title: I Am Not Left Handed - This Is Now
 layout: post
 comments: true
-date: '2011-08-12 12:20:27'
+date: 2011-08-12 12:20:27
 categories:
     - music
 ---

@@ -1,5 +1,5 @@
 ---
-date: '2006-10-27 02:56:06'
+date: 2006-10-27 02:56:06
 categories:
     - uncategorised
 title: things that surprise you

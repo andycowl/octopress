@@ -1,5 +1,5 @@
 ---
-date: '2008-06-24 08:19:16'
+date: 2008-06-24 08:19:16
 categories:
     - uncategorised
 title: in praise of Frank Dancevic

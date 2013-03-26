@@ -2,7 +2,7 @@
 title: sit back and watch the money roll in
 layout: post
 comments: true
-date: '2007-05-23 07:35:12'
+date: 2007-05-23 07:35:12
 categories:
     - blogging
     - humour

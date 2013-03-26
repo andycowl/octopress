@@ -1,5 +1,5 @@
 ---
-date: '2007-01-06 21:01:35'
+date: 2007-01-06 21:01:35
 categories:
     - uncategorised
 title: traffic report

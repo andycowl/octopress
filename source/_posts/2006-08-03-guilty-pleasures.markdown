@@ -1,5 +1,5 @@
 ---
-date: '2006-08-03 03:38:50'
+date: 2006-08-03 03:38:50
 categories:
     - uncategorised
 title: Guilty Pleasures

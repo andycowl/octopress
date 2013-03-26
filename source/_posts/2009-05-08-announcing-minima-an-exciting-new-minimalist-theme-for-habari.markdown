@@ -1,5 +1,5 @@
 ---
-date: '2009-05-08 10:08:06'
+date: 2009-05-08 10:08:06
 categories:
     - uncategorised
 title: announcing Minima - an exciting, new minimalist theme for Habari

@@ -1,5 +1,5 @@
 ---
-date: '2009-08-07 09:06:48'
+date: 2009-08-07 09:06:48
 categories:
     - uncategorised
 title: the other side of Aboriginal culture

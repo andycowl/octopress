@@ -1,5 +1,5 @@
 ---
-date: '2007-10-08 16:23:43'
+date: 2007-10-08 16:23:43
 categories:
     - football
 title: Arsenal v Sunderland

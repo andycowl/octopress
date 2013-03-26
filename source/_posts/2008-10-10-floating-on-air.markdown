@@ -1,5 +1,5 @@
 ---
-date: '2008-10-10 15:18:23'
+date: 2008-10-10 15:18:23
 categories:
     - uncategorised
 title: floating on air

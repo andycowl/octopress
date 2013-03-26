@@ -1,5 +1,5 @@
 ---
-date: '2005-12-16 18:01:41'
+date: 2005-12-16 18:01:41
 title: RSS feeds from the BBC
 layout: post
 comments: true

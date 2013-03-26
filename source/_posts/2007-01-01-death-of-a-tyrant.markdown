@@ -1,5 +1,5 @@
 ---
-date: '2007-01-01 15:18:30'
+date: 2007-01-01 15:18:30
 categories:
     - uncategorised
 title: death of a tyrant

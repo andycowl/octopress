@@ -1,5 +1,5 @@
 ---
-date: '2006-05-02 23:24:56'
+date: 2006-05-02 23:24:56
 categories:
     - uncategorised
 title: further afield

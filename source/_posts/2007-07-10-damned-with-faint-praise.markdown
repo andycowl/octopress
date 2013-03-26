@@ -1,5 +1,5 @@
 ---
-date: '2007-07-10 21:57:59'
+date: 2007-07-10 21:57:59
 categories:
     - uncategorised
 title: damned with faint praise

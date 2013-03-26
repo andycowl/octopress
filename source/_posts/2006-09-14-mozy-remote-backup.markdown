@@ -1,5 +1,5 @@
 ---
-date: '2006-09-14 20:46:47'
+date: 2006-09-14 20:46:47
 categories:
     - software
 title: Mozy - remote backup

@@ -1,5 +1,5 @@
 ---
-date: '2006-10-09 17:36:01'
+date: 2006-10-09 17:36:01
 categories:
     - uncategorised
 title: Drupal supports Oracle database

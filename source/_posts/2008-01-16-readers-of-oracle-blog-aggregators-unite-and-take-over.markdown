@@ -1,6 +1,6 @@
 ---
 layout: post
-date: '2008-01-16 06:33:46'
+date: 2008-01-16 06:33:46
 categories:
     - oracle
 title: readers of Oracle blog aggregators unite (and take over)

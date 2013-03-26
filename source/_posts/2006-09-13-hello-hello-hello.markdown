@@ -1,5 +1,5 @@
 ---
-date: '2006-09-13 14:54:20'
+date: 2006-09-13 14:54:20
 categories:
     - uncategorised
 title: hello, hello, hello

@@ -1,5 +1,5 @@
 ---
-date: '2007-09-17 18:59:33'
+date: 2007-09-17 18:59:33
 categories:
     - uncategorised
 title: a rush of blood

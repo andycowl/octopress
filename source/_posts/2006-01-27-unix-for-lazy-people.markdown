@@ -1,5 +1,5 @@
 ---
-date: '2006-01-27 17:02:39'
+date: 2006-01-27 17:02:39
 categories:
     - uncategorised
 title: Unix for lazy people

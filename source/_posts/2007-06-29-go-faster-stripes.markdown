@@ -1,5 +1,5 @@
 ---
-date: '2007-06-29 09:22:12'
+date: 2007-06-29 09:22:12
 categories:
     - uncategorised
 title: go faster stripes

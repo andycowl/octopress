@@ -1,5 +1,5 @@
 ---
-date: '2006-04-20 06:34:30'
+date: 2006-04-20 06:34:30
 categories:
     - uncategorised
 title: HTML > blog

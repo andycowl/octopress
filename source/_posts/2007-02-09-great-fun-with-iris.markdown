@@ -1,5 +1,5 @@
 ---
-date: '2007-02-09 16:52:10'
+date: 2007-02-09 16:52:10
 categories:
     - uncategorised
 title: great fun with Iris

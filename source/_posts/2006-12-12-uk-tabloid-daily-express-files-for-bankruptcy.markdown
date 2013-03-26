@@ -1,5 +1,5 @@
 ---
-date: '2006-12-12 10:28:22'
+date: 2006-12-12 10:28:22
 categories:
     - uncategorised
 title: UK tabloid Daily Express files for bankruptcy

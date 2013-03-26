@@ -1,5 +1,5 @@
 ---
-date: '2006-07-05 14:12:04'
+date: 2006-07-05 14:12:04
 categories:
     - uncategorised
 title: Forza Italia !

@@ -1,5 +1,5 @@
 ---
-date: '2006-06-09 19:04:37'
+date: 2006-06-09 19:04:37
 categories:
     - uncategorised
 title: worry ye not

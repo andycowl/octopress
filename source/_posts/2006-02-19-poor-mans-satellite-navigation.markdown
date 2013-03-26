@@ -1,5 +1,5 @@
 ---
-date: '2006-02-19 22:23:47'
+date: 2006-02-19 22:23:47
 categories:
     - uncategorised
 title: poor man's satellite navigation

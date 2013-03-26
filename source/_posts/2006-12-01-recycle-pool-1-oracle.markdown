@@ -1,5 +1,5 @@
 ---
-date: '2006-12-01 19:16:22'
+date: 2006-12-01 19:16:22
 categories:
     - uncategorised
 title: 'recycle pool #1: Oracle '

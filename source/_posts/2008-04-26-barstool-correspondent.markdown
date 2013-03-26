@@ -1,5 +1,5 @@
 ---
-date: '2008-04-26 14:59:04'
+date: 2008-04-26 14:59:04
 categories:
     - football
 title: barstool correspondent

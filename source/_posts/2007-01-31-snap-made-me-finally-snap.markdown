@@ -1,5 +1,5 @@
 ---
-date: '2007-01-31 21:14:40'
+date: 2007-01-31 21:14:40
 categories:
     - uncategorised
 title: Snap made me finally snap

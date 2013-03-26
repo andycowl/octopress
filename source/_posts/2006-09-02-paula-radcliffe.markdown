@@ -1,5 +1,5 @@
 ---
-date: '2006-09-02 16:40:24'
+date: 2006-09-02 16:40:24
 categories:
     - uncategorised
 title: Paula Radcliffe

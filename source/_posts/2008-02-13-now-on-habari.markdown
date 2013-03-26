@@ -1,5 +1,5 @@
 ---
-date: '2008-02-13 15:08:35'
+date: 2008-02-13 15:08:35
 categories:
     - uncategorised
 title: now on Habari

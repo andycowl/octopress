@@ -1,5 +1,5 @@
 ---
-date: '2007-03-05 11:32:49'
+date: 2007-03-05 11:32:49
 categories:
     - uncategorised
 title: rolling upgrade

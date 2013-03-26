@@ -1,5 +1,5 @@
 ---
-date: '2007-11-20 23:44:34'
+date: 2007-11-20 23:44:34
 categories:
     - uncategorised
 title: comparison of coComment, co.comments and commentful

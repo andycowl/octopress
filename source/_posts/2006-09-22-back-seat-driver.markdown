@@ -1,5 +1,5 @@
 ---
-date: '2006-09-22 04:52:57'
+date: 2006-09-22 04:52:57
 categories:
     - uncategorised
 title: back seat driver

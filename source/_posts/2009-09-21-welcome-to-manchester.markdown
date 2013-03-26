@@ -1,5 +1,5 @@
 ---
-date: '2009-09-21 09:06:09'
+date: 2009-09-21 09:06:09
 categories:
     - uncategorised
 title: Welcome to Manchester

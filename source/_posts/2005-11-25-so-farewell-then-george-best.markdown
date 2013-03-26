@@ -1,5 +1,5 @@
 ---
-date: '2005-11-25 20:14:26'
+date: 2005-11-25 20:14:26
 categories:
     - football
 title: so farewell then, George Best

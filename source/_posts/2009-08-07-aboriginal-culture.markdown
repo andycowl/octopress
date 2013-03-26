@@ -1,5 +1,5 @@
 ---
-date: '2009-08-07 08:44:55'
+date: 2009-08-07 08:44:55
 categories:
     - travel
 title: Aboriginal culture

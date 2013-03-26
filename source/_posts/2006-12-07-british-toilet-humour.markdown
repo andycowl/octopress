@@ -1,5 +1,5 @@
 ---
-date: '2006-12-07 16:38:13'
+date: 2006-12-07 16:38:13
 categories:
     - uncategorised
 title: British toilet humour

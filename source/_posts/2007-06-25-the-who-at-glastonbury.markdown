@@ -1,5 +1,5 @@
 ---
-date: '2007-06-25 15:08:03'
+date: 2007-06-25 15:08:03
 categories:
     - uncategorised
 title: The Who at Glastonbury

@@ -2,7 +2,7 @@
 title: Solihull to Amsterdam via London
 layout: post
 comments: true
-date: '2007-11-09 04:50:49'
+date: 2007-11-09 04:50:49
 categories:
     - uk
     - travel

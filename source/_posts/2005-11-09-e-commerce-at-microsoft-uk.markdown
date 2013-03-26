@@ -2,7 +2,7 @@
 title: E-commerce at Microsoft (UK)
 layout: post
 comments: true
-date: '2005-11-09 17:56:07'
+date: 2005-11-09 17:56:07
 categories:
     - crm
     - microsoft

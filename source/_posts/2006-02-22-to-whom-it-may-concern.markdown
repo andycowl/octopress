@@ -1,5 +1,5 @@
 ---
-date: '2006-02-22 01:12:05'
+date: 2006-02-22 01:12:05
 categories:
     - uncategorised
 title: to whom it may concern

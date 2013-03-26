@@ -1,5 +1,5 @@
 ---
-date: '2010-10-18 14:04:00'
+date: 2010-10-18 14:04:00
 categories:
     - linux
 title: a year with Linux

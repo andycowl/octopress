@@ -1,5 +1,5 @@
 ---
-date: '2007-10-03 16:52:31'
+date: 2007-10-03 16:52:31
 categories:
     - uncategorised
 title: charitable works

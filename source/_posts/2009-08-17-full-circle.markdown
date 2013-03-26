@@ -1,5 +1,5 @@
 ---
-date: '2009-08-17 09:04:27'
+date: 2009-08-17 09:04:27
 categories:
     - uncategorised
 title: full circle

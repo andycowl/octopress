@@ -1,5 +1,5 @@
 ---
-date: '2007-06-01 20:01:02'
+date: 2007-06-01 20:01:02
 categories:
     - humour
     - siebel

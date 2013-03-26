@@ -1,5 +1,5 @@
 ---
-date: '2010-07-16 09:54:00'
+date: 2010-07-16 09:54:00
 categories:
     - uk
 title: complaint to Ofcom

@@ -1,5 +1,5 @@
 ---
-date: '2007-03-02 16:21:27'
+date: 2007-03-02 16:21:27
 categories:
     - uncategorised
 title: lost without 'Lost'

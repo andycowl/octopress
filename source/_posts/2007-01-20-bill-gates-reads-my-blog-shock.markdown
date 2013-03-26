@@ -1,5 +1,5 @@
 ---
-date: '2007-01-20 00:58:22'
+date: 2007-01-20 00:58:22
 categories:
     - uncategorised
 title: Bill Gates reads my blog shock !

@@ -1,5 +1,5 @@
 ---
-date: '2010-02-18 11:26:11'
+date: 2010-02-18 11:26:11
 categories:
     - uncategorised
 title: HDIA day declared

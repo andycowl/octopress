@@ -1,5 +1,5 @@
 ---
-date: '2006-06-28 04:52:47'
+date: 2006-06-28 04:52:47
 categories:
     - music
 title: probably the most underrated band ever

@@ -1,5 +1,5 @@
 ---
-date: '2007-06-12 21:44:30'
+date: 2007-06-12 21:44:30
 categories:
     - uncategorised
 title: Adsense update

@@ -1,5 +1,5 @@
 ---
-date: '2007-04-20 22:04:40'
+date: 2007-04-20 22:04:40
 categories:
     - software
 title: something for the weekend, Sir

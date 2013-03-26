@@ -1,5 +1,5 @@
 ---
-date: '2005-12-06 22:26:51'
+date: 2005-12-06 22:26:51
 categories:
     - humour
     - podcast

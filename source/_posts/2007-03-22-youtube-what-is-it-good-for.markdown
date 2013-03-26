@@ -2,7 +2,7 @@
 title: YouTube - what is it good for ?
 layout: post
 comments: true
-date: '2007-03-22 07:09:27'
+date: 2007-03-22 07:09:27
 categories:
     - uncategorised
 ---

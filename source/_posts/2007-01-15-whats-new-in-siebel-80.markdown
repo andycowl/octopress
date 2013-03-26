@@ -1,5 +1,5 @@
 ---
-date: '2007-01-15 04:22:19'
+date: 2007-01-15 04:22:19
 categories:
     - uncategorised
 title: what's new in Siebel 8.0

@@ -1,5 +1,5 @@
 ---
-date: '2008-04-19 17:43:19'
+date: 2008-04-19 17:43:19
 categories:
     - uncategorised
 title: The Story of The Who

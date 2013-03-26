@@ -1,5 +1,5 @@
 ---
-date: '2010-09-17 08:39:00'
+date: 2010-09-17 08:39:00
 categories:
     - uk
 title: innocence of youth

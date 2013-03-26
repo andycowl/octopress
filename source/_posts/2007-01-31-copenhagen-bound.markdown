@@ -1,5 +1,5 @@
 ---
-date: '2007-01-31 20:42:19'
+date: 2007-01-31 20:42:19
 categories:
     - uncategorised
 title: Copenhagen bound

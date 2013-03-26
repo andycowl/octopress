@@ -1,5 +1,5 @@
 ---
-date: '2006-06-19 23:16:20'
+date: 2006-06-19 23:16:20
 categories:
     - uncategorised
 title: born of frustration

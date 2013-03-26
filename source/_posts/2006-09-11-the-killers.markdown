@@ -1,5 +1,5 @@
 ---
-date: '2006-09-11 15:38:11'
+date: 2006-09-11 15:38:11
 title: The Killers
 layout: post
 comments: true

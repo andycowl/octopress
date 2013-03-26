@@ -1,5 +1,5 @@
 ---
-date: '2009-08-23 09:13:34'
+date: 2009-08-23 09:13:34
 categories:
     - google
 title: where's your Google Shared Items ?

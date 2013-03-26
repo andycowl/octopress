@@ -1,5 +1,5 @@
 ---
-date: '2007-05-04 23:45:36'
+date: 2007-05-04 23:45:36
 categories:
     - uncategorised
 title: Top 10 Keywords

@@ -1,5 +1,5 @@
 ---
-date: '2006-03-30 08:30:02'
+date: 2006-03-30 08:30:02
 categories:
     - uncategorised
 title: chaos on the streets on Newcastle

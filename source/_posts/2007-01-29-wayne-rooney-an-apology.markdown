@@ -1,5 +1,5 @@
 ---
-date: '2007-01-29 15:20:02'
+date: 2007-01-29 15:20:02
 categories:
     - football
 title: Wayne Rooney - an apology

@@ -1,5 +1,5 @@
 ---
-date: '2007-07-25 06:42:06'
+date: 2007-07-25 06:42:06
 categories:
     - oracle
     - google

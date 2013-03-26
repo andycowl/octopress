@@ -1,5 +1,5 @@
 ---
-date: '2007-07-10 18:46:42'
+date: 2007-07-10 18:46:42
 categories:
     - uncategorised
 title: out with the old, in with the new

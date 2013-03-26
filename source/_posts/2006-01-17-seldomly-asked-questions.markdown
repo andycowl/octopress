@@ -1,5 +1,5 @@
 ---
-date: '2006-01-17 06:39:56'
+date: 2006-01-17 06:39:56
 categories:
     - uncategorised
 title: seldomly asked questions

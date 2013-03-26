@@ -1,5 +1,5 @@
 ---
-date: '2006-09-03 15:58:01'
+date: 2006-09-03 15:58:01
 categories:
     - uncategorised
 title: a short history of digital photography

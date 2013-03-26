@@ -1,5 +1,5 @@
 ---
-date: '2007-03-07 23:03:11'
+date: 2007-03-07 23:03:11
 categories:
     - uncategorised
 title: rapid fire service from Dell

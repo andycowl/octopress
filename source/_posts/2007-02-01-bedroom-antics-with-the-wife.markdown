@@ -1,5 +1,5 @@
 ---
-date: '2007-02-01 17:26:37'
+date: 2007-02-01 17:26:37
 categories:
     - uncategorised
 title: bedroom antics with the wife

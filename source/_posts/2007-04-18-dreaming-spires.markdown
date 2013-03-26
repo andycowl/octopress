@@ -1,5 +1,5 @@
 ---
-date: '2007-04-18 06:52:56'
+date: 2007-04-18 06:52:56
 categories:
     - uncategorised
 title: dreaming spires

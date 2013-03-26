@@ -2,7 +2,7 @@
 title: social bookmarking with Furl
 layout: post
 comments: true
-date: '2005-10-08 17:09:00'
+date: 2005-10-08 17:09:00
 categories:
     - software
 ---

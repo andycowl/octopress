@@ -1,5 +1,5 @@
 ---
-date: '2010-01-20 16:09:33'
+date: 2010-01-20 16:09:33
 categories:
     - blogging
 title: fun with keywords

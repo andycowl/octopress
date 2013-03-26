@@ -1,5 +1,5 @@
 ---
-date: '2006-05-11 13:05:37'
+date: 2006-05-11 13:05:37
 categories:
     - uncategorised
 title: standing at the urinals

@@ -1,5 +1,5 @@
 ---
-date: '2009-08-06 10:29:58'
+date: 2009-08-06 10:29:58
 categories:
     - uncategorised
 title: Why JS-Kit and Echo is doomed

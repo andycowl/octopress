@@ -1,5 +1,5 @@
 ---
-date: '2006-01-31 18:59:38'
+date: 2006-01-31 18:59:38
 categories:
     - uncategorised
 title: finally succumbed

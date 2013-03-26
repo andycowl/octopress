@@ -1,5 +1,5 @@
 ---
-date: '2006-11-01 16:11:09'
+date: 2006-11-01 16:11:09
 categories:
     - uncategorised
 title: Trick or treat

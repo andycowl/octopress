@@ -1,5 +1,5 @@
 ---
-date: '2006-02-06 17:29:20'
+date: 2006-02-06 17:29:20
 categories:
     - uncategorised
 title: new homework excuse

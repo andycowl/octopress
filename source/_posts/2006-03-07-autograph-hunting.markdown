@@ -1,5 +1,5 @@
 ---
-date: '2006-03-07 04:32:58'
+date: 2006-03-07 04:32:58
 categories:
     - uncategorised
 title: autograph hunting

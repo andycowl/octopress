@@ -1,5 +1,5 @@
 ---
-date: '2006-09-14 23:13:28'
+date: 2006-09-14 23:13:28
 categories:
     - uncategorised
 title: sync, sync, sync

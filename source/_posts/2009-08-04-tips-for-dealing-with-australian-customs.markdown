@@ -1,5 +1,5 @@
 ---
-date: '2009-08-04 17:55:26'
+date: 2009-08-04 17:55:26
 categories:
     - uncategorised
 title: tips for dealing with Australian customs

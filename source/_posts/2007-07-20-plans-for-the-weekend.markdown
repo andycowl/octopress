@@ -1,5 +1,5 @@
 ---
-date: '2007-07-20 22:07:24'
+date: 2007-07-20 22:07:24
 categories:
     - uncategorised
 title: plans for the weekend

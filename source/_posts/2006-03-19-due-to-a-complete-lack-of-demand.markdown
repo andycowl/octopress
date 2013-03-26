@@ -1,5 +1,5 @@
 ---
-date: '2006-03-19 19:06:20'
+date: 2006-03-19 19:06:20
 categories:
     - uncategorised
 title: Due to a complete lack of demand

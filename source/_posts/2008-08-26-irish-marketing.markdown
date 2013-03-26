@@ -1,5 +1,5 @@
 ---
-date: '2008-08-26 10:12:22'
+date: 2008-08-26 10:12:22
 categories:
     - uncategorised
 title: Irish marketing

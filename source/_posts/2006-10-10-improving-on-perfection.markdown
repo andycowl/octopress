@@ -1,5 +1,5 @@
 ---
-date: '2006-10-10 04:17:59'
+date: 2006-10-10 04:17:59
 categories:
     - wordpress
 title: improving on perfection

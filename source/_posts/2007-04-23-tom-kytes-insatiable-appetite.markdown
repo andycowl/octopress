@@ -1,5 +1,5 @@
 ---
-date: '2007-04-23 19:54:52'
+date: 2007-04-23 19:54:52
 categories:
     - uncategorised
 title: Tom Kyte's insatiable appetite

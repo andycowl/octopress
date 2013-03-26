@@ -1,5 +1,5 @@
 ---
-date: '2005-12-21 07:40:41'
+date: 2005-12-21 07:40:41
 categories:
     - blogging
 title: detailed analysis of referer logs

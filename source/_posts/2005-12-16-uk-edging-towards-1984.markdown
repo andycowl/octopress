@@ -1,5 +1,5 @@
 ---
-date: '2005-12-16 22:27:17'
+date: 2005-12-16 22:27:17
 categories:
     - uncategorised
 title: UK edging towards 1984

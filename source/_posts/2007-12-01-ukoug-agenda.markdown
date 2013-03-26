@@ -1,5 +1,5 @@
 ---
-date: '2007-12-01 22:54:42'
+date: 2007-12-01 22:54:42
 categories:
     - uncategorised
 title: UKOUG agenda

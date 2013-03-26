@@ -1,5 +1,5 @@
 ---
-date: '2007-09-25 20:45:22'
+date: 2007-09-25 20:45:22
 categories:
     - uncategorised
 title: WordPress 2.3 and Typo

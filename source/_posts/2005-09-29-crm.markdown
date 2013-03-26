@@ -2,7 +2,7 @@
 title: CRM
 layout: post
 comments: true
-date: '2005-09-29 22:08:15'
+date: 2005-09-29 22:08:15
 categories:
     - amazon
     - crm

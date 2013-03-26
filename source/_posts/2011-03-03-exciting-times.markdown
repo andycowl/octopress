@@ -1,5 +1,5 @@
 ---
-date: '2011-03-03 10:07:00'
+date: 2011-03-03 10:07:00
 categories:
     - uk
 title: exciting times

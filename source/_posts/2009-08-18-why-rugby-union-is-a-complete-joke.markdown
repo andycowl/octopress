@@ -2,7 +2,7 @@
 title: why Rugby Union is a complete joke
 layout: post
 comments: true
-date: '2009-08-18 08:09:55'
+date: 2009-08-18 08:09:55
 categories:
     - uncategorised
 ---

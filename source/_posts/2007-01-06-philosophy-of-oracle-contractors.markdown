@@ -1,5 +1,5 @@
 ---
-date: '2007-01-06 18:43:32'
+date: 2007-01-06 18:43:32
 categories:
     - uncategorised
 title: philosophy of Oracle contractors

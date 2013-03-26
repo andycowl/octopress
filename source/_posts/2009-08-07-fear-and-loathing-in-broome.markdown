@@ -1,5 +1,5 @@
 ---
-date: '2009-08-07 09:23:21'
+date: 2009-08-07 09:23:21
 categories:
     - uncategorised
 title: fear and loathing in Broome

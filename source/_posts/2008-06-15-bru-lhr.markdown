@@ -1,5 +1,5 @@
 ---
-date: '2008-06-15 09:55:58'
+date: 2008-06-15 09:55:58
 categories:
     - uncategorised
 title: BRU-LHR

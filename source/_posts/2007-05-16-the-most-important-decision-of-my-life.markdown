@@ -1,5 +1,5 @@
 ---
-date: '2007-05-16 07:17:06'
+date: 2007-05-16 07:17:06
 categories:
     - uncategorised
 title: the most important decision of my life

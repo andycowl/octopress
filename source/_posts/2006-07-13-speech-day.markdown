@@ -1,5 +1,5 @@
 ---
-date: '2006-07-13 17:40:03'
+date: 2006-07-13 17:40:03
 categories:
     - uncategorised
 title: Speech Day

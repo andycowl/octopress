@@ -2,7 +2,7 @@
 title: Beware of shopping at Dell computers
 layout: post
 comments: true
-date: '2005-10-29 20:31:12'
+date: 2005-10-29 20:31:12
 categories:
     - crm
     - dell

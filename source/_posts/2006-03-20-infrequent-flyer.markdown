@@ -1,5 +1,5 @@
 ---
-date: '2006-03-20 06:51:54'
+date: 2006-03-20 06:51:54
 categories:
     - uncategorised
 title: infrequent flyer

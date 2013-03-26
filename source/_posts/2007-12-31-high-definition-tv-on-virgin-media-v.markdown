@@ -1,5 +1,5 @@
 ---
-date: '2007-12-31 16:44:33'
+date: 2007-12-31 16:44:33
 categories:
     - uncategorised
 title: High Definition TV on Virgin Media V+

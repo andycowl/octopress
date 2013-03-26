@@ -1,5 +1,5 @@
 ---
-date: '2009-08-05 07:53:31'
+date: 2009-08-05 07:53:31
 categories:
     - uncategorised
 title: Saint Michael of Chester

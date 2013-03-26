@@ -2,7 +2,7 @@
 title: dot bombs
 layout: post
 comments: true
-date: '2005-08-17 15:11:12'
+date: 2005-08-17 15:11:12
 categories:
     - amazon
 ---

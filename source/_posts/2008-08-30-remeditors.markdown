@@ -1,5 +1,5 @@
 ---
-date: '2008-08-30 21:34:03'
+date: 2008-08-30 21:34:03
 categories:
     - uncategorised
 title: R.E.M/Editors

@@ -1,5 +1,5 @@
 ---
-date: '2008-10-25 12:40:42'
+date: 2008-10-25 12:40:42
 categories:
     - rss
 title: Grauniad switches to full text RSS feeds

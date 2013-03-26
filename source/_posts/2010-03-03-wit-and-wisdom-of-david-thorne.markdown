@@ -1,5 +1,5 @@
 ---
-date: '2010-03-03 10:17:52'
+date: 2010-03-03 10:17:52
 categories:
     - uncategorised
 title: wit and wisdom of David Thorne

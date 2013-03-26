@@ -1,5 +1,5 @@
 ---
-date: '2009-04-01 10:01:48'
+date: 2009-04-01 10:01:48
 categories:
     - microblogging
 title: the death of Open Micro Blogging

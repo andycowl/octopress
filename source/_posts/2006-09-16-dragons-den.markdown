@@ -1,5 +1,5 @@
 ---
-date: '2006-09-16 17:21:53'
+date: 2006-09-16 17:21:53
 categories:
     - uncategorised
 title: Dragon's Den

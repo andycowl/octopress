@@ -1,5 +1,5 @@
 ---
-date: '2006-04-18 01:31:51'
+date: 2006-04-18 01:31:51
 categories:
     - uk
 title: birth of a photo blog

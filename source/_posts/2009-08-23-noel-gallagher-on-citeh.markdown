@@ -1,5 +1,5 @@
 ---
-date: '2009-08-23 08:29:24'
+date: 2009-08-23 08:29:24
 categories:
     - uncategorised
 title: Noel Gallagher on Citeh

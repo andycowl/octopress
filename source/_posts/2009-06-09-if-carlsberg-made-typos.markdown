@@ -1,5 +1,5 @@
 ---
-date: '2009-06-09 08:16:59'
+date: 2009-06-09 08:16:59
 categories:
     - uncategorised
 title: if Carlsberg made typos

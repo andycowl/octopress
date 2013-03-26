@@ -1,5 +1,5 @@
 ---
-date: '2006-10-30 21:56:28'
+date: 2006-10-30 21:56:28
 categories:
     - uncategorised
 title: the only search engine in town

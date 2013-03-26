@@ -2,7 +2,7 @@
 title: George Best
 layout: post
 comments: true
-date: '2005-11-09 16:43:56'
+date: 2005-11-09 16:43:56
 categories:
     - football
 ---

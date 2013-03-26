@@ -1,5 +1,5 @@
 ---
-date: '2006-10-31 16:48:38'
+date: 2006-10-31 16:48:38
 categories:
     - uncategorised
 title: software upgrades

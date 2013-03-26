@@ -1,5 +1,5 @@
 ---
-date: '2006-05-02 22:17:27'
+date: 2006-05-02 22:17:27
 categories:
     - uncategorised
 title: Plagiarism

@@ -1,5 +1,5 @@
 ---
-date: '2006-07-18 21:34:05'
+date: 2006-07-18 21:34:05
 categories:
     - uncategorised
 title: T-shirt humour

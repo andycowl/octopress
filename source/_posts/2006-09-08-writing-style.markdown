@@ -1,5 +1,5 @@
 ---
-date: '2006-09-08 22:21:59'
+date: 2006-09-08 22:21:59
 categories:
     - uncategorised
 title: writing style

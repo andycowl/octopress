@@ -1,5 +1,5 @@
 ---
-date: '2005-12-08 17:29:22'
+date: 2005-12-08 17:29:22
 title: WordPress.com business model
 layout: post
 comments: true

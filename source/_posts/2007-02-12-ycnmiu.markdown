@@ -2,7 +2,7 @@
 title: YCNMIU
 layout: post
 comments: true
-date: '2007-02-12 15:37:40'
+date: 2007-02-12 15:37:40
 categories:
     - uk
     - humour

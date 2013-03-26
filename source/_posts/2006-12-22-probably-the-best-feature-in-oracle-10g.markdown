@@ -1,5 +1,5 @@
 ---
-date: '2006-12-22 05:04:02'
+date: 2006-12-22 05:04:02
 categories:
     - oracle
 title: probably the best feature in Oracle 10g

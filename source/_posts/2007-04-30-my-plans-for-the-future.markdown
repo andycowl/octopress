@@ -1,5 +1,5 @@
 ---
-date: '2007-04-30 19:24:03'
+date: 2007-04-30 19:24:03
 categories:
     - uncategorised
 title: my plans for the future

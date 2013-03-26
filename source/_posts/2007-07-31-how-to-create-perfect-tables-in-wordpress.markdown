@@ -1,5 +1,5 @@
 ---
-date: '2007-07-31 06:46:50'
+date: 2007-07-31 06:46:50
 categories:
     - uncategorised
 title: how to create perfect tables in WordPress

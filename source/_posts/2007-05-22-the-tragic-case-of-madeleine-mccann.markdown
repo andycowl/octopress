@@ -1,5 +1,5 @@
 ---
-date: '2007-05-22 17:48:22'
+date: 2007-05-22 17:48:22
 layout: post
 title: the tragic case of Madeleine McCann
 comments: true

@@ -1,5 +1,5 @@
 ---
-date: '2006-04-03 06:47:56'
+date: 2006-04-03 06:47:56
 categories:
     - football
 title: David Beckham and I

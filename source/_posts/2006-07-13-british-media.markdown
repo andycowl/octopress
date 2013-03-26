@@ -1,5 +1,5 @@
 ---
-date: '2006-07-13 14:15:37'
+date: 2006-07-13 14:15:37
 categories:
     - uncategorised
 title: British media

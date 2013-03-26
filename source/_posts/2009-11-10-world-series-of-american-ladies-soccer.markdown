@@ -2,7 +2,7 @@
 title: world series of American Ladies soccer
 layout: post
 comments: true
-date: '2009-11-10 13:25:50'
+date: 2009-11-10 13:25:50
 categories:
     - uncategorised
 ---

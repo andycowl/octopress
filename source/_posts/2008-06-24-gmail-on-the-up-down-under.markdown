@@ -1,5 +1,5 @@
 ---
-date: '2008-06-24 10:37:49'
+date: 2008-06-24 10:37:49
 categories:
     - google
 title: Gmail on the up down under

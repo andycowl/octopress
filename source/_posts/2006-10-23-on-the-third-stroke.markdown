@@ -1,5 +1,5 @@
 ---
-date: '2006-10-23 17:41:07'
+date: 2006-10-23 17:41:07
 categories:
     - uncategorised
 title: on the third stroke

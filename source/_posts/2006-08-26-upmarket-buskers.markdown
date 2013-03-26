@@ -1,5 +1,5 @@
 ---
-date: '2006-08-26 22:59:05'
+date: 2006-08-26 22:59:05
 categories:
     - uncategorised
 title: upmarket buskers

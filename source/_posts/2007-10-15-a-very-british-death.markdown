@@ -1,5 +1,5 @@
 ---
-date: '2007-10-15 20:40:17'
+date: 2007-10-15 20:40:17
 categories:
     - uncategorised
 title: a very British death

@@ -1,5 +1,5 @@
 ---
-date: '2008-12-02 12:16:17'
+date: 2008-12-02 12:16:17
 categories:
     - blogging
 title: why Reddit is useless for bloggers

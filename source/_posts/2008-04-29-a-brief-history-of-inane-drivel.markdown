@@ -1,5 +1,5 @@
 ---
-date: '2008-04-29 01:08:01'
+date: 2008-04-29 01:08:01
 categories:
     - uncategorised
 title: a brief history of inane drivel

@@ -2,7 +2,7 @@
 title: Oracle newbies, wizards and gurus
 layout: post
 comments: true
-date: '2005-10-29 21:57:08'
+date: 2005-10-29 21:57:08
 categories:
     - oracle
 ---

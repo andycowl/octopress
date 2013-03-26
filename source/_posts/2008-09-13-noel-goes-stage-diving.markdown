@@ -1,5 +1,5 @@
 ---
-date: '2008-09-13 16:12:45'
+date: 2008-09-13 16:12:45
 categories:
     - uncategorised
 title: Noel goes stage diving

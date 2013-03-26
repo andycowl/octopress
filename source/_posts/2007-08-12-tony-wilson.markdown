@@ -1,5 +1,5 @@
 ---
-date: '2007-08-12 01:19:15'
+date: 2007-08-12 01:19:15
 categories:
     - uncategorised
 title: Tony Wilson

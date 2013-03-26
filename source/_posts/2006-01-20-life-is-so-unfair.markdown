@@ -1,5 +1,5 @@
 ---
-date: '2006-01-20 03:58:37'
+date: 2006-01-20 03:58:37
 categories:
     - wordpress
 title: life is so unfair

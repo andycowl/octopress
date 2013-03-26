@@ -1,5 +1,5 @@
 ---
-date: '2006-08-22 23:07:10'
+date: 2006-08-22 23:07:10
 categories:
     - uncategorised
 title: in praise of Tom Reynolds

@@ -1,5 +1,5 @@
 ---
-date: '2006-11-08 18:09:32'
+date: 2006-11-08 18:09:32
 categories:
     - uncategorised
 title: hamsters, headhunters, hampers and false religion

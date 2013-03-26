@@ -1,5 +1,5 @@
 ---
-date: '2006-10-17 06:05:30'
+date: 2006-10-17 06:05:30
 categories:
     - software
 title: my new job

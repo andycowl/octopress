@@ -1,5 +1,5 @@
 ---
-date: '2007-04-18 06:26:28'
+date: 2007-04-18 06:26:28
 categories:
     - uncategorised
 title: goodbye last.fm

@@ -1,5 +1,5 @@
 ---
-date: '2009-04-15 23:50:41'
+date: 2009-04-15 23:50:41
 categories:
     - uncategorised
 title: memories of Hillsborough

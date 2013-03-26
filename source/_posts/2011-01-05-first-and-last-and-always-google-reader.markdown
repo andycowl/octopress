@@ -1,5 +1,5 @@
 ---
-date: '2011-01-05 15:21:00'
+date: 2011-01-05 15:21:00
 categories:
     - google
     - software

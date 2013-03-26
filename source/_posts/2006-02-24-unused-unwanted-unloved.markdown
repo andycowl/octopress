@@ -1,5 +1,5 @@
 ---
-date: '2006-02-24 00:49:31'
+date: 2006-02-24 00:49:31
 categories:
     - uncategorised
 title: unused, unwanted, unloved

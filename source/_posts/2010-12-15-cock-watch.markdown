@@ -1,5 +1,5 @@
 ---
-date: '2010-12-15 09:36:00'
+date: 2010-12-15 09:36:00
 categories:
     - football
 title: Cock watch

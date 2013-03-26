@@ -1,5 +1,5 @@
 ---
-date: '2007-03-17 00:01:23'
+date: 2007-03-17 00:01:23
 categories:
     - uncategorised
 title: in praise of Joy Division

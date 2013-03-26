@@ -1,5 +1,5 @@
 ---
-date: '2008-01-03 20:24:39'
+date: 2008-01-03 20:24:39
 categories:
     - uncategorised
 title: idiot's guide to Oracle installation

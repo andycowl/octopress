@@ -1,5 +1,5 @@
 ---
-date: '2009-05-08 11:11:22'
+date: 2009-05-08 11:11:22
 categories:
     - uncategorised
 title: why Ballack, Drogba and Terry need to look inwardly

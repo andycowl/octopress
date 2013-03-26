@@ -1,5 +1,5 @@
 ---
-date: '2007-01-19 15:27:47'
+date: 2007-01-19 15:27:47
 categories:
     - uncategorised
 title: mean hearted bombers

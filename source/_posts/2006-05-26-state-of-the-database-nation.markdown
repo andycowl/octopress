@@ -1,5 +1,5 @@
 ---
-date: '2006-05-26 16:24:19'
+date: 2006-05-26 16:24:19
 categories:
     - uncategorised
 title: state of the database nation

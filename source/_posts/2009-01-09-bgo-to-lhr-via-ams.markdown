@@ -1,5 +1,5 @@
 ---
-date: '2009-01-09 12:28:16'
+date: 2009-01-09 12:28:16
 categories:
     - uncategorised
 title: BGO to LHR via AMS

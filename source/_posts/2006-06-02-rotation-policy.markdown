@@ -1,5 +1,5 @@
 ---
-date: '2006-06-02 08:43:44'
+date: 2006-06-02 08:43:44
 categories:
     - uncategorised
 title: rotation policy

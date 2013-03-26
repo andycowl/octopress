@@ -1,5 +1,5 @@
 ---
-date: '2006-07-22 01:44:13'
+date: 2006-07-22 01:44:13
 categories:
     - uncategorised
 title: George Bush covers 'Sunday Bloody Sunday'

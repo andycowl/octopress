@@ -1,5 +1,5 @@
 ---
-date: '2006-05-14 17:02:15'
+date: 2006-05-14 17:02:15
 categories:
     - uncategorised
 title: bits and large pieces

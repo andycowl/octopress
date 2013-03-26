@@ -1,5 +1,5 @@
 ---
-date: '2006-11-07 00:22:10'
+date: 2006-11-07 00:22:10
 categories:
     - blogging
 title: plugin extravaganza

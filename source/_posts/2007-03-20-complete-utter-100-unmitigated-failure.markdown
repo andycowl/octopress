@@ -1,5 +1,5 @@
 ---
-date: '2007-03-20 19:25:48'
+date: 2007-03-20 19:25:48
 categories:
     - uncategorised
 title: complete, utter, 100%, unmitigated failure

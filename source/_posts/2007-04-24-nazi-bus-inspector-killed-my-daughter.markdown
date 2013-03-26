@@ -2,7 +2,7 @@
 title: Nazi bus inspector killed my daughter
 layout: post
 comments: true
-date: '2007-04-24 19:15:09'
+date: 2007-04-24 19:15:09
 categories:
     - uk
 ---

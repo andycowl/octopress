@@ -1,5 +1,5 @@
 ---
-date: '2009-01-12 09:03:34'
+date: 2009-01-12 09:03:34
 categories:
     - uncategorised
 title: inside Jamie Carragher's head

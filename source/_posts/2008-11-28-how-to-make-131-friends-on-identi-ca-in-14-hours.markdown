@@ -1,5 +1,5 @@
 ---
-date: '2008-11-28 12:52:26'
+date: 2008-11-28 12:52:26
 categories:
     - microblogging
 title: how to make 131 friends on identi.ca in 14 hours

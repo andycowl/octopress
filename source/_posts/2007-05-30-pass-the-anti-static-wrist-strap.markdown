@@ -1,5 +1,5 @@
 ---
-date: '2007-05-30 19:55:39'
+date: 2007-05-30 19:55:39
 categories:
     - uncategorised
 title: pass the anti-static wrist strap

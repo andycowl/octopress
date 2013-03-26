@@ -1,5 +1,5 @@
 ---
-date: '2009-06-10 08:14:23'
+date: 2009-06-10 08:14:23
 categories:
     - uncategorised
 title: aftermath of flight AF447

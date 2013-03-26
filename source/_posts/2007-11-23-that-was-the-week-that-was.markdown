@@ -1,5 +1,5 @@
 ---
-date: '2007-11-23 20:49:51'
+date: 2007-11-23 20:49:51
 categories:
     - uncategorised
 title: that was the week that was

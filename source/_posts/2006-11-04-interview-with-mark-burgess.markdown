@@ -1,5 +1,5 @@
 ---
-date: '2006-11-04 10:26:36'
+date: 2006-11-04 10:26:36
 categories:
     - uncategorised
 title: interview with Mark Burgess

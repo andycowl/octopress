@@ -2,7 +2,7 @@
 title: Firefox and Thunderbird
 layout: post
 comments: true
-date: '2005-08-23 03:40:00'
+date: 2005-08-23 03:40:00
 categories:
     - software
 ---

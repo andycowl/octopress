@@ -2,7 +2,7 @@
 title: probably the best gadget in the world
 layout: post
 comments: true
-date: '2005-10-27 19:58:32'
+date: 2005-10-27 19:58:32
 categories:
     - gadget
 ---

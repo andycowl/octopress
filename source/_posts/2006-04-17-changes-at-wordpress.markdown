@@ -1,5 +1,5 @@
 ---
-date: '2006-04-17 16:36:25'
+date: 2006-04-17 16:36:25
 categories:
     - uncategorised
 title: changes at WordPress

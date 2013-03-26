@@ -1,5 +1,5 @@
 ---
-date: '2006-01-05 20:45:53'
+date: 2006-01-05 20:45:53
 categories:
     - uncategorised
 title: WordPress.com open up user forums

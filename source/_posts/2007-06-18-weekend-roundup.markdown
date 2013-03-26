@@ -1,5 +1,5 @@
 ---
-date: '2007-06-18 23:56:08'
+date: 2007-06-18 23:56:08
 categories:
     - uncategorised
 title: weekend roundup

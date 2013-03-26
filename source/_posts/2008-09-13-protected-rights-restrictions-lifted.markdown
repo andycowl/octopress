@@ -1,5 +1,5 @@
 ---
-date: '2008-09-13 15:55:57'
+date: 2008-09-13 15:55:57
 categories:
     - uk
 title: protected rights restrictions lifted

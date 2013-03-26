@@ -1,5 +1,5 @@
 ---
-date: '2006-02-02 16:14:56'
+date: 2006-02-02 16:14:56
 categories:
     - uncategorised
 title: 'interviewing stories #1'

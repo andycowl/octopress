@@ -1,5 +1,5 @@
 ---
-date: '2007-09-06 01:59:16'
+date: 2007-09-06 01:59:16
 categories:
     - uncategorised
 title: inevitable parting of the ways

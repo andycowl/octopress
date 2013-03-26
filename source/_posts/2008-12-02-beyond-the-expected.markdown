@@ -1,5 +1,5 @@
 ---
-date: '2008-12-02 17:22:37'
+date: 2008-12-02 17:22:37
 categories:
     - uncategorised
 title: beyond the expected

@@ -1,5 +1,5 @@
 ---
-date: '2006-03-08 03:51:25'
+date: 2006-03-08 03:51:25
 categories:
     - uncategorised
 title: probably the funniest TV show ever

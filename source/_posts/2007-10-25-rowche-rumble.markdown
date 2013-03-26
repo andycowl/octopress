@@ -1,5 +1,5 @@
 ---
-date: '2007-10-25 19:10:43'
+date: 2007-10-25 19:10:43
 categories:
     - uncategorised
 title: Rowche Rumble

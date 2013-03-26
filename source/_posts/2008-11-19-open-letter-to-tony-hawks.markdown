@@ -1,5 +1,5 @@
 ---
-date: '2008-11-19 10:27:58'
+date: 2008-11-19 10:27:58
 categories:
     - uncategorised
 title: open letter to Tony Hawks

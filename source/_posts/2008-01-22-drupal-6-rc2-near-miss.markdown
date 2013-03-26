@@ -1,5 +1,5 @@
 ---
-date: '2008-01-22 04:40:45'
+date: 2008-01-22 04:40:45
 categories:
     - uncategorised
 title: Drupal 6 RC2 near miss

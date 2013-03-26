@@ -1,5 +1,5 @@
 ---
-date: '2007-05-02 16:20:15'
+date: 2007-05-02 16:20:15
 categories:
     - uncategorised
 title: spice up your life

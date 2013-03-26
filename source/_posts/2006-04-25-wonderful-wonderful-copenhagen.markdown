@@ -1,5 +1,5 @@
 ---
-date: '2006-04-25 23:54:06'
+date: 2006-04-25 23:54:06
 categories:
     - travel
 title: Wonderful, wonderful Copenhagen

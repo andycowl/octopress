@@ -1,5 +1,5 @@
 ---
-date: '2007-05-26 20:56:09'
+date: 2007-05-26 20:56:09
 categories:
     - blogging
 title: blog milestone

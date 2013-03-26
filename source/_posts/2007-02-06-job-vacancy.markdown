@@ -1,5 +1,5 @@
 ---
-date: '2007-02-06 06:14:53'
+date: 2007-02-06 06:14:53
 categories:
     - travel
 title: job vacancy

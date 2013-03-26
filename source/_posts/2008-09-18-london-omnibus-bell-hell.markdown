@@ -1,5 +1,5 @@
 ---
-date: '2008-09-18 13:25:41'
+date: 2008-09-18 13:25:41
 categories:
     - uncategorised
 title: London omnibus bell hell

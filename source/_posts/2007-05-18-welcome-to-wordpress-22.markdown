@@ -1,5 +1,5 @@
 ---
-date: '2007-05-18 18:06:26'
+date: 2007-05-18 18:06:26
 categories:
     - football
 title: Welcome to WordPress 2.2

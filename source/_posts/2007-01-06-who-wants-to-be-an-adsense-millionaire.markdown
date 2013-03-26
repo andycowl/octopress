@@ -1,5 +1,5 @@
 ---
-date: '2007-01-06 19:21:24'
+date: 2007-01-06 19:21:24
 categories:
     - uncategorised
 title: who wants to be an Adsense millionaire ?

@@ -1,5 +1,5 @@
 ---
-date: '2006-02-23 17:49:21'
+date: 2006-02-23 17:49:21
 categories:
     - uncategorised
 title: Google launches Google, err, Page Creator

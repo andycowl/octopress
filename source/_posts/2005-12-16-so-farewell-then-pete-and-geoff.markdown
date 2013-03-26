@@ -1,5 +1,5 @@
 ---
-date: '2005-12-16 16:42:30'
+date: 2005-12-16 16:42:30
 categories:
     - uncategorised
 title: so farewell then, Pete and Geoff

@@ -1,5 +1,5 @@
 ---
-date: '2008-11-05 16:04:34'
+date: 2008-11-05 16:04:34
 categories:
     - uncategorised
 title: 5 useful Firefox plugins

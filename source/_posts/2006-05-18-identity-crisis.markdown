@@ -1,5 +1,5 @@
 ---
-date: '2006-05-18 19:47:46'
+date: 2006-05-18 19:47:46
 categories:
     - uncategorised
 title: identity crisis

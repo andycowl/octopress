@@ -1,5 +1,5 @@
 ---
-date: '2006-07-22 04:16:02'
+date: 2006-07-22 04:16:02
 categories:
     - uncategorised
 title: Ferguson's mind games

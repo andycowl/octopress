@@ -1,5 +1,5 @@
 ---
-date: '2006-03-03 21:09:33'
+date: 2006-03-03 21:09:33
 categories:
     - uncategorised
 title: LinkedIn.com

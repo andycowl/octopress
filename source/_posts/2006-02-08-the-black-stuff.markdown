@@ -1,5 +1,5 @@
 ---
-date: '2006-02-08 16:39:01'
+date: 2006-02-08 16:39:01
 categories:
     - uncategorised
 title: the black stuff

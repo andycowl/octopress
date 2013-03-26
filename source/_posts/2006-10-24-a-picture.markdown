@@ -1,5 +1,5 @@
 ---
-date: '2006-10-24 13:12:16'
+date: 2006-10-24 13:12:16
 categories:
     - uncategorised
 title: a picture

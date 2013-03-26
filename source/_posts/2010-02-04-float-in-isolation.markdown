@@ -1,5 +1,5 @@
 ---
-date: '2010-02-04 13:02:48'
+date: 2010-02-04 13:02:48
 categories:
     - uncategorised
 title: float in isolation

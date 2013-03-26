@@ -2,7 +2,7 @@
 title: How to get ideas for your blog
 layout: post
 comments: true
-date: '2005-11-07 20:06:11'
+date: 2005-11-07 20:06:11
 categories:
     - blogging
 ---

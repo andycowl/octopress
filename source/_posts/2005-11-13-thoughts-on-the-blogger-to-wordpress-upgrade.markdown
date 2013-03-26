@@ -2,7 +2,7 @@
 title: thoughts on the Blogger to Wordpress upgrade
 layout: post
 comments: true
-date: '2005-11-13 18:42:20'
+date: 2005-11-13 18:42:20
 categories:
     - blogging
     - wordpress

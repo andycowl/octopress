@@ -1,5 +1,5 @@
 ---
-date: '2006-08-02 20:32:43'
+date: 2006-08-02 20:32:43
 categories:
     - uncategorised
 title: Saxondale

@@ -1,5 +1,5 @@
 ---
-date: '2008-08-14 17:41:11'
+date: 2008-08-14 17:41:11
 categories:
     - uncategorised
 title: in praise of Disqus

@@ -1,5 +1,5 @@
 ---
-date: '2007-10-27 21:36:57'
+date: 2007-10-27 21:36:57
 categories:
     - uncategorised
 title: WordPress 2.3.1 released

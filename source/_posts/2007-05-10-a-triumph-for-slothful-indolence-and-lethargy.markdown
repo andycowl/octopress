@@ -1,5 +1,5 @@
 ---
-date: '2007-05-10 01:35:50'
+date: 2007-05-10 01:35:50
 categories:
     - uncategorised
 title: a triumph for slothful indolence and lethargy

@@ -1,5 +1,5 @@
 ---
-date: '2007-09-14 16:20:38'
+date: 2007-09-14 16:20:38
 categories:
     - uncategorised
 title: life and times of two 'A' listers

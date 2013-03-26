@@ -1,5 +1,5 @@
 ---
-date: '2009-08-26 16:59:19'
+date: 2009-08-26 16:59:19
 categories:
     - uncategorised
 title: Virgin Media email outage

@@ -1,5 +1,5 @@
 ---
-date: '2007-01-10 16:52:44'
+date: 2007-01-10 16:52:44
 categories:
     - uncategorised
 title: that's entertainment

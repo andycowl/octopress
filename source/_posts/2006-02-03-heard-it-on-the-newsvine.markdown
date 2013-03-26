@@ -1,5 +1,5 @@
 ---
-date: '2006-02-03 23:22:06'
+date: 2006-02-03 23:22:06
 categories:
     - uncategorised
 title: heard it on the Newsvine

@@ -1,5 +1,5 @@
 ---
-date: '2006-11-23 01:42:31'
+date: 2006-11-23 01:42:31
 categories:
     - uncategorised
 title: How to get dugg, increase readership and earn lots of money

@@ -1,5 +1,5 @@
 ---
-date: '2006-03-19 18:45:18'
+date: 2006-03-19 18:45:18
 categories:
     - uncategorised
 title: by Royal appointment

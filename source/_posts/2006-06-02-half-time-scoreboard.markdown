@@ -1,5 +1,5 @@
 ---
-date: '2006-06-02 09:08:18'
+date: 2006-06-02 09:08:18
 categories:
     - blogging
 title: half time scoreboard

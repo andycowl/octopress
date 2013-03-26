@@ -1,5 +1,5 @@
 ---
-date: '2008-01-19 22:42:51'
+date: 2008-01-19 22:42:51
 categories:
     - uncategorised
 title: Adsense milestone

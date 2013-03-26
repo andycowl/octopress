@@ -1,5 +1,5 @@
 ---
-date: '2006-05-17 23:15:28'
+date: 2006-05-17 23:15:28
 categories:
     - uncategorised
 title: rank my tail

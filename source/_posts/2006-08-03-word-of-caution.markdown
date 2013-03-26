@@ -1,5 +1,5 @@
 ---
-date: '2006-08-03 22:23:21'
+date: 2006-08-03 22:23:21
 categories:
     - uk
 title: word of caution

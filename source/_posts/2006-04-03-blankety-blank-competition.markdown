@@ -1,5 +1,5 @@
 ---
-date: '2006-04-03 04:55:46'
+date: 2006-04-03 04:55:46
 categories:
     - football
 title: blankety blank competition

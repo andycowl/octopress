@@ -1,5 +1,5 @@
 ---
-date: '2006-04-05 02:33:08'
+date: 2006-04-05 02:33:08
 categories:
     - uncategorised
 title: VMware beware

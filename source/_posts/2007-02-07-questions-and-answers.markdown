@@ -1,5 +1,5 @@
 ---
-date: '2007-02-07 23:59:02'
+date: 2007-02-07 23:59:02
 categories:
     - uncategorised
 title: questions and answers

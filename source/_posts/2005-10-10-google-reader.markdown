@@ -2,7 +2,7 @@
 title: Google Reader
 layout: post
 comments: true
-date: '2005-10-10 20:21:07'
+date: 2005-10-10 20:21:07
 categories:
     - google
     - rss

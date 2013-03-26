@@ -1,5 +1,5 @@
 ---
-date: '2008-05-09 09:46:52'
+date: 2008-05-09 09:46:52
 categories:
     - uncategorised
 title: pocket Web 2.0 dictionary

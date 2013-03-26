@@ -1,5 +1,5 @@
 ---
-date: '2008-04-29 22:30:23'
+date: 2008-04-29 22:30:23
 categories:
     - uncategorised
 title: so farewell then, Sven Goran Eriksson

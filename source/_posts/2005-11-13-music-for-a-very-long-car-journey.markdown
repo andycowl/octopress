@@ -2,7 +2,7 @@
 title: music for a (very) long car journey
 layout: post
 comments: true
-date: '2005-11-13 22:45:26'
+date: 2005-11-13 22:45:26
 categories:
     - music
 ---

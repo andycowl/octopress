@@ -1,5 +1,5 @@
 ---
-date: '2007-02-20 00:47:04'
+date: 2007-02-20 00:47:04
 categories:
     - uncategorised
 title: conspiracy theories

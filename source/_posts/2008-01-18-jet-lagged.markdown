@@ -1,5 +1,5 @@
 ---
-date: '2008-01-18 07:53:03'
+date: 2008-01-18 07:53:03
 categories:
     - uncategorised
 title: jet lagged

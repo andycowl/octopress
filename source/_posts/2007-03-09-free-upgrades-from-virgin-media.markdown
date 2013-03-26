@@ -1,5 +1,5 @@
 ---
-date: '2007-03-09 18:57:03'
+date: 2007-03-09 18:57:03
 categories:
     - uncategorised
 title: free upgrades from Virgin Media

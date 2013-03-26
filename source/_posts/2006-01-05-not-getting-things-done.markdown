@@ -1,5 +1,5 @@
 ---
-date: '2006-01-05 20:19:43'
+date: 2006-01-05 20:19:43
 categories:
     - uncategorised
 title: not getting things done

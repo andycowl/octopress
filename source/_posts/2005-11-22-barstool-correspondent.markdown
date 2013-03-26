@@ -2,7 +2,7 @@
 title: Barstool correspondent
 layout: post
 comments: true
-date: '2005-11-22 06:18:30'
+date: 2005-11-22 06:18:30
 categories:
     - football
 ---

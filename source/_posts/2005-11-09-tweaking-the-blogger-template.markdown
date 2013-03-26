@@ -2,7 +2,7 @@
 title: tweaking the blogger template
 layout: post
 comments: true
-date: '2005-11-09 16:36:39'
+date: 2005-11-09 16:36:39
 categories:
     - blogging
 ---

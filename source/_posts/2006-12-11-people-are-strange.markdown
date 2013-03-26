@@ -1,5 +1,5 @@
 ---
-date: '2006-12-11 15:43:47'
+date: 2006-12-11 15:43:47
 categories:
     - uncategorised
 title: people are strange

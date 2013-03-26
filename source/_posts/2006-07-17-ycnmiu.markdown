@@ -1,5 +1,5 @@
 ---
-date: '2006-07-17 19:15:37'
+date: 2006-07-17 19:15:37
 categories:
     - humour
 title: YCNMIU

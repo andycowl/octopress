@@ -2,7 +2,7 @@
 title: where will it all end ?
 layout: post
 comments: true
-date: '2009-08-04 09:27:50'
+date: 2009-08-04 09:27:50
 categories:
     - uncategorised
 ---

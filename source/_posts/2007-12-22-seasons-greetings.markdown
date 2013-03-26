@@ -1,5 +1,5 @@
 ---
-date: '2007-12-22 01:51:44'
+date: 2007-12-22 01:51:44
 categories:
     - uk
 title: Seasons Greetings

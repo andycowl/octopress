@@ -1,5 +1,5 @@
 ---
-date: '2006-10-07 02:17:18'
+date: 2006-10-07 02:17:18
 categories:
     - uncategorised
 title: here we go

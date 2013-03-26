@@ -1,5 +1,5 @@
 ---
-date: '2006-04-09 19:12:52'
+date: 2006-04-09 19:12:52
 categories:
     - uncategorised
 title: annual review

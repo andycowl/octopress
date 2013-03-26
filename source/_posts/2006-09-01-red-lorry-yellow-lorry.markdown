@@ -1,5 +1,5 @@
 ---
-date: '2006-09-01 17:15:54'
+date: 2006-09-01 17:15:54
 categories:
     - uncategorised
 title: Red lorry, yellow lorry

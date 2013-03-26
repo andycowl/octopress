@@ -1,5 +1,5 @@
 ---
-date: '2009-12-15 12:34:27'
+date: 2009-12-15 12:34:27
 categories:
     - music
 title: in praise of Killing Joke

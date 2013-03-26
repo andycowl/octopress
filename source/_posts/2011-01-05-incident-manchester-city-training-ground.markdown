@@ -1,5 +1,5 @@
 ---
-date: '2011-01-05 10:31:00'
+date: 2011-01-05 10:31:00
 categories:
     - uk
     - football

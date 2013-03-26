@@ -1,5 +1,5 @@
 ---
-date: '2007-08-28 19:41:40'
+date: 2007-08-28 19:41:40
 categories:
     - uncategorised
 title: double Dutch

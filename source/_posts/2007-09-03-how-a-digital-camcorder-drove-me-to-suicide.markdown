@@ -1,5 +1,5 @@
 ---
-date: '2007-09-03 16:34:53'
+date: 2007-09-03 16:34:53
 categories:
     - uncategorised
 title: how a digital camcorder drove me to suicide

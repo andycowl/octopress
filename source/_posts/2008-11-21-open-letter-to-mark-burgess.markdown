@@ -1,5 +1,5 @@
 ---
-date: '2008-11-21 14:23:35'
+date: 2008-11-21 14:23:35
 categories:
     - uncategorised
 title: open letter to Mark Burgess

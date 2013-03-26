@@ -1,5 +1,5 @@
 ---
-date: '2007-09-12 19:01:38'
+date: 2007-09-12 19:01:38
 categories:
     - uncategorised
 title: optimizing airports

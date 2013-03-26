@@ -1,5 +1,5 @@
 ---
-date: '2006-03-12 23:04:49'
+date: 2006-03-12 23:04:49
 categories:
     - uncategorised
 title: WordPress humour

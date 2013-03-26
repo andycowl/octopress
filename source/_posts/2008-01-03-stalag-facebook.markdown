@@ -1,5 +1,5 @@
 ---
-date: '2008-01-03 18:22:44'
+date: 2008-01-03 18:22:44
 categories:
     - uncategorised
 title: Stalag Facebook

@@ -2,7 +2,7 @@
 title: Early Adopters
 layout: post
 comments: true
-date: '2005-09-28 20:44:22'
+date: 2005-09-28 20:44:22
 categories:
     - uncategorised
 ---

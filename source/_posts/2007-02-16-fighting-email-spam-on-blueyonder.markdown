@@ -1,5 +1,5 @@
 ---
-date: '2007-02-16 21:16:11'
+date: 2007-02-16 21:16:11
 categories:
     - uncategorised
 title: fighting email spam on Blueyonder

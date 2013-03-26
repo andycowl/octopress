@@ -1,5 +1,5 @@
 ---
-date: '2007-07-09 21:33:31'
+date: 2007-07-09 21:33:31
 categories:
     - uk
 title: a doctor writes

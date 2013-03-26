@@ -1,5 +1,5 @@
 ---
-date: '2006-05-24 04:51:03'
+date: 2006-05-24 04:51:03
 categories:
     - uncategorised
 title: New York nostalgia

@@ -1,5 +1,5 @@
 ---
-date: '2006-06-02 08:23:32'
+date: 2006-06-02 08:23:32
 categories:
     - uncategorised
 title: just say no

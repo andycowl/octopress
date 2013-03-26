@@ -1,5 +1,5 @@
 ---
-date: '2006-12-14 21:35:13'
+date: 2006-12-14 21:35:13
 categories:
     - uncategorised
 title: Scottish women rejoice

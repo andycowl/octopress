@@ -2,7 +2,7 @@
 title: credit where credit is due
 layout: post
 comments: true
-date: '2005-11-15 05:54:59'
+date: 2005-11-15 05:54:59
 categories:
     - crm
     - dell

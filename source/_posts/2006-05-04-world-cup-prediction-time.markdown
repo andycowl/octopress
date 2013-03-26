@@ -1,5 +1,5 @@
 ---
-date: '2006-05-04 05:56:22'
+date: 2006-05-04 05:56:22
 categories:
     - uncategorised
 title: World Cup prediction time

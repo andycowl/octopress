@@ -1,5 +1,5 @@
 ---
-date: '2010-02-17 16:09:19'
+date: 2010-02-17 16:09:19
 categories:
     - blogging
 title: untold riches with next generation Adsense

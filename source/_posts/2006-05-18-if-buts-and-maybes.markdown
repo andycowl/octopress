@@ -1,5 +1,5 @@
 ---
-date: '2006-05-18 15:58:07'
+date: 2006-05-18 15:58:07
 categories:
     - football
 title: if, buts and maybes

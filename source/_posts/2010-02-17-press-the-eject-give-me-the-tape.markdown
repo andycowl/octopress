@@ -1,5 +1,5 @@
 ---
-date: '2010-02-17 16:27:37'
+date: 2010-02-17 16:27:37
 categories:
     - uncategorised
 title: press the eject and give me the tape

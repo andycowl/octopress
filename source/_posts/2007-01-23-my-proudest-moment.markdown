@@ -1,5 +1,5 @@
 ---
-date: '2007-01-23 09:47:36'
+date: 2007-01-23 09:47:36
 categories:
     - uncategorised
 title: my proudest moment

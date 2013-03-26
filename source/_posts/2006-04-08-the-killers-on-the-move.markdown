@@ -1,5 +1,5 @@
 ---
-date: '2006-04-08 03:01:30'
+date: 2006-04-08 03:01:30
 categories:
     - uncategorised
 title: The Killers on the move

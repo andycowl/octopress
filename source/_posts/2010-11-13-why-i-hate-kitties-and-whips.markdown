@@ -2,7 +2,7 @@
 title: why I hate Kitties and Whips
 layout: post
 comments: true
-date: '2010-11-13 10:46:00'
+date: 2010-11-13 10:46:00
 categories:
     - uk
     - humour

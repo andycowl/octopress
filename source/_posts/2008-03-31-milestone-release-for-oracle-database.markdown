@@ -1,7 +1,7 @@
 ---
 layout: post
 title: milestone release for Oracle database
-date: '2008-03-31 00:56:29'
+date: 2008-03-31 00:56:29
 categories:
     - uncategorised
 comments: true

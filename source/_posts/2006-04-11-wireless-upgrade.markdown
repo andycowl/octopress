@@ -1,5 +1,5 @@
 ---
-date: '2006-04-11 17:27:17'
+date: 2006-04-11 17:27:17
 categories:
     - uncategorised
 title: wireless upgrade

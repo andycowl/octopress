@@ -1,5 +1,5 @@
 ---
-date: '2006-03-29 07:06:03'
+date: 2006-03-29 07:06:03
 categories:
     - uncategorised
 title: quotations

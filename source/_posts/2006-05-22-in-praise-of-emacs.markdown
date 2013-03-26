@@ -1,5 +1,5 @@
 ---
-date: '2006-05-22 21:00:27'
+date: 2006-05-22 21:00:27
 categories:
     - uncategorised
 title: in praise of Emacs

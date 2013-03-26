@@ -1,5 +1,5 @@
 ---
-date: '2008-04-10 10:02:59'
+date: 2008-04-10 10:02:59
 categories:
     - uncategorised
 title: a lesson in software design

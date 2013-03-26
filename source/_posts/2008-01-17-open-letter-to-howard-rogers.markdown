@@ -1,5 +1,5 @@
 ---
-date: '2008-01-17 07:44:43'
+date: 2008-01-17 07:44:43
 categories:
     - uncategorised
 title: open letter to Howard Rogers

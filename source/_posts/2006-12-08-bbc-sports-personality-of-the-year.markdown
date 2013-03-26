@@ -1,5 +1,5 @@
 ---
-date: '2006-12-08 20:10:47'
+date: 2006-12-08 20:10:47
 categories:
     - uncategorised
 title: BBC Sports Personality Of The Year

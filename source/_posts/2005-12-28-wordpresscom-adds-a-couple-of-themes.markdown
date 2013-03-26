@@ -1,5 +1,5 @@
 ---
-date: '2005-12-28 15:14:03'
+date: 2005-12-28 15:14:03
 title: WordPress.com adds a couple of themes
 layout: post
 comments: true

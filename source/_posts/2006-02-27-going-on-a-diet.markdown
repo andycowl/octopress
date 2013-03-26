@@ -1,5 +1,5 @@
 ---
-date: '2006-02-27 18:56:22'
+date: 2006-02-27 18:56:22
 categories:
     - uncategorised
 title: going on a diet

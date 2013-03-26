@@ -1,5 +1,5 @@
 ---
-date: '2007-03-08 17:09:55'
+date: 2007-03-08 17:09:55
 categories:
     - uncategorised
 title: Sharpcast versus Picasa

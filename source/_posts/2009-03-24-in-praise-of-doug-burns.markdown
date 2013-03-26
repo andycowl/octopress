@@ -1,5 +1,5 @@
 ---
-date: '2009-03-24 12:51:11'
+date: 2009-03-24 12:51:11
 categories:
     - uncategorised
 title: in praise of Doug Burns

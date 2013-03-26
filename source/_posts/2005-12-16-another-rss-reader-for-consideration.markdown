@@ -1,6 +1,6 @@
 ---
 title: another RSS reader for consideration
-date: '2005-12-16 23:29:09'
+date: 2005-12-16 23:29:09
 layout: post
 comments: true
 categories:

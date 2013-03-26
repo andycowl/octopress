@@ -1,5 +1,5 @@
 ---
-date: '2009-08-04 09:09:37'
+date: 2009-08-04 09:09:37
 categories:
     - uncategorised
 title: Manchester City's title winning lineup

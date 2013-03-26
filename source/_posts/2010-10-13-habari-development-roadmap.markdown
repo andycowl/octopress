@@ -1,5 +1,5 @@
 ---
-date: '2010-10-13 10:07:00'
+date: 2010-10-13 10:07:00
 categories:
     - habari
 title: Habari development roadmap

@@ -1,5 +1,5 @@
 ---
-date: '2008-07-13 19:50:20'
+date: 2008-07-13 19:50:20
 categories:
     - uncategorised
 title: chance meeting with man in Gents toilet

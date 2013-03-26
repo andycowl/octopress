@@ -1,5 +1,5 @@
 ---
-date: '2006-03-29 07:52:08'
+date: 2006-03-29 07:52:08
 categories:
     - uncategorised
 title: all coming together

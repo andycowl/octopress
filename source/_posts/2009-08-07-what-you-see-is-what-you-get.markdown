@@ -1,5 +1,5 @@
 ---
-date: '2009-08-07 21:07:31'
+date: 2009-08-07 21:07:31
 categories:
     - uncategorised
 title: what you see is what you get

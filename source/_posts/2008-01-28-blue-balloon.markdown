@@ -1,5 +1,5 @@
 ---
-date: '2008-01-28 14:57:22'
+date: 2008-01-28 14:57:22
 categories:
     - uncategorised
 title: Blue balloon

@@ -1,5 +1,5 @@
 ---
-date: '2007-03-14 16:33:29'
+date: 2007-03-14 16:33:29
 categories:
     - uncategorised
 title: don't believe the truth

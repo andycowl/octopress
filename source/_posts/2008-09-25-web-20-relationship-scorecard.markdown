@@ -1,5 +1,5 @@
 ---
-date: '2008-09-25 17:35:41'
+date: 2008-09-25 17:35:41
 categories:
     - uncategorised
 title: Web 2.0 relationship scorecard
