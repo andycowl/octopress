@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Octopress versus Drupal performance"
-date: 2012-10-03 08:50
+date: 2012-10-03 08:50:00
 comments: true
 categories: octopress
 ---

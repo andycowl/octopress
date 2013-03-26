@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "migration complete"
-date: 2012-09-17 20:35
+date: 2012-09-17 20:35:00
 comments: true
 categories:
     - blogging

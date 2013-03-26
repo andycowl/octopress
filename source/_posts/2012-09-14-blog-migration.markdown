@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "blog migration checklist"
-date: 2012-09-14 15:45
+date: 2012-09-14 15:45:00
 comments: true
 categories:
     - blogging

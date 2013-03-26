@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "back to basics"
-date: 2012-09-29 11:35
+date: 2012-09-29 11:35:00
 comments: true
 categories: software
 ---
