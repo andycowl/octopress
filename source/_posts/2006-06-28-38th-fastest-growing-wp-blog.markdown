@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "38th fastest growing WP blog"
+title: 38th fastest growing WP blog
 date: 2006-06-28 17:59
 comments: true
 categories:

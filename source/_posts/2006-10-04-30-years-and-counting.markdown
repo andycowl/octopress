@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "30 years and counting"
+title: 30 years and counting
 date: 2006-10-04 06:13
 comments: true
 categories:

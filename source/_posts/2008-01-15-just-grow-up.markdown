@@ -6,8 +6,8 @@ title: just grow up
 layout: post
 comments: true
 ---
-Reading: '[Thunderbolt
-Kid](http://www.amazon.co.uk/Life-Times-Thunderbolt-Kid/dp/0552772542/ref=sr_1_1?ie=UTF8&s=books&qid=1202929523&sr=1-1)'
+Reading:
+'[Thunderbolt Kid](http://www.amazon.co.uk/Life-Times-Thunderbolt-Kid/dp/0552772542/ref=sr_1_1?ie=UTF8&s=books&qid=1202929523&sr=1-1)'
 by Bill Bryson. Growing up in the States in the 1950's. This opening
 (recursive) quote sets the tone beautifully
 

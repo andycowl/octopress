@@ -6,8 +6,8 @@ title: Miles Kington and Giles Smith
 layout: post
 comments: true
 ---
-Saddened to read that [Miles
-Kington](http://www.independent.co.uk/news/media/miles-kington-polymath-wit-and-jazz-aficionado-dies-at-66-776222.html)
+Saddened to read that
+[Miles Kington](http://www.independent.co.uk/news/media/miles-kington-polymath-wit-and-jazz-aficionado-dies-at-66-776222.html)
 died recently at just 66.
 
 I used to really enjoy Kington's columns in The Independent. There

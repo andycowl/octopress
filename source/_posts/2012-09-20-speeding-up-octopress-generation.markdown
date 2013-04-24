@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "speeding up Octopress generation"
+title: speeding up Octopress generation
 date: 2012-09-20 14:43:00
 comments: true
 categories: 

@@ -12,10 +12,10 @@ people who I admire or have had a major influence on my life.
 I will post my 'open letter' and subsequently will post the individual's
 response (with their permission).
 
-To kick things off, an open letter sent in February 2008 to [Tony
-Hawks](http://en.wikipedia.org/wiki/Tony_Hawks) (UK author, comedian and
-occasional 'talking head' on those interminable BBC series that look
-back to the 1980's).
+To kick things off, an open letter sent in February 2008 to
+[Tony Hawks](http://en.wikipedia.org/wiki/Tony_Hawks)
+(UK author, comedian and occasional 'talking head' on those
+interminable BBC series that look back to the 1980's).
 
 Obviously, Tony has been very busy this year which must explain why I
 haven't had the common courtesy of a reply (yet).

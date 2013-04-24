@@ -14,6 +14,7 @@ child's first steps and birthday parties.
 
 Then, the night before you set out on your next summer holiday, the wife
 utters words that strike fear into the very heart of your soul:
+
 > 'Charge the camcorder batteries and have you transferred all the tapes
 > to video so we can re-use them ?'
 
@@ -65,13 +66,11 @@ software doesn't support video editing. You have to shell out &pound;50 for a
 separate product called Sony
 [Vegas](http://www.amazon.co.uk/gp/redirect.html?ie=UTF8&location=http://www.amazon.co.uk/Sony-Vegas-Movie-Studio-Platinum/dp/B000FTRZNG?ie=UTF8&s=software&qid=1188804870&sr=8-1&tag=paradiso&linkCode=ur2&camp=1634&creative=6738)![image](http://www.assoc-amazon.co.uk/e/ir?t=paradiso&l=ur2&o=2).
 
-Alternatively, you can use Windows [Movie
-Maker](http://www.microsoft.com/windowsxp/downloads/updates/moviemaker2.mspx)
+Alternatively, you can use Windows
+[Movie Maker](http://www.microsoft.com/windowsxp/downloads/updates/moviemaker2.mspx)
 (freely available with Windows) which is capable of importing the AVI
 files and actually editing clips. Even better, you can add opening
 titles, closing credits and an impressive fade effect as the socks are
-layout: post
-comments: true
 tossed into the wash basket.
 
 Your life is complete. You turn the computer off and forget all about
@@ -79,18 +78,20 @@ digital video technology.
 
 Until 8 weeks later, when you are going to visit the in-laws and the
 wife says:
+
 > 'My mum and dad would like to see the DVD of our holidays and that
 > alternative film you make about a pair of socks.'
 
 No problem. You simply turn the computer on, open the project and click
 'Burn to DVD'.
+
 Only you can't. Your computer doesn't have a DVD burner. No problem. You
 share the files to another computer and hit 'Burn to DVD'.
 
 Only you can't. Windows Movie Maker can't create DVD's.
 
-No problem. The computer happens to have a trial version of [Video
-Studio](http://www.amazon.co.uk/gp/redirect.html?ie=UTF8&location=http://www.amazon.co.uk/Corel-VideoStudio-11/dp/B000P5ZHZ8?ie=UTF8&s=software&qid=1188805595&sr=1-2&tag=paradiso&linkCode=ur2&camp=1634&creative=6738)![image](http://www.assoc-amazon.co.uk/e/ir?t=paradiso&l=ur2&o=2)
+No problem. The computer happens to have a trial version of
+[Video Studio](http://www.amazon.co.uk/gp/redirect.html?ie=UTF8&location=http://www.amazon.co.uk/Corel-VideoStudio-11/dp/B000P5ZHZ8?ie=UTF8&s=software&qid=1188805595&sr=1-2&tag=paradiso&linkCode=ur2&camp=1634&creative=6738)![image](http://www.assoc-amazon.co.uk/e/ir?t=paradiso&l=ur2&o=2)
 installed so you simply save the Movie Maker film as a new, large AVI
 file, import it, and click 'Burn to DVD'.
 
@@ -101,16 +102,16 @@ effort to preserve your sanity, you spontaneously splash out on an
 external hard disk drive with half a terabyte of storage dedicated to
 digital video data and a DVD writer.
 
-The [Freecom
-drive](http://www.amazon.co.uk/gp/redirect.html?ie=UTF8&location=http://www.amazon.co.uk/Freecom-Classic-500GB-External-Black/dp/B000UVRA34?ie=UTF8&s=electronics&qid=1188807017&sr=1-2&tag=paradiso&linkCode=ur2&camp=1634&creative=6738)![image](http://www.assoc-amazon.co.uk/e/ir?t=paradiso&l=ur2&o=2)
+The
+[Freecom drive](http://www.amazon.co.uk/gp/redirect.html?ie=UTF8&location=http://www.amazon.co.uk/Freecom-Classic-500GB-External-Black/dp/B000UVRA34?ie=UTF8&s=electronics&qid=1188807017&sr=1-2&tag=paradiso&linkCode=ur2&camp=1634&creative=6738)![image](http://www.assoc-amazon.co.uk/e/ir?t=paradiso&l=ur2&o=2)
 simply plugs into a USB port, has a separate power supply and works out
 of the box. No need to read the non-existent instructions. Oddly, the
 drive is formatted as FAT32 so you perform a quick format to NTFS and
 start copying files. Happily, the drive is quick and more importantly
 quiet.
 
-Similarly, the [LG DVD
-writer](http://www.amazon.co.uk/gp/redirect.html?ie=UTF8&location=http://www.amazon.co.uk/LG-GSA-E40L-External-Writer-Lightscribe/dp/B000Q7BHZO?ie=UTF8&s=electronics&qid=1188807193&sr=1-7&tag=paradiso&linkCode=ur2&camp=1634&creative=6738)![image](http://www.assoc-amazon.co.uk/e/ir?t=paradiso&l=ur2&o=2)
+Similarly, the
+[LG DVD writer](http://www.amazon.co.uk/gp/redirect.html?ie=UTF8&location=http://www.amazon.co.uk/LG-GSA-E40L-External-Writer-Lightscribe/dp/B000Q7BHZO?ie=UTF8&s=electronics&qid=1188807193&sr=1-7&tag=paradiso&linkCode=ur2&camp=1634&creative=6738)![image](http://www.assoc-amazon.co.uk/e/ir?t=paradiso&l=ur2&o=2)
 also plugs into another USB port and has a separate power supply. The
 drive includes a copy of Nero Express so you can finally burn the
 godforsaken video footage to DVD.

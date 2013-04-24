@@ -8,8 +8,8 @@ comments: true
 ---
 After over five varied and enjoyable years working for Siebel (and then
 Oracle) in Expert Services, I am changing jobs. However, I will continue
-to work for Oracle as part of the group responsible for '[Social
-CRM](http://www.oracle.com/applications/socialcrm/index.html)'.
+to work for Oracle as part of the group responsible for
+'[Social CRM](http://www.oracle.com/applications/socialcrm/index.html)'.
 
 Although this was a internal transfer, my interview process was quite
 unusual. Instead of being forced to massage my CV into Microsoft Word

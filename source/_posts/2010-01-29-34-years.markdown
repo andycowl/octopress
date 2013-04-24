@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "34 years"
+title: 34 years
 date: 2010-01-29 10:56
 comments: true
 categories:

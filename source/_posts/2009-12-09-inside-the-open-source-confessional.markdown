@@ -9,24 +9,25 @@ comments: true
 'Dear Father - It is 6 weeks since my last confession. Since then I
 have...'
 
--   Installed [Thunderbird
-    3](http://www.mozillamessaging.com/en-US/thunderbird/3.0/releasenotes/)
+-   Installed
+    [Thunderbird 3](http://www.mozillamessaging.com/en-US/thunderbird/3.0/releasenotes/)
     which handles all my work email. This upgrade went smoothly enough
     although there were some minor glitches with server authentication
     and message filters. Thunderbird 3 adds tabs, UI enhancements, IMAP
     synchronisation, much needed improvements to the address book in
     addition to faster searching.
 
--   Upgraded my desktop PC to Linux [Mint
-    8](http://www.linuxmint.com/blog/?p=1155). Again, this went smoothly
+-   Upgraded my desktop PC to Linux
+    [Mint 8](http://www.linuxmint.com/blog/?p=1155).
+    Again, this went smoothly
     enough, mainly because I did a full blown install while carefully
     preserving my user data. Until Linux upgrades are 'rolling' and as
     easy as applying a Windows Service Pack, Linux will never succeed in
     the mainstream.
 
--   Installed [Google
-    Chrome](http://www.google.com/chrome?platform=linux&hl=en) on Mint
-    8. This was probably the only software I missed from Windows and
+-   Installed
+    [Google Chrome](http://www.google.com/chrome?platform=linux&hl=en)
+    on Mint 8. This was probably the only software I missed from Windows and
     God, I had forgotten how much faster Chrome is than Firefox. Chrome
     is blindingly fast on Linux, staggeringly fast, unbelievably fast.
 

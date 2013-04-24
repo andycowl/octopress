@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "361 days to go"
+title: 361 days to go
 date: 2006-11-09 23:45
 comments: true
 categories:

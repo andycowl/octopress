@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "30 second guide to data warehousing"
+title: 30 second guide to data warehousing
 date: 2006-07-13 21:16
 comments: true
 categories:

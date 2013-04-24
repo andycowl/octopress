@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "25 reasons you should use Disqus"
+title: 25 reasons you should use Disqus
 date: 2008-04-09 14:16
 comments: true
 categories:

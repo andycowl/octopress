@@ -15,8 +15,9 @@ three red rings of death.'
 'Just have an aspirin and sit down quietly for a bit. Your mum will be
 back soon.'
 
-'No Dad - not me. It's my XBox. It has the dreaded [three red
-rings](http://support.microsoft.com/kb/907534) of death and won't boot.'
+'No Dad - not me. It's my XBox. It has the dreaded
+[three red rings](http://support.microsoft.com/kb/907534)
+of death and won't boot.'
 
 And so we embarked on a prolonged saga that involved a fruitless hunt
 for a two year old receipt that revealed plenty of interesting long lost

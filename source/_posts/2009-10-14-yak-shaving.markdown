@@ -49,8 +49,8 @@ original tiny, little seed in my brain which was now turning into a long
 running saga and a complete waste of time and effort. Just to get back
 to where we had started. Almost.
 
-This whole exercise was a classic example of [Yak
-shaving](http://sethgodin.typepad.com/seths_blog/2005/03/dont_shave_that.html)
+This whole exercise was a classic example of
+[Yak shaving](http://sethgodin.typepad.com/seths_blog/2005/03/dont_shave_that.html)
 as its finest. I was justifiably proud of myself.
 
 I decided to postpone the Linux experiment to another day and simply

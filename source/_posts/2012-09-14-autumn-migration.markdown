@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Autumn migration"
+title: Autumn migration
 date: 2012-09-14 14:45:00
 comments: true
 categories:

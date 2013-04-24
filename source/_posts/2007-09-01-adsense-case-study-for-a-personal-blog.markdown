@@ -9,8 +9,8 @@ comments: true
 One of the reasons I
 [decided](http://www.nbrightside.com/blog/2007/05/23/sit-back-and-watch-the-money-roll-in/)
 to put Adsense on this blog was out of sheer curiosity. There are plenty
-of Google sponsored [case
-studies](https://www.google.com/adsense/static/en_US/Success.html)
+of Google sponsored
+[case studies](https://www.google.com/adsense/static/en_US/Success.html)
 available from American shoe shops that significantly increased sales
 and revenues using Adsense.
 
@@ -60,4 +60,3 @@ Some more facts and figures:
 -   Least lucrative click: $0.01 (yes, 1 cent)
 -   Best day: 5 June 2007 ($2.16)
 -   Worst day: $0.00 (too many to mention)
-

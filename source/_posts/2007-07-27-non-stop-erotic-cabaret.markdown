@@ -42,8 +42,8 @@ already stripped down to my vest and boxers.
 
 I immediately and rapidly got dressed again and ordered 'The Chef's
 Choice'. Fortunately, I was able to bury my head in the July-August
-2007 copy of [Oracle
-Magazine](http://www.oracle.com/technology/oramag/oracle/07-jul/index.html)
+2007 copy of
+[Oracle Magazine](http://www.oracle.com/technology/oramag/oracle/07-jul/index.html)
 to avoid the stares of my fellow diners.
 
 Originally, I was going to savour this fine publication with my

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Amazon customer service"
+title: Amazon customer service
 date: 2012-10-08 10:21:00
 comments: true
 categories:

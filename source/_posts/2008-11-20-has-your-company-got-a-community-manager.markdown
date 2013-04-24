@@ -22,8 +22,8 @@ in the last round of funding (March 2008).
 So it's not surprising that Disqus are growing and hiring people.
 However, what fascinates me is that in addition to hiring talented
 developers to develop, improve, enhance and fix the product, Disqus have
-recently appointed Giannii as a '[Community
-Manager](http://blog.disqus.net/2008/11/19/what-is-a-communty-manager-who-is-giannii/)'.
+recently appointed Giannii as a
+'[Community Manager](http://blog.disqus.net/2008/11/19/what-is-a-communty-manager-who-is-giannii/)'.
 
 Ignoring the lack of a surname and some of the Web 2.0 terms sprinkled
 in this introductory post; for example, 'Chief Happiness Engineer' is

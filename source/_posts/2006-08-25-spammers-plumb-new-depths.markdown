@@ -7,8 +7,8 @@ layout: post
 comments: true
 ---
 > Rugby players spend a lot of time physical training Compared to other
-> form of sports. I have read the [Rugby
-> laws](http://www.creekrugby.com/) mentioned on this site. It's a
+> form of sports. I have read the
+> [Rugby laws](http://www.creekrugby.com/) mentioned on this site. It's a
 > gripping sport which targets the grip strength and the active
 > mindedness of a player. American football and rugby league are also
 > primarily collision sports, but their tackles tend to terminate much

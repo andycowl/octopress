@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "the awkward second post"
+title: the awkward second post
 date: 2012-09-14 19:07:00
 comments: true
 categories:

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Diamond Geezer's audience"
+title: Diamond Geezer's audience
 date: 2012-10-01 09:54:00
 comments: true
 categories: blogging

@@ -19,8 +19,8 @@ Unfortunately I discovered that, contrary to the documentation,
 Thunderbird 1.5.0.5 does not appear to automatically apply all filters
 to new messages in 'Local Folders-Inbox'. Sigh.
 
-Then I was cheered up to discover this humble blog is the '[Featured
-Blog](http://flickr.com/photos/70276096@N00/236866211/)' for
+Then I was cheered up to discover this humble blog is the
+'[Featured Blog](http://flickr.com/photos/70276096@N00/236866211/)' for
 [Siebel](http://wordpress.com/tag/siebel/) on WordPress.com.
 
 Well when I say 'Featured', maybe the only blog mentioning 'Siebel' on

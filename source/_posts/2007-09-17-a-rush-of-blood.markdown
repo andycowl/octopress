@@ -7,8 +7,8 @@ layout: post
 comments: true
 ---
 I'm not normally a sucker for these free, pyramid style, link exchange
-schemes to drive more traffic to your blog but as
-simply[everyone](http://www.problogger.net/archives/2007/09/17/tips-for-using-blogrush-to-generate-traffic-for-your-blog/)
+schemes to drive more traffic to your blog but as simply
+[everyone](http://www.problogger.net/archives/2007/09/17/tips-for-using-blogrush-to-generate-traffic-for-your-blog/)
 is not just
 [talking](http://www.shoemoney.com/2007/09/16/how-to-get-45k-impressions-a-day-from-blogrush/)
 [about](http://www.doshdosh.com/blogrush-review-using-widgets-for-blog-traffic/)
@@ -25,6 +25,7 @@ this media fuelled
 little overblown and as I have a contrarian investing style, I have just
 purchased &pound;5,000 worth of
 [NRK](http://finance.google.com/finance?q=LON:NRK) shares at &pound;3.10
-waiting for the '[dead cat
-bounce](http://en.wikipedia.org/wiki/Dead_cat_bounce)'. The shares are
-currently trading at ~~&pound;2.93~~, ~~&pound;2.80~~, &pound;2.69...
+waiting for the
+'[dead cat bounce](http://en.wikipedia.org/wiki/Dead_cat_bounce)'.
+
+The shares are currently trading at ~~&pound;2.93~~, ~~&pound;2.80~~, &pound;2.69...

@@ -16,6 +16,7 @@ Everyone loves meaningful statistics so here is a pretty chart of posts
 by month (for all you management types):
 
 ![image](http://spreadsheets.google.com/pub?key=pHBwkjgvEIx6vrJYL9mbCcQ&oid=7&output=image)
+
 Curiously, since I returned from my holiday, I seem to have rediscovered
 a little of my zest for blogging. Also, I have a feeling that things are
 gradually turning full circle. My initial decision to dip my toe in the
@@ -27,8 +28,9 @@ humanly possible simply in order to say 'Done'.
 Over the weekend, I spent time enjoying some
 [brilliant](http://diamondgeezer.blogspot.com/2005_07_01_archive.html#112192551110319719)
 [posts](http://diamondgeezer.blogspot.com/2005_09_01_diamondgeezer_archive.html#112615864053932787)
-from the dusty archives of one of my favourite UK bloggers - [Diamond
-Geezer](http://diamondgeezer.blogspot.com) (pseudonym alert). This, in
+from the dusty archives of one of my favourite UK bloggers -
+[Diamond Geezer](http://diamondgeezer.blogspot.com) (pseudonym alert).
+This, in
 turn, (via his blogroll) led to the discovery of a handful of other
 [interesting](http://www.dummies-for-destruction.co.uk/random/) and
 downright

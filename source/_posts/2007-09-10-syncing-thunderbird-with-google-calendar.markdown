@@ -12,8 +12,7 @@ extension which provides an embedded calendar
 ([Sunbird](http://www.mozilla.org/projects/calendar/sunbird/)) within
 Thunderbird.
 
-This is made even more useful by the addition of the [Provider for
-Google
-Calendar](https://addons.mozilla.org/en-US/thunderbird/addon/4631)
+This is made even more useful by the addition of the
+[Provider for Google Calendar](https://addons.mozilla.org/en-US/thunderbird/addon/4631)
 add-on that enables seamless, two way synchronisation between Google
 Calendar and Thunderbird.

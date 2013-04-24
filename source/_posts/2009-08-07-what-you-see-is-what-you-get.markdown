@@ -12,8 +12,8 @@ a feed reader.
 
 Both of you.
 
-Many thanks to arthus (possible pseudonym alert) aka [Morgante
-Pell](http://newlyancient.com/about) (additional pseudonym alert) for
-creating the
+Many thanks to arthus (possible pseudonym alert) aka
+[Morgante Pell](http://newlyancient.com/about)
+(additional pseudonym alert) for creating the
 [plugin](http://trac.habariproject.org/habari-extras/changeset/2193)
 that made this possible and the death of autop().

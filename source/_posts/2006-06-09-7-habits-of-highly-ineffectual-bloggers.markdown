@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "7 habits of highly ineffectual bloggers"
+title: 7 habits of highly ineffectual bloggers
 date: 2006-06-09 16:23
 comments: true
 categories:

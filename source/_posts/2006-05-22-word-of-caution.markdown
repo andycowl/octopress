@@ -12,8 +12,8 @@ with 'No thanks. I already get enough spam email'.
 
 I finally capitulated as an increasing number of people I knew had
 signed up. In any case, I was getting increasingly desperate in my
-search for [Janet
-Oldsgate](http://www.nbrightside.com/blog/2005/12/09/probably-the-best-phish-in-the-world/).
+search for
+[Janet Oldsgate](http://www.nbrightside.com/blog/2005/12/09/probably-the-best-phish-in-the-world/).
 
 However, if you have any reason to interact with a recruitment agent for
 any reason, think long and hard before adding him to your network.

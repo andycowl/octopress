@@ -6,8 +6,8 @@ title: that was the week that was
 layout: post
 comments: true
 ---
-After a detailed, comprehensive '[root and
-branch](http://news.bbc.co.uk/sport1/hi/football/internationals/7100393.stm)'
+After a detailed, comprehensive
+'[root and branch](http://news.bbc.co.uk/sport1/hi/football/internationals/7100393.stm)'
 inspection, the English FA have discovered that the organisation bears
 no resemblence to a national Football Association and is, in fact, a
 Christmas tree - a mid-range Norwegian pine (non-drop) to be precise.

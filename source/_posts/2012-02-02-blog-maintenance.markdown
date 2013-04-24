@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "blog maintenance"
+title: blog maintenance
 date: 2012-02-02 09:39:00
 comments: true
 categories:

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "the resurrection of Google Reader"
+title: the resurrection of Google Reader
 date: 2009-08-21 08:14
 comments: true
 categories:

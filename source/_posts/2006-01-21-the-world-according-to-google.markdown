@@ -6,10 +6,10 @@ title: The world according to Google
 layout: post
 comments: true
 ---
-Tonight's Money Programme ('['The world according To
-Google](http://news.bbc.co.uk/2/hi/business/4598090.stm)') on BBC2 was
-about the history, the success and the possible future diversification
-of the popular search engine, Google.
+Tonight's Money Programme ('
+['The world according To Google](http://news.bbc.co.uk/2/hi/business/4598090.stm)')
+on BBC2 was about the history, the success and the possible future
+diversification of the popular search engine, Google.
 
 Now I use Google a lot and to me it is an excellent, fast, free service.
 I can hardly ever recall clicking on an ad that was presented alongside

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "1GB memory stick"
+title: 1GB memory stick
 date: 2006-04-19 06:58
 comments: true
 categories:

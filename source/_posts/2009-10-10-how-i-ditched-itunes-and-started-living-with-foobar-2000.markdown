@@ -7,8 +7,8 @@ title: how I ditched iTunes and started living with Foobar 2000
 layout: post
 comments: true
 ---
-[Obligatory hat tip to '[How to stop defragmenting and start
-living](http://www.oracle.com/technology/deploy/availability/pdf/defrag.pdf)'.
+[Obligatory hat tip to
+'[How to stop defragmenting and start living](http://www.oracle.com/technology/deploy/availability/pdf/defrag.pdf)'.
 As an aside, if you're an Oracle DBA and haven't read this whitepaper,
 please do so. Now.]
 
@@ -138,8 +138,7 @@ Another couple of useful extensions for Foobar:
 -   [Audioscrobbler](http://www.foobar2000.org/components/view/foo_audioscrobbler)
     - to upload my played songs (including those on iTouch) to
     [last.fm](http://www.last.fm/user/andycowl)
--   [Playback
-    statistics](http://www.foobar2000.org/components/view/foo_playcount)
+-   [Playback statistics](http://www.foobar2000.org/components/view/foo_playcount)
     - generates 'Recently Played' playlist.
 
 Although I am now blissfully almost iTunes free, I still need to use

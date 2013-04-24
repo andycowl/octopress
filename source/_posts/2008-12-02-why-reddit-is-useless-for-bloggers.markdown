@@ -30,10 +30,10 @@ dog food' post when it appeared on identi.ca and FriendFeed. This isn't
 unusual (for me, at least) - the same pattern happens with any new blog
 content.
 
-My very good friend and Oracle colleague, the right honourable [Emperor
-of Ontario](http://friendfeed.com/ontarioemperor) (possible pseudonym
-alert) had recently [signed
-up](http://mrontemp.blogspot.com/2008/11/why-i-done-joined-reddit.html)
+My very good friend and Oracle colleague, the right honourable
+[Emperor of Ontario](http://friendfeed.com/ontarioemperor)
+(possible pseudonym alert) had recently
+[signed up](http://mrontemp.blogspot.com/2008/11/why-i-done-joined-reddit.html)
 to [reddit.com](http://www.reddit.com/) and was curious about the viral
 effect of reddit and how it might be used to help generate traffic to a
 blog.

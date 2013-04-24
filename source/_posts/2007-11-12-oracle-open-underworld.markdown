@@ -53,9 +53,9 @@ fun micro-[interviews](http://awads.net/wp/tag/openworld07/) with Oracle
 staff and bloggers alike. Interesting to put a face and voice to people
 I only know from their Internet presence.
 
-The other announcement thus far of note is [Oracle
-VM](http://www.oracle.com/technologies/virtualization/index.html).
+The other announcement thus far of note is
+[Oracle VM](http://www.oracle.com/technologies/virtualization/index.html).
 Virtualisation is a strong growth area (I meet lots of Siebel customers
 deploying or planning to use VM) and this is an obvious market for
-Oracle to enter to complement [Enterprise
-Linux](http://www.oracle.com/technologies/linux/index.html).
+Oracle to enter to complement
+[Enterprise Linux](http://www.oracle.com/technologies/linux/index.html).

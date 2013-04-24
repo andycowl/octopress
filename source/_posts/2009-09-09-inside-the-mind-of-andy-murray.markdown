@@ -19,12 +19,13 @@ Occasionally, I have even stalked him by scanning his
 [Twitter](http://twitter.com/andy_murray) stream. Yes, it's genuine.
 
 I'm not a pathetic 'Little Englander' who hates Andy Murray simply
-because he once said '[anyone but
-England](http://news.bbc.co.uk/1/hi/scotland/5128028.stm)' on radio 5
-during the 2006 World Cup. I thought it was a funny response during an
-amusing exchange of banter with the interviewer, fellow Scot Nicky
-Campbell, and his English friend, Tim Henman. Each and every one of my
-Scottish friends would have said precisely the same thing.
+because he once said
+'[anyone but England](http://news.bbc.co.uk/1/hi/scotland/5128028.stm)'
+on radio 5 during the 2006 World Cup. I thought it was a funny
+response during an amusing exchange of banter with the interviewer,
+fellow Scot Nicky Campbell, and his English friend, Tim Henman. Each
+and every one of my Scottish friends would have said precisely the
+same thing.
 
 Since my own lad started playing junior tennis at a competitive level,
 my admiration for what Murray has already achieved (No.2 in the world)
@@ -33,10 +34,12 @@ will win a major tennis tournament in the not too distant future stems
 from an incident a couple of years ago.
 
 I was watching my son play in a junior Surrey tennis competition held at
-the [National Tennis
-Centre](http://www.lta.org.uk/About-Us/National-Tennis-Centre/) in
-Roehampton. I was walking around the 22 courts, admiring the excellent
-facilities and killing time before he played his first match.
+the
+[National Tennis
+Centre](http://www.lta.org.uk/About-Us/National-Tennis-Centre/)
+in Roehampton. I was walking around the 22 courts, admiring the
+excellent facilities and killing time before he played his first
+match.
 
 I walked along a balcony overlooking four, immaculate indoor courts.
 Andy Murray was warming up with his coaching team. They were playing

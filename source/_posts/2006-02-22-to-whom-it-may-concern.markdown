@@ -54,8 +54,8 @@ Well - did you agree with my
 Come on. I am holding my sides in anticipation.
 > persian kittens teething
 
-You see. There are people out there who blog about [Persian
-cats](http://www.nbrightside.com/blog/2005/11//07/how-to-get-ideas-for-your-blog/).
+You see. There are people out there who blog about
+[Persian cats](http://www.nbrightside.com/blog/2005/11//07/how-to-get-ideas-for-your-blog/).
 
 > quickie at work
 

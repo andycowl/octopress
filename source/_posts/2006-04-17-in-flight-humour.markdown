@@ -7,8 +7,8 @@ layout: post
 comments: true
 ---
 I enjoyed these [quotes](http://funny2.com/inflight.htm) from airline
-staff with a sense of humour (via [Tom
-Kyte](http://tkyte.blogspot.com/2006/04/just-for-fun.html)).
+staff with a sense of humour (via 
+[Tom Kyte](http://tkyte.blogspot.com/2006/04/just-for-fun.html)).
 
 A couple of years ago, I was on a British Airways flight that was making
 its final approach to some anonymous airport in Scandanavia.

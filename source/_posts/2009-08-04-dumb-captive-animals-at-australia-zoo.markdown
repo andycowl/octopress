@@ -6,10 +6,10 @@ title: dumb, captive animals at Australia zoo
 layout: post
 comments: true
 ---
-I'm not a big fan of zoos but in Brisbane, we visited [Australia
-Zoo](http://www.australiazoo.com.au/about-us/the-irwins/) as it had been
-recommended by a few people. Also, we were keen to see some native
-Australian wildlife during our stay.
+I'm not a big fan of zoos but in Brisbane, we visited
+[Australia Zoo](http://www.australiazoo.com.au/about-us/the-irwins/)
+as it had beenrecommended by a few people. Also, we were keen to
+see some native Australian wildlife during our stay.
 
 I also assumed that Steve Irwin would ensure that the animals were kept
 in a natural and humane environment. We all enjoyed the day out. We saw

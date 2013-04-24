@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "8 things"
+title: 8 things
 date: 2008-01-09 04:52
 comments: true
 categories:

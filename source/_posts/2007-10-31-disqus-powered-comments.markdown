@@ -31,13 +31,14 @@ Comments can be rated and the comments are hosted on Disqus forums.
 Paul Stamatiou wrote a excellent
 [review](http://paulstamatiou.com/2007/10/30/disqus-officially-launches/)
 about the features in Disqus and Techcrunch
-also[reviewed](http://www.techcrunch.com/2007/10/30/disqus-joins-the-battle-for-your-blogs-comments/)
+also
+[reviewed](http://www.techcrunch.com/2007/10/30/disqus-joins-the-battle-for-your-blogs-comments/)
 the software.
 
 I have some minor concerns:
 
--   I currently use [Spam
-    Karma](http://www.nbrightside.com/blog/2007/07/10/out-with-the-old-in-with-the-new/)
+-   I currently use
+    [Spam Karma](http://www.nbrightside.com/blog/2007/07/10/out-with-the-old-in-with-the-new/)
     to handle comment spam on this blog. SK2 is unbelievably efficient
     and far superior than Akismet. I can count on the fingers of one
     hand, the number of comments and trackback spam that got past SK2 so

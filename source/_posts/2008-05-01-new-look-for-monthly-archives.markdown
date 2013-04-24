@@ -12,5 +12,5 @@ for Habari which is now installed on this blog.
 
 I realise that I'm probably the only person to ever scan the historical
 [archives](http://www.nbrightside.com/blog/archives) but I really like
-it so, once again, many thanks to [Chris
-Meller](http://incoherentbabble.com/) and the Habari community.
+it so, once again, many thanks to 
+[Chris Meller](http://incoherentbabble.com/) and the Habari community.

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "30 second guide to musical taste"
+title: 30 second guide to musical taste
 date: 2008-05-19 21:19
 comments: true
 categories:
@@ -29,8 +29,7 @@ here is another in the very occasional and popular ‘30 second’ series:
     ?’
 -   ‘70’s time warp’ - You have a penchant for vinyl, Pink Floyd and Led
     Zeppelin. Seek medical help immediately.
--   ‘Unbelievably varied’ - Your name (pseudonym alert) is [Ontario
-    Emperor][].
+-   ‘Unbelievably varied’ - Your name (pseudonym alert) is [Ontario Emperor][].
 
   [Test Department]: http://en.wikipedia.org/wiki/Test_Dept
   [Ontario Emperor]: http://www.last.fm/user/ontarioemperor/

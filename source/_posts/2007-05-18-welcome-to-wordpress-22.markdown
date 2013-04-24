@@ -6,9 +6,9 @@ title: Welcome to WordPress 2.2
 layout: post
 comments: true
 ---
-I don't know what I did wrong but I just upgraded to [WordPress
-2.2](http://wordpress.org/development/2007/05/wordpress-22/) and
-everything still works.
+I don't know what I did wrong but I just upgraded to
+[WordPress 2.2](http://wordpress.org/development/2007/05/wordpress-22/)
+and everything still works.
 
 -   Download WordPress 2.2
     [distribution](http://wordpress.org/download/) and read

@@ -24,9 +24,9 @@ CPU at 100% when I am trying to watch important music
 
 I wouldn't mind but that is with 'Norton Internet Security' disabled !
 
-So, farewell then, Norton Internet Security/AntiVirus. Thanks to [Tim
-Hall](http://www.oracle-base.com/blog/), I am now using the freely
-available
+So, farewell then, Norton Internet Security/AntiVirus. Thanks to
+[Tim Hall](http://www.oracle-base.com/blog/),
+I am now using the freely available
 [AVG](http://www.oracle-base.com/blog/2006/04/07/pc-support-tips/) and
 the firewall provided with my Linksys wireless
 [router](http://www.nbrightside.com/blog/2006/04/17/more-wireless-fun/).

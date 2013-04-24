@@ -14,8 +14,8 @@ amount and quality of software available for Linux. Printing,
 scanning, wireless networking, audio, DVD writing and all my USB
 devices just work.
 
-I don't have a [virus
-scanner](http://www.nbrightside.com/blog/2006/07/22/so-farewell-then-nis/)
+I don't have a
+[virus scanner](http://www.nbrightside.com/blog/2006/07/22/so-farewell-then-nis/)
 consuming memory and chewing clock cycles. I am no longer considering
 a memory upgrade as Linux works fine with my paltry 512MB.
 
@@ -90,8 +90,7 @@ directories. Check the checksums. Check the backups are
 readable. Check the hidden directories. Check the backup disk isn't
 full. Check everything.  
 
-- Burn the Install CD and install the
-'upgrade'.  
+- Burn the Install CD and install the 'upgrade'.  
 
 - Preserve the '/home' and '/data' file systems, leaving
 all existing data intact. You did remember to jot down that '/home' is

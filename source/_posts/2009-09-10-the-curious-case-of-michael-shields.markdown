@@ -6,14 +6,14 @@ title: the curious case of Michael Shields
 layout: post
 comments: true
 ---
-I believe [Michael
-Shields](http://www.telegraph.co.uk/news/uknews/1495692/Innocent-gentle-giant-Or-remorseless-thug-guilty-of-attempted-murder.html)
+I believe
+[Michael Shields](http://www.telegraph.co.uk/news/uknews/1495692/Innocent-gentle-giant-Or-remorseless-thug-guilty-of-attempted-murder.html)
 is guilty of attempted murder by dropping a paving slab on a Bulgarian
 waiter's head, putting him in a coma for 4 days.
 
 I find it worrying and bizarre that Jack Straw sees fit to grant Michael
-Shields a '[Royal
-Pardon](http://www.timesonline.co.uk/tol/news/uk/crime/article6827249.ece)'
+Shields a
+'[Royal Pardon](http://www.timesonline.co.uk/tol/news/uk/crime/article6827249.ece)'
 in the light of an 'oral confession' made by another individual when
 Shields' parents just happened to pay him a visit.
 

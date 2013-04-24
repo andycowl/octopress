@@ -7,9 +7,9 @@ layout: post
 comments: true
 ---
 As we meandered our way through Western Australia, we took a taxi from
-the rather mediocre accommodation provided by '[Ocean
-Lodge](http://www.oceanlodge.com.au/)' to Broome airport to fly back
-home via Darwin.
+the rather mediocre accommodation provided by
+'[Ocean Lodge](http://www.oceanlodge.com.au/)'
+to Broome airport to fly back home via Darwin.
 
 As we turned a corner on a deserted road, an Aboriginal woman and her
 daughter crossed the road in front of us. They looked up before crossing
@@ -21,6 +21,7 @@ speed and turned to me in the passenger seat:
 
 I simply couldn't believe my ears. I looked at the driver's smiling face
 and replied:
+
 > 'Still - they were here first, weren't they ?'
 
 An awkward silence followed. I could feel my wife's eyes drilling into
@@ -28,6 +29,7 @@ the back of my head and even the children looked a little uncomfortable
 at the chilly atmosphere.
 
 Cogs slowly turned. The driver paused and then retorted:
+
 > 'Yeah - they were here first alright but that doesn't mean they should
 > get an allowance to keep four dogs though.'
 

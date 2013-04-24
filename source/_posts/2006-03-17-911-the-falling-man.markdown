@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "9/11 - The Falling Man"
+title: 9/11 - The Falling Man
 date: 2006-03-17 05:10
 comments: true
 categories:

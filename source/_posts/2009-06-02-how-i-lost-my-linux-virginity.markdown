@@ -8,8 +8,9 @@ comments: true
 ---
 This week I am attending an excellent training course on Linux System
 Administration at Oracle's offices in Moorgate, near London. The course
-is given by [Harald van
-Breederode](http://prutser.wordpress.com/about/), an excellent trainer
+is given by
+[Harald van Breederode](http://prutser.wordpress.com/about/), 
+an excellent trainer
 who manages to combine deep technical, real-life expertise with a rare
 ability to explain complex things in simple terms with a sense of
 humour.

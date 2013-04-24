@@ -6,9 +6,9 @@ title: in praise of Mark Burgess
 layout: post
 comments: true
 ---
-A long time ago, there was a unique band called [The
-Chameleons](http://www.thechameleons.com/) who hailed from Middleton,
-Manchester.
+A long time ago, there was a unique band called
+[The Chameleons](http://www.thechameleons.com/)
+who hailed from Middleton, Manchester.
 
 Like a lot of bands, The Chameleons made some records, built up a
 dedicated following, played lots of gigs and then split up.

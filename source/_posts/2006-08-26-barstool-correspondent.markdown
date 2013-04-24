@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "barstool correspondent"
+title: barstool correspondent
 date: 2006-08-26 18:07
 comments: true
 categories:

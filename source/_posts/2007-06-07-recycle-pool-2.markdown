@@ -6,8 +6,8 @@ date: 2007-06-07 18:37:48
 categories:
     - blogging
 ---
-Welcome to the long delayed and much anticipated issue 2 of '[Recycle
-Pool](http://www.nbrightside.com/blog/2006/12/01/murky-depths-of-the-recycle-pool/)'.
+Welcome to the long delayed and much anticipated issue 2 of
+'[Recycle Pool](http://www.nbrightside.com/blog/2006/12/01/murky-depths-of-the-recycle-pool/)'.
 
 We did have a world famous guest writer lined up for this month's
 edition but, unfortunately, he got cold feet and decided to pull out

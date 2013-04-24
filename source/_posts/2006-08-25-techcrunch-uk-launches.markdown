@@ -9,6 +9,4 @@ comments: true
 TechCrunch (with a focus on the UK)
 [launches](http://uk.techcrunch.com/).
 
-[Via
-[BlogHerald](http://www.blogherald.com/2006/08/24/techcrunch-uk-launches-in-english/)
-]
+[Via [BlogHerald](http://www.blogherald.com/2006/08/24/techcrunch-uk-launches-in-english/)]

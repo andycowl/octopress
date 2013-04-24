@@ -51,8 +51,8 @@ built, on request.
 
 Now I believe this is a much neater solution. No need for the user to
 specify where the file should be placed. Less work for the plugin to do.
-Much cleaner. Much simpler. Credit to the author, [Andrew da
-Silva](http://andrewdasilva.com/).
+Much cleaner. Much simpler. Credit to the author,
+[Andrew da Silva](http://andrewdasilva.com/).
 
 The lesson I learned was that just because something has always been
 done that way doesn't necessarily mean it can only be done that way.

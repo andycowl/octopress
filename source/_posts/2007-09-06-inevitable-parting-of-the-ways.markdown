@@ -52,7 +52,7 @@ I am now installed in the Hilton which is bland and very overpriced but
 it's like going into Macdonalds, you know exactly what you are going to
 get.
 
-Pity really as the Dutch version of '[Flowery
-Twats](http://www.nbrightside.com/blog/2006/11/16/flowery-twats/)' would
-undoubtedly have provided a wealth of valuable blogging material for the
+Pity really as the Dutch version of
+'[Flowery Twats](http://www.nbrightside.com/blog/2006/11/16/flowery-twats/)'
+would undoubtedly have provided a wealth of valuable blogging material for the
 next 48 hours.

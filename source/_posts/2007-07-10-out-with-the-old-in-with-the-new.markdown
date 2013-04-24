@@ -24,8 +24,8 @@ A little research revealed a possible alternative -
 loosely aware of Spam Karma from the footer in Tim Hall's excellent
 [blog](http://www.oracle-base.com/blog)
 
-> This blog is protected by [dr
-> Dave](http://unknowngenius.com/blog/ "Dave")'s Spam Karma 2: 23182
+> This blog is protected by
+> [dr Dave](http://unknowngenius.com/blog/ "Dave")'s Spam Karma 2: 23182
 > Spams eaten and counting...
 
 as well as Andy Beard's positive

@@ -14,9 +14,9 @@ Inevitably, the lounge filled up with business types trying to impress
 everyone else by speaking loudly on their slimline toy phones.
 
 A gentleman came and sat down next to me. He fetched an orange juice and
-two packets of delicious [Kettle
-Chips](http://www.kettlefoods.co.uk/site/HomePage.do?id=501.54) (Sea
-Salt with crushed black peppercorns and Mature Cheddar and Chives) to
+two packets of delicious
+[Kettle Chips](http://www.kettlefoods.co.uk/site/HomePage.do?id=501.54)
+(Sea Salt with crushed black peppercorns and Mature Cheddar and Chives) to
 occupy himself for the next 25 minutes.
 
 Now Kettle Chips are very tasty and I am quite partial to a packet

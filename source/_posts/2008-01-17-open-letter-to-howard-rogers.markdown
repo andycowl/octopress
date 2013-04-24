@@ -42,9 +42,9 @@ and the fact they once killed a man with their bare hands in the Burmese
 jungle.
 
 So why, I hear you ask, did I capitulate, run towards the cliff and
-conjure up a disposable blog entry titled '[8
-things](http://www.nbrightside.com/blog/2008/01/09/8-things/)' ? Well,
-the truth is I thought it was a cheap post, I was short on inspiration
+conjure up a disposable blog entry titled
+'[8 things](http://www.nbrightside.com/blog/2008/01/09/8-things/)' ?
+Well, the truth is I thought it was a cheap post, I was short on inspiration
 and there was some elements I wanted to write about which don't merit a
 full blog post but were better suited to a short bullet point.
 
@@ -62,8 +62,8 @@ I occasionally [commented](http://blogs.oracle.com/otn/2008/01/11#a1188)
 myself and you normally responded. Not, I suspect to get the last word
 but you genuinely care. A lot. I admired your passion and felt somehow
 inadequate that I had spontaneously chosen to respond to what some
-Oracle bloggers (unwisely IMHO) had termed a '[chain
-letter](http://oracledoug.com/serendipity/index.php?/archives/1375-I-hate-chain-letters-....html)',
+Oracle bloggers (unwisely IMHO) had termed a
+'[chain letter](http://oracledoug.com/serendipity/index.php?/archives/1375-I-hate-chain-letters-....html)',
 '[spam](http://awads.net/wp/2008/01/10/i-am-a-spammer-and-so-are-you-if-you-played-the-tag-game/)'
 or a '[game](http://oracleappslab.com/2008/01/11/so-very-tired/)'.
 

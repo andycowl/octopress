@@ -7,9 +7,9 @@ layout: post
 comments: true
 ---
 I have tried many times, in many different places, to articluate the
-idea that micro-blogging reduces ones blogging output but [Russell
-Beattie](http://www.russellbeattie.com/blog/about) completely expresses
-my thoughts on the subject in this brilliant
+idea that micro-blogging reduces ones blogging output but
+[Russell Beattie](http://www.russellbeattie.com/blog/about)
+completely expresses my thoughts on the subject in this brilliant
 [article](http://www.russellbeattie.com/blog/tweets-kill-that-blogging-urge).
 
 > 'Tweeting totally takes away that blogging urge from me... Once I
@@ -37,8 +37,8 @@ to Michael...
 > Twitter is just the ultimate in 'disposable' blogging. All that crap
 > posted from Heathrow T5 just fills my time in. It's hardly earth
 > shattering, is it ? God - I can't remember any of those stupid tweets
-> (apart from the lads in [Yellow
-> Lurex](http://andyc.tumblr.com/post/30359550/12-men-clad-in-yellow-lyrca-bound-for-munich-from)
+> (apart from the lads in
+> [Yellow Lurex](http://andyc.tumblr.com/post/30359550/12-men-clad-in-yellow-lyrca-bound-for-munich-from)
 > suits that was pretty funny) let alone be proud of all those throwaway
 > one-liners.
 

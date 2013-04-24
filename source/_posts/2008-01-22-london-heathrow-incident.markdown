@@ -31,9 +31,9 @@ and the aftermath:
     defines an accident as 'an occurrence during the period of operation
     of an aircraft where the aircraft incurs damage'.
 -   A man from Oxford who walked away with his life would have quite
-    liked British Airways to provide him with a [cup of
-    tea](http://news.bbc.co.uk/1/hi/uk/7196128.stm) followed by some
-    counselling.
+    liked British Airways to provide him with a
+    [cup of tea](http://news.bbc.co.uk/1/hi/uk/7196128.stm)
+    followed by some counselling.
 -   Another couple thought they had just had 'a bumpy landing' and
     therefore didn't require any tea and biscuits. In fact, these Aussie
     backpackers were just delighted to get their baggage back without
@@ -57,6 +57,7 @@ Finally, I must confess that I know absolutely nothing about airplanes,
 fly by wire or wind shear. I am also totally ignorant of the size of the
 pigeon population of South West London and possible deficiencies in the
 quality of Chinese aircraft fuel.
+
 However, if the AAIB investigation subsequently discovers, in the coming
 months, that the co-pilot had successfully brought a 100 ton aircraft
 into a crash landing, having lost power to both engines, and

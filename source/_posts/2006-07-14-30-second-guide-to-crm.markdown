@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "30 second guide to CRM"
+title: 30 second guide to CRM
 date: 2006-07-14 15:53
 comments: true
 categories:

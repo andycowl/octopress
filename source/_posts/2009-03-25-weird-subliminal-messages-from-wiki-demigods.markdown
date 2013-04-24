@@ -15,8 +15,8 @@ and [Diigo](http://www.diigo.com) (after the well publicised and
 unfortunate collapse of another cloud bookmarking service -
 [ma.gnolia](http://ma.gnolia.com/)).
 
-In recent months I have also contributed to the [Habari
-Wiki](http://wiki.habariproject.org/en/Main_Page) (MediaWiki), looked
+In recent months I have also contributed to the
+[Habari Wiki](http://wiki.habariproject.org/en/Main_Page) (MediaWiki), looked
 briefly at [WikkaWiki](http://wikkawiki.org/HomePage) and read Michael's
 interesting, thought provoking article about his Wiki nirvana
 [wishlist](http://www.twofishcreative.com/michael/blog/2009/03/10/what-i-want-from-a-wiki)

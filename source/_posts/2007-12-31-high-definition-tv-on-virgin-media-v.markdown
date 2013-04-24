@@ -19,8 +19,8 @@ High Definition (HD) broadcasts or
 technology at its best. Cartoons are another popular choice to
 demonstrate LCD TV's displaying a very high quality picture.
 
-As the range and number of programs actually broadcast in [HD on Virgin
-Media](http://vmhd.blogspot.com/) is currently relatively limited, I
+As the range and number of programs actually broadcast in
+[HD on Virgin Media](http://vmhd.blogspot.com/) is currently relatively limited, I
 explicitly asked to see a conventional TV channel which was
 enlightening. You could often see pixellation and blurring which was
 disappointing but not wholly unexpected.
@@ -38,26 +38,22 @@ including free delivery (normally &pound;25) so I placed the order and waited.
 
 After placing the order, I received various helpful emails from dabs:
 
-> Thank you for the order you placed with dabs.com on 01/12/07\
->  which included an item or items which were out of stock at the time
-> of\
->  order.
+> Thank you for the order you placed with dabs.com on 01/12/07
+> which included an item or items which were out of stock at the time
+> of order.
 >
 > We've just received notice of a lead time change from our supplier
-> which\
->  affects the following product(s) included within your order:
+> which affects the following product(s) included within your order:
 >
-> Quicklinx : 4HFN\
->  Manufacturer : Panasonic\
->  Product : TX-32LXD700 32″ LCD TV\
->  Old Estimated Delivery : 05/12/2007\
->  New Estimated Delivery : 13/12/2007
+> Quicklinx : 4HFN  
+>  Manufacturer : Panasonic  
+>  Product : TX-32LXD700 32″ LCD TV  
+>  Old Estimated Delivery : 05/12/2007  
+>  New Estimated Delivery : 13/12/2007  
 >
 > Please note that the new estimated delivery date given above is the
-> best\
->  possible date we can provide at this time. Rest assured that should
-> this\
->  date move forward or backwards, we will keep you fully informed by
+> best possible date we can provide at this time. Rest assured that should
+> this date move forward or backwards, we will keep you fully informed by
 > email.
 
 Strange. The TV wasn't actually listed as ‘Out of stock' when I placed

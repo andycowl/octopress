@@ -13,8 +13,8 @@ The latest update in this occasional and very
 I am currently working in the delightful city of Bern, near Switzerland.
 I have been here a couple of times before and last April I watched
 United beat Barcelona 1-0 in the Champions League semi-final thanks to a
-great goal from [Paul
-Scholes](http://www.nbrightside.com/blog/2007/05/02/open-letter-to-paul-scholes/).
+great goal from
+[Paul Scholes](http://www.nbrightside.com/blog/2007/05/02/open-letter-to-paul-scholes/).
 
 Unusually for me, I watched that game with a colleague. Unfortunately
 for him, I don't think I was very good company. Well, I mean - who
@@ -46,8 +46,9 @@ the United game in 15 minutes. So I grab a barstool and nervously kill
 time, watching 'Young Boys of Bern' play in front of a very meagre crowd
 (10, 758)
 
-For some reason, I find the '[Young Boys of
-Bern](http://www.bscyb.ch/yb-index.htm)' a very amusing name for a
+For some reason, I find the
+'[Young Boys of Bern](http://www.bscyb.ch/yb-index.htm)'
+a very amusing name for a
 football club. It is also fitting and somehow appropriate that the
 'Young Boys' play their home fixtures at the 'Wankdorf Stadium'.
 
