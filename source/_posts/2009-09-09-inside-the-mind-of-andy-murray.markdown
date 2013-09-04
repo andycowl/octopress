@@ -33,10 +33,8 @@ has increased ten fold. However, the real reason I believe Andy Murray
 will win a major tennis tournament in the not too distant future stems
 from an incident a couple of years ago.
 
-I was watching my son play in a junior Surrey tennis competition held at
-the
-[National Tennis
-Centre](http://www.lta.org.uk/About-Us/National-Tennis-Centre/)
+I was watching my son play in a junior Surrey tennis competition held at the
+[National Tennis Centre](http://www.lta.org.uk/About-Us/National-Tennis-Centre/)
 in Roehampton. I was walking around the 22 courts, admiring the
 excellent facilities and killing time before he played his first
 match.

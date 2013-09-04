@@ -3,8 +3,7 @@ title: How to get ideas for your blog
 layout: post
 comments: true
 date: 2005-11-07 20:06:11
-categories:
-    - blogging
+categories: blogging
 ---
 Absolutely anything can be a suitable subject for a blog entry; a
 Website of interest, OpenSource software, breaking news, a personal
@@ -32,8 +31,8 @@ If you can't think of anything to say, say nothing. Don't be afraid of
 radio silence. Personally, I don't bother with sites offering
 solutions for writers block such as '99 subjects to blog about' as I
 am not really interested in your response to 'If you were an animal,
-what would you be and why ?' [ Although curiously enough I was asked
-exactly this question at interview once ! ]
+what would you be and why ?' [Although curiously enough I was asked exactly
+this question at interview once !]
 
 Think about your favourite Web sites and blogs and why they are of
 particular interest to you. If you love reading about long haired

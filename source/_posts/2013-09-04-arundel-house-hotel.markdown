@@ -6,7 +6,7 @@ comments: true
 categories: uk, travel
 ---
 The [Arundel House Hotel][hotel] is a decent, clean, tidy and
-reasonably priced hotel in Cambridge. IThe hotel is ideally located
+reasonably priced hotel in Cambridge. The hotel is ideally located
 adjacent to Jesus Green so you can easily walk into Cambridge for
 sight-seeing. In addition, it has a large car park which is free to
 residents.

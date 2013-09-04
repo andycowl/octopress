@@ -1,9 +1,8 @@
 ---
-date: 2005-12-13 22:40:44
-categories:
-    - uncategorised
-title: circular discussions (#2)
 layout: post
+title: circular discussions (#2)
+date: 2005-12-13 22:40:44
+categories: travel
 comments: true
 ---
 A couple of years ago, I was staying at a posh hotel in Oslo. I returned
