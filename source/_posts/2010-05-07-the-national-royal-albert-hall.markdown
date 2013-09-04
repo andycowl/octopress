@@ -106,7 +106,7 @@ people screaming in unison:
 > blood. I won't fuck us over, I'm Mr. November. I'm Mr. November, I
 > won't fuck us over.
 
-I didn't bother taking any day tripper, tourist photos but [David
-Emery](http://de-online.co.uk/) has some fantastic
+I didn't bother taking any day tripper, tourist photos but
+[David Emery](http://de-online.co.uk/) has some fantastic
 [photos](http://www.flickr.com/photos/davidemery/sets/72157623885785947/show/)
 of an unforgettable night.

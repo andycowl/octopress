@@ -19,8 +19,8 @@ testing Norman Jeane and asked her to quickly divide 12 by 5.
 > ‘Millionaires - Private Gentleman's Club. Members only. Please always
 > use rear entrance' - Puerto Banus.
 
-Superb English. Nothing wrong with it at all. I suspect [Finbarr
-Saunders][] of Viz was commissioned for this wonderful sign.
+Superb English. Nothing wrong with it at all. I suspect
+[Finbarr Saunders][] of Viz was commissioned for this wonderful sign.
 
 > ‘Please wait 3 minutes before pulsating' - water bottle dispenser in
 > public car park in Ronda.

@@ -16,8 +16,9 @@ sessions away to a more needy case but he was insistent and he was the
 boss.
 
 So, on a Thursday lunchtime, I found myself nervously walking down to
-the mysteriously named '[London Float
-Centre](http://www.londonfloatcentre.com/)' located not in sunny San
+the mysteriously named
+'[London Float Centre](http://www.londonfloatcentre.com/)'
+located not in sunny San
 Francisco but in grey, cold, dreary Clapham Common. As I nervously
 walked into reception, my preconceptions and prejudices were instantly
 reinforced when a young lady wearing a colourful, long dress with
@@ -72,12 +73,11 @@ roof. Now what ?
 I remembered the girl had told me to press another
 button to turn the lights off which I did.
 
-Now I was lying bollock
-naked, floating around in a tank of luke warm water, staring up at
-nothing - in pitch black. It was dark, completely dark. I waited 40
-seconds for my eyes to adjust so I could make out the reassuring lines
-of the walls and the ceiling but my eyes didn't readjust. It was still
-pitch black.
+Now I was lying bollock naked, floating around in a tank of luke warm
+water, staring up at nothing - in pitch black. It was dark, completely
+dark. I waited 40 seconds for my eyes to adjust so I could make out
+the reassuring lines of the walls and the ceiling but my eyes didn't
+readjust. It was still pitch black.
 
 I was floating around aimlessly. I nearly had a heart
 attack when my shoulder bumped the side wall. I thought someone,
@@ -107,17 +107,15 @@ about everything. I even forgot about the prospect of falling asleep,
 drowning in 8 inches of water and winning third place in the 2001
 Darwin Awards.
 
-I laid back, floating. My mind became strangely
-blank. Completely blank.  It was glorious. A glorious nothing-ness. A
-glorious emptiness. A glorious void. I just laid there; doing nothing,
-thinking of nothing.
+I laid back, floating. My mind became strangely blank. Completely
+blank.  It was glorious. A glorious nothing-ness. A glorious
+emptiness. A glorious void. I just laid there; doing nothing, thinking
+of nothing.
 
-This state of mind continued for another 25
-minutes. Not once did I think of the time. Not once did I think of
-work. Not once did I think of United's chances of lifting the
-title. Not once did I think of online media recovery of an Oracle
-layout: post
-comments: true
+This state of mind continued for another 25 minutes. Not once did I
+think of the time. Not once did I think of work. Not once did I think
+of United's chances of lifting the title. Not once did I think of
+online media recovery of an Oracle layout: post comments: true
 database when some of the archived redo logs were in deep in secure
 storage offsite and we only had a daily collection from Iron
 Mountain. Not once did I think of the appraisals of the four people
@@ -146,8 +144,8 @@ got to be getting ba-' but I caught myself just in time. 'Yeah - that
 would be great. Thanks.'
 
 So I sat down with some blackcurrant, herbal tea chatting with the
-receptionist about the science behind flotation chambers or [isolation
-tanks](http://en.wikipedia.org/wiki/Isolation_tank).
+receptionist about the science behind flotation chambers or
+[isolation tanks](http://en.wikipedia.org/wiki/Isolation_tank).
 
 Then I returned to the office. Now this is where is gets really weird.
 

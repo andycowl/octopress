@@ -12,8 +12,8 @@ Please can a clever Oracle person explain, in English, the precise
 semantics of this WHERE clause snippet in the comments below.
 
 I realise this construct and variants thereof have probably been
-discussed ad infinitum on [Oracle
-WTF](http://oracle-wtf.blogspot.com/) but I just don't get it.
+discussed ad infinitum on [Oracle WTF](http://oracle-wtf.blogspot.com/)
+but I just don't get it.
 
 I don't know whether this SQL was written by a human being or a third
 party ETL tool but it doesn't matter. Currently, all ETL tools are
@@ -21,18 +21,18 @@ written by humans in any case.
 
 Why do people struggle so much with date arithmetic ?
 
-When I was a little boy, I used to say 'Only 43
-days to my birthday now, Dad'. Although I didn't know it at the time I
-could have written this as 
+When I was a little boy, I used to say 'Only 43 days to my birthday
+now, Dad'. Although I didn't know it at the time I could have written
+this as
 
 ` sysdate + 43 = :my_birthday`
 
 I even understand that TRUNC(SYSDATE) is midnight - it just seems
 fairly intuitive and logical to me.
 
-My tiny brain can even understand
-the concept of date subtraction - last Wednesday was two days ago and
-Manchester City's last trophy was almost 34 years ago.
+My tiny brain can even understand the concept of date subtraction -
+last Wednesday was two days ago and Manchester City's last trophy was
+almost 34 years ago.
 
 I understand that a date is a date is a date. I realise that a date is
 not an orange. I realise that a date is not a string and I only see
@@ -44,10 +44,9 @@ I understand that if I want to display the date and be assured of the
 date format I need to convert it to a string using TO\_CHAR with the
 appropriate date format mask.
 
-I understand that Unix systems (and the
-next generation blogging platform, Habari) stores 'dates' internally
-as the number of seconds that have elapsed since the Unix epoch on 01
-January 1970 00:00:00.
+I understand that Unix systems (and the next generation blogging
+platform, Habari) stores 'dates' internally as the number of seconds
+that have elapsed since the Unix epoch on 01 January 1970 00:00:00.
 
 But look again at that code snippet. The author
 is obviously familiar with the Oracle functions TO\_CHAR and

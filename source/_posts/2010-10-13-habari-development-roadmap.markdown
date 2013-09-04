@@ -8,8 +8,8 @@ comments: true
 ---
 [StatusNet][] names all [releases][] after R.E.M. songs so here's my
 idea for future Habari release codenames. It's a well kept secret that
-all Habari developers and users adore that popular beat combo - [The
-National][].
+all Habari developers and users adore that popular beat combo -
+[The National][].
 
 The Habari development roadmap in full
 

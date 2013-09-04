@@ -6,8 +6,8 @@ title: The National - Royal Albert Hall
 layout: post
 comments: true
 ---
-One of my favourite bands is American beat combo - [The
-National](http://www.americanmary.com/). I will forever be indebted to
+One of my favourite bands is American beat combo -
+[The National](http://www.americanmary.com/). I will forever be indebted to
 [Michael](http://twofishcreative.com/michael/blog/) for introducing me
 to the band.
 
@@ -20,8 +20,8 @@ performance) that we have decided to pull.'
 I didn't hold out much hope but am delighted to say I have just
 secured a ticket.
 
-The National have a new album '[High
-Violet](http://www.highviolet.com/)' coming out on May 11. It's rather
+The National have a new album
+'[High Violet](http://www.highviolet.com/)' coming out on May 11. It's rather
 difficult (and pointless) trying to categorise the band's music (try
 listening to 'Boxer' yourself) but I really like Matt Berninger's
 voice and lyrics.

@@ -102,8 +102,8 @@ content from Web pages into a document which is rather embarrassing.
 
 The laptop runs Linux Mint 9 (LTS = Long Term Support) which means this
 version will continue to be supported for a full 3 years until May 2013.
-However, there is also the tantalising prospect of migrating to [Linux
-Mint Debian][] which looks and feels like Mint but decouples the
+However, there is also the tantalising prospect of migrating to
+[Linux Mint Debian][] which looks and feels like Mint but decouples the
 dependency from Ubuntu and is based directly on a rolling Debian release
 which is quite attractive as, theoretically, this would never need
 upgrading (as in a re-install).

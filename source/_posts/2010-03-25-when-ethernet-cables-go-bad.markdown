@@ -51,8 +51,8 @@ router to replace it. A like for like replacement.  Subconsciously,
 despite the unit failing, I still viewed Linksys as reliable and found
 myself strangely reluctant to try another make and model.
 
-I quickly shopped around and purchased a [Linksys
-WRT54GL](http://www.ebuyer.com/product/103185) and, to my surprise,
+I quickly shopped around and purchased a
+[Linksys WRT54GL](http://www.ebuyer.com/product/103185) and, to my surprise,
 found it slightly cheaper at ebuyer.com than my usual preference for
 online purchases - Amazon. The router arrived the next day and I was
 able to quickly configure the network again as the family gathered

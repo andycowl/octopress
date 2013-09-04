@@ -12,8 +12,9 @@ Accidentally.
 For the last two weeks, I have been savouring the joys of commuting
 into the City on South West Trains and the London underground network.
 
-Like most large, densely populated cities, [Transport for
-London](http://www.tfl.gov.uk/) has introduced a Smart Card system,
+Like most large, densely populated cities,
+[Transport for London](http://www.tfl.gov.uk/)
+has introduced a Smart Card system,
 known as [Oyster](http://www.tfl.gov.uk/tickets/14836.aspx), which
 allows ticketless travel on trains, tubes and buses.
 

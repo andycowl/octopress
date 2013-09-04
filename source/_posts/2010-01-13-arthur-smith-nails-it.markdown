@@ -12,6 +12,5 @@ comments: true
 
 As this country grinds to a halt yet again after a light dusting of
 snow, a timely and apt quote from Arthur Smith whose autobiography
-'[My Name is Daphne
-Fairfax](http://www.amazon.co.uk/My-Name-Daphne-Fairfax-Memoir/dp/0091921031/ref=sr_1_1?ie=UTF8&s=books&qid=1263376748&sr=8-1)'
+'[My Name is Daphne Fairfax](http://www.amazon.co.uk/My-Name-Daphne-Fairfax-Memoir/dp/0091921031/ref=sr_1_1?ie=UTF8&s=books&qid=1263376748&sr=8-1)'
 I can highly recommend.

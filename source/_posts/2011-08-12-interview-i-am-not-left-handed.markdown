@@ -30,8 +30,8 @@ at [Bush Hall][bushhall] in Shepherd's Bush for an excellent cause.
 
 [bushhall]: http://iamnotlefthanded.tumblr.com/post/8729448258/new-show-announced-in-london-at-bush-hall-on-september
 
-I fell in love with the band's music since I first heard them on [Dan
-Lynch][dan]'s excellent [Rathole Radio][rr] podcast which showcases a
+I fell in love with the band's music since I first heard them on
+[Dan Lynch][dan]'s excellent [Rathole Radio][rr] podcast which showcases a
 eclectic mix of Creative Commons music.
 
 [dan]: http://danlynch.org/

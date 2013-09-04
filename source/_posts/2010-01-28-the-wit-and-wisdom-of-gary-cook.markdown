@@ -16,5 +16,4 @@ Gary Cook - Mad Hatter Saloon, New York, 22 January 2010.
 
 34 years.
 
-![Rooney and
-Bellamy](http://24.media.tumblr.com/tumblr_kwyjbzRb3Y1qz5o1ho1_400.jpg)
+![Rooney and Bellamy](http://24.media.tumblr.com/tumblr_kwyjbzRb3Y1qz5o1ho1_400.jpg)

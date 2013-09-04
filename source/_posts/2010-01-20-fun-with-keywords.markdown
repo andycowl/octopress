@@ -6,8 +6,8 @@ title: fun with keywords
 layout: post
 comments: true
 ---
-Some of the varied and bizarre [keyword
-searches](http://www.nbrightside.com/blog/2008/11/18/more-fun-with-keyword-searches/)
+Some of the varied and bizarre
+[keyword searches](http://www.nbrightside.com/blog/2008/11/18/more-fun-with-keyword-searches/)
 leading visitors to this site merely confirm this blog is the
 ramblings of a confused madman. Here is a selection from the start of
 the year
@@ -25,8 +25,7 @@ the year
 -   'handsworth exoctic escort' - there's absolutely nothing exotic
     about Handsworth, trust me.
 -   'hoax messages on friends reunited' - the ghost of the cruel,
-    heartless [Janet
-    Oldsgate](http://www.nbrightside.com/blog/2005/12/09/probably-the-best-phish-in-the-world/)
+    heartless [Janet Oldsgate](http://www.nbrightside.com/blog/2005/12/09/probably-the-best-phish-in-the-world/)
     strikes again.
 -   'how can i get back my lost virginity' - please send an
     international money order for &pound;250 to PO Box 729.
@@ -42,4 +41,3 @@ the year
 -   'fucking overlapping partitions when im installing linux' -
     language, Timothy. Nice assumption that the swear word would be
     included in relevant posts
-
