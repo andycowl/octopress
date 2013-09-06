@@ -1,7 +1,6 @@
 ---
 date: 2005-12-19 21:42:46
-categories:
-    - uncategorised
+categories: blogging
 title: high availability, resilient, non-stop, 7×24 computing
 layout: post
 comments: true

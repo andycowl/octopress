@@ -1,7 +1,6 @@
 ---
 date: 2005-12-03 07:45:24
-categories:
-    - uncategorised
+categories: uk
 title: Guinness brewery tour
 layout: post
 comments: true

@@ -1,7 +1,6 @@
 ---
 date: 2005-12-18 18:11:26
-categories:
-    - uncategorised
+categories: blogging
 title: Tom Raftery podcast with WordPress
 layout: post
 comments: true

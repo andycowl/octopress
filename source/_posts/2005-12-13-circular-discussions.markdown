@@ -1,7 +1,6 @@
 ---
 date: 2005-12-13 21:58:40
-categories:
-    - uncategorised
+categories: uk
 title: circular discussions
 layout: post
 comments: true

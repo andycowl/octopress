@@ -1,7 +1,6 @@
 ---
 date: 2009-09-09 12:27:15
-categories:
-    - uncategorised
+categories: sport
 title: inside the mind of Andy Murray
 layout: post
 comments: true

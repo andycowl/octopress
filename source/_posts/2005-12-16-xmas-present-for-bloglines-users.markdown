@@ -1,7 +1,6 @@
 ---
 date: 2005-12-16 22:45:11
-categories:
-    - uncategorised
+categories: blogging
 title: Xmas present for bloglines users
 layout: post
 comments: true

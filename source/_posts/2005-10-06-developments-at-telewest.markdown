@@ -3,8 +3,7 @@ title: developments at Telewest
 layout: post
 comments: true
 date: 2005-10-06 02:34:44
-categories:
-    - uncategorised
+categories: virginmedia
 ---
 I use Telewest Broadband and today I received an email informing me
 that my broadband service had been upgraded to from 1MB to 4Mb free of

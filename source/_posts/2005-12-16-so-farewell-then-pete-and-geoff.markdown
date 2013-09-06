@@ -1,7 +1,6 @@
 ---
 date: 2005-12-16 16:42:30
-categories:
-    - uncategorised
+categories: uk
 title: so farewell then, Pete and Geoff
 layout: post
 comments: true

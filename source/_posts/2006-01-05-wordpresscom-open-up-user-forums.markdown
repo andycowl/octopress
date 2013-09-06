@@ -1,7 +1,6 @@
 ---
 date: 2006-01-05 20:45:53
-categories:
-    - uncategorised
+categories: blogging
 title: WordPress.com open up user forums
 layout: post
 comments: true

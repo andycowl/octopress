@@ -3,8 +3,7 @@ layout: post
 title: Autumn migration
 date: 2012-09-14 14:45:00
 comments: true
-categories:
-    - blogging
+categories: blogging
 ---
 My Web hosting package (provided by Bluehost) expires in October. As
 this blog is essentially dead (the last post was a one-liner 8 months
@@ -50,4 +49,4 @@ able to reuse some of the Hyde content with judicious use of sed to
 convert the meta data in the header sections or I may just start
 afresh.
 
-No - I am no mad.
+No - I am not mad.

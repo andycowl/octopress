@@ -1,7 +1,6 @@
 ---
 date: 2005-12-22 23:54:43
-categories:
-    - uncategorised
+categories: amazon
 title: confession time
 layout: post
 comments: true

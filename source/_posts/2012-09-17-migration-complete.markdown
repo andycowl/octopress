@@ -3,9 +3,7 @@ layout: post
 title: migration complete
 date: 2012-09-17 20:35:00
 comments: true
-categories:
-    - blogging
-    - octopress
+categories: [blogging, octopress]
 ---
 The last ever migration of this blog is now complete. This blog is now 
 powered by Octopress and is a statically generated site hosted on Amazon S3.

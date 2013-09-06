@@ -1,10 +1,9 @@
 ---
 date: 2007-04-20 22:54:04
-categories:
-    - uncategorised
 title: migration of photo blog
 layout: post
 comments: true
+categories: blogging
 ---
 Yahoo! kindly chose to close my Flickr! account because it was
 associated with an additional email and not my primary Yahoo Id. I

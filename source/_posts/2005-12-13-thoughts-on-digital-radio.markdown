@@ -1,7 +1,6 @@
 ---
 date: 2005-12-13 17:01:54
-categories:
-    - uncategorised
+categories: uk
 title: thoughts on digital radio
 layout: post
 comments: true

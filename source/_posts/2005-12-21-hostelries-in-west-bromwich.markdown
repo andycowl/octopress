@@ -1,7 +1,6 @@
 ---
 date: 2005-12-21 07:03:49
-categories:
-    - uncategorised
+categories: uk
 title: hostelries in West Bromwich
 layout: post
 comments: true

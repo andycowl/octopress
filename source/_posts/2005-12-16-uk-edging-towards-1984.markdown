@@ -1,7 +1,6 @@
 ---
 date: 2005-12-16 22:27:17
-categories:
-    - uncategorised
+categories: uk
 title: UK edging towards 1984
 layout: post
 comments: true
