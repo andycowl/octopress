@@ -1,9 +1,8 @@
 ---
 date: 2006-01-21 22:08:54
-categories:
-    - uncategorised
 title: great news for RSS readers
 layout: post
+categories: RSS
 comments: true
 ---
 [GreatNews](http://www.curiostudio.com/), in fact. I just discovered

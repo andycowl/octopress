@@ -1,9 +1,8 @@
 ---
 date: 2006-01-17 06:39:56
-categories:
-    - uncategorised
 title: seldomly asked questions
 layout: post
+categories: blogging
 comments: true
 ---
 People never ask me 'Just who is this Norman Brightside character ?'

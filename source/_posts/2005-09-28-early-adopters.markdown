@@ -3,8 +3,7 @@ title: Early Adopters
 layout: post
 comments: true
 date: 2005-09-28 20:44:22
-categories:
-    - uncategorised
+categories: humour
 ---
 Recently, I was watching my daughter doing some homework on the PC and
 noticed that she was listening to music from a radio stream over the

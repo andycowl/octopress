@@ -1,9 +1,8 @@
 ---
 date: 2006-01-06 01:10:38
-categories:
-    - uncategorised
 title: Paul Stamatiou, I salute you
 layout: post
+categories: blogging
 comments: true
 ---
 Have a look at this [blog](http://www.paulstamatiou.com/). Lots of

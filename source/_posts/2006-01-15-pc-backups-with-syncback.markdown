@@ -1,9 +1,8 @@
 ---
 date: 2006-01-15 04:21:21
-categories:
-    - uncategorised
 title: PC backups with SyncBack
 layout: post
+categories: IT
 comments: true
 ---
 Two years ago, my hard disk failed. Completely. This was excellent news

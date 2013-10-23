@@ -1,9 +1,8 @@
 ---
 date: 2006-01-13 22:31:42
-categories:
-    - uncategorised
 title: sports bars of Europe
 layout: post
+categories: travel
 comments: true
 ---
 The first in an occasional series.

@@ -93,10 +93,6 @@ he took to the stage.
 
 Cracknell answered a question about how he motivated himself and he
 referred to a note scribbled on a blackboard in a History classroom he
-had seen earlier that evening on a tour of his old s 
-
-Cracknell answered a question about how he motivated himself and he
-referred to a note scribbled on a blackboard in a History classroom he
 had seen earlier that evening on a tour of his old school. Some wag
 had written 'All things must pass' which summed up his attitude pretty
 well.
@@ -105,4 +101,4 @@ well.
 his cycle by a speeding truck when attempting another challenge to
 cross the States in 18 days, rowing, cycling and running. Cracknell
 was seriously ill with head injuries but thankfully is now making a
-good recovery ]
+good recovery. ]

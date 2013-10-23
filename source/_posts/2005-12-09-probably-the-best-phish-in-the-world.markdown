@@ -1,10 +1,9 @@
 ---
 date: 2005-12-09 17:01:52
-categories:
-    - uncategorised
 title: probably the best phish in the world
 layout: post
 comments: true
+categories: uk
 ---
 A few months ago, I was shocked and amazed to receive an email from
 Friends Reunited entitled 'Janet Oldsgate has sent you a private

@@ -1,9 +1,8 @@
 ---
 date: 2006-01-10 01:30:06
-categories:
-    - uncategorised
 title: starting out with GTD
 layout: post
+categories: gtd
 comments: true
 ---
 > A long journey starts with a single step...

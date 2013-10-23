@@ -17,7 +17,6 @@ comments: true
 
 Alex Ferguson on Roy
 [Keane](http://news.bbc.co.uk/sport1/hi/football/teams/c/celtic/5071440.stm)
-after the European Cup semi-final in the 1999
+after the European Cup semi-final in 1999.
 
-[Via United
-[Rant](http://www.unitedrant.co.uk/archives/2006/06/a_legend_retire.html)]
+[Via United [Rant](http://www.unitedrant.co.uk/archives/2006/06/a_legend_retire.html)]

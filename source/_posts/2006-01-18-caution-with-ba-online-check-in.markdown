@@ -1,9 +1,8 @@
 ---
 date: 2006-01-18 07:38:41
-categories:
-    - uncategorised
 title: caution with BA online check-in
 layout: post
+categories: travel
 comments: true
 ---
 You can save lots of time and get even more things done by checking in
@@ -33,4 +32,5 @@ save another 2.4 milliseconds in an effort to get things done.
 Trust me. I did it and because I don't know what a 'frame' is, I found
 myself presenting a rather unusual boarding pass at the British Airways
 desk that simply said:
+
 > "Click the 'Print Boarding Pass' button (you idiot) to print"

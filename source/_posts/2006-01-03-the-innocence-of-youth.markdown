@@ -1,9 +1,8 @@
 ---
 date: 2006-01-03 18:36:55
-categories:
-    - uncategorised
 title: the innocence of youth
 layout: post
+categories: uncategorised
 comments: true
 ---
 Sometimes, your offspring know more then you do. For example, my son is

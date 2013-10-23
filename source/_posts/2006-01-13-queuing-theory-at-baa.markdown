@@ -1,9 +1,8 @@
 ---
 date: 2006-01-13 20:15:03
-categories:
-    - uncategorised
 title: queuing theory at BAA
 layout: post
+categories: travel
 comments: true
 ---
 On Wednesday, I found myself patiently waiting in a queue, talking with

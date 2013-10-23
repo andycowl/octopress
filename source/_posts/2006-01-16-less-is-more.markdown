@@ -1,9 +1,8 @@
 ---
 date: 2006-01-16 06:42:51
-categories:
-    - uncategorised
 title: less is more
 layout: post
+categories: IT
 comments: true
 ---
 I was recently without my laptop computer for a whole two hours.

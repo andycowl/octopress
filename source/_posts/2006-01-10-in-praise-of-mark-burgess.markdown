@@ -1,9 +1,8 @@
 ---
 date: 2006-01-10 22:44:32
-categories:
-    - uncategorised
 title: in praise of Mark Burgess
 layout: post
+categories: music
 comments: true
 ---
 A long time ago, there was a unique band called

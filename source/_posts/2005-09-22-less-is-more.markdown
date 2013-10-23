@@ -3,8 +3,7 @@ title: Less is more
 layout: post
 comments: true
 date: 2005-09-22 04:02:10
-categories:
-    - uncategorised
+categories: music
 ---
 Just bought my daughter a cheap MP3 player. Small, lightweight, silver
 and cheaper than an iPod. We connected it to the PC using the USB
