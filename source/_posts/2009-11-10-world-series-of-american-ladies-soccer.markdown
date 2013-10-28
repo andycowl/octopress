@@ -3,8 +3,7 @@ title: world series of American Ladies soccer
 layout: post
 comments: true
 date: 2009-11-10 13:25:50
-categories:
-    - uncategorised
+categories: football
 ---
 I'm not a big fan of American soccer. Neither am I a great fan of
 women's football wherever it is played. Elizabeth Lambert has just

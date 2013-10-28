@@ -1,7 +1,6 @@
 ---
 date: 2009-08-04 09:09:37
-categories:
-    - uncategorised
+categories: football
 title: Manchester City's title winning lineup
 layout: post
 comments: true

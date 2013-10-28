@@ -1,7 +1,6 @@
 ---
 date: 2007-02-08 00:50:25
-categories:
-    - uncategorised
+categories: IT
 title: the art of lazy consultancy
 layout: post
 comments: true
@@ -58,5 +57,5 @@ People (myself included) often limit their analysis to the areas they
 know most about.
 
 Right - anyone fancy a walk to that Copenhagen
-[sports bar](http://www.nbrightside.com/blog/2006/04/25/sports-bars-of-europe-2/)
+[sports bar](http://www.nbrightside.com/blog/2006/04/25/sports-bars-of-europe/)
 for England versus Spain ?

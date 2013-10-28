@@ -3,8 +3,7 @@ title: Am I am an Oracle luddite ?
 layout: post
 comments: true
 date: 2005-11-10 16:57:14
-categories:
-    - oracle
+categories: oracle
 ---
 Jeff Moss'
 [article](http://oramossoracle.blogspot.com/2005/11/free-toad-at-least-until-raptor-comes.html)

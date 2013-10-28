@@ -3,8 +3,7 @@ title: ZohoWriter
 layout: post
 comments: true
 date: 2006-04-22 16:55:40
-categories:
-    - uncategorised
+categories: software
 ---
 Just wrote a quick letter using
 [ZohoWriter](http://www.zohowriter.com/). An interesting

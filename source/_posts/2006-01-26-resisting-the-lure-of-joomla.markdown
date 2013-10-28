@@ -1,7 +1,6 @@
 ---
 date: 2006-01-26 19:14:35
-categories:
-    - uncategorised
+categories: blogging
 title: resisting the lure of Joomla
 layout: post
 comments: true

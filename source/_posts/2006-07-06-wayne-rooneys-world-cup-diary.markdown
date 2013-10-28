@@ -1,7 +1,6 @@
 ---
 date: 2006-07-06 14:13:25
-categories:
-    - uncategorised
+categories: football
 title: Wayne Rooney's World Cup diary
 layout: post
 comments: true

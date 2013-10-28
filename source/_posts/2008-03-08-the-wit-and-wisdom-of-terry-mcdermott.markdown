@@ -1,7 +1,6 @@
 ---
 date: 2008-03-08 11:05:29
-categories:
-    - uncategorised
+categories: football
 title: the wit and wisdom of Terry McDermott
 layout: post
 comments: true

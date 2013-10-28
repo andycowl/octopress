@@ -1,7 +1,6 @@
 ---
 date: 2006-02-02 00:39:28
-categories:
-    - uncategorised
+categories: wordpress
 title: more statistics from WordPress
 layout: post
 comments: true

@@ -1,7 +1,6 @@
 ---
 date: 2009-12-15 12:54:00
-categories:
-    - uncategorised
+categories: football
 title: wit and wisdom of Arsenal fans
 layout: post
 comments: true

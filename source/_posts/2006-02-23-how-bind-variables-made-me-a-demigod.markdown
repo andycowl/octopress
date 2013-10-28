@@ -1,7 +1,6 @@
 ---
 date: 2006-02-23 16:50:26
-categories:
-    - uncategorised
+categories: oracle
 title: how bind variables made me a demigod
 layout: post
 comments: true

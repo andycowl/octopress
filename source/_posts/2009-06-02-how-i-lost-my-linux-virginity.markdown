@@ -1,7 +1,6 @@
 ---
 date: 2009-06-02 22:02:08
-categories:
-    - uncategorised
+categories: linux
 title: how I lost my Linux virginity
 layout: post
 comments: true

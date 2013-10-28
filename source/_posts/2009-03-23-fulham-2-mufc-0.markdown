@@ -1,7 +1,6 @@
 ---
 date: 2009-03-23 10:37:59
-categories:
-    - uncategorised
+categories: football
 title: Fulham 2 MUFC 0
 layout: post
 comments: true

@@ -1,7 +1,6 @@
 ---
 date: 2006-07-05 14:12:04
-categories:
-    - uncategorised
+categories: football
 title: Forza Italia !
 layout: post
 comments: true

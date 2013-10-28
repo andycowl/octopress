@@ -1,7 +1,6 @@
 ---
 date: 2006-06-06 17:43:16
-categories:
-    - uncategorised
+categories: oracle
 title: history of Oracle
 layout: post
 comments: true

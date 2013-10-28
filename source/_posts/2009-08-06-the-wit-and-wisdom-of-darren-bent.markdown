@@ -1,7 +1,6 @@
 ---
 date: 2009-08-06 10:56:01
-categories:
-    - uncategorised
+categories: football
 title: the wit and wisdom of Darren Bent
 layout: post
 comments: true

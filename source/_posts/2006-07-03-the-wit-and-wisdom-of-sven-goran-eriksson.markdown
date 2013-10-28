@@ -1,7 +1,6 @@
 ---
 date: 2006-07-03 17:29:09
-categories:
-    - uncategorised
+categories: football
 title: the wit and wisdom of Sven Goran Eriksson
 layout: post
 comments: true

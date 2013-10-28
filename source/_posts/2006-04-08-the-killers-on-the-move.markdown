@@ -1,7 +1,6 @@
 ---
 date: 2006-04-08 03:01:30
-categories:
-    - uncategorised
+categories: music
 title: The Killers on the move
 layout: post
 comments: true

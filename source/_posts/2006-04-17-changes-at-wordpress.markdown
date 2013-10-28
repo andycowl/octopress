@@ -1,7 +1,6 @@
 ---
 date: 2006-04-17 16:36:25
-categories:
-    - uncategorised
+categories: wordpress
 title: changes at WordPress
 layout: post
 comments: true

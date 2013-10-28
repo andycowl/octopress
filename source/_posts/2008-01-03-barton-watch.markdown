@@ -1,7 +1,6 @@
 ---
 date: 2008-01-03 20:17:27
-categories:
-    - uncategorised
+categories: football
 title: Barton watch
 layout: post
 comments: true

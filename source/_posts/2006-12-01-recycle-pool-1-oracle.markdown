@@ -1,7 +1,6 @@
 ---
 date: 2006-12-01 19:16:22
-categories:
-    - uncategorised
+categories: oracle
 title: 'recycle pool #1: Oracle '
 layout: post
 comments: true
@@ -31,7 +30,7 @@ interface and looks very professional.
 Over on his blog, Tom also writes an interesting
 [article](http://tkyte.blogspot.com/2006/11/see-you-just-cannot-make-this-stuff-up.html)
 that really should have been titled
-'[YCNMIU](http://www.nbrightside.com/blog/2006/11/23/ycnmiu-4/)'.
+'[YCNMIU](http://www.nbrightside.com/blog/2006/11/23/ycnmiu/)'.
 
 Doug [Burns](http://oracledoug.com/serendipity/) takes steps to
 re-establish his technical credentials by

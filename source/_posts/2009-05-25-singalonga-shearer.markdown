@@ -1,7 +1,6 @@
 ---
 date: 2009-05-25 17:09:08
-categories:
-    - uncategorised
+categories: football
 title: singalonga Shearer
 layout: post
 comments: true

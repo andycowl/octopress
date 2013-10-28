@@ -17,7 +17,7 @@ like an undergraduate knocked it up during a lunch hour'. This was a
 little rich from someone with no design experience whatsoever but
 still.
 
-[1]: http://www.nbrightside.com/blog/2005/11/02/comparison-of-blinklist-delicious-and-furl/
+[1]: http://www.nbrightside.com/blog/2005/11/01/comparison-of-blinklist-delicious-and-furl/
 [2]: http://delicious.com/
 
 Seven years have passed though and now my requirements are slightly

@@ -1,7 +1,6 @@
 ---
 date: 2006-08-04 22:15:18
-categories:
-    - uncategorised
+categories: IT
 title: am I a technology Luddite ?
 layout: post
 comments: true
@@ -19,7 +18,7 @@ People use Web conferencing to share desktops.
 This is an excellent use of technology. For example, I recently tried to
 help a customer in Copenhagen by remotely accessing the servers over the
 network from my
-[~~kitchen~~](http://www.nbrightside.com/blog/2006/08/03/word-of-caution-2/)
+[~~kitchen~~](http://www.nbrightside.com/blog/2006/08/03/word-of-caution/)
 fully equipped home office. The speed was slightly sluggish and the
 experience was a little frustrating at times but certainly much better
 than laboriously dictating ('l' 's' 'space' 'slash' 't' 'm' 'p') over

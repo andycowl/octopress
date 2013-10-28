@@ -1,7 +1,6 @@
 ---
 date: 2006-03-02 22:14:37
-categories:
-    - uncategorised
+categories: blogging
 title: tags, categories and labels
 layout: post
 comments: true

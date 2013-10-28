@@ -1,12 +1,12 @@
 ---
 date: 2006-06-30 06:39:36
-categories:
-    - uncategorised
+categories: oracle
 title: Rule is dead, long live Rule
 layout: post
 comments: true
 ---
 A long day tuning SQL queries using Siebel 7.8 and Oracle 10gR2...
+
 > We used the Siebel recommended settings (TechNote 582).
 > We used the Oracle recommended settings.
 >

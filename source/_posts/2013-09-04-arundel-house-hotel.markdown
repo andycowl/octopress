@@ -3,7 +3,7 @@ layout: post
 title: "Arundel House Hotel"
 date: 2013-09-04 12:08
 comments: true
-categories: uk, travel
+categories: uk
 ---
 The [Arundel House Hotel][hotel] is a decent, clean, tidy and
 reasonably priced hotel in Cambridge. The hotel is ideally located

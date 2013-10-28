@@ -1,7 +1,6 @@
 ---
 date: 2006-05-02 19:36:04
-categories:
-    - uncategorised
+categories: football
 title: Ing-er-land
 layout: post
 comments: true

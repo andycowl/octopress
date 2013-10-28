@@ -1,7 +1,6 @@
 ---
 date: 2008-10-25 13:00:48
-categories:
-    - uncategorised
+categories: football
 title: Ince on Celtic
 layout: post
 comments: true

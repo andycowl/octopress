@@ -1,7 +1,6 @@
 ---
 date: 2006-05-20 18:00:51
-categories:
-    - uncategorised
+categories: football
 title: MUFC announce Ruud's replacement
 layout: post
 comments: true

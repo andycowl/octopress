@@ -1,7 +1,6 @@
 ---
 date: 2007-02-07 06:41:19
-categories:
-    - travel
+categories: travel
 title: a night of outrageous flirting in Copenhagen
 layout: post
 comments: true
@@ -11,7 +10,7 @@ Europe \#7']
 
 Feverishly scoured the Interweb looking for alternative sports bars in
 Copenhagen. Once I saw the address of my previous
-[haunt](http://www.nbrightside.com/blog/2006/04/25/sports-bars-of-europe-2/),
+[haunt](http://www.nbrightside.com/blog/2006/04/25/sports-bars-of-europe/),
 the marvellous
 '[Irish Rover](http://www.the-irish-rover.com/HTML/Home.htm)',
 my mind was instantly made up.

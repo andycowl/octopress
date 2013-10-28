@@ -1,7 +1,6 @@
 ---
 date: 2006-07-03 17:37:32
-categories:
-    - uncategorised
+categories: football
 title: well played, Owen Hargreaves
 layout: post
 comments: true

@@ -3,8 +3,7 @@ title: waiting for The National
 layout: post
 comments: true
 date: 2010-12-08 13:26:00
-categories:
-    - music
+categories: music
 ---
 Last week, I went to see The National at Brixton Academy. Twice. Both
 shows were great (Monday just shaded it) and the band resurrected a

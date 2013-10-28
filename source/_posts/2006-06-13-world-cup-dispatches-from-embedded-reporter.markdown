@@ -16,5 +16,6 @@ I was proudly telling a group of German ladies from Munich (World Cup
 widows) of my escapades in the confines of the hotel lift. There was a
 lengthy pause and they all looked really interested (or perplexed) until
 a Deutsche freulein uttered:
+
 > 'Until you insert your door card in that slot, we won't even be going
 > to the 10th floor let alone Nuremberg, Englischer Dummkopf'.

@@ -1,7 +1,6 @@
 ---
 date: 2006-04-21 02:57:23
-categories:
-    - uncategorised
+categories: blogging
 title: state of the blogosphere
 layout: post
 comments: true

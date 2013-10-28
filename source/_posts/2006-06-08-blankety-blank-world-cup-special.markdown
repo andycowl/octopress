@@ -1,13 +1,13 @@
 ---
 date: 2006-06-08 18:51:53
-categories:
-    - uncategorised
+categories: football
 title: blankety blank - World Cup Special
 layout: post
 comments: true
 ---
 Another in this occasional but very popular
 [series](http://www.nbrightside.com/blog/2006/04/03/blankety-blank-competition/):
+
 > 'I am doing this in the best interests of Rooney, the England team and
 > 40 million England fans' - Sven Goran Eriksson
 

@@ -1,7 +1,6 @@
 ---
 date: 2006-03-28 06:44:21
-categories:
-    - uncategorised
+categories: music
 title: Arctic Monkeys
 layout: post
 comments: true

@@ -1,7 +1,6 @@
 ---
 date: 2006-06-14 05:29:16
-categories:
-    - uncategorised
+categories: football
 title: Michael Essien
 layout: post
 comments: true

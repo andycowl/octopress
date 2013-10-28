@@ -1,7 +1,6 @@
 ---
 date: 2008-08-30 21:34:03
-categories:
-    - uncategorised
+categories: music
 title: R.E.M/Editors
 layout: post
 comments: true

@@ -3,8 +3,8 @@ layout: post
 title: speeding up Octopress generation
 date: 2012-09-20 14:43:00
 comments: true
-categories: 
-published: false
+categories: blogging
+published: true
 ---
 My site has 966 posts and 70 categories.
 
@@ -72,9 +72,9 @@ Out of interest, I converted my content into Hyde (a static site
 generator written in Python).
 
 Hyde generated the entire site in 9 mins 17 seconds. However, Hyde 
-also supports incremental builds (which took just 34 seconds for a singke
+also supports incremental builds (which took just 34 seconds for a single
 new post).
 
-I also tried raw Jekyll using Tom Preston-Werner 
+I also tried raw Jekyll using the default Tom Preston-Werner 
 [theme](http://tom.preston-werner.com/2008/11/17/blogging-like-a-hacker.html).
 This took 2 minutes to generate the site in its entirety.

@@ -1,7 +1,6 @@
 ---
 date: 2009-08-23 08:29:24
-categories:
-    - uncategorised
+categories: football
 title: Noel Gallagher on Citeh
 layout: post
 comments: true

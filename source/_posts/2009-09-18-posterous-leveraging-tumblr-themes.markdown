@@ -1,7 +1,6 @@
 ---
 date: 2009-09-18 11:31:09
-categories:
-    - uncategorised
+categories: blogging
 title: Posterous leveraging Tumblr themes
 layout: post
 comments: true

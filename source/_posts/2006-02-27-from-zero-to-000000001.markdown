@@ -1,7 +1,6 @@
 ---
 date: 2006-02-27 00:40:37
-categories:
-    - uncategorised
+categories: blogging
 title: from zero to 0.00000001
 layout: post
 comments: true

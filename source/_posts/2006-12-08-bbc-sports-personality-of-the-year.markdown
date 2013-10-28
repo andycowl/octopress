@@ -1,7 +1,6 @@
 ---
 date: 2006-12-08 20:10:47
-categories:
-    - uncategorised
+categories: sport
 title: BBC Sports Personality Of The Year
 layout: post
 comments: true

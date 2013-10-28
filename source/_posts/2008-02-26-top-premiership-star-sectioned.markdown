@@ -3,8 +3,7 @@ title: top Premiership star sectioned
 layout: post
 comments: true
 date: 2008-02-26 11:45:17
-categories:
-    - uncategorised
+categories: football
 ---
 London, near England - 28 February 2008
 

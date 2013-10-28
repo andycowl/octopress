@@ -1,7 +1,6 @@
 ---
 date: 2007-12-11 15:16:40
-categories:
-    - uncategorised
+categories: football
 title: Charlton on Best
 layout: post
 comments: true
@@ -15,6 +14,7 @@ rather contrasting interests and, err, hobbies.
 A month ago, I saw Charlton interviewed by Michael Parkinson where he
 recounted his memories of the Munich air crash. Charlton also talked
 about the frustration of playing alongside Best:
+
 > 'So I made a run forward 'Pass it George, pass it.' George dribbles
 > down the wing and cuts back inside. I move into space. 'Here George -
 > pass it here. Now'. George continues on a mazy run past another three
@@ -26,5 +26,6 @@ final days in a London hospital. Best was drugged and drifting in and
 out of consciousness and didn't recognise his two friends. Bobby
 Charlton had tears in his eyes and his voice was quivering. It really
 was an incredibly moving and emotional moment.
+
 So, if anyone tells you Bobby Charlton hated George Best, just ask them
 to watch that interview.

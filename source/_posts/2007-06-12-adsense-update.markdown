@@ -7,7 +7,7 @@ layout: post
 comments: true
 ---
 After a promising start, the recent introduction of
-[Adsense](../2007/05/23/sit-back-and-watch-the-money-roll-in) on this
+[Adsense](http://www.nbrightside.com/blog/2007/05/23/sit-back-and-watch-the-money-roll-in/) on this
 blog is seriously floundering. I am bitterly disappointed with the
 financial returns in June and my wife is seriously doubting the wisdom
 of my decision to resign from a highly paid job in IT consultancy in

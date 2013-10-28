@@ -1,7 +1,6 @@
 ---
 date: 2009-08-05 07:53:31
-categories:
-    - uncategorised
+categories: football
 title: Saint Michael of Chester
 layout: post
 comments: true

@@ -1,7 +1,6 @@
 ---
 date: 2006-07-17 15:44:27
-categories:
-    - uncategorised
+categories: football
 title: football nostalgia
 layout: post
 comments: true

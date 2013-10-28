@@ -1,7 +1,6 @@
 ---
 date: 2007-12-01 22:54:42
-categories:
-    - uncategorised
+categories: oracle
 title: UKOUG agenda
 layout: post
 comments: true

@@ -1,7 +1,6 @@
 ---
 date: 2010-01-28 12:57:39
-categories:
-    - uncategorised
+categories: football
 title: the wit and wisdom of Gary Cook
 layout: post
 comments: true

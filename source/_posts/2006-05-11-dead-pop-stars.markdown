@@ -1,7 +1,6 @@
 ---
 date: 2006-05-11 12:47:35
-categories:
-    - uncategorised
+categories: music
 title: dead pop stars
 layout: post
 comments: true

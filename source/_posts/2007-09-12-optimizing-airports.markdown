@@ -18,8 +18,7 @@ experience.
     self-service kiosks. The most obvious method to avoid this is to
     check-in online and print out your own boarding pass from the
     comfort of the office. One word of
-    [caution](http://www.nbrightside.com/blog/2006/01/18/caution-with-ba-online-check-in/)
-    - ensure you have the hardcopy of the boarding pass in your hands
+    [caution](http://www.nbrightside.com/blog/2006/01/18/caution-with-ba-online-check-in/) - ensure you have the hardcopy of the boarding pass in your hands
     before leaving the Web page. If, for any reason, printing is
     unsuccessful, it is impossible to check-in online a second time to
     print the page again. It is a little embarrassing to explain to the

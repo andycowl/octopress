@@ -1,7 +1,6 @@
 ---
 date: 2006-07-17 22:28:46
-categories:
-    - uncategorised
+categories: music
 title: The Smiths nostalgia
 layout: post
 comments: true

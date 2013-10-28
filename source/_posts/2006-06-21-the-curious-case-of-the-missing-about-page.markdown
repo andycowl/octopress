@@ -1,7 +1,6 @@
 ---
 date: 2006-06-21 14:33:22
-categories:
-    - uncategorised
+categories: blogging
 title: the curious case of the missing 'About' page
 layout: post
 comments: true
@@ -11,7 +10,7 @@ publication '[The Blog Review](http://blogreview.wordpress.com/)' was
 kind enough to
 [review](http://blogreview.wordpress.com/2006/06/16/andy-cblog-in-isolation/)
 this humble blog and raised the thorny question of an 'About' page. The
-absence of an '[About](../about)' page is one of Collin's pet hates and
+absence of an '[About](http://www.nbrightside.com/about/)' page is one of Collin's pet hates and
 [Lorelle](http://lorelle.wordpress.com/about/) also thinks they are very
 [important](http://lorelle.wordpress.com/2005/09/28/who-the-hell-are-you/).
 

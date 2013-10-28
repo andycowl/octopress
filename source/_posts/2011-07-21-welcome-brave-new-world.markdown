@@ -2,14 +2,8 @@
 title: Welcome to the brave new world
 layout: post
 comments: true
-description: >
-    Blog suicide is painless
 date: 2011-07-21 17:25:00
-categories:
-    - uncategorised
-categories:
-    - blogging
-    - hyde
+categories: blogging
 ---
 Well - I lasted about 4 hours without a blog.
 

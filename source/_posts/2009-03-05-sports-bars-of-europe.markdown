@@ -8,7 +8,7 @@ comments: true
 ---
 The latest update in this occasional and very
 [popular](http://www.nbrightside.com/blog/2006/01/13/sports-bars-of-europe/)
-[series](http://www.nbrightside.com/blog/2006/04/26/sports-bars-of-europe-2/).
+[series](http://www.nbrightside.com/blog/2006/04/25/sports-bars-of-europe/).
 
 I am currently working in the delightful city of Bern, near Switzerland.
 I have been here a couple of times before and last April I watched

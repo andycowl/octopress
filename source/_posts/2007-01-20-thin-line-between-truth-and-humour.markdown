@@ -25,7 +25,7 @@ Examples in this category:
 -   [Eat Your Own Dog Food](http://www.nbrightside.com/blog/2006/12/05/eat-your-own-dog-food/)
 -   [Trick Or Treat](http://www.nbrightside.com/blog/2006/11/01/trick-or-treat/)
 -   [Smoke and Mirrors](http://www.nbrightside.com/blog/2006/07/20/smoke-and-mirrors/)
--   Anything titled [YCNMIU](http://www.nbrightside.com/blog/2006/11/23/ycnmiu-4/)
+-   Anything titled [YCNMIU](http://www.nbrightside.com/blog/2006/11/23/ycnmiu/)
 
 Other posts are simultaneously technical and non-technical but merely an
 opportunity for a superb, ambiguous title.
@@ -44,7 +44,7 @@ punchline/conclusion:
 -   [Do What You Are Told](http://www.nbrightside.com/blog/2006/07/06/just-do-what-you-are-told-2/)
 -   [In Flight Statistics](http://www.nbrightside.com/blog/2006/05/15/in-flight-statistics/)
 -   [Homework Excuse](http://www.nbrightside.com/blog/2006/06/05/novel-homework-excuse/)
--   [Innocence of Youth](http://www.nbrightside.com/blog/2006/04/01/the-innocence-of-youth-2/)
+-   [Innocence of Youth](http://www.nbrightside.com/blog/2006/04/01/the-innocence-of-youth/)
 
 Sometimes I massage thoughts and ideas that would be too boring for a
 conventional blog entry. Imagine the tedium of a blog entry that reads

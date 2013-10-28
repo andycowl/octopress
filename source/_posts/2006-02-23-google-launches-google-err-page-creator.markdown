@@ -1,7 +1,6 @@
 ---
 date: 2006-02-23 17:49:21
-categories:
-    - uncategorised
+categories: google
 title: Google launches Google, err, Page Creator
 layout: post
 comments: true

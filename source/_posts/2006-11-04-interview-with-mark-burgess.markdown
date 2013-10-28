@@ -1,7 +1,6 @@
 ---
 date: 2006-11-04 10:26:36
-categories:
-    - uncategorised
+categories: music
 title: interview with Mark Burgess
 layout: post
 comments: true

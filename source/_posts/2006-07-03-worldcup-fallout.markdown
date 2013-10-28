@@ -1,7 +1,6 @@
 ---
 date: 2006-07-03 16:01:22
-categories:
-    - uncategorised
+categories: football
 title: WorldCup fallout
 layout: post
 comments: true

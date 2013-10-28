@@ -1,7 +1,6 @@
 ---
 date: 2009-04-15 23:50:41
-categories:
-    - uncategorised
+categories: football
 title: memories of Hillsborough
 layout: post
 comments: true

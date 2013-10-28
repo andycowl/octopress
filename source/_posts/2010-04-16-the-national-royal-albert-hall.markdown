@@ -1,7 +1,6 @@
 ---
 date: 2010-04-16 15:28:28
-categories:
-    - uncategorised
+categories: music
 title: The National - Royal Albert Hall
 layout: post
 comments: true

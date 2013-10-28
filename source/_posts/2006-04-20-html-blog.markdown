@@ -1,7 +1,6 @@
 ---
 date: 2006-04-20 06:34:30
-categories:
-    - uncategorised
+categories: blogging
 title: HTML > blog
 layout: post
 comments: true

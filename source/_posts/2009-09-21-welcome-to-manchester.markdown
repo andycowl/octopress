@@ -1,7 +1,6 @@
 ---
 date: 2009-09-21 09:06:09
-categories:
-    - uncategorised
+categories: football
 title: Welcome to Manchester
 layout: post
 comments: true

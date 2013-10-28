@@ -1,7 +1,6 @@
 ---
 date: 2009-08-06 10:29:58
-categories:
-    - uncategorised
+categories: blogging
 title: Why JS-Kit and Echo is doomed
 layout: post
 comments: true

@@ -1,7 +1,6 @@
 ---
 date: 2006-10-24 23:32:52
-categories:
-    - uncategorised
+categories: uncategorised
 title: new dawn fades
 layout: post
 comments: true
@@ -10,17 +9,18 @@ comments: true
 > regrets '
 
 I simply couldn't take any more so I reluctantly handed in my
-[resignation](../2006/10/17/my-new-job) yesterday. I have moved my blog
-to another cheap hosting provider, [Bluehost](http://bluehost.com/). If
+[resignation](http://www.nbrightside.com/blog/2006/10/17/my-new-job/)
+yesterday. I have moved my blog to another cheap hosting provider,
+[Bluehost](http://bluehost.com/). If
 this ends in tears, then I swear I am reverting to hosted WordPress. As
 Steve Redgrave once said 'If you ever see me signing up with another
 cheap hosting provider, shoot me !'
 
 The migration was pretty straightforward. This time, I just imported the
 complete mySQL database so all my posts, comments,
-[plugins](../2006/10/16/couple-of-useful-wordpress-plugins), themes,
-extensions and [hacks](../2006/10/10/improving-on-perfection) were
-preserved. Internal links didn't need fixing up. I also downloaded a
+[plugins](http://www.nbrightside.com/blog/2006/10/16/couple-of-useful-wordpress-plugins/), themes, extensions and
+[hacks](http://www.nbrightside.com/blog/2006/10/10/improving-on-perfection/)
+were preserved. Internal links didn't need fixing up. I also downloaded a
 copy of the Dreamhost Web site as a backup.
 
 The only package that failed to arrive safely was

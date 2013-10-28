@@ -1,7 +1,6 @@
 ---
 date: 2006-06-13 04:16:55
-categories:
-    - uncategorised
+categories: wordpress
 title: WordPress import/export
 layout: post
 comments: true
@@ -17,4 +16,4 @@ blogs but may also be useful for backing up your blog and facilitating
 other platform migrations.
 
 Tempting, very
-[tempting](http://www.nbrightside.com/blog/2006/06/02/stop-it-stop-it-stop-it-2/)
+[tempting](http://www.nbrightside.com/blog/2006/06/02/stop-it-stop-it-stop-it/)

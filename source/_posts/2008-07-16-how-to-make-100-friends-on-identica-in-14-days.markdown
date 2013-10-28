@@ -1,7 +1,6 @@
 ---
-date: 2008-07-16 23:32:11
-categories:
-    - uncategorised
+date: 2008-07-17 23:32:11
+categories: microblogging
 title: how to make 100 friends on identi.ca in 14 days
 layout: post
 comments: true

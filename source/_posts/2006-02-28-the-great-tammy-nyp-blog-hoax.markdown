@@ -1,7 +1,6 @@
 ---
 date: 2006-02-28 00:02:00
-categories:
-    - uncategorised
+categories: blogging
 title: the great Tammy NYP blog hoax
 layout: post
 comments: true

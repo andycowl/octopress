@@ -1,7 +1,6 @@
 ---
 date: 2009-05-08 15:39:17
-categories:
-    - uncategorised
+categories: football
 title: Arsenal vs MUFC - Champions League Semi Final
 layout: post
 comments: true

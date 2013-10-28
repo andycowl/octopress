@@ -1,7 +1,6 @@
 ---
 date: 2008-03-06 12:23:37
-categories:
-    - uncategorised
+categories: music
 title: top 10 concerts of all time
 layout: post
 comments: true

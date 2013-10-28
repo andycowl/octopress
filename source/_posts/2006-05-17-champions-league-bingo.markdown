@@ -1,7 +1,6 @@
 ---
 date: 2006-05-17 20:32:16
-categories:
-    - uncategorised
+categories: football
 title: Champions League bingo
 layout: post
 comments: true

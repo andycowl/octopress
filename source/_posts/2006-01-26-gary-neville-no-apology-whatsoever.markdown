@@ -1,7 +1,6 @@
 ---
 date: 2006-01-26 00:16:10
-categories:
-    - uncategorised
+categories: football
 title: Gary Neville - no apology whatsoever
 layout: post
 comments: true

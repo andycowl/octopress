@@ -1,7 +1,6 @@
 ---
 date: 2010-01-29 10:45:33
-categories:
-    - uncategorised
+categories: football
 title: Cock Watch
 layout: post
 comments: true

@@ -1,7 +1,6 @@
 ---
 date: 2006-07-05 01:53:21
-categories:
-    - uncategorised
+categories: football
 title: ifs, buts and maybes
 layout: post
 comments: true

@@ -1,7 +1,6 @@
 ---
 date: 2006-02-03 17:51:28
-categories:
-    - uncategorised
+categories: blogging
 title: UK blogs
 layout: post
 comments: true

@@ -1,7 +1,6 @@
 ---
 date: 2009-01-12 09:03:34
-categories:
-    - uncategorised
+categories: football
 title: inside Jamie Carragher's head
 layout: post
 comments: true

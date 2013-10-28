@@ -1,7 +1,6 @@
 ---
 date: 2006-03-12 23:04:49
-categories:
-    - uncategorised
+categories: wordpress
 title: WordPress humour
 layout: post
 comments: true

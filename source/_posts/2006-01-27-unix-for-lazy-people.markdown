@@ -1,7 +1,6 @@
 ---
 date: 2006-01-27 17:02:39
-categories:
-    - uncategorised
+categories: unix
 title: Unix for lazy people
 layout: post
 comments: true

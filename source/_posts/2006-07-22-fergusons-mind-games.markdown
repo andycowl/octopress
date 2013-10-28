@@ -1,7 +1,6 @@
 ---
 date: 2006-07-22 04:16:02
-categories:
-    - uncategorised
+categories: football
 title: Ferguson's mind games
 layout: post
 comments: true

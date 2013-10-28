@@ -1,7 +1,6 @@
 ---
 date: 2006-02-06 23:41:40
-categories:
-    - uncategorised
+categories: wordpress
 title: top of the (WordPress) pops
 layout: post
 comments: true

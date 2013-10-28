@@ -1,7 +1,6 @@
 ---
 date: 2008-01-17 07:59:56
-categories:
-    - uncategorised
+categories: football
 title: Cheer up Kevin Keegan
 layout: post
 comments: true

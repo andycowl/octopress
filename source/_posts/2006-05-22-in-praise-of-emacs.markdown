@@ -1,7 +1,6 @@
 ---
 date: 2006-05-22 21:00:27
-categories:
-    - uncategorised
+categories: emacs
 title: in praise of Emacs
 layout: post
 comments: true

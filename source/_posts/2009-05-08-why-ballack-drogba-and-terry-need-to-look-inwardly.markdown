@@ -1,7 +1,6 @@
 ---
 date: 2009-05-08 11:11:22
-categories:
-    - uncategorised
+categories: football
 title: why Ballack, Drogba and Terry need to look inwardly
 layout: post
 comments: true

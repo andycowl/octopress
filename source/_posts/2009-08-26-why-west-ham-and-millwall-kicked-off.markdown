@@ -1,7 +1,6 @@
 ---
 date: 2009-08-26 10:31:03
-categories:
-    - uncategorised
+categories: football
 title: why West Ham and Millwall kicked off
 layout: post
 comments: true

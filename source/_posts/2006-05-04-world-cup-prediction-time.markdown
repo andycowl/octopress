@@ -1,7 +1,6 @@
 ---
 date: 2006-05-04 05:56:22
-categories:
-    - uncategorised
+categories: football
 title: World Cup prediction time
 layout: post
 comments: true
