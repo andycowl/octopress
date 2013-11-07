@@ -1,7 +1,6 @@
 ---
 date: 2006-11-15 17:41:21
-categories:
-    - uncategorised
+categories: blogging
 title: rising from the ashes
 layout: post
 comments: true
@@ -9,7 +8,7 @@ comments: true
 I forgot to pack my WordPress hosted
 [images](http://www.nbrightside.com/blog/2006/10/04/checkpoint-charlie/)
 when
-[movin](http://www.nbrightside.com/blog/2006/09/30/from-wordpresscom-to-wordpressorg/)g
+[moving](http://www.nbrightside.com/blog/2006/09/30/from-wordpresscom-to-wordpressorg/)
 my blog. Thankfully, this isn't as important (or embarrassing) as
 carefully packing and then promptly
 [forgetting](http://radiofreetooting.blogspot.com/2006/11/ukoug-2006-day-one.html)

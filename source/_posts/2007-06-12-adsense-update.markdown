@@ -1,8 +1,7 @@
 ---
-date: 2007-06-12 21:44:30
-categories:
-    - uncategorised
 title: Adsense update
+date: 2007-06-12 21:44:30
+categories: blogging
 layout: post
 comments: true
 ---
@@ -27,6 +26,6 @@ The world's worst blog
 
 Ramblings from a certified madman
 
-The wit and wisdom of Mr Brightside\
+The wit and wisdom of Mr Brightside
 
 www.nbrightside.com

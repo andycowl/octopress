@@ -1,10 +1,10 @@
 ---
+title: Facebook penetration of corporate America
 date: 2007-07-25 06:42:06
 categories:
     - oracle
     - google
     - microsoft
-title: Facebook penetration of corporate America
 layout: post
 comments: true
 ---
@@ -22,18 +22,16 @@ The following Facebook networks are only open to company employees with
 a valid email address although, obviously, a better metric would have
 been some measure of recent activity.
 
-  ----------- ----------- ---------- ---------------
-  Company     Employees   Facebook   FB factor (%)
-  Google      10,674      5,545      51.9
-  Yahoo!      11,400      3,911      34.3
-  Microsoft   71,000      17,980     25.3
-  Sun         14,000      2,942      21.0
-  IBM         355,766     23,400     6.6
-  Oracle      74,674      4,280      5.7
-  SAP         41,919      2,300      5.4
-  HP          186,000     9,742      5.2
-  Intel       90,300      4,219      4.7
-  ----------- ----------- ---------- ---------------
+Company   | Employeees | Facebook | FB Factor (%)
+Google    | 10,674     | 5,545    | 51.9
+Yahoo!    | 11,400     | 3,911    | 34.3
+Microsoft | 71,000     | 17,980   | 25.3
+Sun       | 14,000     | 2,942    | 21.0
+IBM       | 355,766    | 23,400   | 6.6
+Oracle    | 74,674     | 4,280    | 5.7
+SAP       | 41,919     | 2,300    | 5.4
+HP        | 186,000    | 9,742    | 5.2
+Intel     | 90,300     | 4,219    | 4.7
 
 Inevitably, I guess - Google lead the way (again) but I was surprised to
 see that Sun Microsystems have a significant proportion of Facebook

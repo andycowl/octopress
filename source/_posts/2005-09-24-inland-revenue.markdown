@@ -1,9 +1,10 @@
 ---
-title: Inland Revenue
 layout: post
-comments: true
+title: Inland Revenue
 date: 2005-09-24 22:58:42
-categories: u---
+comments: true
+categories: uk
+---
 Just submitted my tax return online which was pretty painless and
 quick.  On the final page, I entered some additional information with
 a minor query. When I submitted the form, there was a data validation

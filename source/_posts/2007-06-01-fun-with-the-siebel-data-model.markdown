@@ -1,8 +1,6 @@
 ---
 date: 2007-06-01 20:01:02
-categories:
-    - humour
-    - siebel
+categories: siebel
 title: fun with the Siebel data model
 layout: post
 comments: true
@@ -30,4 +28,3 @@ popular Siebel table:
 
 And finally...
 -   S\_DISEASE - the clear winner.
-

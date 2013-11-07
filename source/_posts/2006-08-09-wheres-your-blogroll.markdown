@@ -1,7 +1,6 @@
 ---
 date: 2006-08-09 09:19:55
-categories:
-    - uncategorised
+categories: blogging
 title: where's your blogroll ?
 layout: post
 comments: true

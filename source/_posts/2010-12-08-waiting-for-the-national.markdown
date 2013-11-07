@@ -14,7 +14,7 @@ I’d been eagerly waiting for these dates to come around since I
 [saw](http://www.nbrightside.com/blog/2010/05/07/the-national-royal-albert-hall/)
 the band on election night back in May at the Royal Albert Hall.
 
-This beautiful photo taken by [Alison Philcock][] brilliantly captures
+This beautiful photo taken by Alison Philcock brilliantly captures
 the mood and sense of expectation shortly before the band took the
 stage.
 

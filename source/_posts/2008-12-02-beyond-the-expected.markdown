@@ -7,7 +7,7 @@ layout: post
 comments: true
 ---
 Just been down to
-[Asda](http://www.nbrightside.com/blog/2007/10/16/just-do-what-you-are-told-3).
+[Asda](http://www.nbrightside.com/blog/2007/10/16/just-do-what-you-are-told/).
 Not because I am a Nineties man but mainly because the element on the
 kettle just blew.
 

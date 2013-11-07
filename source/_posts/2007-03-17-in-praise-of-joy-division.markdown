@@ -1,7 +1,6 @@
 ---
 date: 2007-03-17 00:01:23
-categories:
-    - uncategorised
+categories: music
 title: in praise of Joy Division
 layout: post
 comments: true

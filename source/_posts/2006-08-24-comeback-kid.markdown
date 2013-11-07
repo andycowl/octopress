@@ -1,8 +1,8 @@
---
-date: 2006-08-24 23:47:57
+---
 title: comeback kid
 layout: post
 comments: true
+date: 2006-08-24 23:47:57
 categories:
     - football
 ---

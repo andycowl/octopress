@@ -1,5 +1,5 @@
 ---
-date: 2008-04-28 22:08:01
+date: 2008-04-29 22:08:01
 categories: twitter
 title: a brief history of inane drivel
 layout: post

@@ -1,8 +1,7 @@
 ---
-date: 2007-07-10 18:46:42
-categories:
-    - uncategorised
 title: out with the old, in with the new
+date: 2007-07-10 18:46:42
+categories: blogging
 layout: post
 comments: true
 ---
@@ -65,15 +64,13 @@ A few features in Spam Karma I really like:
 -   A detailed breakdown of the score assigned to any comment is
     available.
 
-> -12.5 
->  0: Encrypted payload valid: IP matching. 
->  -2: Browser doesn't support Javascript 
->  0.5: Comment has no URL in content (but one author URL) 
->  -2: Flash Gordon was here (comment posted 8 seconds after page
-> load). 
->  -9: Entry posted 7 months, 3 weeks ago. 0 comments in the past 15
-> days. 
->  Current Karma: -3.
+> -12.5  
+>  0: Encrypted payload valid: IP matching.  
+>  -2: Browser doesn't support Javascript  
+>  0.5: Comment has no URL in content (but one author URL)  
+>  -2: Flash Gordon was here (comment posted 8 seconds after page load)  
+>  -9: Entry posted 7 months, 3 weeks ago. 0 comments in the past 15 days  
+>  Current Karma: -3  
 
 I was so impressed I donated $20 to the author and that doesn't happen
 very often.  Another source of unnecessary email was valid blog

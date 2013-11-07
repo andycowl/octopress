@@ -1,8 +1,7 @@
 ---
-date: 2007-07-17 22:26:56
-categories:
-    - uncategorised
 title: membership form for BAAG
+date: 2007-07-17 22:26:56
+categories: uncategorised
 layout: post
 comments: true
 ---
@@ -55,8 +54,6 @@ room, to analyze multiple Statspack reports, reproduce the majority of
 the problems in SQL\*Plus and then **prove** the behaviour was improved
 when statistics on empty tables were dropped and two additional indexes
 created.
-tags:
-    - uncategorised
 
 This lucky 'guess' miraculously restored performance and stability. So
 you see, 'any guess' is not always such a bad strategy, after all.

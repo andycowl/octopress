@@ -1,7 +1,6 @@
 ---
 date: 2006-02-22 01:12:05
-categories:
-    - uncategorised
+categories: blogging
 title: to whom it may concern
 layout: post
 comments: true
@@ -55,7 +54,7 @@ Come on. I am holding my sides in anticipation.
 > persian kittens teething
 
 You see. There are people out there who blog about
-[Persian cats](http://www.nbrightside.com/blog/2005/11//07/how-to-get-ideas-for-your-blog/).
+[Persian cats](http://www.nbrightside.com/blog/2005/11/07/how-to-get-ideas-for-your-blog/).
 
 > quickie at work
 

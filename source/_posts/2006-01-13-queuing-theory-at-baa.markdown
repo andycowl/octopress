@@ -19,7 +19,7 @@ in length.
 A BAA lady was monitoring the queue and, from time to time, would open
 up a barrier to allow economy pasengers to join the Fast Track queue
 (much to the disgust of all the business
-[people](http://www,nbrightside.com/blog/2005/10/22/british-mentality/)
+[people](http://www.nbrightside.com/blog/2005/10/22/british-mentality/)
 who had paid a premium specifically to clear the security checks
 quicker, avoid mixing with economy passengers, as they are in such a
 desperate hurry and are so important with their toy phones glued to

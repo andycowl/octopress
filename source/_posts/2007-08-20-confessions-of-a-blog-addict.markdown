@@ -1,7 +1,6 @@
 ---
 date: 2007-08-29 06:13:38
-categories:
-    - blogging
+categories: blogging
 title: confessions of a blog addict
 layout: post
 comments: true
@@ -35,11 +34,12 @@ life as a IT consultant.
 
 As a consequence of creating the blog, I learned about various blogging
 platforms ([Blogger](http://www.blogger.com/),
-[WordPress](http://wordpress.com/), [Movable
-Type](http://www.nbrightside.com/MT/), [Drupal](http://drupal.org/),
+[WordPress](http://wordpress.com/),
+[Movable Type](http://www.nbrightside.com/MT/),
+[Drupal](http://drupal.org/),
 [Typepad](http://www.typepad.com/),
-[Habari](http://www.nbrightside.com/blog/2007/01/24/fun-with-habari/)and
-Google
+[Habari](http://www.nbrightside.com/blog/2007/01/24/fun-with-habari/)
+and Google
 [Pages](http://www.nbrightside.com/blog/2006/02/23/google-launches-google-err-page-creator/))
 
 I also learned about

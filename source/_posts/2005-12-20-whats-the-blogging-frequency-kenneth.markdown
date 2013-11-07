@@ -1,7 +1,6 @@
 ---
 date: 2005-12-20 06:42:54
-categories:
-    - blogging
+categories: blogging
 title: what's the (blogging) frequency, Kenneth ?
 layout: post
 comments: true

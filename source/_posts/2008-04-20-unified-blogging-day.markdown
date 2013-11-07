@@ -1,8 +1,7 @@
 ---
-date: 2008-04-20 08:08:50
-categories:
-    - uncategorised
 title: Unified Blogging Day
+date: 2008-04-20 08:08:50
+categories: blogging
 layout: post
 comments: true
 ---
@@ -42,18 +41,19 @@ to see how people subscribe to each 'output' but Habari doesn't have a
 'Poll' plugin so just leave a comment below indicating which channel(s)
 you are a) aware of, b) subscribe to c) devour feverishly and d)
 blissfully unaware of.
--   [Blog](http://www.nbrightside.com/blog/) - a man barely alive but we
-    have the technology to rebuild him.
--   [Tumblr](http://andyc.tumblr.com/) - stuff I'm too embarassed to put
-    on the blog.
--   Technical [blog](http://www.nbrightside.com/drupal/) - low traffic.
--   [Twitter](http://twitter.com/andycowl) - endless stream of drivel
-    (soon to be upgraded to include 'Hello', Goodnight' and the state of
-    my runny nose).
--   [Disqus](http://disqus.com/people/andycowl/) - every single comment
-    I have left on the blogoshpere (on Disqus enabled blogs).
--   [FriendFeed](http://friendfeed.com/andyc) - unified feed of all of
-    the above. Filters available to reduce the signal/noise ratio.
+
+- [Blog](http://www.nbrightside.com/blog/) - a man barely alive but we
+  have the technology to rebuild him.
+- [Tumblr](http://andyc.tumblr.com/) - stuff I'm too embarassed to put
+  on the blog.
+- Technical [blog](http://www.nbrightside.com/drupal/) - low traffic.
+- [Twitter](http://twitter.com/andycowl) - endless stream of drivel
+  (soon to be upgraded to include 'Hello', Goodnight' and the state of
+  my runny nose).
+- [Disqus](http://disqus.com/people/andycowl/) - every single comment
+  I have left on the blogoshpere (on Disqus enabled blogs).
+- [FriendFeed](http://friendfeed.com/andyc) - unified feed of all of
+  the above. Filters available to reduce the signal/noise ratio.
 
 Anyone owning up to subscribing to duplicate channels will have stay
 behind after school for 1 hours detention (unless they have a note from

@@ -9,7 +9,7 @@ comments: true
 Yesterday was 1 December and an innocuous post on identi.ca about an
 Advent calendar immediately reminded me of an amusing (and completely
 true) blog
-[post](http://www.nbrightside.com/blog/2006/12/06/eat-your-own-dog-food/)
+[post](http://www.nbrightside.com/blog/2006/12/05/eat-your-own-dog-food/)
 I wrote two years ago.
 
 This, in turn, prompted me to write this short

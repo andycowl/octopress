@@ -17,16 +17,16 @@ friends. In fact, I have only lost data once and, inevitably, that was
 due to my own stupidity.
 
 Here are the invaluable Firefox plugins that I always install first:
--   [DownloadThemAll!](https://addons.mozilla.org/en-US/firefox/addon/201)
-    - download manager featuring multi-threaded, lightning fast,
-    resumable downloads.
--   [is.gd](https://addons.mozilla.org/en-US/firefox/addon/7369) - URL
-    shortener.
--   [Diigo](https://addons.mozilla.org/en-US/firefox/addon/2792) - Great
-    bookmarking service.
--   [Google Notebook](http://www.google.com/notebook/download) - Useful
-    for random thoughts, reminders, lists of people who have crossed
-    you, transient bookmarks and, well, notes.
--   [Firebug](https://addons.mozilla.org/en-US/firefox/addon/1843) -
-    HTML and CSS diagnostics
 
+- [DownloadThemAll!](https://addons.mozilla.org/en-US/firefox/addon/201)
+  - download manager featuring multi-threaded, lightning fast,
+  resumable downloads.
+- [is.gd](https://addons.mozilla.org/en-US/firefox/addon/7369) - URL
+  shortener.
+- [Diigo](https://addons.mozilla.org/en-US/firefox/addon/2792) - Great
+  bookmarking service.
+- [Google Notebook](http://www.google.com/notebook/download) - Useful
+  for random thoughts, reminders, lists of people who have crossed
+  you, transient bookmarks and, well, notes.
+- [Firebug](https://addons.mozilla.org/en-US/firefox/addon/1843) -
+  HTML and CSS diagnostics

@@ -1,7 +1,6 @@
 ---
 date: 2006-01-18 01:44:59
-categories:
-    - uncategorised
+categories: crm
 title: probably the best marketing campaign ever
 layout: post
 comments: true

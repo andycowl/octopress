@@ -7,7 +7,7 @@ layout: post
 comments: true
 ---
 My obsession with
-[notices](http://www.nbrightside.com/blog/2006/01/19/probably-the-best-marketing-campaign-ever/)
+[notices](http://www.nbrightside.com/blog/2006/01/18/probably-the-best-marketing-campaign-ever/)
 and
 [signs](http://www.nbrightside.com/blog/2006/07/06/just-do-what-you-are-told-2/)
 in

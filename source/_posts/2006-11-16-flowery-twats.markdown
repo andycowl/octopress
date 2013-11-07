@@ -1,7 +1,6 @@
 ---
 date: 2006-11-16 03:29:55
-categories:
-    - uncategorised
+categories: travel
 title: flowery twats
 layout: post
 comments: true

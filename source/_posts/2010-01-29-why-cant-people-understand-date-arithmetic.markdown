@@ -1,12 +1,12 @@
 ---
 date: 2010-01-29 14:53:11
-categories:
-    - uncategorised
+categories: oracle
 title: why can't people understand date arithmetic ?
 layout: post
 comments: true
 ---
-` AND TO_NUMBER(TO_CHAR(appt_start_dt + 9/24, 'YYYYMMDDHH24MISS')) <= TO_NUMBER(TO_CHAR((TO_DATE(:b1, 'DD/MM/YYYY HH24:MI:SS')), 'YYYYMMDDHH24MISS'))`
+    AND TO_NUMBER(TO_CHAR(appt_start_dt + 9/24, 'YYYYMMDDHH24MISS')) <= 
+    TO_NUMBER(TO_CHAR((TO_DATE(:b1, 'DD/MM/YYYY HH24:MI:SS')), 'YYYYMMDDHH24MISS'))`
 
 Please can a clever Oracle person explain, in English, the precise
 semantics of this WHERE clause snippet in the comments below.
@@ -25,7 +25,7 @@ When I was a little boy, I used to say 'Only 43 days to my birthday
 now, Dad'. Although I didn't know it at the time I could have written
 this as
 
-` sysdate + 43 = :my_birthday`
+    sysdate + 43 = :my_birthday
 
 I even understand that TRUNC(SYSDATE) is midnight - it just seems
 fairly intuitive and logical to me.
@@ -74,6 +74,6 @@ to be sure.
 
 Why didn't he simply use 
 
-` AND appt_start_dt + 9/24 <= [TO_DATE] :B1`
+    AND appt_start_dt + 9/24 <= [TO_DATE] :B1
 
 Why ?

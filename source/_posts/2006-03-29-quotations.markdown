@@ -1,8 +1,7 @@
 ---
-date: 2006-03-29 07:06:03
-categories:
-    - uncategorised
 title: quotations
+date: 2006-03-29 07:06:03
+categories: uncategorised
 layout: post
 comments: true
 ---
@@ -31,13 +30,14 @@ so here are some of mine.
 
 And finally, for all you philosophers out there who managed to get this
 far
-> We may seem cold, or\
->  We may even be\
->  The most depressing people you've ever known\
->  At heart, what's left, we sadly know\
->  That we are the last truly British people you'll ever know
+
+> We may seem cold, or  
+> We may even be  
+> The most depressing people you've ever known  
+> At heart, what's left, we sadly know  
+> That we are the last truly British people you'll ever know  
 > (Morrissey)
 
 Only joking. Sorry about that, philosophers. Here you go.
-> Those who forget the past are condemned to relive it (George
-> Santayana)
+
+> Those who forget the past are condemned to relive it (George Santayana)

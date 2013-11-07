@@ -7,7 +7,10 @@ comments: true
 ---
 Come on everybody. Sing along now.
 
-> A mole digging in a hole Digging up my soul now Going down, relegation
-> Ashley and I in the sky You make me feel like I can die So low,
-> relegation
+> A mole digging in a hole  
+> Digging up my soul now  
+> Going down, relegation  
+> Ashley and I in the sky  
+> You make me feel like I can die  
+> So low, relegation  
 > Relegation Relegation Relegation

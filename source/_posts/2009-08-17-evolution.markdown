@@ -1,7 +1,6 @@
 ---
 date: 2009-08-17 12:43:34
-categories:
-    - uncategorised
+categories: blogging
 title: evolution
 layout: post
 comments: true
@@ -15,11 +14,11 @@ Blogger.
 self-hosted Blogger
 
 13 November 2005 -
-[Moved](http://www.nbrightside.com/blog/2005/11/13/another-change-of-scene/)
+[Moved](http://www.nbrightside.com/blog/2005/11/12/another-change-of-scene/)
 to hosted WordPress.com.
 
 30 September 2006 - Purchased domain name and
-[moved](http://www.nbrightside.com/blog/2008/2006/09/30/from-wordpresscom-to-wordpressorg/)
+[moved](http://www.nbrightside.com/blog/2006/09/30/from-wordpresscom-to-wordpressorg/)
 to self-hosted WordPress.org
 
 01 July 2007 - Adsense

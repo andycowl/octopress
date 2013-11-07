@@ -49,11 +49,12 @@ risky for an inexperienced, new user.
 To be fair, Linux Mint are upfront and honest and
 [describe](http://www.linuxmint.com/blog/?p=1144) the upgrade process
 fully, the options available and the pros and cons of each approach.
+
 > 'There is no guarantee that it will work for you. In fact, this
-[dist > upgrade] is quite a risky process. If you're experienced and
-if you > know how to troubleshoot and solve common Linux problems then
-you're > probably OK. If you're a novice user we recommend you perform
-a fresh > installation of Linux Mint 8 instead.'
+> [dist upgrade] is quite a risky process. If you're experienced and
+> if you know how to troubleshoot and solve common Linux problems then
+> you're probably OK. If you're a novice user we recommend you perform
+> a fresh installation of Linux Mint 8 instead.'
 
 David Marsden is an experienced Linux user and
 [comments](http://www.nbrightside.com/blog/2009/12/09/inside-the-open-source-confessional#comment-25305185)
@@ -70,42 +71,38 @@ struggled to notice the change, it was that transparent.
 
 In fact, all I needed to do was: 
 
-- When originally installing Linux,
-create dedicated, separate partitions for user home directories and
-data. I use '/home' (user directories) and '/data' (music, photos,
-documents).  
+- When originally installing Linux, create dedicated, separate partitions
+  for user home directories and data. I use '/home' (user directories)
+  and '/data' (music, photos, documents).  
 
-- Try to stick to the default Mint (and Ubuntu) software
-repositories.  
+- Try to stick to the default Mint (and Ubuntu) software repositories.  
 
-- Note down the additional applications and software
-packages you have installed.  
+- Note down the additional applications and software packages you have
+  installed.  
 
-- Jot down user and group id's (copy
-'/etc/passwd' and '/etc/group').  
+- Jot down user and group id's (copy '/etc/passwd' and '/etc/group').  
 
-- Backup the home and data file
-systems (twice). Check the numbers of files. Check the size of the
-directories. Check the checksums. Check the backups are
-readable. Check the hidden directories. Check the backup disk isn't
-full. Check everything.  
+- Backup the home and data file systems (twice). Check the numbers of files.
+  Check the size of the directories. Check the checksums. Check the backups
+  are readable. Check the hidden directories. Check the backup disk isn't
+  full. Check everything.  
 
 - Burn the Install CD and install the 'upgrade'.  
 
-- Preserve the '/home' and '/data' file systems, leaving
-all existing data intact. You did remember to jot down that '/home' is
+- Preserve the '/home' and '/data' file systems, leaving all existing data
+  intact. You did remember to jot down that '/home' is
 '/dev/sda6' and '/data' is '/dev/sda8', didn't you ?  
 
 - Move '/home/user' to '/home/user.backup'. Repeat for each user
-account. This ensures that Gnome and desktop related settings are
-re-created.  
+  account. This ensures that Gnome and desktop related settings are
+  re-created.  
 
 - Re-create the necessary user accounts and ensure the
-user and group identifiers are the same as before.
+  user and group identifiers are the same as before.
 
 - Selectively, copy the various, 'hidden' dot directories for
-applications (Rythmbox, Picasa, Pidgin) back into the user directory
-to preserve the application settings.
+  applications (Rythmbox, Picasa, Pidgin) back into the user directory
+  to preserve the application settings.
 
 - Reconfigure wireless networking.  
 

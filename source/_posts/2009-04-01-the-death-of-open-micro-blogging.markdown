@@ -14,7 +14,7 @@ as a corpse in a deep freeze.
 Inevitably, things change and like an old woman, I reserve the right to
 change my mind more frequently than my underpants, and in 2008, I
 started using Twitter to post a continuous bytestream of
-[inane drivel](http://www.nbrightside.com/blog/2008/04/29/brief-history-of-inane-drivel/)
+[inane drivel](http://www.nbrightside.com/blog/2008/04/29/a-brief-history-of-inane-drivel/)
 in less than 140 characters.
 
 Last July, when [identi.ca](http://identi.ca/) launched, I immediately
@@ -25,7 +25,7 @@ install and configure the software.
 
 As a controlled experiment, I set myself the task of participating fully
 on identi.ca to see how long it would take me to acquire
-[100 friends](http://www.nbrightside.com/blog/2008/07/16/how-to-make-100-friends-on-identi-ca-in-14-days/)
+[100 friends](http://www.nbrightside.com/blog/2008/07/16/how-to-make-100-friends-on-identica-in-14-days/)
 on identi.ca. The answer, surprisingly, was 14 days.
 
 Since then I have really enjoyed the sense of community on identi.ca, I

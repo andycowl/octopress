@@ -101,9 +101,11 @@ It was weird hearing 'Mr. November' which was used in Barack Obama's
 presidential campaign on election day in Britain and hearing hundreds of
 people screaming in unison:
 
-> I'm the new blue blood I'm the great white hope. I'm the new blue
-> blood. I won't fuck us over, I'm Mr. November. I'm Mr. November, I
-> won't fuck us over.
+> I'm the new blue blood  
+> I'm the great white hope.  
+> I'm the new blue blood.  
+> I won't fuck us over, I'm Mr. November.  
+> I'm Mr. November, I won't fuck us over.  
 
 I didn't bother taking any day tripper, tourist photos but
 [David Emery](http://de-online.co.uk/) has some fantastic

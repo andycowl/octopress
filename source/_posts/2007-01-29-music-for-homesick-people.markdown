@@ -31,8 +31,8 @@ and viewing questionable videos on YouTube.
 
 So, to preserve poor Doug's sanity and seed some new ideas, I have
 painstakingly recorded full details of my vinyl record
-[collection](http://spreadsheets.google.com/pub?key=pHBwkjgvEIx7p__epg6YXYg)which
-was sold to a second hand record shop last January for &pound;20.
+[collection](http://spreadsheets.google.com/pub?key=pHBwkjgvEIx7p__epg6YXYg)
+which was sold to a second hand record shop last January for &pound;20.
 
 Obviously, this eclectic collection merely reflects my antique
 collection of vinyl so I also resurrected my last.fm

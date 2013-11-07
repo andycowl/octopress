@@ -1,7 +1,6 @@
 ---
 date: 2008-05-15 10:40:00
-categories:
-    - uncategorised
+categories: football
 title: truth behind the Rangers fans and the Manchester riots
 layout: post
 comments: true

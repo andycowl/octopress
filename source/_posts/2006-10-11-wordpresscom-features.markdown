@@ -1,7 +1,6 @@
 ---
 date: 2006-10-11 09:21:03
-categories:
-    - wordpress
+categories: wordpress
 title: WordPress.com features
 layout: post
 comments: true

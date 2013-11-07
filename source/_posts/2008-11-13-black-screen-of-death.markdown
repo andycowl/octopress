@@ -1,7 +1,6 @@
 ---
 date: 2008-11-13 10:12:21
-categories:
-    - uncategorised
+categories: IT
 title: black screen of death
 layout: post
 comments: true
@@ -33,9 +32,9 @@ keystrokes in real-time.
 
 Here is the exclusive transcript...
 
-> To: Sebastian Browning (VP marketing)\
->  Cc: UK Marketing\
->  Subject: logistics for Partner Golf day\
+> To: Sebastian Browning (VP marketing)  
+>  Cc: UK Marketing  
+>  Subject: logistics for Partner Golf day  
 >
 > Due to the current 'difficult and challenging times', the Partner Golf
 > day at The Old Course, St Andrews has been cancelled. However, as I
@@ -52,8 +51,9 @@ trackerball activity punctuated by various muttered expletives. The most
 likely cause was the poor individual trying to resize a picture within a
 Microsoft Word document. Then back to the 782 messages lying in 'Inbox'.
 
-> To: Bernard Barnstormworth (Director Fins)\
->  Subject: status on Megabank opportunity\
+> To: Bernard Barnstormworth (Director Fins)  
+>  Subject: status on Megabank opportunity  
+>
 > Megabank is dead. The client was expecting to be hosted at The
 > Emirates to see Arsenal versus Manchester United followed by dinner at
 > The Ivy. What they got was a mini-bus to Leyton Orient against
@@ -63,8 +63,9 @@ Microsoft Word document. Then back to the 782 messages lying in 'Inbox'.
 Another pause for thought to consume a cheese sandwich and a glass of
 water.
 
-> To: Hannah Brown (IT security)\
->  Subject: privacy and security\
+> To: Hannah Brown (IT security)  
+>  Subject: privacy and security  
+>
 > Hannah - As per your recent memo, my two hard disks are now fully
 > encrypted and I have affixed the privacy screen overlay to my laptop.
 > I must say it is absolutely fantastic to be able to work without

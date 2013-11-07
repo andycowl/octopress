@@ -1,7 +1,6 @@
 ---
 date: 2008-04-04 13:22:16
-categories:
-    - uncategorised
+categories: crm
 title: BA launches bid for prestigious 'marketing campaign' award
 layout: post
 comments: true

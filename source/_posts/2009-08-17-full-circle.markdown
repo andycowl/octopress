@@ -1,7 +1,6 @@
 ---
 date: 2009-08-17 09:04:27
-categories:
-    - uncategorised
+categories: blogging
 title: full circle
 layout: post
 comments: true
@@ -36,7 +35,7 @@ turn, (via his blogroll) led to the discovery of a handful of other
 downright
 [funny](http://scaryduck.blogspot.com/2009/08/neither-mirth-nor-woe-sucker.html)
 UK blogs. I have
-[bemoaned](http://www.nbrightside.com/blog/2006/08/09/the-state-of-the-uk-blogosphere)
+[bemoaned](http://www.nbrightside.com/blog/2006/08/08/the-state-of-the-uk-blogosphere)
 my [failure](http://www.nbrightside.com/blog/2007/11/14/top-10-uk-blogs/) to
 find decent UK blogs more than once - maybe I just didn't look hard
 enough or in the right places.

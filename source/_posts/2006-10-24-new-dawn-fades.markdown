@@ -1,6 +1,6 @@
 ---
-date: 2006-10-24 23:32:52
-categories: uncategorised
+date: 2006-10-24 21:32:52
+categories: blogging
 title: new dawn fades
 layout: post
 comments: true

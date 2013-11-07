@@ -27,7 +27,7 @@ Eventually, the course of true love prevailed and our relationship
 [blossomed](http://www.nbrightside.com/blog/2007/02/09/great-fun-with-iris/).
 Iris and I enjoyed furtive, passionate encounters in the toilets at
 Heathrow with novelty
-[condoms](http://www.nbrightside.com/blog/2006/01/19/probably-the-best-marketing-campaign-ever/)
+[condoms](http://www.nbrightside.com/blog/2006/01/18/probably-the-best-marketing-campaign-ever/)
 to spice up the relationship.
 
 Whenever I returned to the UK after being abroad, I would positively

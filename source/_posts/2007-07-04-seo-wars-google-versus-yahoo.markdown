@@ -1,7 +1,6 @@
 ---
 date: 2007-07-04 08:17:02
-categories:
-    - google
+categories: google
 title: 'SEO wars: Google versus Yahoo!'
 layout: post
 comments: true

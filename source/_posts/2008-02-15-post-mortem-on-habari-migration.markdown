@@ -15,7 +15,7 @@ display the corresponding page at all. So I had to painstakingly review
 every single post with comments and correct the HTML by hand.
 
 Inevitably, I forgot the lesson of my previous
-[migration](../2006/09/30/from-wordpresscom-to-wordpressorg) and didn't
+[migration]((http://www.nbrightside.com/blog/2006/09/30/from-wordpresscom-to-wordpressorg/) and didn't
 give any regular readers advance warning of the impending chaos or any
 notice of the change in RSS feeds. That's not because I don't care, but
 rather that I treat this blog as a chance to experiment with the
