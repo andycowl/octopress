@@ -3,9 +3,7 @@ title: CRM
 layout: post
 comments: true
 date: 2005-09-29 22:08:15
-categories:
-    - amazon
-    - crm
+categories: crm
 ---
 A lot of people make a lot of money out of customer relationship
 management (CRM) but here is a real-life example of how customer

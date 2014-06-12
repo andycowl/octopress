@@ -3,8 +3,7 @@ title: new Regulus theme for WordPress.com
 layout: post
 comments: true
 date: 2005-11-29 20:39:10
-categories:
-    - wordpress
+categories: wordpress
 ---
 Those nice people at WordPress have opened up WordPress.com to the
 masses and added a couple of new

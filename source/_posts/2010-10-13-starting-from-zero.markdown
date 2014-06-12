@@ -1,10 +1,9 @@
 ---
 date: 2010-10-13 10:54:00
-categories:
-    - blogging
 title: starting from zero
 layout: post
 comments: true
+categories: blogging
 ---
 One of my favourite and regular UK bloggers, Jonathan Beckett had gone
 rather quiet recently so I assumed he must have moved blogging platform
@@ -31,4 +30,4 @@ feed.
 I was greeted a wall of silence, pierced only by a solitary email: ‘I
 simply adore Clementines'.
 
-  [informed]: http://jonbeckett.wordpress.com/2010/10/12/mediocrity-rules/
+[informed]: http://jonbeckett.wordpress.com/2010/10/12/mediocrity-rules/

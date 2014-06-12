@@ -1,8 +1,7 @@
 ---
-date: 2006-08-09 04:44:04
-categories:
-    - uncategorised
 title: Metro on UK blogging
+date: 2006-08-09 04:44:04
+categories: blogging
 layout: post
 comments: true
 ---

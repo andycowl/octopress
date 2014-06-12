@@ -1,7 +1,6 @@
 ---
 date: 2006-09-19 23:05:08
-categories:
-    - uncategorised
+categories: uk
 title: staggering incompetence
 layout: post
 comments: true

@@ -1,11 +1,9 @@
 ---
 date: 2006-03-27 06:39:22
-categories:
-    - uk
-    - humour
 title: probably the most embarassing purchase in the world
 layout: post
 comments: true
+categories: uk
 ---
 Last week, I had to buy a birthday present for somebody. So, quite early
 last Thursday morning, I found myself in a cavernous Tesco Extra

@@ -1,10 +1,9 @@
 ---
 date: 2005-12-21 07:40:41
-categories:
-    - blogging
 title: detailed analysis of referer logs
 layout: post
 comments: true
+categories: blogging
 ---
 Old news is like yesterday's papers. No-one is interested.
 

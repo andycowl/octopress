@@ -1,8 +1,7 @@
 ---
-date: 2006-06-26 03:22:11
-categories:
-    - uncategorised
 title: the crucifixion of Wayne Rooney
+date: 2006-06-26 03:22:11
+categories: football
 layout: post
 comments: true
 ---

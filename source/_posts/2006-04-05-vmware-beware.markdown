@@ -1,8 +1,7 @@
 ---
-date: 2006-04-05 02:33:08
-categories:
-    - uncategorised
 title: VMware beware
+date: 2006-04-05 02:33:08
+categories: software
 layout: post
 comments: true
 ---

@@ -1,10 +1,9 @@
 ---
 date: 2009-08-04 17:55:26
-categories:
-    - uncategorised
 title: tips for dealing with Australian customs
 layout: post
 comments: true
+categories: travel
 ---
 I passed through many customs, immigration and security checks at
 various Australian airports in the last three weeks.

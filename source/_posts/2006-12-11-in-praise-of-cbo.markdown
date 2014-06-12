@@ -1,11 +1,9 @@
 ---
 date: 2006-12-11 04:48:57
-categories:
-    - oracle
-    - siebel
 title: in praise of CBO
 layout: post
 comments: true
+categories: oracle
 ---
 Jonathan [Lewis](http://jonathanlewis.wordpress.com/) poses a very
 interesting

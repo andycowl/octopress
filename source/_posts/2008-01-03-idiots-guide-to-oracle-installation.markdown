@@ -1,10 +1,9 @@
 ---
 date: 2008-01-03 20:24:39
-categories:
-    - uncategorised
 title: idiot's guide to Oracle installation
 layout: post
 comments: true
+categories: oracle
 ---
 Not many things make me laugh out loud. Especially about
 [Oracle](http://uk.youtube.com/watch?v=CHzV4LZnvHc).

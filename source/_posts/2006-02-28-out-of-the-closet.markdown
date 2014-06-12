@@ -1,8 +1,7 @@
 ---
-date: 2006-02-28 05:23:19
-categories:
-    - uncategorised
 title: out of the closet
+date: 2006-02-28 05:23:19
+categories: oracle
 layout: post
 comments: true
 ---

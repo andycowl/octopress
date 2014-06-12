@@ -1,10 +1,9 @@
 ---
 date: 2008-08-26 10:42:04
-categories:
-    - uncategorised
 title: twitter killed the blogging star
 layout: post
 comments: true
+categories: blogging
 ---
 I have tried many times, in many different places, to articluate the
 idea that micro-blogging reduces ones blogging output but

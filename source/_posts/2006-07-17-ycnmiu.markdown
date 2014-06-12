@@ -1,10 +1,9 @@
 ---
 date: 2006-07-17 19:15:37
-categories:
-    - humour
 title: YCNMIU
 layout: post
 comments: true
+categories: humour
 ---
 I just booked a flight to Oslo and noticed that under 'Meal Options'
 alongside 'Vegetarian', 'Non-dairy' and various religious preferences

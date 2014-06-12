@@ -3,8 +3,7 @@ title: Doug Burns, I salute you
 layout: post
 comments: true
 date: 2005-11-06 19:40:58
-categories:
-    - blogging
+categories: blogging
 ---
 [Doug Burns](http://oracledoug.com/serendipity/) recently was kind
 enough to

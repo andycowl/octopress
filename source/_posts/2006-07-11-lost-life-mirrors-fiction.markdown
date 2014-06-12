@@ -1,10 +1,9 @@
 ---
 date: 2006-07-11 04:44:09
-categories:
-    - IT
 title: Lost - life mirrors fiction
 layout: post
 comments: true
+categories: IT
 ---
 When I visit customers, I am usually granted read-access to production
 servers. Mostly I am working closely with IT staff to explain what I am

@@ -1,8 +1,7 @@
 ---
-date: 2006-06-13 05:42:54
-categories:
-    - uncategorised
 title: World Cup dispatches from embedded reporter
+date: 2006-06-13 05:42:54
+categories: travel
 layout: post
 comments: true
 ---

@@ -1,10 +1,9 @@
 ---
 date: 2010-02-17 16:09:19
-categories:
-    - blogging
 title: untold riches with next generation Adsense
 layout: post
 comments: true
+categories: blogging
 ---
 One of the reasons for the reduced blogging frequency, Kenneth, is
 that I spend every waking hour devoting time to the thorny problem of

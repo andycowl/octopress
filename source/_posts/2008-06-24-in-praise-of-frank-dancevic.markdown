@@ -1,10 +1,9 @@
 ---
 date: 2008-06-24 08:19:16
-categories:
-    - uncategorised
 title: in praise of Frank Dancevic
 layout: post
 comments: true
+categories: uk
 ---
 Two weeks ago, I made my annual
 [pilgrimage](http://www.nbrightside.com/blog/2007/06/11/surbiton-trophy/)

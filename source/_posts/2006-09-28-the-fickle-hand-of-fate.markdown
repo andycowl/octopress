@@ -1,7 +1,6 @@
 ---
 date: 2006-09-28 05:09:43
-categories:
-    - uncategorised
+categories: blogging
 title: the fickle hand of fate
 layout: post
 comments: true

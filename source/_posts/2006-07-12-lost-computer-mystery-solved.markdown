@@ -1,8 +1,7 @@
 ---
-date: 2006-07-12 14:03:39
-categories:
-    - uncategorised
 title: Lost - computer mystery solved
+date: 2006-07-12 14:03:39
+categories: tv
 layout: post
 comments: true
 ---

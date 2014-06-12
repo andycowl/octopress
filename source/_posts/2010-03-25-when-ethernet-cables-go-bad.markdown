@@ -1,10 +1,9 @@
 ---
 date: 2010-03-25 11:15:00
-categories:
-    - uncategorised
 title: when ethernet cables go bad
 layout: post
 comments: true
+categories: uk
 ---
 Idea for a new TV series - 'When Ethernet cables go bad' - A
 fascinating 60 minute documentary into the wide range of issues people

@@ -1,10 +1,9 @@
 ---
 date: 2010-02-04 13:02:48
-categories:
-    - uncategorised
 title: float in isolation
 layout: post
 comments: true
+categories: uk
 ---
 Many years ago, in a parallel universe not far from here, I worked for a
 small dot com Internet company.

@@ -1,10 +1,9 @@
 ---
 date: 2008-02-01 22:20:32
-categories:
-    - uncategorised
 title: back seat driver
 layout: post
 comments: true
+categories: uk
 ---
 Since accumulating 9 penalty
 [points](http://www.nbrightside.com/blog/2007/12/22/seasons-greetings/),
@@ -44,10 +43,12 @@ afternoon avoiding.
 Norma was not pleased. Since then, I have been accompanied on every
 single trip by a new backseat driver. A voice from the passenger seat
 who keeps piping up:
+
 > 'Speed camera, 500 yards. Limit - 40 miles per hour'
 
 'Yes, yes OK, I know this road and I am doing 42 mph and they never do
 you for that.'
+
 > 'Speed camera. Limit - 40 miles per hour. Reduce speed.'
 
 'All right. All right. Just shut up will you ? I am down to 39.5 mph
@@ -57,6 +58,7 @@ When the danger has passed, the backseat driver gives a distinctive 3
 toned whistle and is silent until she spots the next possible hazard.
 Once again, my irritating back seat driver pipes up in that dull,
 monotone voice
+
 > 'Possible mobile camera site ahead. Limit - 50 miles per hour.'
 
 We all frantically scan the landscape for police hiding in the bushes

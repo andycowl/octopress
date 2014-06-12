@@ -1,7 +1,6 @@
 ---
 date: 2006-11-24 15:23:41
-categories:
-    - uncategorised
+categories: uk
 title: Baywatch in Birmingham
 layout: post
 comments: true

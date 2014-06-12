@@ -1,10 +1,9 @@
 ---
 date: 2010-03-03 10:17:52
-categories:
-    - uncategorised
 title: wit and wisdom of David Thorne
 layout: post
 comments: true
+categories: uncategorised
 ---
 I'm not sure if it was [Doug](http://oracledoug.com/serendipity/) or
 [Michael](http://twofishcreative.com/michael/blog/) who first pointed

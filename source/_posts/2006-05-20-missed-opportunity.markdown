@@ -1,7 +1,6 @@
 ---
 date: 2006-05-20 18:09:21
-categories:
-    - uncategorised
+categories: music
 title: missed opportunity
 layout: post
 comments: true

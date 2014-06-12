@@ -1,11 +1,9 @@
 ---
-title: playing with the Android Kindle Reader
 layout: post
-comments: true
-categories:
-    - amazon
-    - kindle
 date: 2010-12-18 16:01:00
+title: playing with the Android Kindle Reader
+comments: true
+categories: amazon
 ---
 Shamefully, I don't read many
 [books][bookclub]

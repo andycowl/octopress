@@ -1,10 +1,9 @@
 ---
 date: 2006-11-17 06:22:36
-categories:
-    - uncategorised
 title: night out in London
 layout: post
 comments: true
+categories: uk
 ---
 Last night, I enjoyed a pleasant evening in this
 [pub](http://www.beerintheevening.com/pubs/s/26/2611/Sun_Tavern/Covent_Garden)
@@ -17,11 +16,11 @@ waiter.
 Inexplicably, towards the end of the evening, conversation turned to
 songs about the death of a father:-
 
--   The Verve - Drugs Don't Work
--   The Streets - Never Went To Church
--   Mike And The Mechanics - The Living Years
--   U2 - Sometimes You Can't Make It On Your Own
--   Billy Bragg - Tank Park Salute
+- The Verve - Drugs Don't Work
+- The Streets - Never Went To Church
+- Mike And The Mechanics - The Living Years
+- U2 - Sometimes You Can't Make It On Your Own
+- Billy Bragg - Tank Park Salute
 
 We finally left the pub and someone asked 'What are the chances of
 finding a curry house around here ?'. We looked across the street and

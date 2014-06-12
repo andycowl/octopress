@@ -1,13 +1,9 @@
 ---
 date: 2011-07-21 09:23:58
-description: humour on BBC breakfast
-categories:
-    - uk
-    - tv
-    - humour
 title: humour on BBC breakfast
 layout: post
 comments: true
+categories: uk
 ---
 BBC Breakfast ran a story this morning about the sale of
 [woodlands](http://www.woodlands.co.uk/buying-a-wood/). The gentlemen

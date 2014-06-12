@@ -1,10 +1,9 @@
 ---
 date: 2006-03-08 21:18:14
-categories:
-    - software
 title: Thunderbirds are go !
 layout: post
 comments: true
+categories: software
 ---
 My old company used Exchange Server. I used to use Outlook for mail.
 

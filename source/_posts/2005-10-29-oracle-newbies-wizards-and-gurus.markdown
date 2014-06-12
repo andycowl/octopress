@@ -3,8 +3,7 @@ title: Oracle newbies, wizards and gurus
 layout: post
 comments: true
 date: 2005-10-29 21:57:08
-categories:
-    - oracle
+categories: oracle
 ---
 I recently stumbled upon Lisa Dobson's Oracle Newbies
 [blog](http://newbiedba.blogspot.com/). Firstly, although I have never

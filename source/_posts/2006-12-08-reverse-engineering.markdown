@@ -1,10 +1,9 @@
 ---
 date: 2006-12-08 23:52:37
-categories:
-    - uncategorised
 title: reverse engineering
 layout: post
 comments: true
+categories: uk
 ---
 I was convinced I had my address book quadruple-mirrored (Thunderbird,
 Palm, Gmail and ScheduleWorld) secured on resilient disk storage using

@@ -1,10 +1,9 @@
 ---
 date: 2008-11-21 14:23:35
-categories:
-    - uncategorised
 title: open letter to Mark Burgess
 layout: post
 comments: true
+categories: music
 ---
 Last week, I travelled to Hamburg, near Germany, on business. As Mark
 Burgess (lead singer of The Chameleons) now lives there, I took the

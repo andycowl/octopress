@@ -1,10 +1,9 @@
 ---
 date: 2009-03-24 12:51:11
-categories:
-    - uncategorised
 title: in praise of Doug Burns
 layout: post
 comments: true
+categories: oracle
 ---
 My longest standing and all-time favourite Oracle blogger is 
 [Doug Burns](http://oracledoug.com/serendipity/)

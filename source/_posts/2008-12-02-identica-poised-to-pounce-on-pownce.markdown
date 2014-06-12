@@ -1,10 +1,9 @@
 ---
 date: 2008-12-02 13:18:30
-categories:
-    - uncategorised
 title: identica poised to pounce on Pownce
 layout: post
 comments: true
+categories: software
 ---
 [Pownce](http://pownce.com/) (a microblogging service) has been sold to
 [SixApart](http://www.sixapart.com/blog/2008/12/welcome-pownce-team.html)
@@ -20,6 +19,7 @@ two weeks notice to extract all their data and find another home.
 The Pownce
 [blog](http://blog.pownce.com/2008/12/01/goodbye-pownce-hello-six-apart/)
 claims that:
+
 > 'we believe we'll come back with something much better in 2009'
 
 However, that 'belief' must be pretty weak and the date in 2009 must be
@@ -39,20 +39,20 @@ Pownce and, at least, you have a hope of getting those users converted
 onto the new SixApart product (whenever it is available).
 There are a few obvious choices for Pownce users:
 
--   [Twitter](http://twitter.com/) - more stability and increased uptime
-    recently but limited to 140 characters (unlike Pownce) and inferior
-    support for file sharing.
--   [Tumblr](http://www.tumblr.com/) - probably the closest match in
-    terms of functionality (no 140 character limit, support for media
-    posts (images, links, audio, videos)
--   [FriendFeed](http://friendfeed.com/) - includes most of Pownce
-    functionality.
--   [identi.ca](http://identi.ca/) - micro-blogging service but
-    OpenSource so the opportunity exists to run a separate Laconica
-    instance for Pownce users and potentially support the Pownce API
-    (and hence all existing desktop Pownce clients).
--   [Posterous](http://posterous.com/) - supports MP3, photos, audio
-    files and posting by email.
+- [Twitter](http://twitter.com/) - more stability and increased uptime
+  recently but limited to 140 characters (unlike Pownce) and inferior
+  support for file sharing.
+- [Tumblr](http://www.tumblr.com/) - probably the closest match in
+  terms of functionality (no 140 character limit, support for media
+  posts (images, links, audio, videos)
+- [FriendFeed](http://friendfeed.com/) - includes most of Pownce
+  functionality.
+- [identi.ca](http://identi.ca/) - micro-blogging service but
+  OpenSource so the opportunity exists to run a separate Laconica
+  instance for Pownce users and potentially support the Pownce API
+  (and hence all existing desktop Pownce clients).
+- [Posterous](http://posterous.com/) - supports MP3, photos, audio
+  files and posting by email.
 
 In fact, identi.ca have already
 [responded](http://controlyourself.ca/2008/12/01/congratulations-to-pownce/)

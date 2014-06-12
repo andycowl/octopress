@@ -1,10 +1,9 @@
 ---
 date: 2009-08-07 09:06:48
-categories:
-    - uncategorised
 title: the other side of Aboriginal culture
 layout: post
 comments: true
+categories: travel
 ---
 Of course, unfortunately, there is another less attractive side to
 [Aboriginal culture](http://www.nbrightside.com/blog/2009/08/07/aboriginal-culture/).

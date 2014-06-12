@@ -1,10 +1,9 @@
 ---
 date: 2009-01-22 11:31:02
-categories:
-    - uncategorised
 title: possession of an offensive weapon
 layout: post
 comments: true
+categories: uk
 ---
 Last Friday, I found myself standing in a short queue at Newcastle
 airport. I could immediately discern that the global economic recession

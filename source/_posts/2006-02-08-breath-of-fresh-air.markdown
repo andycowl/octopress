@@ -1,8 +1,7 @@
 ---
-date: 2006-02-08 18:09:55
-categories:
-    - uncategorised
 title: breath of fresh air
+date: 2006-02-08 18:09:55
+categories: blogging
 layout: post
 comments: true
 ---

@@ -1,8 +1,7 @@
 ---
-date: 2006-02-03 23:22:06
-categories:
-    - uncategorised
 title: heard it on the Newsvine
+date: 2006-02-03 23:22:06
+categories: software
 layout: post
 comments: true
 ---

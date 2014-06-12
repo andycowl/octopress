@@ -1,10 +1,9 @@
 ---
 date: 2008-09-18 13:25:41
-categories:
-    - uncategorised
 title: London omnibus bell hell
 layout: post
 comments: true
+categories: uk
 ---
 Last night, I took a number 521, red, bendy bus from St. Paul's to
 Waterloo station.
@@ -32,9 +31,9 @@ un-British voice:
 > 'For God's sake, who the f\*\*k keeps pressing that damned bell ?'
 
 The bus stopped. The bell stopped. We all looked inwardly into our free
-copies of 'The London Paper'.
-The bus set off again and so did the bell. This time, the South African
-lady unlinked hands from her loving partner and erupted:
+copies of 'The London Paper'.  The bus set off again and so did the bell.
+This time, the South African lady unlinked hands from her loving partner
+and erupted:
 
 > Oh, for f\*\*k's sake, the bus is stopping ! Will you stop pressing
 > that bloody bell, already !'
@@ -48,6 +47,7 @@ A young man was standing in the aisle chatting to his friend. He was
 leaning on a pole. Every time he leaned back, the bell rang. When he
 stood upright, the bell stopped. When he rested on the pole, the bell
 rang. Continuously.
+
 I averted my gaze. Again. By now, I was nervously staring at my feet.
 
 Thankfully, an Australian woman ended my discomfort by politely

@@ -1,11 +1,9 @@
 ---
 date: 2006-07-17 19:02:54
-categories:
-    - blogging
-    - wordpress
 title: spot the hyperlink
 layout: post
 comments: true
+categories: blogging
 ---
 I was enjoying a scan through the archives of Andrew Sherman's incisive,
 witty (and occasionally downright

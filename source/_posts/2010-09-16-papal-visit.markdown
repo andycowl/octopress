@@ -1,10 +1,9 @@
 ---
 date: 2010-09-16 08:39:00
-categories:
-    - uk
 title: Papal visit
 layout: post
 comments: true
+categories: uk
 ---
 > ‘When you land at Heathrow you think at times you have landed in a
 > Third World country' - Cardinal Walter Kasper.

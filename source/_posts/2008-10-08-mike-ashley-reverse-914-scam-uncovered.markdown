@@ -1,10 +1,9 @@
 ---
 date: 2008-10-08 09:34:02
-categories:
-    - uncategorised
 title: Mike Ashley reverse 914 scam uncovered
 layout: post
 comments: true
+categories: football
 ---
 From the desk of Mr. Ashley. Good day. Private message to you.
 

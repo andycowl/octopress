@@ -1,10 +1,9 @@
 ---
 date: 2009-09-10 08:24:39
-categories:
-    - uncategorised
 title: the curious case of Michael Shields
 layout: post
 comments: true
+categories: football
 ---
 I believe
 [Michael Shields](http://www.telegraph.co.uk/news/uknews/1495692/Innocent-gentle-giant-Or-remorseless-thug-guilty-of-attempted-murder.html)

@@ -1,10 +1,9 @@
 ---
 date: 2009-08-04 11:58:47
-categories:
-    - uncategorised
 title: the month that never was
 layout: post
 comments: true
+categories: blogging
 ---
 Since I started this blog almost four years ago, I have posted every
 month. Until last month - July 2009.

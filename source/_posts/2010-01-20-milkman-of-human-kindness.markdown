@@ -3,8 +3,7 @@ title: milkman of human kindness
 layout: post
 comments: true
 date: 2010-01-20 08:28:10
-categories:
-    - uk
+categories: uk
 ---
 Sometimes your faith in humanity is restored.
 

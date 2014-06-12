@@ -3,8 +3,7 @@ title: the big match atmosphere
 layout: post
 comments: true
 date: 2005-11-12 17:56:05
-categories:
-    - football
+categories: football
 ---
 So, you can now buy the program for last Sunday's Manchester United
 game against Chelsea in WH Smiths.

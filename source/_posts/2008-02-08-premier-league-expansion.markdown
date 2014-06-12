@@ -1,10 +1,9 @@
 ---
 date: 2008-02-08 15:37:17
-categories:
-    - uncategorised
 title: Premier League expansion
 layout: post
 comments: true
+categories: football
 ---
 'Every club knows they will have an equal chance of being treated
 unfairly.'

@@ -1,9 +1,6 @@
 ---
 date: 2011-01-05 15:21:00
-categories:
-    - google
-    - software
-    - rss
+categories: software
 title: first and last and always - Google Reader
 layout: post
 comments: true

@@ -1,8 +1,7 @@
 ---
-date: 2006-03-22 07:08:43
-categories:
-    - uncategorised
 title: death by PowerPoint
+date: 2006-03-22 07:08:43
+categories: IT
 layout: post
 comments: true
 ---
@@ -25,6 +24,7 @@ It is brilliantly delivered and undoubtedly very well rehearsed but it
 is memorable and different.
 
 So today, I have slides with the following quotations:
+
 > 'I can't manage it. It is Siebel - Anon'
 > 'I don't understand it. It is Siebel - Anon'
 >

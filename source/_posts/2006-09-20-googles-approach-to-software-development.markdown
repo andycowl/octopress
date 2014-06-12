@@ -1,10 +1,9 @@
 ---
 date: 2006-09-20 18:18:59
-categories:
-    - uncategorised
 title: Google's approach to software development
 layout: post
 comments: true
+categories: google
 ---
 [Rakesh Agrawal](http://rake.sh/blog/) presents an interesting
 [summary](http://rake.sh/blog/2006/09/14/the-road-to-google-calendar/)

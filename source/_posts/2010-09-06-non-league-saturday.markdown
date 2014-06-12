@@ -1,11 +1,9 @@
 ---
 date: 2010-09-06 11:50:00
-categories:
-    - uk
-    - football
 title: non League Saturday
 layout: post
 comments: true
+categories: football
 ---
 With no Premiership or Championship fixtures at the weekend, I went
 along to watch my local non league club, Kingstonian FC, play on

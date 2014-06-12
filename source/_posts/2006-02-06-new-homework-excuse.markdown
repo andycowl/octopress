@@ -1,8 +1,7 @@
 ---
-date: 2006-02-06 17:29:20
-categories:
-    - uncategorised
 title: new homework excuse
+date: 2006-02-06 17:29:20
+categories: uk
 layout: post
 comments: true
 ---

@@ -1,8 +1,7 @@
 ---
-date: 2006-08-03 03:38:50
-categories:
-    - uncategorised
 title: Guilty Pleasures
+date: 2006-08-03 03:38:50
+categories: music
 layout: post
 comments: true
 ---

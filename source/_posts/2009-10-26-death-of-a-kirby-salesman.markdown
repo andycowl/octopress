@@ -1,10 +1,9 @@
 ---
 date: 2009-10-26 16:01:44
-categories:
-    - uncategorised
 title: death of a Kirby salesman
 layout: post
 comments: true
+categories: uk
 ---
 A few years ago, on a Wednesday night, I returned from work and Norma
 told me in passing that she had got a man coming to clean our carpets

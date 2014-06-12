@@ -3,8 +3,7 @@ title: George Best
 layout: post
 comments: true
 date: 2005-11-09 16:43:56
-categories:
-    - football
+categories: football
 ---
 My post about Patrick Gibson reminded me of another Irish genius who,
 sadly, is currently critcially ill in a London hospital.

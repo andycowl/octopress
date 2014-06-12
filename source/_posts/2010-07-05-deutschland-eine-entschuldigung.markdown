@@ -1,10 +1,9 @@
 ---
 date: 2010-07-05 11:10:53
-categories:
-    - football
 title: Deutschland - eine Entschuldigung
 layout: post
 comments: true
+categories: football
 ---
 The British media may have given the impression in recent weeks that we
 considered the German national tootball team to be a rather workmanlike,

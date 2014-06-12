@@ -1,10 +1,9 @@
 ---
 date: 2010-12-06 14:53:00
-categories:
-    - crm
 title: Comet 0 Customer 3
 layout: post
 comments: true
+categories: crm
 ---
 At the weekend, I purchased a new printer after replacing the ink
 cartridges failed to reinstate the ability to print in black on my Canon
@@ -114,10 +113,9 @@ Vista and Windows 7) and downloaded the latest version HP native Linux
 software ([HPLIP][]) to configure and manage the printer which was
 conveniently available in the Fedora 14 repositories.
 
-  [HPLIP]: http://hplipopensource.com/hplip-web/index.html
+[HPLIP]: http://hplipopensource.com/hplip-web/index.html
 
 Finally, I ordered two spare cartridges from Amazon for &pound;20
 compared to &pound;24 at Comet.
 
-
-  [HP Deskjet 3050]: http://h10010.www1.hp.com/wwpc/uk/en/ho/WF05a/18972-18972-238444-410635-410635-4066450.html?lang=en&jumpid=oc_R1002_UKENC-001_HP%20Deskjet%203050%20All-in-One%20Printer%20-%20J610a&cc=uk
+[HP Deskjet 3050]: http://h10010.www1.hp.com/wwpc/uk/en/ho/WF05a/18972-18972-238444-410635-410635-4066450.html?lang=en&jumpid=oc_R1002_UKENC-001_HP%20Deskjet%203050%20All-in-One%20Printer%20-%20J610a&cc=uk

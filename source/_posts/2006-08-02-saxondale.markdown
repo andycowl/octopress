@@ -1,8 +1,7 @@
 ---
-date: 2006-08-02 20:32:43
-categories:
-    - uncategorised
 title: Saxondale
+date: 2006-08-02 20:32:43
+categories: tv
 layout: post
 comments: true
 ---

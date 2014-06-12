@@ -1,8 +1,7 @@
 ---
-date: 2006-03-02 22:20:15
-categories:
-    - uncategorised
 title: payback time
+date: 2006-03-02 22:20:15
+categories: software
 layout: post
 comments: true
 ---

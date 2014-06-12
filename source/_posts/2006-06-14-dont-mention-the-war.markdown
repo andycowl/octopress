@@ -1,8 +1,7 @@
 ---
-date: 2006-06-14 03:19:54
-categories:
-    - uncategorised
 title: don't mention the war
+date: 2006-06-14 03:19:54
+categories: travel
 layout: post
 comments: true
 ---

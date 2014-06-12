@@ -1,8 +1,7 @@
 ---
-date: 2006-07-01 01:53:01
-categories:
-    - uncategorised
 title: don't cry for me, Argentina
+date: 2006-07-01 01:53:01
+categories: football
 layout: post
 comments: true
 ---

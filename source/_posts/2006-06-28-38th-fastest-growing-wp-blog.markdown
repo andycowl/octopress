@@ -1,11 +1,9 @@
 ---
 layout: post
 title: 38th fastest growing WP blog
-date: 2006-06-28 17:59
+date: 2006-06-28 17:59:46
 comments: true
-categories:
-    - wordpress
-    - blogging
+categories: blogging
 ---
 One of the things I like about WordPress is the sense of community.
 Wordpress users (and developers) willingly help each other out on the

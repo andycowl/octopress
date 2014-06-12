@@ -1,10 +1,9 @@
 ---
 date: 2009-08-20 09:51:20
-categories:
-    - uncategorised
 title: forbidden fruits
 layout: post
 comments: true
+categories: uk
 ---
 Friday
 

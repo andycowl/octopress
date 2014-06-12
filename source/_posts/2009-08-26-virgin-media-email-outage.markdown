@@ -1,10 +1,9 @@
 ---
 date: 2009-08-26 16:59:19
-categories:
-    - uncategorised
 title: Virgin Media email outage
 layout: post
 comments: true
+categories: uk
 ---
 Virgin Media email has been
 [down](http://status-cable.virginmedia.com/vmstatus/serviceissue.do?ticket=1066470)

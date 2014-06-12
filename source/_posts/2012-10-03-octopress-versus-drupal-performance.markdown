@@ -17,10 +17,8 @@ My humble blog doesn't get enough traffic for performance to be a
 consideration and I thought I wouldn't be able to discern any
 improvement.
 
-<a
-href="https://picasaweb.google.com/lh/photo/0g3QJNr4-JBTTnUr30I-INMTjNZETYmyPJy0liipFm0?feat=embedwebsite">
-<img
-src="https://lh3.googleusercontent.com/-6HMK8sqiSk0/UGvuBc5qgkI/AAAAAAAABzs/G58jXbvG-ow/s400/Webmaster-Crawl-Stats2.png"
+<a href="https://picasaweb.google.com/lh/photo/0g3QJNr4-JBTTnUr30I-INMTjNZETYmyPJy0liipFm0?feat=embedwebsite">
+<img src="https://lh3.googleusercontent.com/-6HMK8sqiSk0/UGvuBc5qgkI/AAAAAAAABzs/G58jXbvG-ow/s400/Webmaster-Crawl-Stats2.png"
 height="362" width="400" /></a>
 
 This graph is from Google Webmaster Tools. Can you guess when the blog

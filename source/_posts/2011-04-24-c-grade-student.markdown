@@ -1,11 +1,9 @@
 ---
 date: 2011-04-24 13:13:00
-categories:
-    - uk
-    - humour
 title: C grade student
 layout: post
 comments: true
+categories: uk
 ---
 Chatting with a good friend over dinner last night, he recounted how
 his son ambushed him late one Sunday night with some economics

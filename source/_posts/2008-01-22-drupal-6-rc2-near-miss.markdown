@@ -1,10 +1,9 @@
 ---
 date: 2008-01-22 04:40:45
-categories:
-    - uncategorised
 title: Drupal 6 RC2 near miss
 layout: post
 comments: true
+categories: blogging
 ---
 Siebel customers (and employees alike) all over the world are busy
 enjoying

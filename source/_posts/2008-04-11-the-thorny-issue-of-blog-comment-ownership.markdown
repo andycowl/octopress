@@ -1,10 +1,9 @@
 ---
 date: 2008-04-11 13:59:33
-categories:
-    - uncategorised
 title: the thorny issue of blog comment ownership
 layout: post
 comments: true
+categories: blogging
 ---
 A couple of Oracle bloggers
 ([Laurent](http://laurentschneider.com/wordpress/2008/04/disqus-comments.html)

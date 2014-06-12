@@ -1,10 +1,9 @@
 ---
 date: 2006-10-11 10:05:41
-categories:
-    - uncategorised
 title: browser upgrades
 layout: post
 comments: true
+categories: software
 ---
 Just remembered that I was 'shocked and ashamed to discover' that my
 father (Silver Surfer) was using

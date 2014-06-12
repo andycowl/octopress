@@ -1,10 +1,9 @@
 ---
 date: 2008-04-09 13:29:47
-categories:
-    - uncategorised
 title: a short conversation with Les Battersby
 layout: post
 comments: true
+categories: uk
 ---
 Met up with some friends last night in a very busy
 [Freemasons Arms](http://www.beerintheevening.com/pubs/s/50/5069/Freemasons_Arms/Covent_Garden)

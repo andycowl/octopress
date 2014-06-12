@@ -1,10 +1,9 @@
 ---
 date: 2006-11-23 16:18:20
-categories:
-    - uncategorised
 title: Men Are from Mars, Women Are from Venus
 layout: post
 comments: true
+categories: uk
 ---
 'Norman. Come here. I have a crisis. Quickly.'
 

@@ -1,8 +1,7 @@
 ---
-date: 2006-03-22 00:17:35
-categories:
-    - uncategorised
 title: Stockholm - a word of warning
+date: 2006-03-22 00:17:35
+categories: travel
 layout: post
 comments: true
 ---

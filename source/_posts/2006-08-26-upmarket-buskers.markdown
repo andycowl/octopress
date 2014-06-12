@@ -1,8 +1,7 @@
 ---
-date: 2006-08-26 22:59:05
-categories:
-    - uncategorised
 title: upmarket buskers
+date: 2006-08-26 22:59:05
+categories: travel
 layout: post
 comments: true
 ---

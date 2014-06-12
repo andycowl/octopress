@@ -3,8 +3,7 @@ title: British mentality
 layout: post
 comments: true
 date: 2005-10-22 22:57:25
-categories:
-    - uk
+categories: uk
 ---
 I was flying back from Dusseldorf to London on Lufthansa
 yesterday. For some reason, the kind lady at the check-in desk,

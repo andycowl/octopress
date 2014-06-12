@@ -1,7 +1,7 @@
 ---
 layout: post
-title: "Kingstonian FC 4 Grays Athletic 0"
-date: 2013-09-08 11:39
+title: Kingstonian FC 4 Grays Athletic 0
+date: 2013-09-08 11:39:49
 comments: true
 categories: football
 ---

@@ -1,7 +1,6 @@
 ---
 date: 2006-06-02 08:43:44
-categories:
-    - uncategorised
+categories: wordpress
 title: rotation policy
 layout: post
 comments: true

@@ -1,7 +1,6 @@
 ---
 date: 2006-06-08 14:11:36
-categories:
-    - blogging
+categories: blogging
 title: Fame at last
 layout: post
 comments: true

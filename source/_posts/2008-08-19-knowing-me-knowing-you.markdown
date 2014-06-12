@@ -1,10 +1,9 @@
 ---
 date: 2008-08-19 12:58:40
-categories:
-    - uncategorised
 title: knowing me, knowing you
 layout: post
 comments: true
+categories: blogging
 ---
 [ This post also had working titles of 'Friends, bloggers and
 countrymen' and 'anti-social networking'. ]

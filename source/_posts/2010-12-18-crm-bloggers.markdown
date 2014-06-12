@@ -3,9 +3,7 @@ title: CRM for bloggers
 layout: post
 comments: true
 date: 2010-12-18 16:37:00
-categories:
-    - crm
-    - blogging
+categories: blogging
 ---
 There's a common saying in Customer Relationship Management (CRM)
 circles along the lines of:

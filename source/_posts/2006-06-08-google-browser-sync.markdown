@@ -1,8 +1,7 @@
 ---
-date: 2006-06-08 15:05:42
-categories:
-    - uncategorised
 title: Google Browser Sync
+date: 2006-06-08 15:05:42
+categories: google
 layout: post
 comments: true
 ---

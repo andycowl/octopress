@@ -3,8 +3,7 @@ title: so farewell then, Roy Keane
 layout: post
 comments: true
 date: 2005-11-22 06:21:08
-categories:
-    - football
+categories: football
 ---
 Lots of memories but not the most obvious (Turin 1999, Viera in the
 tunnel, Haaland tackle, Ireland WC 2002 outburst).

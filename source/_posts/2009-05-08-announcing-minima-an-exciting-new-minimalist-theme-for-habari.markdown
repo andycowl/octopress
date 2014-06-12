@@ -1,10 +1,9 @@
 ---
 date: 2009-05-08 10:08:06
-categories:
-    - uncategorised
 title: announcing Minima - an exciting, new minimalist theme for Habari
 layout: post
 comments: true
+categories: blogging
 ---
 You see - I'm really wasted in IT. I really should be in pre-sales or on
 'The Apprentice'.

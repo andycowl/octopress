@@ -1,11 +1,9 @@
 ---
 layout: post
 title: 361 days to go
-date: 2006-11-09 23:45
+date: 2006-11-09 23:45:12
 comments: true
-categories:
-    - uk
-    - humour
+categories: uk
 ---
 Next year, I will be attending an unusual fireworks [display][] in
 Sunderland.
@@ -16,5 +14,4 @@ be worth it.
 > ‘The body naturally produces methane gas, so combine that with the
 > firework and the exploding effect with methane’s flammability…’
 
-  [display]: http://news.bbc.co.uk/1/hi/england/wear/6132140.stm
-  
+[display]: http://news.bbc.co.uk/1/hi/england/wear/6132140.stm

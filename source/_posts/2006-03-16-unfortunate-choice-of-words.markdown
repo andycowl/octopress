@@ -1,8 +1,7 @@
 ---
-date: 2006-03-16 17:54:21
-categories:
-    - uncategorised
 title: unfortunate choice of words
+date: 2006-03-16 17:54:21
+categories: uk
 layout: post
 comments: true
 ---
@@ -16,5 +15,6 @@ previous trials. He was so full of praise for Parexel that I thought he
 was a stooge.
 
 That was, until, he uttered the unfortunate words
+
 > 'So, 1,000 GBP for one trial and 750 GBP for the second. For a
 > student, that is a lot of money and can actually be life-changing'

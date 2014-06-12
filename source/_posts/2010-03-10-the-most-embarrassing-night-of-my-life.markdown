@@ -1,10 +1,9 @@
 ---
 date: 2010-03-10 12:43:22
-categories:
-    - uncategorised
 title: the most embarrassing night of my life
 layout: post
 comments: true
+categories: uk
 ---
 Working title: the dangers of Facebook, online dating, stranger danger
 and gross stupidity.

@@ -1,7 +1,6 @@
 ---
 date: 2006-06-28 21:49:01
-categories:
-    - uncategorised
+categories: football
 title: nearly men
 layout: post
 comments: true

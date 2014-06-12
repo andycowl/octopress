@@ -1,11 +1,9 @@
 ---
 date: 2011-02-09 12:25:24
-categories:
-    - twitter
-    - uk
 title: Sarah Baskerville's hidden agenda
 layout: post
 comments: true
+categories: uk
 ---
 [Sarah Baskerville](http://baskersworld.wordpress.com/about/) is a
 civil servant who works for the Department of Transport in London.

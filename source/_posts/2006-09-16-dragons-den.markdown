@@ -1,7 +1,6 @@
 ---
 date: 2006-09-16 17:21:53
-categories:
-    - uncategorised
+categories: uk
 title: Dragon's Den
 layout: post
 comments: true

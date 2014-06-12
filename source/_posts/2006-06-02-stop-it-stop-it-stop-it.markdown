@@ -1,11 +1,9 @@
 ---
 date: 2006-06-02 17:58:40
-categories:
-    - blogging
-    - wordpress
 title: stop it, stop it, stop it
 layout: post
 comments: true
+categories: blogging
 ---
 Oh no. WordPress are now promising to add import/export
 [functionality](http://wordpress.com/blog/2006/06/01/livejournal-import/)

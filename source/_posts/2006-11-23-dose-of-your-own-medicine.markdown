@@ -1,10 +1,9 @@
 ---
 date: 2006-11-23 22:21:40
-categories:
-    - uncategorised
 title: dose of your own medicine
 layout: post
 comments: true
+categories: oracle
 ---
 I had the misfortune to visit a very angry customer today. He was having
 problems loading customer data into Siebel. I sat him down with a nice

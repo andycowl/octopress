@@ -3,8 +3,7 @@ title: Barstool correspondent
 layout: post
 comments: true
 date: 2005-11-22 06:18:30
-categories:
-    - football
+categories: football
 ---
 One of the advantages of working away from home is that you are
 compelled to seek out exotic locations to follow the fortunes of MUFC

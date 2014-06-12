@@ -1,10 +1,9 @@
 ---
 date: 2008-07-13 19:50:20
-categories:
-    - uncategorised
 title: chance meeting with man in Gents toilet
 layout: post
 comments: true
+categories: uk
 ---
 In my job, I am often summoned into very important, high powered
 meetings at short notice. It doesn't matter what I am doing, who I am

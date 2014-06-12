@@ -1,11 +1,9 @@
 ---
 title: "+1"
 layout: post
-date: 2011-07-26 15:26
+date: 2011-07-26 15:26:17
 comments: true
-categories:
-    - google
-    - blogging
+categories: google
 ---
 Seasoned bloggers knows people are rarely moved to comment on a blog
 post. Especially, one hit wonders sent from Google, who were simply

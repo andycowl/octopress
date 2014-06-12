@@ -1,10 +1,9 @@
 ---
 layout: post
 title: 1GB memory stick
-date: 2006-04-19 06:58
+date: 2006-04-19 06:58:00
 comments: true
-categories:
-    - blogging
+categories: blogging
 ---
 I was seriously considering selling all my stock options and
 purchasing a 1GB USB memory [stick][] for an amazing 30 GBP.

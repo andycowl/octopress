@@ -1,10 +1,9 @@
 ---
 date: 2005-12-19 06:34:04
-categories:
-    - football
 title: a brush with West Midlands constabulary
 layout: post
 comments: true
+categories: football
 ---
 I am fortunate that my job takes me to lots of exotic locations (Prague,
 Bergen, Amsterdam, Munich, Oslo, Nice, Paris) and now, err, West

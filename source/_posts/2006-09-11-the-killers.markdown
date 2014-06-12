@@ -3,8 +3,7 @@ date: 2006-09-11 15:38:11
 title: The Killers
 layout: post
 comments: true
-categories:
-    - music
+categories: music
 ---
 The Killers are in the UK to promote 'Sam's Town' and their new facial
 hair. The band made an

@@ -1,8 +1,7 @@
 ---
-date: 2006-07-20 04:02:48
-categories:
-    - uncategorised
 title: smoke and mirrors
+date: 2006-07-20 04:02:48
+categories: IT
 layout: post
 comments: true
 ---

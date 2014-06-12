@@ -1,10 +1,9 @@
 ---
 date: 2006-10-07 02:20:19
-categories:
-    - uncategorised
 title: celebrity watch
 layout: post
 comments: true
+categories: uk
 ---
 Last night as I waited for the baggage carousel to leap into action at
 Terminal 1, I heard a familiar voice speaking on his phone. I looked

@@ -1,10 +1,9 @@
 ---
 date: 2008-10-10 15:18:23
-categories:
-    - uncategorised
 title: floating on air
 layout: post
 comments: true
+categories: uk
 ---
 During a ritual purge of 'Inbox', I just discovered the following email
 

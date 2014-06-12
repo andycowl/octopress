@@ -3,8 +3,7 @@ title: Historic Moments
 layout: post
 comments: true
 date: 2005-09-28 18:03:43
-categories:
-    - tv
+categories: tv
 ---
 There was an interesting program on ITV last night called
 [The Shot That Shook The World](http://www.itn-theshot.com/)

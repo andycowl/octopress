@@ -1,7 +1,6 @@
 ---
 date: 2006-09-14 23:13:28
-categories:
-    - uncategorised
+categories: software
 title: sync, sync, sync
 layout: post
 comments: true

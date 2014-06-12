@@ -1,7 +1,6 @@
 ---
 date: 2006-02-02 16:22:54
-categories:
-    - uncategorised
+categories: IT
 title: 'interviewing stories #2'
 layout: post
 comments: true

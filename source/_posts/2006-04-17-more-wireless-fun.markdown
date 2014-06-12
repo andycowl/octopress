@@ -1,8 +1,7 @@
 ---
-date: 2006-04-17 16:14:32
-categories:
-    - uncategorised
 title: more wireless fun
+date: 2006-04-17 16:14:32
+categories: software
 layout: post
 comments: true
 ---

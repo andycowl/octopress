@@ -1,10 +1,9 @@
 ---
 date: 2008-04-10 10:02:59
-categories:
-    - uncategorised
 title: a lesson in software design
 layout: post
 comments: true
+categories: software
 ---
 This blog used to run on [WordPress](http://wordpress.org/) but now runs
 on [Habari](http://www.habariproject.org/en/) which is a blogging
@@ -41,6 +40,7 @@ request).
 
 Then, I made an amazing discovery when an anonymous author was forced to
 waste some of his valuable time to close my 'bug report':
+
 > The plugin is not intended to generate a file, rather to serve the
 > sitemap xml document when requested.
 

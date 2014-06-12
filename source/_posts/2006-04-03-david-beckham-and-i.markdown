@@ -1,10 +1,9 @@
 ---
 date: 2006-04-03 06:47:56
-categories:
-    - football
 title: David Beckham and I
 layout: post
 comments: true
+categories: football
 ---
 ...have a lot in common.
 

@@ -1,10 +1,9 @@
 ---
 layout: post
 title: 30 second guide to CRM
-date: 2006-07-14 15:53
+date: 2006-07-14 15:53:17
 comments: true
-categories:
-    - crm
+categories: crm
 ---
 Another in the recently launched and incredibly unsuccessful ‘30 second
 guide’ [series][].

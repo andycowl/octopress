@@ -1,8 +1,7 @@
 ---
-date: 2006-02-22 02:13:09
-categories:
-    - uncategorised
 title: small is beautiful
+date: 2006-02-22 02:13:09
+categories: wordpress
 layout: post
 comments: true
 ---

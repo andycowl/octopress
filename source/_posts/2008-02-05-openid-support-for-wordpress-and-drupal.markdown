@@ -1,7 +1,6 @@
 ---
 date: 2008-02-05 20:21:58
-categories:
-    - uncategorised
+categories: blogging
 title: OpenID support for WordPress and Drupal
 layout: post
 comments: true

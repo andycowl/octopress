@@ -1,8 +1,7 @@
 ---
-date: 2006-08-22 17:34:49
-categories:
-    - uncategorised
 title: holiday highlights
+date: 2006-08-22 17:34:49
+categories: travel
 layout: post
 comments: true
 ---

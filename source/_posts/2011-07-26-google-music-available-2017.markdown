@@ -1,12 +1,9 @@
 ---
+date: 2011-07-26 11:07:05
 title: Google Music - available by 2017
 layout: post
 comments: true
-categories:
-    - google
-    - software
-    - music
-date: 2011-07-26 11:07:05
+categories: google
 ---
 A few weeks ago, I signed up for a invitation to Google Music. The
 service is only available in the US but, by a lucky chance of fate, I

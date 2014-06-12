@@ -1,8 +1,7 @@
 ---
-date: 2006-05-31 22:48:07
-categories:
-    - uncategorised
 title: cartoon network
+date: 2006-05-31 22:48:07
+categories: wordpress
 layout: post
 comments: true
 ---
@@ -12,6 +11,7 @@ all.
 
 The latest [theme](http://wordpress.com/blog/2006/05/25/theme-thursday/)
 (Solipsus 1.5) announced for WordPress is described thus:
+
 > Black & Brown design, inspired by Adult Swim of Cartoon Network.
 
 That's all folks !

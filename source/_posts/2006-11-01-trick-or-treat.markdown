@@ -1,10 +1,9 @@
 ---
 date: 2006-11-01 16:11:09
-categories:
-    - uncategorised
 title: Trick or treat
 layout: post
 comments: true
+categories: uk
 ---
 For Sale: 1.8 kg of assorted sweets. The surplus of confectionery is the
 result of an unfortunate trick or treat incident a few years ago.

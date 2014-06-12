@@ -1,10 +1,9 @@
 ---
 date: 2009-12-16 09:26:56
-categories:
-    - linux
 title: why Linux will never succeed in the mainstream
 layout: post
 comments: true
+categories: software
 ---
 I have been
 [running](http://www.nbrightside.com/blog/2009/10/14/how-i-ditched-windows-and-embraced-gloria/)

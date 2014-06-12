@@ -1,10 +1,9 @@
 ---
 date: 2009-08-06 09:59:12
-categories:
-    - uncategorised
 title: mystery man
 layout: post
 comments: true
+categories: blogging
 ---
 There's only one man in the world who could have uttered the following:
 

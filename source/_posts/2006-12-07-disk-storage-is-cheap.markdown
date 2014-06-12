@@ -1,10 +1,9 @@
 ---
 date: 2006-12-07 16:10:59
-categories:
-    - uncategorised
 title: disk storage is cheap
 layout: post
 comments: true
+categories: uk
 ---
 I find it weird that I can carry around
 [4GB](http://www.amazon.co.uk/Integral-4GB-USB-Flash-Drive/dp/B000BRC906)

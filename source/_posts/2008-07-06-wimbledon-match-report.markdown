@@ -3,8 +3,7 @@ title: Wimbledon match report
 layout: post
 comments: true
 date: 2008-07-06 13:00:49
-categories:
-    - uncategorised
+categories: uk
 ---
 On Friday, Norman Junior III and myself loaded up our picnic hamper,
 packed the cool box with brightly coloured Bacardi Breezers and set off

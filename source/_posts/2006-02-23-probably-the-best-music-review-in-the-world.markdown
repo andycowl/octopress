@@ -1,10 +1,9 @@
 ---
 date: 2006-02-23 00:52:19
-categories:
-    - music
 title: probably the best music review in the world
 layout: post
 comments: true
+categories: music
 ---
 A kind gentleman (on The Chameleons
 [forums](http://forums.thechameleons.com/)) once reviewed

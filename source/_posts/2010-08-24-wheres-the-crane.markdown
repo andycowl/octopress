@@ -1,12 +1,9 @@
 ---
 date: 2010-08-24 13:33:00
-categories:
-    - uk
-    - travel
-    - humour
 title: where's the crane ?
 layout: post
 comments: true
+categories: uk
 ---
 <a href="http://picasaweb.google.com/lh/photo/-nLJKv8_fvJvAnGtJ-_Pug?feat=embedwebsite"><img src="http://lh6.ggpht.com/_l2uGy1RGCiE/THPAS6mHZMI/AAAAAAAABm4/gGMyTKYuAHg/s400/airport_parking.jpg" /></a>
 

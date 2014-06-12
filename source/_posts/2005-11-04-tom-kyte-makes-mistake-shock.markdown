@@ -1,10 +1,9 @@
 ---
 date: 2005-11-04 16:31:35
-categories:
-    - oracle
 title: Tom Kyte makes mistake shock
 layout: post
 comments: true
+categories: oracle
 ---
 London, near England - Wednesday 2 November 2005
 

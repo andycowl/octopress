@@ -1,10 +1,9 @@
 ---
 date: 2006-12-22 05:04:02
-categories:
-    - oracle
 title: probably the best feature in Oracle 10g
 layout: post
 comments: true
+categories: oracle
 ---
 Regularly refreshing Oracle statistics on all tables, indexes and column
 histograms flushes the shared pool and can occasionally lead to some
@@ -34,4 +33,3 @@ validate, save and leave well alone.
     SQL> exec dbms_stats.restore_schema_stats(ownname=>'SIEBEL',as_of_timestamp=>trunc(sysdate)-7)
 
     PL/SQL procedure successfully completed. 
-

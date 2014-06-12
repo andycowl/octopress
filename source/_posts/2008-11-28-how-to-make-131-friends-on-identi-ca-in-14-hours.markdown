@@ -1,10 +1,9 @@
 ---
 date: 2008-11-28 12:52:26
-categories:
-    - microblogging
 title: how to make 131 friends on identi.ca in 14 hours
 layout: post
 comments: true
+categories: microblogging
 ---
 Don't bother with my slow, tortuous
 [methods](http://www.nbrightside.com/blog/2008/07/16/how-to-make-100-friends-on-identi-ca-in-14-days/),

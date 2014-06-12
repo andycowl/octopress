@@ -1,10 +1,9 @@
 ---
 date: 2006-06-28 04:52:47
-categories:
-    - music
 title: probably the most underrated band ever
 layout: post
 comments: true
+categories: music
 ---
 On Monday, I received two DVD's
 ('[Ascension](http://www.thescourge.com/chameleons_trailer)') containing

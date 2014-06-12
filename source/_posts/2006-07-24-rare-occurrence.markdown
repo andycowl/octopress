@@ -1,8 +1,7 @@
 ---
-date: 2006-07-24 17:27:56
-categories:
-    - uncategorised
 title: rare occurrence
+date: 2006-07-24 17:27:56
+categories: music
 layout: post
 comments: true
 ---

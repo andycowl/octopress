@@ -1,8 +1,7 @@
 ---
-date: 2006-07-11 14:07:23
-categories:
-    - uncategorised
 title: why England will win the next World Cup
+date: 2006-07-11 14:07:23
+categories: football
 layout: post
 comments: true
 ---

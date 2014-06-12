@@ -1,10 +1,9 @@
 ---
 date: 2006-10-27 07:11:41
-categories:
-    - uncategorised
 title: suffer little children
 layout: post
 comments: true
+categories: uk
 ---
 Something I didn't watch:
 [Longford](http://blogs.manchestereveningnews.co.uk/ianwylie/2006/10/longford_hindley_and_brady.html)

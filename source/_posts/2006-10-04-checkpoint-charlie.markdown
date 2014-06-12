@@ -1,11 +1,9 @@
 ---
 date: 2006-10-04 23:46:49
-categories:
-    - blogging
-    - wordpress
 title: Checkpoint Charlie
 layout: post
 comments: true
+categories: blogging
 ---
 The migration from andyc.wordpress.com is now complete. All articles
 have been migrated. All comments have been lovingly preserved. All the

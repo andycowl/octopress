@@ -1,8 +1,7 @@
 ---
-date: 2006-05-02 22:17:27
-categories:
-    - uncategorised
 title: Plagiarism
+date: 2006-05-02 22:17:27
+categories: blogging
 layout: post
 comments: true
 ---

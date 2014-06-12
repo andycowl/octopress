@@ -1,8 +1,7 @@
 ---
-date: 2006-03-16 17:33:13
-categories:
-    - uncategorised
 title: One small step...
+date: 2006-03-16 17:33:13
+categories: blogging
 layout: post
 comments: true
 ---

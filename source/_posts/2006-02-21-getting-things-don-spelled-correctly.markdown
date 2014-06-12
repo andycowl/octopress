@@ -1,8 +1,7 @@
 ---
-date: 2006-02-21 15:33:45
-categories:
-    - uncategorised
 title: Getting Things Don - spelled correctly
+date: 2006-02-21 15:33:45
+categories: gtd
 layout: post
 comments: true
 ---

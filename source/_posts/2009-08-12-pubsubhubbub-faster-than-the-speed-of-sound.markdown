@@ -1,10 +1,9 @@
 ---
 date: 2009-08-12 13:47:00
-categories:
-    - blogging
 title: PubSubHubbub - faster than the speed of sound
 layout: post
 comments: true
+categories: blogging
 ---
 There's been a lot of chatter recently about Feedburner's support for
 the

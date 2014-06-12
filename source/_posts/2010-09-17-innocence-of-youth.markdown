@@ -1,10 +1,9 @@
 ---
 date: 2010-09-17 08:39:00
-categories:
-    - uk
 title: innocence of youth
 layout: post
 comments: true
+categories: uk
 ---
 I believe it was Tommy Docherty who christened the phrase ‘the innocence
 of youth' when he described the joyful, attacking football of the newly
@@ -48,4 +47,4 @@ to look up at a gentleman's arm which extended over their heads to clasp
 onto the pole. They looked at each other and promptly burst into another
 fit of helpless giggles.
 
-  [Jonathan Beckett]: http://cheeseandbeans.wordpress.com/
+[Jonathan Beckett]: http://cheeseandbeans.wordpress.com/

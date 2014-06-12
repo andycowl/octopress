@@ -1,8 +1,7 @@
 ---
-date: 2006-05-17 23:15:28
-categories:
-    - uncategorised
 title: rank my tail
+date: 2006-05-17 23:15:28
+categories: blogging
 layout: post
 comments: true
 ---

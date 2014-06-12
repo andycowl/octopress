@@ -1,10 +1,9 @@
 ---
-date: 2010-12-22 12:05:00
-categories:
-    - drupal
-title: marketing plan for Drupal 7 launch
 layout: post
+date: 2010-12-22 12:05:00
+title: marketing plan for Drupal 7 launch
 comments: true
+categories: blogging
 ---
 The date for the long awaited Drupal 7 release has been 
 [announced](http://buytaert.net/drupal-7-to-be-released-on-january-5th-with-one-ginormous-party)

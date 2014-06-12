@@ -1,10 +1,9 @@
 ---
 date: 2006-11-29 05:04:25
-categories:
-    - uncategorised
 title: testing debut at book club
 layout: post
 comments: true
+categories: uk
 ---
 I made an unexpected debut at my wife's book club last night because
 because I just happened to have read the book in question and my wife

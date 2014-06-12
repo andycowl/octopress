@@ -1,8 +1,7 @@
 ---
-date: 2006-03-06 18:57:08
-categories:
-    - uncategorised
 title: from zero to eternity
+date: 2006-03-06 18:57:08
+categories: blogging
 layout: post
 comments: true
 ---

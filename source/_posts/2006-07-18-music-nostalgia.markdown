@@ -1,11 +1,9 @@
 ---
 date: 2006-07-18 06:45:37
-categories:
-    - music
-    - uk
 title: Music nostalgia
 layout: post
 comments: true
+categories: music
 ---
 -   Buzzocks - [What Do I Get ?](http://www.youtube.com/watch?v=lbauu27ZIUs&search=buzzcocks)
 -   The Clash - [What's My Name/Garageland](http://www.youtube.com/watch?v=pYf7ne3vmUM&search=%22The%20Clash%22)

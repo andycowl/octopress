@@ -1,10 +1,9 @@
 ---
 date: 2008-10-25 12:40:42
-categories:
-    - rss
 title: Grauniad switches to full text RSS feeds
 layout: post
 comments: true
+categories: uk
 ---
 18 months ago, I
 [reviewed](http://www.nbrightside.com/blog/2007/02/27/uk-broadsheets-narrow-view-of-syndication/)

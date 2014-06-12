@@ -1,10 +1,9 @@
 ---
 date: 2009-01-09 12:28:16
-categories:
-    - uncategorised
 title: BGO to LHR via AMS
 layout: post
 comments: true
+categories: travel
 ---
 This week, I have been working in Bergen, near Norway. Normally, I view
 my trips to major European cities simply as a means to end and after a

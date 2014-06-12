@@ -1,7 +1,6 @@
 ---
 date: 2006-09-27 08:09:38
-categories:
-    - uncategorised
+categories: software
 title: full feeds are the work of the devil
 layout: post
 comments: true

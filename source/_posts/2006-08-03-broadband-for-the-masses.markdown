@@ -1,8 +1,7 @@
 ---
-date: 2006-08-03 14:22:17
-categories:
-    - uncategorised
 title: Broadband for the masses
+date: 2006-08-03 14:22:17
+categories: uk
 layout: post
 comments: true
 ---

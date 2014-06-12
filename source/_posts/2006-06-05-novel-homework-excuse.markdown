@@ -1,8 +1,7 @@
 ---
-date: 2006-06-05 14:07:18
-categories:
-    - uncategorised
 title: novel homework excuse
+date: 2006-06-05 14:07:18
+categories: uk
 layout: post
 comments: true
 ---

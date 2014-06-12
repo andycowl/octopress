@@ -3,8 +3,7 @@ date: 2005-12-01 15:04:48
 title: SonicStage 3.3 released
 layout: post
 comments: true
-categories:
-    - software
+categories: software
 ---
 Don't know where, don't know when but SonicStage 3.3 is
 [available](http://www.sonydigital-link.com/DNA/sonicstage/sstage_dl.asp?r=&l=en).

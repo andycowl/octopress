@@ -1,7 +1,6 @@
 ---
 date: 2010-07-02 11:12:00
-categories:
-    - uncategorised
+categories: uk
 title: bang the (ear) drum
 layout: post
 comments: true

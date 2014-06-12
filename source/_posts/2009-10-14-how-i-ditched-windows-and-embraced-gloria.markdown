@@ -1,10 +1,9 @@
 ---
 date: 2009-10-14 13:16:55
-categories:
-    - uncategorised
 title: how I ditched Windows and embraced Gloria
 layout: post
 comments: true
+categories: software
 ---
 After the Yak was
 [shaved](http://www.nbrightside.com/blog/2009/10/14/yak-shaving/), we

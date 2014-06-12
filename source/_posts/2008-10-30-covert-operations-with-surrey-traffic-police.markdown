@@ -1,10 +1,9 @@
 ---
 date: 2008-10-30 16:16:28
-categories:
-    - uncategorised
 title: covert operations with Surrey Traffic Police
 layout: post
 comments: true
+categories: uk
 ---
 Surrey Traffic Police should run a recruitment campaign with the tagline
 

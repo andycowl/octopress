@@ -3,8 +3,7 @@ title: Firefox and Thunderbird
 layout: post
 comments: true
 date: 2005-08-23 03:40:00
-categories:
-    - software
+categories: software
 ---
 Well I was finally forced to join the masses and download
 [Firefox](http://www.mozilla.com/firefox/) and ditch Internet

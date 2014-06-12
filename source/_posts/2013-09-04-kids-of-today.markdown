@@ -1,7 +1,7 @@
 ---
 layout: post
-title: "kids of today"
-date: 2013-09-04 11:33
+title: kids of today
+date: 2013-09-04 11:33:45
 comments: true
 categories: IT
 ---

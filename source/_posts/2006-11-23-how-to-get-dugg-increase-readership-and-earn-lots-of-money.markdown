@@ -1,10 +1,9 @@
 ---
 date: 2006-11-23 01:42:31
-categories:
-    - uncategorised
 title: How to get dugg, increase readership and earn lots of money
 layout: post
 comments: true
+categories: blogging
 ---
 [Engtech](http://engtech.wordpress.com/) has some great
 [references](http://engtech.wordpress.com/2006/11/22/the-secret-to-blog-success-is-in-the-title/)

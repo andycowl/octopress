@@ -1,8 +1,7 @@
 ---
-date: 2006-06-02 05:40:52
-categories:
-    - uncategorised
 title: I should know better
+date: 2006-06-02 05:40:52
+categories: football
 layout: post
 comments: true
 ---

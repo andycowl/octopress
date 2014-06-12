@@ -9,9 +9,9 @@ comments: true
 Occasionally, I used to wonder what people thought when they were
 subjected to some of the material on this blog.
 [Andrew Sherman](http://andrewsherman.blogspot.com/)'s
-[comment](http://www.nbrightside.com/blog/2007/01/14/two-one-way-tickets-to-dublin-please/#comment-30737)
+[comment](http://www.nbrightside.com/blog/2007/01/18/two-one-way-tickets-to-dublin-please/#comment-30737)
 questioning whether this
-[story](http://www.nbrightside.com/blog/2007/01/14/two-one-way-tickets-to-dublin-please/)
+[story](http://www.nbrightside.com/blog/2007/01/18/two-one-way-tickets-to-dublin-please/)
 was completely true also resurrected this thought.
 
 Most of the articles, posts, stories on this blog are based on truth.

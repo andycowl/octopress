@@ -1,10 +1,9 @@
 ---
 date: 2005-12-20 06:31:03
-categories:
-    - music
 title: The Killers at Live 8
 layout: post
 comments: true
+categories: music
 ---
 Bob Geldof wanted The Killers to appear at Live 8 at Hyde Park in
 London.

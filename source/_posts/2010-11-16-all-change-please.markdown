@@ -1,11 +1,9 @@
 ---
 date: 2010-11-16 20:36:00
-categories:
-    - blogging
-    - drupal
 title: all change please
 layout: post
 comments: true
+categories: blogging
 ---
 This blog is now running on Drupal 7 (beta 3).
 

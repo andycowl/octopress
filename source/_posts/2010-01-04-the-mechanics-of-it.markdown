@@ -1,7 +1,6 @@
 ---
 date: 2010-01-04 09:13:45
-categories:
-    - uncategorised
+categories: IT
 title: the mechanics of IT
 layout: post
 comments: true

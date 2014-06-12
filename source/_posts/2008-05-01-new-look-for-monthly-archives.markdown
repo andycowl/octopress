@@ -1,10 +1,9 @@
 ---
 date: 2008-05-01 17:59:52
-categories:
-    - uncategorised
 title: new look for monthly archives
 layout: post
 comments: true
+categories: blogging
 ---
 There is a new, improved Monthly Archives plugin
 [available](http://trac.habariproject.org/habari-extras/changeset/171)

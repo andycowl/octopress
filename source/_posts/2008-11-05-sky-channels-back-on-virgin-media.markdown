@@ -1,11 +1,9 @@
 ---
 date: 2008-11-05 14:49:45
-categories:
-    - uk
-    - tv
 title: Sky channels back on Virgin Media
 layout: post
 comments: true
+categories: uk
 ---
 Rejoice ! After 18 months, Rupert and Richard have ended their standoff
 and the Sky channels will be

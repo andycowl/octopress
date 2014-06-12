@@ -1,7 +1,6 @@
 ---
 date: 2006-11-08 18:09:32
-categories:
-    - uncategorised
+categories: uk
 title: hamsters, headhunters, hampers and false religion
 layout: post
 comments: true

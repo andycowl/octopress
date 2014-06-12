@@ -3,9 +3,7 @@ title: murky depths of the recycle pool
 layout: post
 comments: true
 date: 2006-12-01 17:48:08
-categories:
-    - blogging
-    - humour
+categories: blogging
 ---
 London, near England. 1 December 2006
 

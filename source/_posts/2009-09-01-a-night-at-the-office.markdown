@@ -1,10 +1,9 @@
 ---
 date: 2009-09-01 21:48:36
-categories:
-    - uncategorised
 title: a night at The Office
 layout: post
 comments: true
+categories: uk
 ---
 On Saturday night, BBC2 broadcast a
 [retrospective](http://www.bbc.co.uk/blogs/comedy/2009/08/ricky-gervais-a-night-at-the-office.shtml)

@@ -1,10 +1,9 @@
 ---
 date: 2009-12-22 15:53:28
-categories:
-    - uncategorised
 title: the importance of end users
 layout: post
 comments: true
+categories: software
 ---
 Cary Millsap posts a brilliant
 [article](http://carymillsap.blogspot.com/2009/12/my-whole-system-is-slow-now-what.html)

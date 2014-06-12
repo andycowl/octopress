@@ -1,10 +1,9 @@
 ---
 date: 2006-10-18 15:10:43
-categories:
-    - uncategorised
 title: Arsene Wenger is a teapot
 layout: post
 comments: true
+categories: football
 ---
 Arsene Wenger is
 [bleating](http://news.bbc.co.uk/sport1/hi/football/europe/6050848.stm)

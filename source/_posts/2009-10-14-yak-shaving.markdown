@@ -1,10 +1,9 @@
 ---
 date: 2009-10-14 11:20:21
-categories:
-    - uncategorised
 title: Yak shaving
 layout: post
 comments: true
+categories: software
 ---
 'How I ditched Windows and embraced Linux' - the prequel.
 
@@ -81,15 +80,14 @@ Linux distributions.
 
 The cast list, in no particular order:
 
--   [Ubuntu](http://www.ubuntu.com/) (8.04)
--   [OpenSUSE](http://www.opensuse.org/en/) 11 - lurking in my drawers
-    for the last 12 months
--   [Mint](http://www.linuxmint.com/) 5 (xfce) - also last year's
-    vintage
--   [Fedora](http://fedoraproject.org/) 11
--   [Mandriva](http://www.mandriva.com/)
--   [CrunchBang](http://crunchbanglinux.org/) 9.04
--   [Arch](http://www.archlinux.org/)
--   [PCLinuxOS](http://www.pclinuxos.com/)
--   [Debian](http://www.debian.org/) 5.0
-
+- [Ubuntu](http://www.ubuntu.com/) (8.04)
+- [OpenSUSE](http://www.opensuse.org/en/) 11 - lurking in my drawers
+  for the last 12 months
+- [Mint](http://www.linuxmint.com/) 5 (xfce) - also last year's
+  vintage
+- [Fedora](http://fedoraproject.org/) 11
+- [Mandriva](http://www.mandriva.com/)
+- [CrunchBang](http://crunchbanglinux.org/) 9.04
+- [Arch](http://www.archlinux.org/)
+- [PCLinuxOS](http://www.pclinuxos.com/)
+- [Debian](http://www.debian.org/) 5.0

@@ -1,10 +1,9 @@
 ---
 date: 2005-12-13 23:23:37
-categories:
-    - rss
 title: comparison of RSS readers
 layout: post
 comments: true
+categories: rss
 ---
 More recently, as I have started to scan more blogs and newsfeeds, I
 wanted a quicker, more efficient way of scanning through my growing list

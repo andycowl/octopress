@@ -3,8 +3,7 @@ title: my personal pensions crisis
 layout: post
 comments: true
 date: 2005-11-21 05:09:46
-categories:
-    - uk
+categories: uk
 ---
 Last week, I initiated the transfer of the last of my pension funds
 into my Self Invested Personal Pension (SIPP). This should be a

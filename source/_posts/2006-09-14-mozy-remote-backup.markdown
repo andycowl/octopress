@@ -1,10 +1,9 @@
 ---
 date: 2006-09-14 20:46:47
-categories:
-    - software
 title: Mozy - remote backup
 layout: post
 comments: true
+categories: software
 ---
 I briefly used
 [Box.net](http://www.nbrightside.com/blog/2006/04/19/1gb-memory-stick/)

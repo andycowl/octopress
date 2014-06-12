@@ -1,10 +1,9 @@
 ---
 date: 2009-08-25 10:52:22
-categories:
-    - uncategorised
 title: more questions than answers
 layout: post
 comments: true
+categories: travel
 ---
 Most of the Australians I met on my recent holiday were brilliant
 people; friendly, welcoming, great company and most possessed a very

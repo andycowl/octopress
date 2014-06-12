@@ -1,10 +1,9 @@
 ---
 date: 2009-04-01 10:01:48
-categories:
-    - microblogging
 title: the death of Open Micro Blogging
 layout: post
 comments: true
+categories: microblogging
 ---
 It's fair to say it took me a while to fully 'get' microblogging. In
 fact, initially Twitter left me as
@@ -87,14 +86,14 @@ Identi.ca have announced the
 [acquisition](http://controlyourself.ca/2009/04/01/identica-acquires-twitter/)
 of Twitter.com with the following immediate results:
 
--   identi.ca now has a Twitter like theme - urgh !
--   We are already starting to see the inevitable influx of Twitter
-    celebrities (Britney Spears, Barack Obama, Guy Kawasaki, Guy
-    Cashmore, Jonathan Ross).
--   The '[Featured](http://identi.ca/featured)' tab on identi.ca used to
-    feature interesting individuals and long standing identi.ca
-    advocates. Now it is consumed with Twitterati.
--   It can only be a matter of time before the spammers follow
+- identi.ca now has a Twitter like theme - urgh !
+- We are already starting to see the inevitable influx of Twitter
+  celebrities (Britney Spears, Barack Obama, Guy Kawasaki, Guy
+  Cashmore, Jonathan Ross).
+- The '[Featured](http://identi.ca/featured)' tab on identi.ca used to
+  feature interesting individuals and long standing identi.ca
+  advocates. Now it is consumed with Twitterati.
+- It can only be a matter of time before the spammers follow
 
 This reverse takeover of Twitter is rather like applauding The Clash's
 resolute refusal to play of Top of The Pops and then turning on your

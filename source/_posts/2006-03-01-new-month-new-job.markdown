@@ -1,8 +1,7 @@
 ---
-date: 2006-03-01 01:43:11
-categories:
-    - uncategorised
 title: new month, new job
+date: 2006-03-01 01:43:11
+categories: oracle
 layout: post
 comments: true
 ---

@@ -1,12 +1,9 @@
 ---
 date: 2010-09-07 09:43:00
-categories:
-    - uk
-    - oracle
-    - humour
 title: Sherlock Burns and Dr. Hall investigate
 layout: post
 comments: true
+categories: oracle
 ---
 <a href="http://picasaweb.google.co.uk/lh/photo/WJDWHophTNIdwzEJ6Je7hQ?feat=embedwebsite"><img src="http://lh5.ggpht.com/_l2uGy1RGCiE/TIYHrMP2-SI/AAAAAAAABng/zNKL6tOY-Wc/s400/sherlock-holmes.jpg" /></a>
 

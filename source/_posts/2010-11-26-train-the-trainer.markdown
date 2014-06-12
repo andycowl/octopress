@@ -1,11 +1,9 @@
 ---
 date: 2010-11-26 12:38:00
-categories:
-    - uk
-    - IT
 title: train the trainer
 layout: post
 comments: true
+categories: uk
 ---
 In my job as a roving IT consultant, I have given a number of technical
 presentations about Siebel. During that time, I have learned that I am

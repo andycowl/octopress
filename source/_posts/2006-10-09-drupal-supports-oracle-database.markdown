@@ -1,10 +1,9 @@
 ---
 date: 2006-10-09 17:36:01
-categories:
-    - uncategorised
 title: Drupal supports Oracle database
 layout: post
 comments: true
+categories: blogging
 ---
 Just installed and configured
 [Drupal](http://www.nbrightside.com/drupal-4.7.3/) 4.7.3 and noted an

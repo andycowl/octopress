@@ -1,8 +1,7 @@
 ---
-date: 2006-01-27 17:14:46
-categories:
-    - uncategorised
 title: 'Most Haunted #1'
+date: 2006-01-27 17:14:46
+categories: music
 layout: post
 comments: true
 ---

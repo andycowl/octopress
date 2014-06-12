@@ -1,7 +1,6 @@
 ---
 date: 2006-04-06 17:20:46
-categories:
-    - uncategorised
+categories: uk
 title: free as in FreePhone
 layout: post
 comments: true

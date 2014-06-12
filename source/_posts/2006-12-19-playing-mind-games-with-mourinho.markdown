@@ -1,10 +1,9 @@
 ---
 date: 2006-12-19 04:58:25
-categories:
-    - uncategorised
 title: playing mind games with Mourinho
 layout: post
 comments: true
+categories: football
 ---
 How the big clubs approach the problem...
 

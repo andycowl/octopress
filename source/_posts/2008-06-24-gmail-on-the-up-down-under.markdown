@@ -1,10 +1,9 @@
 ---
 date: 2008-06-24 10:37:49
-categories:
-    - google
 title: Gmail on the up down under
 layout: post
 comments: true
+categories: google
 ---
 Although it's very cool to post on the corporate message board: 'Hey -
 why don't we save the company millions of dollars by using Linux, Gmail

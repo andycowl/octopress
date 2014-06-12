@@ -1,8 +1,7 @@
 ---
-date: 2006-06-07 14:05:30
-categories:
-    - uncategorised
 title: Blogger does something shock
+date: 2006-06-07 14:05:30
+categories: blogging
 layout: post
 comments: true
 ---

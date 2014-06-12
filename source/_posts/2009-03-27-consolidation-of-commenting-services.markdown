@@ -1,10 +1,9 @@
 ---
 date: 2009-03-27 15:31:57
-categories:
-    - blogging
 title: consolidation of commenting services
 layout: post
 comments: true
+categories: blogging
 ---
 Since I [started](http://www.nbrightside.com/blog/2005/08/17/dot-bombs/) this
 blog, I have maintained an interest in various blog commenting services.

@@ -1,8 +1,7 @@
 ---
-date: 2006-04-10 23:07:29
-categories:
-    - uncategorised
 title: flying visit
+date: 2006-04-10 23:07:29
+categories: travel
 layout: post
 comments: true
 ---

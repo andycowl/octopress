@@ -1,10 +1,9 @@
 ---
 date: 2010-01-19 16:39:04
-categories:
-    - uncategorised
 title: Steve Jobs on design
 layout: post
 comments: true
+categories: software
 ---
 > ‘Make it look good!' That's not what we think design is. It's not just
 > what it looks like and feels like. Design is how it works.” — Steve

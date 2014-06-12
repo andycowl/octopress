@@ -1,8 +1,7 @@
 ---
-date: 2006-01-22 22:28:20
-categories:
-    - uncategorised
 title: Fame at last
+date: 2006-01-22 22:28:20
+categories: blogging
 layout: post
 comments: true
 ---

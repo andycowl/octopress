@@ -1,10 +1,9 @@
 ---
 date: 2008-09-13 16:12:45
-categories:
-    - uncategorised
 title: Noel goes stage diving
 layout: post
 comments: true
+categories: music
 ---
 I have a penchant for some of Oasis' tunes and, although he's a City
 fan, I also like Noel Gallagher.

@@ -1,10 +1,9 @@
 ---
 date: 2008-02-07 17:20:21
-categories:
-    - uncategorised
 title: England v Switzerland
 layout: post
 comments: true
+categories: football
 ---
 Last night, I took Norman Junior III to visit the new, improved Wembley
 stadium last night to see England play Switzerland in a friendly.

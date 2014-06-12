@@ -1,10 +1,9 @@
 ---
 date: 2009-12-15 12:34:27
-categories:
-    - music
 title: in praise of Killing Joke
 layout: post
 comments: true
+categories: music
 ---
 After buying most of my Christmas presents from them, Amazon kindly gave
 me a &pound;2 voucher to spend in the MP3 download store.

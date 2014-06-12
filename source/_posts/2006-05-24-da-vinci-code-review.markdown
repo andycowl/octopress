@@ -1,8 +1,7 @@
 ---
-date: 2006-05-24 15:12:27
-categories:
-    - uncategorised
 title: Da Vinci Code review
+date: 2006-05-24 15:12:27
+categories: uk
 layout: post
 comments: true
 ---

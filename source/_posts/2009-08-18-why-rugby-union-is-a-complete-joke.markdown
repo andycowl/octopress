@@ -3,8 +3,7 @@ title: why Rugby Union is a complete joke
 layout: post
 comments: true
 date: 2009-08-18 08:09:55
-categories:
-    - uncategorised
+categories: uk
 ---
 I like most sports but I hate rugby union with a passion for the
 following reasons:
@@ -44,13 +43,13 @@ got worse when the blokes arrived fresh out of the showers,
 And the final reason that rugby union is a complete joke - the
 disciplinary code
 
--   [Spear tackle](http://news.bbc.co.uk/sport1/hi/rugby_union/international/4376306.stm)
-    (holding someone upside down and smashing their head into the ground
-    which could potentially kill them) - no action.
--   [Eye gouging](http://news.bbc.co.uk/sport1/hi/rugby_union/8122711.stm)
-    (twisting your fingers hard into someone's eye socket which could
-    result in the loss of an eye surprisingly enough) - 8 week ban.
--   [Feigning injury](http://news.bbc.co.uk/sport1/hi/rugby_union/my_club/harlequins/8191371.stm)
-    to seek a tactical advantage - 4 month ban for player (reduced from
-    12 months after digging the dirt), 3 year ban for coach, 2 year ban
-    for physio, &pound;260,000 fine for club.
+- [Spear tackle](http://news.bbc.co.uk/sport1/hi/rugby_union/international/4376306.stm)
+  (holding someone upside down and smashing their head into the ground
+  which could potentially kill them) - no action.
+- [Eye gouging](http://news.bbc.co.uk/sport1/hi/rugby_union/8122711.stm)
+  (twisting your fingers hard into someone's eye socket which could
+  result in the loss of an eye surprisingly enough) - 8 week ban.
+- [Feigning injury](http://news.bbc.co.uk/sport1/hi/rugby_union/my_club/harlequins/8191371.stm)
+  to seek a tactical advantage - 4 month ban for player (reduced from
+  12 months after digging the dirt), 3 year ban for coach, 2 year ban
+  for physio, &pound;260,000 fine for club.

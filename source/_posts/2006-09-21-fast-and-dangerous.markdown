@@ -1,10 +1,9 @@
 ---
 date: 2006-09-21 04:35:11
-categories:
-    - uncategorised
 title: fast and dangerous
 layout: post
 comments: true
+categories: uk
 ---
 Richard Hammond, the 36 year old presenter of Top Gear and Brainiac, is
 critically ill in a Leeds neurosurgery unit with serious injuries after

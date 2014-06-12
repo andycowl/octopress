@@ -1,8 +1,7 @@
 ---
-date: 2006-03-28 06:52:11
-categories:
-    - uncategorised
 title: deep meaningful questions
+date: 2006-03-28 06:52:11
+categories: travel
 layout: post
 comments: true
 ---

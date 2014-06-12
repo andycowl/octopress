@@ -1,8 +1,7 @@
 ---
-date: 2006-02-27 18:56:22
-categories:
-    - uncategorised
 title: going on a diet
+date: 2006-02-27 18:56:22
+categories: blogging
 layout: post
 comments: true
 ---

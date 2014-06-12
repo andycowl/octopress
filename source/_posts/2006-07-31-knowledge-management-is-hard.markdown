@@ -1,8 +1,7 @@
 ---
-date: 2006-07-31 05:53:32
-categories:
-    - uncategorised
 title: knowledge management is hard
+date: 2006-07-31 05:53:32
+categories: IT
 layout: post
 comments: true
 ---

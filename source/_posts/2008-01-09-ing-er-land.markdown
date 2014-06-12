@@ -1,11 +1,9 @@
 ---
 date: 2008-01-09 04:23:35
-categories:
-    - uk
-    - football
 title: Ing-er-land
 layout: post
 comments: true
+categories: football
 ---
 After thoroughly enjoying watching
 [Arsenal](http://www.nbrightside.com/blog/2007/10/08/arsenal-v-sunderland/)

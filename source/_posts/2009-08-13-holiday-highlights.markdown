@@ -1,10 +1,9 @@
 ---
 date: 2009-08-13 08:24:33
-categories:
-    - travel
 title: holiday highlights
 layout: post
 comments: true
+categories: travel
 ---
 Memories of the annual summer vacation are now fading, the
 [digital photos](http://www.nbrightside.com/blog/2006/09/03/a-short-history-of-digital-photography/)

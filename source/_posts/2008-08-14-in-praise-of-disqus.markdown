@@ -1,10 +1,9 @@
 ---
 date: 2008-08-14 17:41:11
-categories:
-    - uncategorised
 title: in praise of Disqus
 layout: post
 comments: true
+categories: blogging
 ---
 Disqus recently released a
 [update](http://blog.disqus.net/2008/08/12/introducing-the-new-disqus/)
@@ -15,19 +14,19 @@ running WordPress) into Disqus.
 This operation was slightly complicated because this blog now uses
 Habari but the necessary steps were:
 
-1.  Download and install the new Disqus 2.0
-    [plugin](http://media.disqus.com/disqus-wordpress-2.0.zip) for
-    Wordpress.
-2.  Delete all obvious spam so the export only processes genuine
-    comments and runs faster.
-3.  Switch the archived WordPress copy of the blog back to the original
-    location.
-4.  Export all comments from WordPress into Disqus.
-5.  Claim comments left by myself using an alternative email address
-    before I had even heard about Disqus.
-6.  Wrap the WordPress blog in cling-film, label and place back into
-    cryogenic storage.
-7.  Reinstate the Habari blog.
+1. Download and install the new Disqus 2.0
+   [plugin](http://media.disqus.com/disqus-wordpress-2.0.zip) for
+   Wordpress.
+2. Delete all obvious spam so the export only processes genuine
+   comments and runs faster.
+3. Switch the archived WordPress copy of the blog back to the original
+   location.
+4. Export all comments from WordPress into Disqus.
+5. Claim comments left by myself using an alternative email address
+   before I had even heard about Disqus.
+6. Wrap the WordPress blog in cling-film, label and place back into
+   cryogenic storage.
+7. Reinstate the Habari blog.
 
 However, because I am pretty stupid and overly hasty, inevitably I
 omitted step 3. This meant that while all comments appeared on the

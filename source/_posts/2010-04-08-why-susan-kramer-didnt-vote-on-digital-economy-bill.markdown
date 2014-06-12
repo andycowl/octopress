@@ -1,10 +1,9 @@
 ---
 date: 2010-04-08 12:28:13
-categories:
-    - uncategorised
 title: why Susan Kramer didn't vote on Digital Economy Bill
 layout: post
 comments: true
+categories: uk
 ---
 Short answer - She was in a meeting. I sent a polite email asking why my
 MP Susan Kramer failed to vote last night on the third reading of the

@@ -1,7 +1,6 @@
 ---
 date: 2006-06-30 06:18:24
-categories:
-    - uncategorised
+categories: football
 title: Taxi for Poll
 layout: post
 comments: true

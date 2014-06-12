@@ -1,8 +1,7 @@
 ---
-date: 2006-05-24 03:23:23
-categories:
-    - uncategorised
 title: watching you watching me
+date: 2006-05-24 03:23:23
+categories: blogging
 layout: post
 comments: true
 ---

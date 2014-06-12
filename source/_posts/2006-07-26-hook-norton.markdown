@@ -1,8 +1,7 @@
 ---
-date: 2006-07-26 17:02:19
-categories:
-    - uncategorised
 title: Hook Norton
+date: 2006-07-26 17:02:19
+categories: uk
 layout: post
 comments: true
 ---

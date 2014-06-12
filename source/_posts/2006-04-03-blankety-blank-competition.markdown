@@ -1,10 +1,9 @@
 ---
 date: 2006-04-03 04:55:46
-categories:
-    - football
 title: blankety blank competition
 layout: post
 comments: true
+categories: football
 ---
 Lee Trundle's smile after Swansea's victory (in the Sunday Pub League
 Final played at, of all places, Cardiff) couldn't be any wider without

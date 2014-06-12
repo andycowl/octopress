@@ -3,8 +3,7 @@ date: 2005-12-28 15:14:03
 title: WordPress.com adds a couple of themes
 layout: post
 comments: true
-categories:
-    - wordpress
+categories: wordpress
 ---
 WordPress made some changes to the available
 [themes](http://wordpress.com/blog/2005/12/24/fauna-and-regulus/) just

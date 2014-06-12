@@ -1,10 +1,9 @@
 ---
 date: 2006-09-22 04:52:57
-categories:
-    - uncategorised
 title: back seat driver
 layout: post
 comments: true
+categories: IT
 ---
 'Who is the SQL Server DBA ?'
 

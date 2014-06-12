@@ -1,10 +1,9 @@
 ---
 date: 2010-04-30 10:07:03
-categories:
-    - software
 title: thoughts on browser usability
 layout: post
 comments: true
+categories: software
 ---
 [Jake Kuramoto](http://theappslab.com/about/) from Oracle Apps Lab has
 a great

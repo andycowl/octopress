@@ -3,9 +3,7 @@ title: Beware of shopping at Dell computers
 layout: post
 comments: true
 date: 2005-10-29 20:31:12
-categories:
-    - crm
-    - dell
+categories: crm
 ---
 Imagine walking into a department store to buy a TV. You weigh up all
 the possible options and decide which model you want. The price of

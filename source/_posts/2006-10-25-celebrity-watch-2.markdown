@@ -1,10 +1,9 @@
 ---
 date: 2006-10-25 20:37:41
-categories:
-    - uk
 title: celebrity watch
 layout: post
 comments: true
+categories: uk
 ---
 Yesterday, my son took part in a junior tennis tournament. As I watched
 the competitive matches in progress, there was a lot of fist pumping,

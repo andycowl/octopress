@@ -1,8 +1,7 @@
 ---
-date: 2006-01-31 18:20:29
-categories:
-    - uncategorised
 title: stampede at London Waterloo
+date: 2006-01-31 18:20:29
+categories: uk
 layout: post
 comments: true
 ---

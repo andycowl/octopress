@@ -1,10 +1,9 @@
 ---
 date: 2006-11-20 17:53:24
-categories:
-    - uncategorised
 title: comment abuse
 layout: post
 comments: true
+categories: blogging
 ---
 Some principled bloggers leave all comments untouched afraid that any
 subsequent edit (no matter how seemingly trivial) would represent the
@@ -21,6 +20,6 @@ this problem until now.
 
 However, I chose to delete these comments because:
 
-1.  I dislike such profanity.
-2.  The twat didn't even get the joke in 'flowery twats'.
-3.  Misuse of "you're" in \#2.
+1. I dislike such profanity.
+2. The twat didn't even get the joke in 'flowery twats'.
+3. Misuse of "you're" in \#2.

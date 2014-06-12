@@ -1,8 +1,7 @@
 ---
-date: 2006-01-26 21:43:55
-categories:
-    - uncategorised
 title: Burns night
+date: 2006-01-26 21:43:55
+categories: blogging
 layout: post
 comments: true
 ---

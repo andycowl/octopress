@@ -3,8 +3,7 @@ title: Ingres, OpenIngres and OpenSource
 layout: post
 comments: true
 date: 2005-11-11 01:52:32
-categories:
-    - ingres
+categories: ingres
 ---
 I used to work for Ingres (in London) who were a fantastic company to
 work for. Amazingly, they are the only company I have ever worked for

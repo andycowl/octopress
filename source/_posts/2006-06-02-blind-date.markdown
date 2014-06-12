@@ -1,8 +1,7 @@
 ---
-date: 2006-06-02 08:18:24
-categories:
-    - uncategorised
 title: blind date
+date: 2006-06-02 08:18:24
+categories: blogging
 layout: post
 comments: true
 ---

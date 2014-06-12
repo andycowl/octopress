@@ -1,10 +1,9 @@
 ---
 date: 2009-02-11 14:54:17
-categories:
-    - uncategorised
 title: is Spotify the game changer for online music ?
 layout: post
 comments: true
+categories: music
 ---
 I have most of my music available in digital format and have
 occasionally pondered the purchase of a wireless streaming

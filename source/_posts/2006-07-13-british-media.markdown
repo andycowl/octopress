@@ -1,8 +1,7 @@
 ---
-date: 2006-07-13 14:15:37
-categories:
-    - uncategorised
 title: British media
+date: 2006-07-13 14:15:37
+categories: uk
 layout: post
 comments: true
 ---

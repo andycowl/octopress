@@ -3,8 +3,7 @@ title: backup your blog using Feedburner
 layout: post
 comments: true
 date: 2005-10-14 17:38:14
-categories:
-    - blogging
+categories: blogging
 ---
 I just created an RSS feed for my blog using
 [Feedburner](https://www.feedburner.com/). It was actually quite

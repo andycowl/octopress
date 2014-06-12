@@ -1,8 +1,7 @@
 ---
-date: 2006-06-28 22:25:49
-categories:
-    - uncategorised
 title: nearly man
+date: 2006-06-28 22:25:49
+categories: travel
 layout: post
 comments: true
 ---

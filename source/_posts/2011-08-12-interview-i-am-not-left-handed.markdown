@@ -3,8 +3,7 @@ title: interview with I Am Not Left Handed
 layout: post
 comments: true
 date: 2011-08-12 12:09:16
-categories:
-    - music
+categories: music
 ---
 'I Am Not Lefthanded' are a band who produce the most wonderful
 music. The band are a three piece - mainly from Ireland - and the

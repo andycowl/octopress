@@ -1,10 +1,9 @@
 ---
 layout: post
 title: 30 second guide to data warehousing
-date: 2006-07-13 21:16
+date: 2006-07-13 21:16:28
 comments: true
-categories:
-    - oracle
+categories: oracle
 ---
 Many years ago, my horrid manager refused me a wonderful opportunity
 to go on an all expenses paid training course all about data

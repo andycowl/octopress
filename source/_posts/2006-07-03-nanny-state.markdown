@@ -1,8 +1,7 @@
 ---
-date: 2006-07-03 17:14:10
-categories:
-    - uncategorised
 title: Nanny state
+date: 2006-07-03 17:14:10
+categories: uk
 layout: post
 comments: true
 ---
@@ -16,9 +15,11 @@ has told me the solution:
 
 Now I would never have dreamt of thought of doing any of those things.
 Superb advice. May I suggest a couple of additional top tips.
+
 > Avoid alcohol. An ice-cold beer may seem very tempting but does tend
 > to dehydrate the body. Particularly if you have 7 pints of ice-cold
 > beer.
+>
 > Avoid tea. The popular myth that 'Tea is so refreshing on a hot day'
 > is just that - a myth. Tea contains caffeine and also tends to
 > dehydrate the body.

@@ -1,8 +1,7 @@
 ---
-date: 2006-05-02 22:03:34
-categories:
-    - uncategorised
 title: BA online check-in
+date: 2006-05-02 22:03:34
+categories: travel
 layout: post
 comments: true
 ---

@@ -1,10 +1,9 @@
 ---
 date: 2009-08-23 09:13:34
-categories:
-    - google
 title: where's your Google Shared Items ?
 layout: post
 comments: true
+categories: google
 ---
 I have followed the
 [development](http://www.nbrightside.com/blog/2006/09/29/google-reader-gets-revamp/)

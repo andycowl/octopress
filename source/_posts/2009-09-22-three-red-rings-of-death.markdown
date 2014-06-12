@@ -1,12 +1,9 @@
 ---
+date: 2009-09-22 09:54:26
 title: three red rings of death
 layout: post
 comments: true
-date: 2009-09-22 09:54:26
-categories:
-    - uk
-    - microsoft
-    - crm
+categories: uk
 ---
 Last Friday, Norman Junior III emerged from his bedroom, looked
 mournfully at me and pronounced in a quiet voice: 'Dad - I've got the

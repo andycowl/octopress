@@ -1,10 +1,9 @@
 ---
 date: 2006-09-19 21:18:34
-categories:
-    - uncategorised
 title: nice day at the office, dear ?
 layout: post
 comments: true
+categories: uk
 ---
 Yesterday I had a pretty bad day. I got up early and drove to
 Chesterfield. Unfortunately, the performance environment was not

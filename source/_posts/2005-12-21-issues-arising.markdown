@@ -3,8 +3,7 @@ date: 2005-12-21 08:22:14
 title: issues arising
 layout: post
 comments: true
-categories:
-    - blogging
+categories: blogging
 ---
 Doug Burns raises a surprising number of issues in a seemingly throwaway
 comment about

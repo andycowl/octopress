@@ -1,8 +1,7 @@
 ---
-date: 2006-05-18 15:31:55
-categories:
-    - uncategorised
 title: bingo night
+date: 2006-05-18 15:31:55
+categories: football
 layout: post
 comments: true
 ---

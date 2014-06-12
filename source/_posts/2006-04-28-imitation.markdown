@@ -1,8 +1,7 @@
 ---
-date: 2006-04-28 15:06:39
-categories:
-    - uncategorised
 title: Imitation
+date: 2006-04-28 15:06:39
+categories: blogging
 layout: post
 comments: true
 ---

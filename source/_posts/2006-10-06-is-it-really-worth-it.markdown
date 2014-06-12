@@ -1,7 +1,6 @@
 ---
 date: 2006-10-06 16:59:21
-categories:
-    - uncategorised
+categories: oracle
 title: is it really worth it ?
 layout: post
 comments: true

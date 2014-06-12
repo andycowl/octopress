@@ -1,11 +1,9 @@
 ---
 date: 2006-07-06 16:00:12
-categories:
-    - uk
-    - humour
 title: just do what you are told
 layout: post
 comments: true
+categories: uk
 ---
 This morning, I was waiting at reception in a client's offices and was
 filling in time by casually reading the various notices.

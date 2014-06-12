@@ -1,8 +1,7 @@
 ---
-date: 2006-01-24 18:25:25
-categories:
-    - uncategorised
 title: senseless waste of good people
+date: 2006-01-24 18:25:25
+categories: music
 layout: post
 comments: true
 ---

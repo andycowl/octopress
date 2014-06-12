@@ -1,10 +1,9 @@
 ---
 date: 2008-11-20 09:31:34
-categories:
-    - uncategorised
 title: has your company got a Community Manager ?
 layout: post
 comments: true
+categories: software
 ---
 My support for the Disqus commenting system used on this blog is well
 [documented](http://www.nbrightside.com/blog/2008/04/09/25-reasons-you-should-use-disqus/).
@@ -30,10 +29,10 @@ in this introductory post; for example, 'Chief Happiness Engineer' is
 frankly cringe worthy, it is worth noting that Disqus have many channels
 available for people to contact them:
 
--   Twitter
--   Disqus forums
--   Email
--   GetSatisfaction
+- Twitter
+- Disqus forums
+- Email
+- GetSatisfaction
 
 More importantly, Disqus don't just sit by the computer waiting for
 people to call in - they proactively monitor all these channels and
@@ -68,18 +67,18 @@ forums. The most popular
 [thread](http://discussions.apple.com/thread.jspa?threadID=1703504&tstart=180)
 now has 36,208 views and 436 replies.
 
--   How many of the 436 replies came from Apple ? None.
--   Did Apple respond to any of these threads ? No.
--   Did Apple even acknowledge the problem ? No.
--   Do Apple care about their customers ? Not sure.
--   Am I encouraged to give more money to Apple by spending in the
-    iTunes Store ? No.
--   What impression does this give to a recent Apple convert ? Arrogant.
--   When is 2.2 scheduled for release ? Not known.
--   Will 2.2 include a fix for this issue ? Not known.
--   Is a fix even on the horizon ? Originally, I would have bet money on
-    it but, given Apple's lack of response to date, I am now starting to
-    have doubts.
+- How many of the 436 replies came from Apple ? None.
+- Did Apple respond to any of these threads ? No.
+- Did Apple even acknowledge the problem ? No.
+- Do Apple care about their customers ? Not sure.
+- Am I encouraged to give more money to Apple by spending in the
+  iTunes Store ? No.
+- What impression does this give to a recent Apple convert ? Arrogant.
+- When is 2.2 scheduled for release ? Not known.
+- Will 2.2 include a fix for this issue ? Not known.
+- Is a fix even on the horizon ? Originally, I would have bet money on
+  it but, given Apple's lack of response to date, I am now starting to
+  have doubts.
 
 It's obvious that Apple don't have a 'Community Manager'. Does your
 company ?

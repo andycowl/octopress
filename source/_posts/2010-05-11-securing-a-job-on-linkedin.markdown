@@ -1,10 +1,9 @@
 ---
 date: 2010-05-11 16:20:18
-categories:
-    - uncategorised
 title: securing a job on LinkedIn
 layout: post
 comments: true
+categories: uk
 ---
 > Hi Norman. You and I haven't spoken before so please excuse the
 > intrusion. However Sandstone Search & Selection are a specialist
@@ -74,5 +73,3 @@ enough money together for the 'pole dancing' classes. Please let me know
 > an interview ?
 
 Yes - but only before 1 September.
-
-

@@ -3,8 +3,7 @@ title: How to publicise your blog
 layout: post
 comments: true
 date: 2005-11-06 19:01:44
-categories:
-    - blogging
+categories: blogging
 ---
 Don't. Build it and they will come (probably). Try and focus on the
 style and content of the blog. Try to keep updating the blog on a

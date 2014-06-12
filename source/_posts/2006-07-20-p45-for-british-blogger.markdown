@@ -1,8 +1,7 @@
 ---
-date: 2006-07-20 07:11:37
-categories:
-    - uncategorised
 title: P45 for British blogger
+date: 2006-07-20 07:11:37
+categories: uk
 layout: post
 comments: true
 ---

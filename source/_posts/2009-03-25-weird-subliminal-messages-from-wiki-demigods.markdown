@@ -1,10 +1,9 @@
 ---
 date: 2009-03-25 16:35:13
-categories:
-    - uncategorised
 title: weird subliminal messages from Wiki demigods
 layout: post
 comments: true
+categories: software
 ---
 Recently, I started messing around with
 [DokuWiki](http://www.dokuwiki.org/dokuwiki) as a

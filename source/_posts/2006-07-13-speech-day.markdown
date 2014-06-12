@@ -1,8 +1,7 @@
 ---
-date: 2006-07-13 17:40:03
-categories:
-    - uncategorised
 title: Speech Day
+date: 2006-07-13 17:40:03
+categories: uk
 layout: post
 comments: true
 ---

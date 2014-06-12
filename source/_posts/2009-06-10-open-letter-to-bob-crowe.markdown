@@ -1,10 +1,9 @@
 ---
 date: 2009-06-10 08:05:39
-categories:
-    - uncategorised
 title: open letter to Bob Crowe
 layout: post
 comments: true
+categories: uk
 ---
 Dear Bob
 

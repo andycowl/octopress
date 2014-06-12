@@ -1,8 +1,7 @@
 ---
-date: 2006-05-16 18:38:08
-categories:
-    - uncategorised
 title: heart and soul
+date: 2006-05-16 18:38:08
+categories: microsoft
 layout: post
 comments: true
 ---

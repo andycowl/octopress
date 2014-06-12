@@ -3,8 +3,7 @@ title: Beware of Dixons Tax Free shopping
 layout: post
 comments: true
 date: 2005-10-25 20:46:29
-categories:
-    - crm
+categories: crm
 ---
 Airports are pretty dull places. Last Wednesday, I found myself at
 Heathrow T2, at some unearthly hour in the morning. I wandered round

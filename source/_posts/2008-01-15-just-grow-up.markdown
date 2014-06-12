@@ -1,10 +1,9 @@
 ---
 date: 2008-01-15 09:02:39
-categories:
-    - uncategorised
 title: just grow up
 layout: post
 comments: true
+categories: uk
 ---
 Reading:
 '[Thunderbolt Kid](http://www.amazon.co.uk/Life-Times-Thunderbolt-Kid/dp/0552772542/ref=sr_1_1?ie=UTF8&s=books&qid=1202929523&sr=1-1)'

@@ -1,7 +1,6 @@
 ---
 date: 2008-09-21 13:45:15
-categories:
-    - uncategorised
+categories: oracle
 title: onwards and upwards
 layout: post
 comments: true
@@ -31,17 +30,17 @@ articles on your blog.'
 
 The role will mean a few changes for me:
 
--   I will now revert to having difficulty explaining to friends and
-    relatives what I actually do.
--   I will probably spend less time in airport lounges and more time
-    with my family. Norma has already expressed grave reservations about
-    this element of my career change.
--   My manager will be in a different continent and timezone.
--   I will be contributing to a corporate
-    [blog](http://blogs.oracle.com/socialcrm/) for the first time which
-    will necessitate a slight shift in subject matter, terminology and
-    slightly less of my dry, cynical, off the wall, British sense of
-    humour although I do intend to maintain this personal blog.
+- I will now revert to having difficulty explaining to friends and
+  relatives what I actually do.
+- I will probably spend less time in airport lounges and more time
+  with my family. Norma has already expressed grave reservations about
+  this element of my career change.
+- My manager will be in a different continent and timezone.
+- I will be contributing to a corporate
+  [blog](http://blogs.oracle.com/socialcrm/) for the first time which
+  will necessitate a slight shift in subject matter, terminology and
+  slightly less of my dry, cynical, off the wall, British sense of
+  humour although I do intend to maintain this personal blog.
 
 I am currently tidying up a few loose ends in Expert Services and
 embarking on a emotional, sell-out, European farewell tour to all my

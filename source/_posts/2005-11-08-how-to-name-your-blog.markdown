@@ -3,8 +3,7 @@ title: How to name your blog
 layout: post
 comments: true
 date: 2005-11-08 03:17:13
-categories:
-    - blogging
+categories: blogging
 ---
 So, you have set up the blog, got loads of interesting ideas for
 articles, robots and spiders are crawling everywhere, Adsense is

@@ -3,8 +3,7 @@ title: music for a (very) long car journey
 layout: post
 comments: true
 date: 2005-11-13 22:45:26
-categories:
-    - music
+categories: music
 ---
 There is nothing more tedious than a blog that starts:
 

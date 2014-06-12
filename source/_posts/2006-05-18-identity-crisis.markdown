@@ -1,7 +1,6 @@
 ---
 date: 2006-05-18 19:47:46
-categories:
-    - uncategorised
+categories: blogging
 title: identity crisis
 layout: post
 comments: true

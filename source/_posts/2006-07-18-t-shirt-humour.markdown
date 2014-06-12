@@ -1,7 +1,6 @@
 ---
 date: 2006-07-18 21:34:05
-categories:
-    - uncategorised
+categories: humour
 title: T-shirt humour
 layout: post
 comments: true

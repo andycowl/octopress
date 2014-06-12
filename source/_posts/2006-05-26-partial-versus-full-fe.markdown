@@ -1,7 +1,6 @@
 ---
 date: 2006-05-26 23:06:41
-categories:
-    - uncategorised
+categories: blogging
 title: partial versus full fe…
 layout: post
 comments: true

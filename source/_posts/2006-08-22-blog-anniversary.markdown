@@ -1,8 +1,7 @@
 ---
-date: 2006-08-22 21:34:05
-categories:
-    - uncategorised
 title: blog anniversary
+date: 2006-08-22 21:34:05
+categories: blogging
 layout: post
 comments: true
 ---

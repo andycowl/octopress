@@ -1,8 +1,7 @@
 ---
-date: 2006-01-26 19:41:42
-categories:
-    - uncategorised
 title: one less reason
+date: 2006-01-26 19:41:42
+categories: blogging
 layout: post
 comments: true
 ---

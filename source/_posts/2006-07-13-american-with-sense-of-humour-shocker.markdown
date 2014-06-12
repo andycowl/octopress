@@ -1,11 +1,9 @@
 ---
 date: 2006-07-13 23:32:40
-categories:
-    - uk
-    - humour
 title: American with sense of humour shocker
 layout: post
 comments: true
+categories: uk
 ---
 Look at this gentleman's very amusing
 [profile](http://www.linkedin.com/profile?viewProfile=&key=274536&goback=.con_2)

@@ -3,8 +3,7 @@ title: tweaking the blogger template
 layout: post
 comments: true
 date: 2005-11-09 16:36:39
-categories:
-    - blogging
+categories: blogging
 ---
 A kind lady called Sarah encountered my blog, was horrified by what
 she saw, and and proffered this

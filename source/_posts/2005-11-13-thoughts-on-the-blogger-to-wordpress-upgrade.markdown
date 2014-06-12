@@ -3,9 +3,7 @@ title: thoughts on the Blogger to Wordpress upgrade
 layout: post
 comments: true
 date: 2005-11-13 18:42:20
-categories:
-    - blogging
-    - wordpress
+categories: blogging
 ---
 Things I like about Wordpress after a couple of days...
 

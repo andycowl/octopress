@@ -1,8 +1,7 @@
 ---
-date: 2006-03-30 08:30:02
-categories:
-    - uncategorised
 title: chaos on the streets on Newcastle
+date: 2006-03-30 08:30:02
+categories: uk
 layout: post
 comments: true
 ---

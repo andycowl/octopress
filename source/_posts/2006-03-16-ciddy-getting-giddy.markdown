@@ -3,8 +3,7 @@ date: 2006-03-16 17:24:26
 title: Ciddy getting giddy
 layout: post
 comments: true
-categories:
-    - football
+categories: football
 ---
 13\. Years since Manchester City
 [reached](http://news.bbc.co.uk/sport2/hi/football/fa_cup/4796150.stm)

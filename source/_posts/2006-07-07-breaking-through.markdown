@@ -1,8 +1,7 @@
 ---
-date: 2006-07-07 15:12:32
-categories:
-    - uncategorised
 title: breaking through
+date: 2006-07-07 15:12:32
+categories: blogging
 layout: post
 comments: true
 ---

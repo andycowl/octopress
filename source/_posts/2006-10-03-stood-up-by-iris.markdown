@@ -1,11 +1,9 @@
 ---
 date: 2006-10-03 03:49:26
-categories:
-    - uk
-    - humour
 title: stood up by Iris
 layout: post
 comments: true
+categories: uk
 ---
 I had a blind date this morning at 06.55. An early start admittedly but
 this lady would surely be worth it. The lady's name was Iris. I was

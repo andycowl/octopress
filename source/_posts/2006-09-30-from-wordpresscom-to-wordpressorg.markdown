@@ -1,10 +1,9 @@
 ---
 date: 2006-09-30 19:12:55
-categories:
-    - uncategorised
 title: from WordPress.com to WordPress.org
 layout: post
 comments: true
+categories: blogging
 ---
 Choose domain name which is
 [taken](http://www.nbrightside.com/blog/2006/09/28/the-fickle-hand-of-fate/).

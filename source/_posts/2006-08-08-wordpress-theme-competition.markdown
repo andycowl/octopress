@@ -1,8 +1,7 @@
 ---
-date: 2006-08-08 01:11:41
-categories:
-    - uncategorised
 title: WordPress theme competition
+date: 2006-08-08 01:11:41
+categories: wordpress
 layout: post
 comments: true
 ---

@@ -1,10 +1,9 @@
 ---
 date: 2006-06-02 09:08:18
-categories:
-    - blogging
 title: half time scoreboard
 layout: post
 comments: true
+categories: blogging
 ---
 Days: 289 days 
 Posts: 261 

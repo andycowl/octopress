@@ -1,10 +1,9 @@
 ---
 date: 2006-08-03 22:23:21
-categories:
-    - uk
 title: word of caution
 layout: post
 comments: true
+categories: uk
 ---
 Take my advice. Never buy
 [flowers](http://www.nbrightside.com/blog/2006/01/25/credit-card-security/)

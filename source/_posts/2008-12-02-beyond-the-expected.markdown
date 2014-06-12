@@ -1,10 +1,9 @@
 ---
 date: 2008-12-02 17:22:37
-categories:
-    - uncategorised
 title: beyond the expected
 layout: post
 comments: true
+categories: uk
 ---
 Just been down to
 [Asda](http://www.nbrightside.com/blog/2007/10/16/just-do-what-you-are-told/).

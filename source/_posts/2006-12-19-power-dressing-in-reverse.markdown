@@ -1,10 +1,9 @@
 ---
 date: 2006-12-19 01:19:45
-categories:
-    - uncategorised
 title: power dressing in reverse
 layout: post
 comments: true
+categories: uk
 ---
 In the 1980's, some ladies chose to wear dark trouser suits and
 blouses in an effort to match their male counterparts in the

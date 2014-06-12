@@ -3,8 +3,7 @@ date: 2005-11-01 17:07:01
 title: Emacs as a Web 2.0 application
 layout: post
 comments: true
-categories:
-    - emacs
+categories: emacs
 ---
 When I started this blog, I simply composed the posts in the Blogger
 editor which was adequate. Until one day, when I lost the complete text

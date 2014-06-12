@@ -1,10 +1,9 @@
 ---
 date: 2010-01-13 10:02:55
-categories:
-    - uncategorised
 title: Arthur Smith nails it
 layout: post
 comments: true
+categories: uk
 ---
 > "This country is shit. The food is shit, the government is shit, the
 > weather is shit, the transport system is shit, education is shit, life

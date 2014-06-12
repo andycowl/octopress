@@ -1,10 +1,9 @@
 ---
 date: 2006-05-30 22:40:54
-categories:
-    - football
 title: 'MUFC > England #2'
 layout: post
 comments: true
+categories: football
 ---
 In April 2002, I got off my barstool and actually went to see a
 Manchester United game. The fixture was at Upton Park and I was in the

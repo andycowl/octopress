@@ -1,7 +1,6 @@
 ---
 date: 2006-02-02 18:10:44
-categories:
-    - uncategorised
+categories: oracle
 title: 'interviewing stories #3'
 layout: post
 comments: true

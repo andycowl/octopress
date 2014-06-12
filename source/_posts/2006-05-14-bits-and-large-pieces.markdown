@@ -1,8 +1,7 @@
 ---
-date: 2006-05-14 17:02:15
-categories:
-    - uncategorised
 title: bits and large pieces
+date: 2006-05-14 17:02:15
+categories: oracle
 layout: post
 comments: true
 ---

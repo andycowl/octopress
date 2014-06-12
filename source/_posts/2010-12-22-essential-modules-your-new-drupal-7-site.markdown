@@ -1,10 +1,9 @@
 ---
-title: essential modules for your new Drupal 7 site
 layout: post
-comments: true
-categories:
-    - drupal
 date: 2010-12-22 12:53:00
+title: essential modules for your new Drupal 7 site
+comments: true
+categories: blogging
 ---
 People never ask me 'Hey Norman - what modules have you installed thus
 far on this wonderful Drupal 7 powered blog ?'

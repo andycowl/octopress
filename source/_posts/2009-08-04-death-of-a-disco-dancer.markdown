@@ -1,10 +1,9 @@
 ---
 date: 2009-08-04 17:14:47
-categories:
-    - uncategorised
 title: death of a disco dancer
 layout: post
 comments: true
+categories: uk
 ---
 After I finally got over the shock of Michael Jackson (I suspect Mr.
 Pharmacist with the white pills and syringe in the study) and being

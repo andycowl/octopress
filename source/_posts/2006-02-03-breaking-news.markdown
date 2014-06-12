@@ -1,8 +1,7 @@
 ---
-date: 2006-02-03 15:45:49
-categories:
-    - uncategorised
 title: breaking news
+date: 2006-02-03 15:45:49
+categories: uk
 layout: post
 comments: true
 ---

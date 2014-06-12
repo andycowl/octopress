@@ -1,7 +1,6 @@
 ---
 date: 2006-10-11 10:55:20
-categories:
-    - uncategorised
+categories: emacs
 title: a thing of rare beauty
 layout: post
 comments: true

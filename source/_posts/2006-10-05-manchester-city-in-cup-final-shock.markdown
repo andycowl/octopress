@@ -3,9 +3,7 @@ title: Manchester City in Cup Final shock !
 layout: post
 comments: true
 date: 2006-10-05 06:41:26
-categories:
-    - uk
-    - football
+categories: football
 ---
 The Council House will
 [host](http://news.bbc.co.uk/sport1/hi/football/europe/5407664.stm)

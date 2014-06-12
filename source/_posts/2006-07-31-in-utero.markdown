@@ -1,7 +1,6 @@
 ---
 date: 2006-07-31 06:28:42
-categories:
-    - uncategorised
+categories: uncategorised
 title: in utero
 layout: post
 comments: true

@@ -3,8 +3,7 @@ date: 2006-09-27 07:49:54
 title: The Wonderful and Frightening World of Mark E. Smith
 layout: post
 comments: true
-categories:
-    - music
+categories: music
 ---
 BBC2 Friday night. A [repeat](http://www.thefall.info/fallsite/?p=320)
 but memorable for some great footage, interviews and these two

@@ -1,8 +1,7 @@
 ---
-date: 2006-05-11 13:05:37
-categories:
-    - uncategorised
 title: standing at the urinals
+date: 2006-05-11 13:05:37
+categories: IT
 layout: post
 comments: true
 ---

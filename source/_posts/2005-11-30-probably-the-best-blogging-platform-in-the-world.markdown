@@ -3,9 +3,7 @@ title: probably the best blogging platform in the world
 layout: post
 comments: true
 date: 2005-11-30 05:49:34
-categories:
-    - blogging
-    - wordpress
+categories: blogging
 ---
 In a previous
 [article](http://www.nbrightside.com/blog/2005/11/29/new-regulus-theme-for-wordpresscom/),

@@ -1,10 +1,9 @@
 ---
 date: 2006-10-16 17:09:39
-categories:
-    - uncategorised
 title: couple of useful Wordpress plugins
 layout: post
 comments: true
+categories: wordpress
 ---
 Feedburner - WordPress.com provides users with
 [statistics](http://wordpress.com/blog/2006/04/14/feed-stats/) about

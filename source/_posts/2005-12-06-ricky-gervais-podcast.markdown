@@ -1,11 +1,9 @@
 ---
 date: 2005-12-06 22:26:51
-categories:
-    - humour
-    - podcast
 title: Ricky Gervais podcast
 layout: post
 comments: true
+categories: humour
 ---
 Ricky Gervais is one of my favourite comedians (The Office, Extras) and
 has produced the first in a series of

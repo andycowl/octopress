@@ -1,11 +1,9 @@
 ---
 date: 2006-03-27 07:03:18
-categories:
-    - uk
-    - humour
 title: a cause for concern
 layout: post
 comments: true
+categories: uk
 ---
 I am fortunate to find myself staying in a pleasant enough hotel in
 Newcastle upon Tyne. It is called the

@@ -1,10 +1,9 @@
 ---
 date: 2006-02-01 00:02:23
-categories:
-    - oracle
 title: a short history of Oracle blogging
 layout: post
 comments: true
+categories: oracle
 ---
 I was just reviewing the list of Oracle related blogs I subscribe to.
 Here they are in approximate chronological order with the blogging

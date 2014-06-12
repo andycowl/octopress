@@ -1,7 +1,6 @@
 ---
 date: 2006-10-05 09:54:07
-categories:
-    - uncategorised
+categories: software
 title: free 20GB memory stick
 layout: post
 comments: true

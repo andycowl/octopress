@@ -1,10 +1,9 @@
 ---
 date: 2008-04-02 20:16:41
-categories:
-    - uncategorised
 title: resurrection of Disqus comments
 layout: post
 comments: true
+categories: blogging
 ---
 Five months ago, I
 [experimented](http://www.nbrightside.com/blog/2007/10/31/disqus-powered-comments/)
@@ -16,22 +15,22 @@ Disqus says this feature is being worked on.
 
 However, I have decided to reinstate Disqus for the following reasons:
 
--   Disqus recently added
-    [integration](http://blog.disqus.net/2008/03/24/add-your-disqus-profile-on-friendfeed/)
-    with FriendFeed so any contributions I make on Disqus powered blogs
-    will also be visible in my FriendFeed
-    [stream](http://friendfeed.com/andyc).
--   I am encountering an ever increasing number of blogs using Disqus.
--   I am hoping Disqus will help to trigger more comments, interest and
-    interaction on the blog.
--   Disqus provide a nice combination widget providing 'Popular',
-    'Recent Comments' and 'People'.
--   The most recent
-    [release](http://blog.disqus.net/2008/03/14/disqus-releases-beta-2-–-new-features-lots-of-bug-fixes-improved-performance/)
-    of Disqus included a raft of changes including support for Open ID.
--   Disqus is being actively developed and, more importantly,
-    [listen](http://shegeeks.net/great-quality-customer-support-with-disqus/)
-    to their users.
+- Disqus recently added
+  [integration](http://blog.disqus.net/2008/03/24/add-your-disqus-profile-on-friendfeed/)
+  with FriendFeed so any contributions I make on Disqus powered blogs
+  will also be visible in my FriendFeed
+  [stream](http://friendfeed.com/andyc).
+- I am encountering an ever increasing number of blogs using Disqus.
+- I am hoping Disqus will help to trigger more comments, interest and
+  interaction on the blog.
+- Disqus provide a nice combination widget providing 'Popular',
+  'Recent Comments' and 'People'.
+- The most recent
+  [release](http://blog.disqus.net/2008/03/14/disqus-releases-beta-2-–-new-features-lots-of-bug-fixes-improved-performance/)
+  of Disqus included a raft of changes including support for Open ID.
+- Disqus is being actively developed and, more importantly,
+  [listen](http://shegeeks.net/great-quality-customer-support-with-disqus/)
+  to their users.
 
 I still have some reservations that the couple of articles with decent
 comment threads included replies to earlier comments (which are no

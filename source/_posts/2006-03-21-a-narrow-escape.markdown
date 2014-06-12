@@ -1,14 +1,13 @@
 ---
 date: 2006-03-21 21:25:29
-categories:
-    - uk
-    - humour
 title: a narrow escape
 layout: post
 comments: true
+categories: uk
 ---
 I was just quietly unloading the dishwasher this morning, when my 10
 year old daughter enters the kitchen and screams:
+
 > 'HE'S DEAD, DAD, HE'S DEAD. LOOK DAD. HE'S DEAD !'
 
 Sure enough, Chewy, the 18 month old gerbil had got himself wedged in a

@@ -1,10 +1,9 @@
 ---
 date: 2006-10-25 01:01:36
-categories:
-    - uncategorised
 title: custom Oracle search engine
 layout: post
 comments: true
+categories: oracle
 ---
 Google [Co-op](http://www.google.com/coop/) is a customisable Google
 search engine and I just created a personalised, custom

@@ -1,10 +1,9 @@
 ---
 date: 2008-06-20 11:17:19
-categories:
-    - uncategorised
 title: Intranet on the Internet
 layout: post
 comments: true
+categories: oracle
 ---
 Oracle [AppsLab](http://oracleappslab.com/) is one of my longest
 standing and favourite blogs.

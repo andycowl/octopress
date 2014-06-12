@@ -1,8 +1,7 @@
 ---
-date: 2006-01-23 16:08:19
-categories:
-    - uncategorised
 title: surreal Sunday
+date: 2006-01-23 16:08:19
+categories: uk
 layout: post
 comments: true
 ---

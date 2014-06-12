@@ -1,8 +1,7 @@
 ---
-date: 2006-03-31 23:09:00
-categories:
-    - uncategorised
 title: could do better
+date: 2006-03-31 20:09:00
+categories: software
 layout: post
 comments: true
 ---

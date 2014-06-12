@@ -1,10 +1,9 @@
 ---
 date: 2009-08-07 09:38:50
-categories:
-    - uncategorised
 title: product minimalism
 layout: post
 comments: true
+categories: software
 ---
 Garry Tan, a developer for [Posterous](http://posterous.com/) (a simple
 but powerful blog platform), wrote a brilliant

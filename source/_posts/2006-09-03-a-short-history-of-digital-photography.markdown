@@ -1,8 +1,7 @@
 ---
-date: 2006-09-03 15:58:01
-categories:
-    - uncategorised
 title: a short history of digital photography
+date: 2006-09-03 15:58:01
+categories: software
 layout: post
 comments: true
 ---

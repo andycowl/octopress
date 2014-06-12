@@ -3,9 +3,7 @@ title: credit where credit is due
 layout: post
 comments: true
 date: 2005-11-15 05:54:59
-categories:
-    - crm
-    - dell
+categories: crm
 ---
 In an earlier
 [post](http://www.nbrightside.com/blog/2005/10/29/beware-of-shopping-at-dell-computers/),

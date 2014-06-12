@@ -1,8 +1,7 @@
 ---
-date: 2006-07-17 21:07:42
-categories:
-    - uncategorised
 title: is it just me ?
+date: 2006-07-17 21:07:42
+categories: IT
 layout: post
 comments: true
 ---

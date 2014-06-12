@@ -1,10 +1,9 @@
 ---
 date: 2008-06-15 09:55:58
-categories:
-    - uncategorised
 title: BRU-LHR
 layout: post
 comments: true
+categories: travel
 ---
 On Friday I returned from a very enjoyable week in Brussels. Hard work,
 challenging customer and miscellaneous technical issues. However,
@@ -55,6 +54,7 @@ We land at Terminal 5 and park on a remote stand. Unfortunately, the
 young lady is unable to disembark, get some fresh air and rush to the
 nearest lavatory. After 10 minutes, the smooth, well-spoken co-pilot
 announces the bad news:
+
 > 'I'm awfully sorry, ladies and gentlemen but there will be a slight
 > delay. We are just waiting for some steps and buses to be brought to
 > the aircraft but BAA groundstaff have been practising for the

@@ -1,8 +1,7 @@
 ---
-date: 2006-03-28 06:38:35
-categories:
-    - uncategorised
 title: simple things
+date: 2006-03-28 06:38:35
+categories: IT
 layout: post
 comments: true
 ---

@@ -1,8 +1,7 @@
 ---
-date: 2006-06-12 18:39:58
-categories:
-    - uncategorised
 title: inverse law of airports
+date: 2006-06-12 18:39:58
+categories: travel
 layout: post
 comments: true
 ---

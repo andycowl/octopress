@@ -1,7 +1,6 @@
 ---
 date: 2006-11-05 03:01:54
-categories:
-    - uncategorised
+categories: uk
 title: a brush with social services
 layout: post
 comments: true

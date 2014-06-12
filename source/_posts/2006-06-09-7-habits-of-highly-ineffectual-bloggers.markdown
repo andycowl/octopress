@@ -1,10 +1,9 @@
 ---
 layout: post
 title: 7 habits of highly ineffectual bloggers
-date: 2006-06-09 16:23
+date: 2006-06-09 16:23:12
 comments: true
-categories:
-    - blogging
+categories: blogging
 ---
 1. Describing your state of mind. I really don't care whether you are
 happy, sad, somewhere inbetween or suicidal because your girlfriend

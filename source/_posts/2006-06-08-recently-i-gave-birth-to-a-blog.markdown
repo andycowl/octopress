@@ -1,8 +1,7 @@
 ---
-date: 2006-06-08 19:52:55
-categories:
-    - uncategorised
 title: Recently I Gave Birth To A Blog
+date: 2006-06-08 19:52:55
+categories: blogging
 layout: post
 comments: true
 ---

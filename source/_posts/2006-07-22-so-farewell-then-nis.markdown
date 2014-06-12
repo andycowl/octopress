@@ -1,8 +1,7 @@
 ---
-date: 2006-07-22 03:53:59
-categories:
-    - uncategorised
 title: so farewell then, NIS
+date: 2006-07-22 03:53:59
+categories: software
 layout: post
 comments: true
 ---

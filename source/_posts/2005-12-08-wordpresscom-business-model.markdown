@@ -3,8 +3,7 @@ date: 2005-12-08 17:29:22
 title: WordPress.com business model
 layout: post
 comments: true
-categories:
-    - wordpress
+categories: wordpress
 ---
 I am worried about those developers at WordPress. They have to eat food,
 drink coffee and wear clothes but how are they ever going to make any

@@ -1,10 +1,9 @@
 ---
 layout: post
 date: 2008-01-16 06:33:46
-categories:
-    - oracle
 title: readers of Oracle blog aggregators unite (and take over)
 comments: true
+categories: oracle
 ---
 'Forgive me Father for I have sinned. It is 25 years, 3 months and 47
 days since my last confession.'

@@ -1,10 +1,9 @@
 ---
 date: 2009-08-07 09:23:21
-categories:
-    - uncategorised
 title: fear and loathing in Broome
 layout: post
 comments: true
+categories: travel
 ---
 As we meandered our way through Western Australia, we took a taxi from
 the rather mediocre accommodation provided by

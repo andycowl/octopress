@@ -1,10 +1,9 @@
 ---
 date: 2006-12-08 19:56:57
-categories:
-    - uncategorised
 title: rebranding Nottingham airport
 layout: post
 comments: true
+categories: uk
 ---
 Penny Coates is an overpaid idiot who thinks East Midlands Airport
 should be [renamed](http://news.bbc.co.uk/1/hi/england/6220118.stm)

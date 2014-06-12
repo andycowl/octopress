@@ -1,10 +1,9 @@
 ---
+date: 2009-08-04 09:27:50
 title: where will it all end ?
 layout: post
 comments: true
-date: 2009-08-04 09:27:50
-categories:
-    - uncategorised
+categories: uk
 ---
 Last year, I found an ancient 56Kb dialup modem lurking in a cupboard. I
 fondly remembered the days of dangling the extension cable diagonally

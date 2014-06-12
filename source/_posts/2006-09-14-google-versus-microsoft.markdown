@@ -1,10 +1,9 @@
 ---
 date: 2006-09-14 19:55:29
-categories:
-    - uncategorised
 title: Google versus Microsoft
 layout: post
 comments: true
+categories: google
 ---
 Thankfully, I don't have cause to use Microsoft Excel much. My kids can
 produce pretty charts about the demographics of pet ownership in the

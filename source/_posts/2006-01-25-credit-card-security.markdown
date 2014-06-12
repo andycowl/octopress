@@ -1,8 +1,7 @@
 ---
-date: 2006-01-25 21:59:35
-categories:
-    - uncategorised
 title: credit card security
+date: 2006-01-25 21:59:35
+categories: uk
 layout: post
 comments: true
 ---

@@ -1,7 +1,6 @@
 ---
 date: 2009-06-10 08:14:23
-categories:
-    - uncategorised
+categories: uk
 title: aftermath of flight AF447
 layout: post
 comments: true

@@ -1,10 +1,9 @@
 ---
 date: 2006-05-18 15:58:07
-categories:
-    - football
 title: if, buts and maybes
 layout: post
 comments: true
+categories: football
 ---
 With apologies to Mr. [Kipling](http://www.kipling.org.uk/poems_if.htm)
 (who does bake exceedingly good cakes) and Tele Savalas

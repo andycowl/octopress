@@ -1,8 +1,7 @@
 ---
-date: 2006-04-17 16:53:01
-categories:
-    - uncategorised
 title: in flight humour
+date: 2006-04-17 16:53:01
+categories: travel
 layout: post
 comments: true
 ---

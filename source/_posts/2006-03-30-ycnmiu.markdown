@@ -1,8 +1,7 @@
 ---
-date: 2006-03-30 07:42:10
-categories:
-    - uncategorised
 title: YCNMIU
+date: 2006-03-30 07:42:10
+categories: uk
 layout: post
 comments: true
 ---

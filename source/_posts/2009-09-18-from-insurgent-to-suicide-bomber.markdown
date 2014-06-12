@@ -1,7 +1,6 @@
 ---
 date: 2009-09-18 10:41:47
-categories:
-    - uncategorised
+categories: uk
 title: from insurgent to suicide bomber
 layout: post
 comments: true

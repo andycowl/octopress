@@ -3,9 +3,7 @@ title: Google Reader
 layout: post
 comments: true
 date: 2005-10-10 20:21:07
-categories:
-    - google
-    - rss
+categories: google
 ---
 Google have launched an online RSS
 [Reader](http://www.google.com/reader/things/tour). Like most

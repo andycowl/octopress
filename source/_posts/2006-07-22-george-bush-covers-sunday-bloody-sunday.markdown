@@ -1,7 +1,6 @@
 ---
 date: 2006-07-22 01:44:13
-categories:
-    - uncategorised
+categories: humour
 title: George Bush covers 'Sunday Bloody Sunday'
 layout: post
 comments: true

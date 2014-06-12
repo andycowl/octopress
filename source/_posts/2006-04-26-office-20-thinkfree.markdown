@@ -1,10 +1,9 @@
 ---
 date: 2006-04-26 19:32:15
-categories:
-    - software
 title: Office 2.0 - ThinkFree
 layout: post
 comments: true
+categories: software
 ---
 I was [worried](http://www.nbrightside.com/blog/2006/04/22/zohowriter/)
 that Google's integrated suite of Web 2.0 office applications would pose

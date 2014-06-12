@@ -1,11 +1,9 @@
 ---
 date: 2006-09-21 06:29:02
-categories:
-    - software
-    - rss
 title: drowning in a river of news
 layout: post
 comments: true
+categories: software
 ---
 I have an increasing tendency to skim all my RSS feeds in
 [Netvibes](http://www.nbrightside.com/blog/2006/05/25/good-vibes-from-netvibes/)

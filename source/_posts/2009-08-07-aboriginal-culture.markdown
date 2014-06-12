@@ -1,10 +1,9 @@
 ---
 date: 2009-08-07 08:44:55
-categories:
-    - travel
 title: Aboriginal culture
 layout: post
 comments: true
+categories: travel
 ---
 In the last week of the great Australian adventure, we took a guided
 tour from Kununurra to Broome, in a 4x4 truck, visiting Purnululu

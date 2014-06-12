@@ -1,8 +1,7 @@
 ---
-date: 2006-03-16 17:45:56
-categories:
-    - uncategorised
 title: heart stopping moment
+date: 2006-03-16 17:45:56
+categories: wordpress
 layout: post
 comments: true
 ---

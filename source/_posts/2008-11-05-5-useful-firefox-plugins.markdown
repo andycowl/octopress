@@ -1,10 +1,9 @@
 ---
 date: 2008-11-05 16:04:34
-categories:
-    - uncategorised
 title: 5 useful Firefox plugins
 layout: post
 comments: true
+categories: software
 ---
 For reasons that are too long and tedious to recount here, I have had
 cause to rebuild my Lenovo T61 laptop many times over the last month,

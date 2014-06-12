@@ -1,10 +1,9 @@
 ---
 date: 2010-01-04 12:09:13
-categories:
-    - uncategorised
 title: less is more
 layout: post
 comments: true
+categories: uk
 ---
 'Would you like any cashback today at all, Sir ?'
 

@@ -1,8 +1,7 @@
 ---
-date: 2006-08-25 04:10:10
-categories:
-    - uncategorised
 title: TechCrunch (UK) launches
+date: 2006-08-25 04:10:10
+categories: uk
 layout: post
 comments: true
 ---

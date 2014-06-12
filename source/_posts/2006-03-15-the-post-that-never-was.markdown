@@ -1,8 +1,7 @@
 ---
-date: 2006-03-15 03:26:02
-categories:
-    - uncategorised
 title: the post that never was
+date: 2006-03-15 03:26:02
+categories: wordpress
 layout: post
 comments: true
 ---

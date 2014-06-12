@@ -1,10 +1,9 @@
 ---
 date: 2009-10-26 16:57:27
-categories:
-    - uncategorised
 title: microblogging massive ideas
 layout: post
 comments: true
+categories: blogging
 ---
 This conversation didn't actually take place but it could have.
 

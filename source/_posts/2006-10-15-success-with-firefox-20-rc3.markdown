@@ -1,10 +1,9 @@
 ---
 date: 2006-10-15 18:27:13
-categories:
-    - uncategorised
 title: success with Firefox 2.0 RC3
 layout: post
 comments: true
+categories: software
 ---
 Just downloaded Firefox 2.0
 [RC3](http://tech.cybernetnews.com/2006/10/12/download-the-release-candidate-of-firefox-2-rc3/)

@@ -1,8 +1,7 @@
 ---
-date: 2006-06-15 03:09:26
-categories:
-    - uncategorised
 title: CRM by stealth
+date: 2006-06-15 03:09:26
+categories: crm
 layout: post
 comments: true
 ---

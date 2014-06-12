@@ -1,8 +1,7 @@
 ---
-date: 2006-02-03 19:51:43
-categories:
-    - uncategorised
 title: Web based calendars
+date: 2006-02-03 19:51:43
+categories: software
 layout: post
 comments: true
 ---

@@ -1,8 +1,7 @@
 ---
-date: 2006-02-19 22:23:47
-categories:
-    - uncategorised
 title: poor man's satellite navigation
+date: 2006-02-19 22:23:47
+categories: uk
 layout: post
 comments: true
 ---
@@ -11,12 +10,13 @@ Buy one of
 for 10 GBP. Give to partner as early Valentine present. Jot down
 following notes as contingency in case navigator happens to be asleep
 during crucial section around Antwerp ring road.
+
 > Folkestone. Eurotunnel to Calais  
->  E40 Ostende  
->  E40 Bruges  
->  E40 Gent  
->  E17 Antwerp  
->  E34 Eindhoven
+> E40 Ostende  
+> E40 Bruges  
+> E40 Gent  
+> E17 Antwerp  
+> E34 Eindhoven
 
 If you note the time and zero the trip-o-meter, you can even get
 statistics on your journey.

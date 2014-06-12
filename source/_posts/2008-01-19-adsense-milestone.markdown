@@ -1,10 +1,9 @@
 ---
 date: 2008-01-19 22:42:51
-categories:
-    - uncategorised
 title: Adsense milestone
 layout: post
 comments: true
+categories: blogging
 ---
 It is just over six months since I first
 [placed](http://www.nbrightside.com/blog/2007/05/23/sit-back-and-watch-the-money-roll-in/)

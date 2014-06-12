@@ -1,10 +1,9 @@
 ---
 date: 2010-03-26 11:58:27
-categories:
-    - uncategorised
 title: end of a love affair
 layout: post
 comments: true
+categories: uk
 ---
 One attraction of my glamorous life as an IT consultant travelling all
 over Europe is the opportunity to conduct illicit affairs with

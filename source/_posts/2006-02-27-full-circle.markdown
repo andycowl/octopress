@@ -1,8 +1,7 @@
 ---
-date: 2006-02-27 18:24:26
-categories:
-    - uncategorised
 title: full circle
+date: 2006-02-27 18:24:26
+categories: software
 layout: post
 comments: true
 ---

@@ -1,8 +1,7 @@
 ---
-date: 2006-06-30 07:08:53
-categories:
-    - uncategorised
 title: Kurt Cobain
+date: 2006-06-30 07:08:53
+categories: music
 layout: post
 comments: true
 ---

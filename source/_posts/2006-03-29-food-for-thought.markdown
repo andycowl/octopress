@@ -1,8 +1,7 @@
 ---
-date: 2006-03-29 05:41:42
-categories:
-    - uncategorised
 title: food for thought
+date: 2006-03-29 05:41:42
+categories: uk
 layout: post
 comments: true
 ---

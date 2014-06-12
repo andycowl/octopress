@@ -1,10 +1,9 @@
 ---
 date: 2009-12-30 09:49:18
-categories:
-    - uncategorised
 title: dreaded Nigerian underpants bomber
 layout: post
 comments: true
+categories: uk
 ---
 What a terrible holiday period for Umar Farouk Abdulmutallab.
 
@@ -42,4 +41,3 @@ affections (after persuading her that he wasn't pleasuring himself
 when he placed the blanket over his waist), sexual intercourse is
 going to be very painful with charred bollocks and a red hot poker
 that is just like - well - a red hot poker with third degree burns.
-

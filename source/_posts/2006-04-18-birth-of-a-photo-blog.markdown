@@ -1,10 +1,9 @@
 ---
 date: 2006-04-18 01:31:51
-categories:
-    - uk
 title: birth of a photo blog
 layout: post
 comments: true
+categories: uk
 ---
 Absolutely no-one has ever asked me: 'Norman - why don't you start a
 photo blog of all these interesting places you visit ?'

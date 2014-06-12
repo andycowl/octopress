@@ -1,10 +1,9 @@
 ---
 date: 2011-01-05 14:57:00
-categories:
-    - uk
 title: to markdown or not to markdown
 layout: post
 comments: true
+categories: blogging
 ---
 [Steve Rubel](http://www.steverubel.com/) sings the
 [praises](http://www.steverubel.com/markdown-is-a-skill-every-modern-communicator)

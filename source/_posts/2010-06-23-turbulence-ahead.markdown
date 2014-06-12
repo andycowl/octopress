@@ -1,7 +1,6 @@
 ---
 date: 2010-06-23 09:38:55
-categories:
-    - uncategorised
+categories: blogging
 title: turbulence ahead
 layout: post
 comments: true

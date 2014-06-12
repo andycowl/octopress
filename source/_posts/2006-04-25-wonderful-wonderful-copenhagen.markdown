@@ -1,10 +1,9 @@
 ---
 date: 2006-04-25 23:54:06
-categories:
-    - travel
 title: Wonderful, wonderful Copenhagen
 layout: post
 comments: true
+categories: travel
 ---
 The city of Copenhagen (near Denmark) has a lot to commend it.
 

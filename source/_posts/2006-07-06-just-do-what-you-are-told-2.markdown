@@ -1,11 +1,9 @@
 ---
 date: 2006-07-06 20:22:11
-categories:
-    - uk
-    - humour
 title: just do what you are told
 layout: post
 comments: true
+categories: uk
 ---
 This lunchtime, after getting my phone past
 [security](http://www.nbrightside.com/blog/2006/07/06/just-do-what-you-are-told/),

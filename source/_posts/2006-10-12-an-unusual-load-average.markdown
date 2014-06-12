@@ -1,10 +1,9 @@
 ---
 date: 2006-10-12 22:57:37
-categories:
-    - uncategorised
 title: an unusual load average
 layout: post
 comments: true
+categories: software
 ---
 I might have been dreaming but I swear that the load average on this
 DreamHost server was over

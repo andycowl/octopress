@@ -1,8 +1,7 @@
 ---
-date: 2006-05-15 15:11:57
-categories:
-    - uncategorised
 title: in flight statistics
+date: 2006-05-15 15:11:57
+categories: travel
 layout: post
 comments: true
 ---

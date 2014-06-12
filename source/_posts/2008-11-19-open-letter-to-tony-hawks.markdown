@@ -1,10 +1,9 @@
 ---
 date: 2008-11-19 10:27:58
-categories:
-    - uncategorised
 title: open letter to Tony Hawks
 layout: post
 comments: true
+categories: uk
 ---
 This is the first in a series of 'open letters' when I send emails to
 people who I admire or have had a major influence on my life.
@@ -33,13 +32,13 @@ haven't had the common courtesy of a reply (yet).
 > I was considering coming up and introducing myself. However, I didn't
 > for the following reasons:
 >
-> 1.  I had this awful mental image of stuttering 'Hi Tony. I've see you
->     on TV and I think you are quite funny' while you were trying to
->     query a mysterious charge on your hotel bill.
-> 2.  My wife has never heard of you and would wonder why I was
->     accosting a complete stranger at the reception desk.
-> 3.  I had to go to check on my two little children who were at loose
->     in the soft-play area.
+> 1. I had this awful mental image of stuttering 'Hi Tony. I've see you
+>    on TV and I think you are quite funny' while you were trying to
+>    query a mysterious charge on your hotel bill.
+> 2. My wife has never heard of you and would wonder why I was
+>    accosting a complete stranger at the reception desk.
+> 3. I had to go to check on my two little children who were at loose
+>    in the soft-play area.
 >
 > Anyway, I never did make it over and many years later, I still think
 > you are quite funny and I have just finished 'Piano in the Pyrenees'

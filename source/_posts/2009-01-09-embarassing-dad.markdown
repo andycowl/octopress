@@ -1,10 +1,9 @@
 ---
 date: 2009-01-09 15:19:38
-categories:
-    - uncategorised
 title: embarassing Dad
 layout: post
 comments: true
+categories: uk
 ---
 Recently I collected Norma-Jean from one of her hobbies. As we departed,
 I stopped to bid farewell to a couple of boys who were preparing to

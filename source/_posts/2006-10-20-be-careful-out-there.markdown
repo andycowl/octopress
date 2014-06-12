@@ -1,10 +1,9 @@
 ---
 date: 2006-10-20 15:42:16
-categories:
-    - uncategorised
 title: be careful out there
 layout: post
 comments: true
+categories: uk
 ---
 Apologies for the brief radio silence.
 

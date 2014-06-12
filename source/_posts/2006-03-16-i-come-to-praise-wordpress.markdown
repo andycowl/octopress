@@ -1,8 +1,7 @@
 ---
-date: 2006-03-16 15:24:18
-categories:
-    - uncategorised
 title: I come to praise WordPress
+date: 2006-03-16 15:24:18
+categories: wordpress
 layout: post
 comments: true
 ---

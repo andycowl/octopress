@@ -1,10 +1,9 @@
 ---
 date: 2005-11-01 00:45:33
-categories:
-    - software
 title: comparison of Blinklist, del.icio.us and Furl
 layout: post
 comments: true
+categories: software
 ---
 After briefly evaluating [Furl](http://furl.net/),
 [del.icio.us](http://del.icio.us/) and

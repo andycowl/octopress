@@ -1,10 +1,9 @@
 ---
 date: 2006-09-29 06:48:41
-categories:
-    - google
 title: Google Reader gets revamp
 layout: post
 comments: true
+categories: google
 ---
 Apart from the 'vi'
 [shortcuts](http://www.nbrightside.com/blog/2005/10/10/google-reader/),

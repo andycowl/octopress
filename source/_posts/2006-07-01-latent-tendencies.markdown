@@ -1,8 +1,7 @@
 ---
-date: 2006-07-01 21:44:26
-categories:
-    - uncategorised
 title: latent tendencies
+date: 2006-07-01 21:44:26
+categories: blogging
 layout: post
 comments: true
 ---

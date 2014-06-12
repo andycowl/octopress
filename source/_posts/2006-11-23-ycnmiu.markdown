@@ -3,11 +3,10 @@ title: YCNMIU
 layout: post
 comments: true
 date: 2006-11-23 17:42:45
-categories:
-    - uk
-    - humour
+categories: uk
 ---
 Three, err, lucky people won the following, err, prize at the recent
 Oracle Partner Network day at UKOUG in Birmngham.
+
 > '3 lucky winners have won a "Virgin Experience Voucher" to the value
 > of &pound;140.'

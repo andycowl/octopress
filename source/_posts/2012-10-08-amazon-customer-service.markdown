@@ -3,8 +3,7 @@ layout: post
 title: Amazon customer service
 date: 2012-10-08 10:21:00
 comments: true
-categories:
-    - amazon
+categories: amazon
 ---
 I am currently hosting this site on Amazon Simple Storage Service
 ([S3][1]). For the first 12 months I am eligible for the

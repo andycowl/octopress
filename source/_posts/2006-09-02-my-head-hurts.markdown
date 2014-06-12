@@ -1,8 +1,7 @@
 ---
-date: 2006-09-02 04:38:14
-categories:
-    - uncategorised
 title: my head hurts
+date: 2006-09-02 04:38:14
+categories: software
 layout: post
 comments: true
 ---

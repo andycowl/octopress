@@ -1,7 +1,6 @@
 ---
 date: 2006-03-08 03:51:25
-categories:
-    - uncategorised
+categories: tv
 title: probably the funniest TV show ever
 layout: post
 comments: true

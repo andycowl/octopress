@@ -1,11 +1,9 @@
 ---
 date: 2008-05-29 00:38:22
-categories:
-    - music
-    - uk
 title: The Chameleons - Splitting in Two
 layout: post
 comments: true
+categories: music
 ---
 The Chameleons used to cover ATV's 'Splitting in Two' for an encore. Reg
 (guitar) played the drums and John (drums) played bass. Mark Burgess

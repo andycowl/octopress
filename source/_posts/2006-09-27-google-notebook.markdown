@@ -1,7 +1,6 @@
 ---
 date: 2006-09-27 07:01:23
-categories:
-    - uncategorised
+categories: software
 title: Google Notebook
 layout: post
 comments: true

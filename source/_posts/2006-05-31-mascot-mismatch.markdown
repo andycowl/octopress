@@ -1,8 +1,7 @@
 ---
-date: 2006-05-31 22:23:30
-categories:
-    - uncategorised
 title: mascot mismatch
+date: 2006-05-31 22:23:30
+categories: football
 layout: post
 comments: true
 ---

@@ -3,8 +3,7 @@ title: comeback kid
 layout: post
 comments: true
 date: 2006-08-24 23:47:57
-categories:
-    - football
+categories: football
 ---
 I honestly didn't think I would see this Ole Gunnar
 [Solskjaer](http://en.wikipedia.org/wiki/Ole_Gunnar_Solskjaer) wear a

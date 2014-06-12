@@ -1,10 +1,9 @@
 ---
 date: 2010-07-16 09:54:00
-categories:
-    - uk
 title: complaint to Ofcom
 layout: post
 comments: true
+categories: uk
 ---
 Last night, Sky News played audio footage of Raoul Moat's last moments.
 This included detailed analysis of the sounds by an expert of the three

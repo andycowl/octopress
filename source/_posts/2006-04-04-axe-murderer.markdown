@@ -1,13 +1,9 @@
 ---
 date: 2006-04-04 20:24:11
-categories:
-    - oracle
-    - humour
-    - siebel
-    - unix
 title: axe murderer
 layout: post
 comments: true
+categories: oracle
 ---
 A couple of years ago, I was working in Amsterdam (near Holland) chasing
 world records for loading lots of data into a Siebel database.

@@ -1,8 +1,7 @@
 ---
-date: 2006-07-20 03:11:59
-categories:
-    - uncategorised
 title: what's in a name ?
+date: 2006-07-20 03:11:59
+categories: IT
 layout: post
 comments: true
 ---

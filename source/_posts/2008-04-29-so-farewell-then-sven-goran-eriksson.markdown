@@ -1,10 +1,9 @@
 ---
 date: 2008-04-29 22:30:23
-categories:
-    - uncategorised
 title: so farewell then, Sven Goran Eriksson
 layout: post
 comments: true
+categories: football
 ---
 I have to say I am a little surprised at this breaking
 [news](http://news.bbc.co.uk/sport1/hi/football/teams/m/man_city/7372872.stm).

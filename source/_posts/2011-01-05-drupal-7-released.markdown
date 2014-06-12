@@ -1,8 +1,6 @@
 ---
 date: 2011-01-05 16:05:00
-categories:
-    - drupal
-    - blogging
+categories: blogging
 title: Drupal 7 released
 layout: post
 comments: true

@@ -1,12 +1,9 @@
 ---
 date: 2010-09-08 10:24:00
-categories:
-    - uk
-    - travel
-    - humour
 title: drowning man
 layout: post
 comments: true
+categories: travel
 ---
 The Brightside family holiday in Spain was a very relaxing affair. For a
 period of 10 days, I didn't watch a television, read a newspaper, stare

@@ -1,8 +1,7 @@
 ---
-date: 2006-08-26 23:16:04
-categories:
-    - uncategorised
 title: Your papers, please !
+date: 2006-08-26 23:16:04
+categories: uk
 layout: post
 comments: true
 ---

@@ -3,8 +3,7 @@ date: 2005-12-14 22:29:43
 title: British Airways - making travel easier
 layout: post
 comments: true
-categories:
-    - travel
+categories: travel
 ---
 Once upon a time, I flew back from Lausanne in Switzerland to London.
 Although the skies were clear, there had been heavy thunderstoms earlier

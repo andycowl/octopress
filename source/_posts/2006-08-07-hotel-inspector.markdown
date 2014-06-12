@@ -1,10 +1,9 @@
 ---
 date: 2006-08-07 21:46:27
-categories:
-    - uk
 title: Hotel Inspector
 layout: post
 comments: true
+categories: uk
 ---
 The scheduling goddess has granted me a second successive week in
 [Birmingham](http://www.nbrightside.com/blog/2006/07/31/wheels-on-fire/);

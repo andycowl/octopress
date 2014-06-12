@@ -1,10 +1,9 @@
 ---
 date: 2009-09-24 13:12:34
-categories:
-    - uncategorised
 title: trainspotting
 layout: post
 comments: true
+categories: uk
 ---
 This morning I commuted, Reggie Perrin style, from my leafy suburb into
 the heart of London by train. Nothing too unusual about that.

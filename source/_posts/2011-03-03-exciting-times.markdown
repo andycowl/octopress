@@ -1,10 +1,9 @@
 ---
 date: 2011-03-03 10:07:00
-categories:
-    - uk
 title: exciting times
 layout: post
 comments: true
+categories: uk
 ---
 These are indeed exciting times in the Brightside household:
 

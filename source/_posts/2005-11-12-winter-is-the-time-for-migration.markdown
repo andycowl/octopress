@@ -3,7 +3,7 @@ title: Winter is the time for migration
 layout: post
 comments: true
 date: 2005-11-12 03:22:04
-categories: [blogging, wordpress]
+categories: blogging
 ---
 I was investigating the bewildering world of trackbacks, pingbacks and
 blog comments and found that my existing provider, blogger.com,

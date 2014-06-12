@@ -1,7 +1,6 @@
 ---
 date: 2006-07-07 15:36:09
-categories:
-    - uncategorised
+categories: travel
 title: Discovery launch
 layout: post
 comments: true

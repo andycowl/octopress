@@ -3,9 +3,7 @@ title: another RSS reader for consideration
 date: 2005-12-16 23:29:09
 layout: post
 comments: true
-categories:
-    - software
-    - rss
+categories: software
 ---
 I am using the Newsgator Online RSS reader and simply want to order my
 most important, must-read blogs (i.e mine) at the top. It doesn't seem

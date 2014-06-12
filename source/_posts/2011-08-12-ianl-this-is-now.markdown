@@ -3,8 +3,7 @@ title: I Am Not Left Handed - This Is Now
 layout: post
 comments: true
 date: 2011-08-12 12:20:27
-categories:
-    - music
+categories: music
 ---
 This is part 2 of an interview with Kathryn and Daniel from 'I Am Not
 Left Handed'. The first part 'That Was Then' is available

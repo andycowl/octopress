@@ -1,10 +1,9 @@
 ---
 date: 2008-12-02 12:16:17
-categories:
-    - blogging
 title: why Reddit is useless for bloggers
 layout: post
 comments: true
+categories: blogging
 ---
 Yesterday was 1 December and an innocuous post on identi.ca about an
 Advent calendar immediately reminded me of an amusing (and completely
@@ -51,16 +50,16 @@ StumbleUpon). However, although the increase in traffic is interesting
 and briefly satisfying, it is really not that useful for a blogger
 because:
 
--   Reddit generated visitors are almost always 'one-hit wonders'. They
-    visit one page and immediately leave.
--   Reddit generated visitors are unlikely to linger on the site and
-    explore other content.
--   Reddit generated visitors are unlikely to comment and resurrect
-    conversation over a two year old post.
--   Reddit generated visitors are unlikely to subscribe to your blog.
--   Reddit generated visitors are all new visitors to your blog.
-    Consequently, they don't understand the context, the author, the
-    history, the sense of humour or the writing style.
+- Reddit generated visitors are almost always 'one-hit wonders'. They
+  visit one page and immediately leave.
+- Reddit generated visitors are unlikely to linger on the site and
+  explore other content.
+- Reddit generated visitors are unlikely to comment and resurrect
+  conversation over a two year old post.
+- Reddit generated visitors are unlikely to subscribe to your blog.
+- Reddit generated visitors are all new visitors to your blog.
+  Consequently, they don't understand the context, the author, the
+  history, the sense of humour or the writing style.
 
 As a brilliant example of the last point, a solitary comment was left on
 the blog post by a Reddit visitor. The comment was so superlative, so

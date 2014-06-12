@@ -1,10 +1,9 @@
 ---
 date: 2005-11-25 20:14:26
-categories:
-    - football
 title: so farewell then, George Best
 layout: post
 comments: true
+categories: football
 ---
 Not a brilliant week if you are a United fan...
 

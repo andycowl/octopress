@@ -3,8 +3,7 @@ title: change of scene
 layout: post
 comments: true
 date: 2005-10-12 00:12:15
-categories:
-    - blogging
+categories: blogging
 ---
 Creating this blog was an experiment and, somewhat to my surprise, I
 quite like the concept. So I have decided to host my blog on my Web

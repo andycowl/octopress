@@ -1,10 +1,9 @@
 ---
 date: 2010-07-08 09:58:00
-categories:
-    - uk
 title: lockdown in Rothbury
 layout: post
 comments: true
+categories: uk
 ---
 A tragic [story][] is unfolding in the North of England with a gunman on
 the run after killing one person and seriously injuring two more (his
@@ -34,4 +33,4 @@ more.
 ‘Norma, love - you couldn't just pop out and get some milk, could you ?
 Thanks.'
 
-  [story]: http://news.bbc.co.uk/1/hi/england/tyne/10549296.stm
+[story]: http://news.bbc.co.uk/1/hi/england/tyne/10549296.stm

@@ -1,10 +1,9 @@
 ---
 date: 2006-12-14 21:35:13
-categories:
-    - uncategorised
 title: Scottish women rejoice
 layout: post
 comments: true
+categories: uk
 ---
 'Oh aye Janice, listen. When my Dougie gave up smoking, the
 transformation was miraculous. He seemed like a new man. It was

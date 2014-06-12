@@ -1,10 +1,9 @@
 ---
 date: 2006-10-30 21:56:28
-categories:
-    - uncategorised
 title: the only search engine in town
 layout: post
 comments: true
+categories: google
 ---
 John [Chow](http://www.johnchow.com/) notes the vast
 [majority](http://www.johnchow.com/yahoo-msn-who-the-hell-are-they/) of

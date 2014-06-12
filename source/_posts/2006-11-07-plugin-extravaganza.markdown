@@ -1,10 +1,9 @@
 ---
 date: 2006-11-07 00:22:10
-categories:
-    - blogging
 title: plugin extravaganza
 layout: post
 comments: true
+categories: blogging
 ---
 The observant reader will have noticed some minor changes to the
 sidebar. The thousands of one hit wonders from Google won't.

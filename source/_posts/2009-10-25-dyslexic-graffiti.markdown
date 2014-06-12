@@ -1,10 +1,9 @@
 ---
 date: 2009-10-25 16:53:06
-categories:
-    - uncategorised
 title: dyslexic graffiti
 layout: post
 comments: true
+categories: uk
 ---
 Driving along the M25, my son noticed some large graffiti on a bridge
 

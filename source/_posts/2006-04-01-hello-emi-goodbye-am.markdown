@@ -1,8 +1,7 @@
 ---
-date: 2006-04-01 04:44:41
-categories:
-    - uncategorised
 title: Hello EMI, Goodbye A&M
+date: 2006-04-01 04:44:41
+categories: travel
 layout: post
 comments: true
 ---

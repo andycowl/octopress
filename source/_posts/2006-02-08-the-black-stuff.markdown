@@ -1,8 +1,7 @@
 ---
-date: 2006-02-08 16:39:01
-categories:
-    - uncategorised
 title: the black stuff
+date: 2006-02-08 16:39:01
+categories: uk
 layout: post
 comments: true
 ---

@@ -1,8 +1,7 @@
 ---
-date: 2006-08-04 22:49:50
-categories:
-    - uncategorised
 title: minimalism begins in Nepal
+date: 2006-08-04 22:49:50
+categories: wordpress
 layout: post
 comments: true
 ---

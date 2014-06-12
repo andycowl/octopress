@@ -1,8 +1,7 @@
 ---
-date: 2006-08-08 03:06:59
-categories:
-    - uncategorised
 title: AOL search data released
+date: 2006-08-08 03:06:59
+categories: blogging
 layout: post
 comments: true
 ---
@@ -58,7 +57,8 @@ search data.
 And finally, if you don't want to risk imprisonment, death or a call
 from the NSA, here is that earth shattering search data published in
 full.
+
 > 65.214.44.29 - - [07/Aug/2006:01:20:17 +0100] "GET /blog/ HTTP/1.1"
-> 304 106 "Why didn't United buy Own Hargreaves" "Mozilla/5.0" \
->  72.30.98.202 - - [07/Aug/2006:01:21:57 +0100] "GET /blog/ HTTP/1.1"
+> 304 106 "Why didn't United buy Own Hargreaves" "Mozilla/5.0"  
+> 72.30.98.202 - - [07/Aug/2006:01:21:57 +0100] "GET /blog/ HTTP/1.1"
 > 304 106 "Who is Norman Brightside" "Opera 9.0 Beta 2"

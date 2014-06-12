@@ -1,10 +1,9 @@
 ---
 title: a big surprise
+date: 2006-05-16 19:48:44
 layout: post
 comments: true
-date: 2006-05-16 19:48:44
-categories:
-    - uncategorised
+categories: uk
 ---
 BBC News 24 mistakenly
 [interviewed](http://news.bbc.co.uk/2/hi/entertainment/4774429.stm)

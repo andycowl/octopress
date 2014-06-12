@@ -1,7 +1,7 @@
 ---
 layout: post
-title: "Arundel House Hotel"
-date: 2013-09-04 12:08
+title: Arundel House Hotel
+date: 2013-09-04 12:08:29
 comments: true
 categories: uk
 ---

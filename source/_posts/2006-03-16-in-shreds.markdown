@@ -1,8 +1,7 @@
 ---
-date: 2006-03-16 21:53:41
-categories:
-    - uncategorised
 title: In Shreds
+date: 2006-03-16 21:53:41
+categories: software
 layout: post
 comments: true
 ---

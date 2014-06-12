@@ -3,8 +3,7 @@ date: 2005-11-06 19:17:47
 title: How to write for your blog
 layout: post
 comments: true
-categories:
-    - blogging
+categories: blogging
 ---
 Take some time to think of ideas and develop content for the blog. I
 tend to jot down lots of different ideas for possible brilliant,

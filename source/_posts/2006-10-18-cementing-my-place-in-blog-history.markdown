@@ -1,10 +1,9 @@
 ---
 date: 2006-10-18 05:09:37
-categories:
-    - uncategorised
 title: cementing my place in blog history
 layout: post
 comments: true
+categories: uk
 ---
 There is nothing worse than a blog entry titled 'Dear Diary' - hence
 the title - but this is my humble submission for '

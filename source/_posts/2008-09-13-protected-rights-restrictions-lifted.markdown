@@ -1,10 +1,9 @@
 ---
 date: 2008-09-13 15:55:57
-categories:
-    - uk
 title: protected rights restrictions lifted
 layout: post
 comments: true
+categories: uk
 ---
 I have written before about the
 [consolidation](http://www.nbrightside.com/blog/2005/11/21/my-personal-pensions-crisis/)

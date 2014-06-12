@@ -1,11 +1,9 @@
 ---
 date: 2011-01-13 20:49:00
-categories:
-    - uk
-    - humour
 title: open letter to South West trains
 layout: post
 comments: true
+categories: uk
 ---
 Dear Fat Controller
 

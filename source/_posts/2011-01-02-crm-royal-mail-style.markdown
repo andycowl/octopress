@@ -3,9 +3,7 @@ title: CRM - Royal Mail style
 layout: post
 comments: true
 date: 2011-01-02 16:22:00
-categories:
-    - crm
-    - uk
+categories: crm
 ---
 Before Christmas, my friendly postman tried to deliver a parcel when
 no-one was home. Instead of leaving the parcel propped up by the front

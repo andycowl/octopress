@@ -1,12 +1,9 @@
 ---
 date: 2008-02-15 18:14:38
-categories:
-    - wordpress
-    - blogging
-    - habari
 title: WordPress 2.5 dashboard
 layout: post
 comments: true
+categories: blogging
 ---
 The forthcoming release of WordPress 2.5 was one reason I was hesitant
 to move to Habari.

@@ -1,11 +1,9 @@
 ---
 layout: post
 title: 25 reasons you should use Disqus
-date: 2008-04-09 14:16
+date: 2008-04-09 14:16:05
 comments: true
-categories:
-    - software
-    - blogging
+categories: blogging
 ---
 1.  Disqus lets you easily track all comments you have left scattered
     over the blogosphere.

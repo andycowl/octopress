@@ -3,9 +3,7 @@ title: the one where I raped a man
 layout: post
 comments: true
 date: 2010-06-08 14:13:25
-categories:
-    - uk
-    - travel
+categories: uk
 ---
 Accidentally.
 

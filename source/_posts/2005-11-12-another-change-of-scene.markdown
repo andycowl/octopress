@@ -3,9 +3,7 @@ title: another change of scene
 layout: post
 comments: true
 date: 2005-11-12 02:15:53
-categories:
-    - blogging
-    - wordpress
+categories: blogging
 ---
 Dear Reader
 

@@ -1,8 +1,7 @@
 ---
-date: 2006-05-22 21:13:52
-categories:
-    - uncategorised
 title: word of caution
+date: 2006-05-22 21:13:52
+categories: IT
 layout: post
 comments: true
 ---

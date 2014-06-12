@@ -1,10 +1,9 @@
 ---
 date: 2006-01-20 03:58:37
-categories:
-    - wordpress
 title: life is so unfair
 layout: post
 comments: true
+categories: wordpress
 ---
 You spend 3 months watching your WordPress statistics bumbling along the
 horizontal axis close to zero.

@@ -1,8 +1,7 @@
 ---
-date: 2006-03-08 04:58:31
-categories:
-    - uncategorised
 title: from hero to zero
+date: 2006-03-08 04:58:31
+categories: football
 layout: post
 comments: true
 ---

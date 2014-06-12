@@ -1,11 +1,9 @@
 ---
 date: 2010-09-06 12:09:00
-categories:
-    - travel
-    - humour
-title: lost-in translation
+title: lost in translation
 layout: post
 comments: true
+categories: travel
 ---
 I don't know if al the clever Spanish people who study English leave the
 country or whether translators aren't very well paid in Spain but here's
@@ -29,4 +27,4 @@ I am ashamed to say I could only last 2 minutes and 43 seconds before
 spontaneously and rapidly pulsating. The car park attendant looked at me
 a little strangely.
 
-  [Finbarr Saunders]: http://en.wikipedia.org/wiki/Finbarr_Saunders
+[Finbarr Saunders]: http://en.wikipedia.org/wiki/Finbarr_Saunders

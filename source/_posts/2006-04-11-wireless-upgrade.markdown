@@ -1,8 +1,7 @@
 ---
-date: 2006-04-11 17:27:17
-categories:
-    - uncategorised
 title: wireless upgrade
+date: 2006-04-11 17:27:17
+categories: software
 layout: post
 comments: true
 ---
@@ -73,5 +72,5 @@ limit connections to 802.11G only.
 
 Everyone is reconnected, connectivity is much improved and very stable
 with no drop outs thus far. Service to the
-[InterWeb](http://www.nbrightside.com/blog/2006/03/28/simple-things/) is
-restored !
+[InterWeb](http://www.nbrightside.com/blog/2006/03/28/simple-things/)
+is restored !

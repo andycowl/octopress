@@ -1,10 +1,9 @@
 ---
 date: 2010-10-19 12:27:00
-categories:
-    - uk
 title: cyber terrorism is the new terrorism
 layout: post
 comments: true
+categories: uk
 ---
 ~~Bullshit. More Government lies designed to…~~
 

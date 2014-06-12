@@ -1,8 +1,7 @@
 ---
-date: 2006-03-19 18:45:18
-categories:
-    - uncategorised
 title: by Royal appointment
+date: 2006-03-19 18:45:18
+categories: uk
 layout: post
 comments: true
 ---

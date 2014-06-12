@@ -1,8 +1,7 @@
 ---
-date: 2006-09-04 13:48:28
-categories:
-    - uncategorised
 title: so farewell then
+date: 2006-09-04 13:48:28
+categories: uk
 layout: post
 comments: true
 ---

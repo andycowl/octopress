@@ -1,10 +1,9 @@
 ---
 date: 2006-01-20 05:42:23
-categories:
-    - tv
 title: recursive financial advice from the BBC
 layout: post
 comments: true
+categories: tv
 ---
 The BBC have a program called 'Pay off your mortgage in 2 years'.
 Tonight's episode featured a couple from

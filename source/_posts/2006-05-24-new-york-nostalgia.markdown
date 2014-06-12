@@ -1,8 +1,7 @@
 ---
-date: 2006-05-24 04:51:03
-categories:
-    - uncategorised
 title: New York nostalgia
+date: 2006-05-24 04:51:03
+categories: IT
 layout: post
 comments: true
 ---

@@ -1,10 +1,9 @@
 ---
 date: 2009-08-25 08:33:58
-categories:
-    - uncategorised
 title: celebrities on Twitter
 layout: post
 comments: true
+categories: blogging
 ---
 > 'Anyone suffering from the desire to communicate what they are doing
 > or thinking every minute of the day in fewer than 140 characters is

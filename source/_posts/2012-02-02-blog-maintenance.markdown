@@ -3,9 +3,7 @@ layout: post
 title: blog maintenance
 date: 2012-02-02 09:39:00
 comments: true
-categories:
-    - blogging
-    - drupal
+categories: blogging
 ---
 Time to upgrade Drupal again. Yesterday version
 [7.12](http://drupal.org/drupal-7.12) was released and this blog is

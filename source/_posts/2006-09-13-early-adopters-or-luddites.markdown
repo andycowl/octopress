@@ -1,7 +1,6 @@
 ---
 date: 2006-09-13 21:00:21
-categories:
-    - uncategorised
+categories: blogging
 title: early adopters or Luddites ?
 layout: post
 comments: true

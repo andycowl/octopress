@@ -1,8 +1,7 @@
 ---
-date: 2006-02-02 04:32:50
-categories:
-    - uncategorised
 title: so farewell then, Palm Vx
+date: 2006-02-02 04:32:50
+categories: IT
 layout: post
 comments: true
 ---

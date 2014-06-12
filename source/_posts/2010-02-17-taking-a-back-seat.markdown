@@ -1,10 +1,9 @@
 ---
 date: 2010-02-17 15:01:24
-categories:
-    - uncategorised
 title: taking a back seat
 layout: post
 comments: true
+categories: blogging
 ---
 Rich Manalang is taking a
 [back seat](http://theappslab.com/2010/02/16/my-anti-social-experiment/)

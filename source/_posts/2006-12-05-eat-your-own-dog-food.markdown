@@ -1,10 +1,9 @@
 ---
 date: 2006-12-05 03:03:04
-categories:
-    - uncategorised
 title: eat your own dog food
 layout: post
 comments: true
+categories: uk
 ---
 I bought my children an advent calendar each to initiate the Christmas
 celebrations (and shut them up).

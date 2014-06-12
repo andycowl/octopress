@@ -1,10 +1,9 @@
 ---
 date: 2010-02-17 17:04:16
-categories:
-    - uncategorised
 title: open door policy
 layout: post
 comments: true
+categories: uk
 ---
 'Who's there ?'
 

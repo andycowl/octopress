@@ -1,12 +1,9 @@
 ---
 date: 2008-03-31 02:13:02
-categories:
-    - uk
-    - blogging
-    - humour
 title: blogging bankruptcy
 layout: post
 comments: true
+categories: blogging
 ---
 It's no good. I simply can't go on. I can no longer summon up the
 enthusiasm for blogging.

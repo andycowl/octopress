@@ -3,9 +3,7 @@ title: why Arsenal lost the Carling Cup
 layout: post
 comments: true
 date: 2011-03-01 11:42:00
-categories:
-    - uk
-    - football
+categories: football
 ---
 When I heard that Arsenal were busy making plans for their injured and
 oh so inspirational captain, Cesc Fabregas, to hoist the trophy aloft

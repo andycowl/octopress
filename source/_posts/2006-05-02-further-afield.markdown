@@ -1,8 +1,7 @@
 ---
-date: 2006-05-02 23:24:56
-categories:
-    - uncategorised
 title: further afield
+date: 2006-05-02 23:24:56
+categories: oracle
 layout: post
 comments: true
 ---

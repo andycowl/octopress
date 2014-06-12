@@ -1,8 +1,7 @@
 ---
-date: 2006-06-19 23:16:20
-categories:
-    - uncategorised
 title: born of frustration
+date: 2006-06-19 20:16:20
+categories: IT
 layout: post
 comments: true
 ---

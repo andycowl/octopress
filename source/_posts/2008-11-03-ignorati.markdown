@@ -1,7 +1,6 @@
 ---
 date: 2008-11-03 11:26:35
-categories:
-    - uncategorised
+categories: uk
 title: ignorati
 layout: post
 comments: true
@@ -12,10 +11,10 @@ listen to music or podcasts during the half hour commute into Waterloo.
 Whenever I buy a ticket at the station, I always pause the music and
 remove my earphones. This is for two reasons:
 
-1.  I need to be able to communicate with the person to purchase my
-    ticket.
-2.  People behind me in the queue may not want to hear 'Serve the
-    Servants' by Nirvana.
+1. I need to be able to communicate with the person to purchase my
+   ticket.
+2. People behind me in the queue may not want to hear 'Serve the
+   Servants' by Nirvana.
 
 Last Monday morning, I joined a short queue to buy my Travelcard and
 removed my earphones as usual.
@@ -24,8 +23,10 @@ The lady immediately in front of me was talking on a mobile phone and
 moved forward to the ticket booth. Much to my surprise, she continued
 her obviously unimportant conversation with a friend while conducting
 the entire transaction.
+
 > 'Yeah so then we went on to the Slug - weekly Travelcard, zones 1-5 -
 > No, no, he wasn't there - he was drinking in Putney with his mates...'
+>
 > '&pound;41.40 please.'
 >
 > '...but we met them later - Sorry - what did you say - someone just

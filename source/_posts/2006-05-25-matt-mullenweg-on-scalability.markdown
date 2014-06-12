@@ -1,7 +1,6 @@
 ---
 date: 2006-05-25 22:48:05
-categories:
-    - uncategorised
+categories: wordpress
 title: Matt Mullenweg on scalability
 layout: post
 comments: true

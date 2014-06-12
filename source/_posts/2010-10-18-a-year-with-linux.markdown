@@ -1,10 +1,9 @@
 ---
 date: 2010-10-18 14:04:00
-categories:
-    - linux
 title: a year with Linux
 layout: post
 comments: true
+categories: linux
 ---
 Last week saw the first anniversary of my [adoption][] of Linux on my
 desktop PC so I thought I'd write a quick summary of how things went in
@@ -118,11 +117,11 @@ up-to-date software available in the repositories. Fedora also appears
 to be gaining in popularity so I may well upgrade the desktop PC to the
 imminent release of [Fedora 14][].
 
-  [Linux Mint Debian]: http://www.linuxmint.com/blog/?p=1527
-  [announced]: http://www.linuxmint.com/blog/?p=1554
-  [Linux Mint 10]: http://www.linuxmint.com/rel_julia_whatsnew.php
-  [Fedora 14]: http://fedoraproject.org/get-prerelease
-  [DropBox]: http://www.dropbox.com/
-  [Xmarks]: https://addons.mozilla.org/en-US/firefox/addon/2410/
-  [closing]: http://blog.xmarks.com/?p=1886
-  [Firefox Sync]: https://addons.mozilla.org/en-US/firefox/addon/10868/
+[Linux Mint Debian]: http://www.linuxmint.com/blog/?p=1527
+[announced]: http://www.linuxmint.com/blog/?p=1554
+[Linux Mint 10]: http://www.linuxmint.com/rel_julia_whatsnew.php
+[Fedora 14]: http://fedoraproject.org/get-prerelease
+[DropBox]: http://www.dropbox.com/
+[Xmarks]: https://addons.mozilla.org/en-US/firefox/addon/2410/
+[closing]: http://blog.xmarks.com/?p=1886
+[Firefox Sync]: https://addons.mozilla.org/en-US/firefox/addon/10868/

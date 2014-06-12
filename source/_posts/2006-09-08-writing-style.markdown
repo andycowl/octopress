@@ -1,8 +1,7 @@
 ---
-date: 2006-09-08 22:21:59
-categories:
-    - uncategorised
 title: writing style
+date: 2006-09-08 22:21:59
+categories: blogging
 layout: post
 comments: true
 ---

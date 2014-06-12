@@ -1,10 +1,9 @@
 ---
 date: 2008-08-26 11:01:17
-categories:
-    - uncategorised
 title: London calling
 layout: post
 comments: true
+categories: uk
 ---
 So now the whole world knows what living in
 [London](http://news.bbc.co.uk/sport2/hi/olympics/london_2012/7577999.stm)

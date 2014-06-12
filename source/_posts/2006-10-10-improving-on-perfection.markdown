@@ -1,10 +1,9 @@
 ---
 date: 2006-10-10 04:17:59
-categories:
-    - wordpress
 title: improving on perfection
 layout: post
 comments: true
+categories: wordpress
 ---
 The [Barthelme](http://www.plaintxt.org/themes/barthelme/) theme for
 [WordPress](http://wordpress.org/) is close to absolute perfection.

@@ -1,10 +1,9 @@
 ---
 date: 2009-08-21 16:17:02
-categories:
-    - uncategorised
 title: strategies for making friends on social networks
 layout: post
 comments: true
+categories: blogging
 ---
 Early Jurassic - Mum takes you to playgroup, kicking and screaming and
 your friends are forced upon you. Free milk at 11 am.
@@ -46,28 +45,28 @@ celebrities.
 
 Web 3.0 RC3 - Finally it dawns on you.
 
--   People on Posterous mainly like talking about Posterous
--   People on FriendFeed mainly like singing the praises of FriendFeed.
--   People on Twitter mainly like talking about Twitter. Repeat ad
-    infinitum.
--   People on identi.ca love identi.ca and open source and
-    [despise](http://andyc.posterous.com/the-single-worst-thing-about-identica)
-    the evil borg.
--   People in UK tend to have more friends in the UK
--   You are on first names terms with the developers of Disqus and they
-    fix stuff - just for you.
--   If you're a keen photographer, try Flickr.
--   If you like football, seek out people who like football.
--   If someone Like's a post/tweet you wrote, it's possible (but not
-    certain) you will like their outputs.
--   If someone lives on your road, it doesn't mean they're your friend.
-    There's a good reason you haven't had your neighbours round for
-    coffee since last Christmas.
--   If people actively dislike your output, it is less likely they will
-    be a good friend.
--   If people say 'Great, interesting, thought provoking post', it's
-    likely they are trying to sell you a 'Penis Enlargement Kit' (or
-    worse).
+- People on Posterous mainly like talking about Posterous
+- People on FriendFeed mainly like singing the praises of FriendFeed.
+- People on Twitter mainly like talking about Twitter. Repeat ad
+  infinitum.
+- People on identi.ca love identi.ca and open source and
+  [despise](http://andyc.posterous.com/the-single-worst-thing-about-identica)
+  the evil borg.
+- People in UK tend to have more friends in the UK
+- You are on first names terms with the developers of Disqus and they
+  fix stuff - just for you.
+- If you're a keen photographer, try Flickr.
+-  If you like football, seek out people who like football.
+-  If someone Like's a post/tweet you wrote, it's possible (but not
+   certain) you will like their outputs.
+-  If someone lives on your road, it doesn't mean they're your friend.
+   There's a good reason you haven't had your neighbours round for
+   coffee since last Christmas.
+-  If people actively dislike your output, it is less likely they will
+   be a good friend.
+-  If people say 'Great, interesting, thought provoking post', it's
+   likely they are trying to sell you a 'Penis Enlargement Kit' (or
+   worse).
 
 Web 4.0 - The end of the world. Social Networking dies and we all
 adjourn to the pub (again) and play board games.

@@ -1,8 +1,7 @@
 ---
-date: 2006-07-18 05:39:47
-categories:
-    - uncategorised
 title: out of sight
+date: 2006-07-18 05:39:47
+categories: uk
 layout: post
 comments: true
 ---

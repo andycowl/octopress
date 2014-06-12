@@ -1,10 +1,9 @@
 ---
 date: 2009-03-05 13:12:54
-categories:
-    - sport
 title: sports bars of Europe
 layout: post
 comments: true
+categories: sport
 ---
 The latest update in this occasional and very
 [popular](http://www.nbrightside.com/blog/2006/01/13/sports-bars-of-europe/)

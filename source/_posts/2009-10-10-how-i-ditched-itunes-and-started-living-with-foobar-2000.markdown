@@ -1,11 +1,9 @@
 ---
 date: 2009-10-10 14:58:42
-categories:
-    - music
-    - software
 title: how I ditched iTunes and started living with Foobar 2000
 layout: post
 comments: true
+categories: software
 ---
 [Obligatory hat tip to
 '[How to stop defragmenting and start living](http://www.oracle.com/technology/deploy/availability/pdf/defrag.pdf)'.
@@ -15,13 +13,13 @@ please do so. Now.]
 I have used various devices and software over my 76 years on this planet
 to listen to music:
 
--   Record player
--   Cassette player
--   Transistor radio
--   Ears
--   WinAmp
--   [SonicStage](http://www.nbrightside.com/blog/2006/05/02/sonicstage-34-released/)
--   Windows Media Player
+- Record player
+- Cassette player
+- Transistor radio
+- Ears
+- WinAmp
+- [SonicStage](http://www.nbrightside.com/blog/2006/05/02/sonicstage-34-released/)
+- Windows Media Player
 
 18 months ago, I finally caved in and bought an iTouch which I use a
 lot; mainly for listening to music and 
@@ -38,12 +36,12 @@ synchronised my music, photos and applications to the iTouch.
 Over the last 18 months, Apple proceeded to add more and more 'features'
 to iTunes which I don't want or need:
 
--   Tighter integration with the iTunes store
--   Genius - some sort of recommendation engine closely linked to the
-    above
--   Jukebox
--   A default assumption that I also wanted to install additional
-    software packages: QuickTime, Safari and Mobile Me.
+- Tighter integration with the iTunes store
+- Genius - some sort of recommendation engine closely linked to the
+  above
+- Jukebox
+- A default assumption that I also wanted to install additional
+  software packages: QuickTime, Safari and Mobile Me.
 
 When Apple recently released iTunes 9, I suddenly realised I was
 downloading 98.4MB - just to play music.
@@ -135,11 +133,11 @@ during the sync to the iTouch.
 
 Another couple of useful extensions for Foobar:
 
--   [Audioscrobbler](http://www.foobar2000.org/components/view/foo_audioscrobbler)
-    - to upload my played songs (including those on iTouch) to
-    [last.fm](http://www.last.fm/user/andycowl)
--   [Playback statistics](http://www.foobar2000.org/components/view/foo_playcount)
-    - generates 'Recently Played' playlist.
+- [Audioscrobbler](http://www.foobar2000.org/components/view/foo_audioscrobbler)
+  - to upload my played songs (including those on iTouch) to
+  [last.fm](http://www.last.fm/user/andycowl)
+- [Playback statistics](http://www.foobar2000.org/components/view/foo_playcount)
+  - generates 'Recently Played' playlist.
 
 Although I am now blissfully almost iTunes free, I still need to use
 iTunes to update the software on the iTouch but I am delighted to say

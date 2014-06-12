@@ -1,8 +1,7 @@
 ---
-date: 2006-01-27 18:04:46
-categories:
-    - uncategorised
 title: stop it, stop it, stop it
+date: 2006-01-27 18:04:46
+categories: software
 layout: post
 comments: true
 ---

@@ -1,8 +1,7 @@
 ---
-date: 2006-04-19 03:00:42
-categories:
-    - uncategorised
 title: book club
+date: 2006-04-19 03:00:42
+categories: uk
 layout: post
 comments: true
 ---

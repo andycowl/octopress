@@ -2,9 +2,8 @@
 title: two one-way tickets to Dublin, please
 layout: post
 comments: true
-date: 2007-01-14 18:57:31
-categories:
-    - uk
+date: 2007-01-18 18:57:31
+categories: uk
 ---
 Earlier this week, I flew to my favourite city - Dublin.
 
