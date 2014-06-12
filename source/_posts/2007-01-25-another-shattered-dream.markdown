@@ -1,10 +1,9 @@
 ---
 date: 2007-01-25 16:12:31
-categories:
-    - uncategorised
 title: another shattered dream
 layout: post
 comments: true
+categories: uk
 ---
 I was intrigued by the detailed infrastructure and sophisticated AI
 techniques powering the 'world-wide computer network' that was

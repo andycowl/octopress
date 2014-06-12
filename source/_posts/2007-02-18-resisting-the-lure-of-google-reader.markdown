@@ -1,10 +1,9 @@
 ---
 date: 2007-02-18 20:40:05
-categories:
-    - uncategorised
 title: resisting the lure of Google Reader
 layout: post
 comments: true
+categories: software
 ---
 I am a big fan of
 [Netvibes](http://www.nbrightside.com/blog/2006/05/25/good-vibes-from-netvibes/)

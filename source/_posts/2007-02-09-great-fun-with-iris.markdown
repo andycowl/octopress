@@ -1,10 +1,9 @@
 ---
 date: 2007-02-09 16:52:10
-categories:
-    - uncategorised
 title: great fun with Iris
 layout: post
 comments: true
+categories: uk
 ---
 Despite a scattering of snow in London that normally brings the country
 to a complete halt, my return flight from Copenhagen was on time and

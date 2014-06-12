@@ -1,7 +1,6 @@
 ---
 date: 2007-01-23 08:10:30
-categories:
-    - uncategorised
+categories: uncategorised
 title: America's answer to Jade Goody
 layout: post
 comments: true

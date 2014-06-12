@@ -1,10 +1,9 @@
 ---
 date: 2007-01-23 09:47:36
-categories:
-    - uncategorised
 title: my proudest moment
 layout: post
 comments: true
+categories: uk
 ---
 27 years ago, in an fruitless attempt to save money, my wife and I hired
 a function room above a pub to celebrate our joint 40th birthday. With a

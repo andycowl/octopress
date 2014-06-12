@@ -1,10 +1,9 @@
 ---
 date: 2007-01-10 16:52:44
-categories:
-    - uncategorised
 title: that's entertainment
 layout: post
 comments: true
+categories: uk
 ---
 Two paltry efforts by yours truly to brighten up everyone's morning in
 the Brightside household.

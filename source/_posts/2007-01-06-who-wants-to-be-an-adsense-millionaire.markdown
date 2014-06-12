@@ -1,10 +1,9 @@
 ---
 date: 2007-01-06 19:21:24
-categories:
-    - uncategorised
 title: who wants to be an Adsense millionaire ?
 layout: post
 comments: true
+categories: blogging
 ---
 Occasionally, I have been tempted to experiment with Google
 [Adsense](https://www.google.com/adsense/default?destination=/adsense/home)

@@ -1,7 +1,6 @@
 ---
 date: 2007-01-31 19:36:32
-categories:
-    - uncategorised
+categories: software
 title: WTF
 layout: post
 comments: true

@@ -1,10 +1,9 @@
 ---
 date: 2007-01-20 00:59:16
-categories:
-    - uncategorised
 title: thin line between truth and humour
 layout: post
 comments: true
+categories: blogging
 ---
 Occasionally, I used to wonder what people thought when they were
 subjected to some of the material on this blog.

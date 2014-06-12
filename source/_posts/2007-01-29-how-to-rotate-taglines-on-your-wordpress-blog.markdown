@@ -1,10 +1,9 @@
 ---
 date: 2007-01-29 20:42:57
-categories:
-    - wordpress
 title: how to rotate taglines on your WordPress blog
 layout: post
 comments: true
+categories: blogging
 ---
 Another thing on my todo list was to learn PHP and write a WordPress
 plugin to randomly select quotes stored in the database to rotate the
@@ -24,6 +23,7 @@ wait. Existing users have already identified this
 [modification](http://www.zombierobot.com/archives/optimizing-wp-quotes/)
 as efficiently fetching a single, random record. Horribly database
 specific of course but worth having when you have 2.4 million quotes.
+
     36c36
     < $sql = "select * from " . WP_QUOTES_TABLE . " where visible='yes'
     < order by rand() limit 1";

@@ -3,9 +3,7 @@ title: music for homesick people
 layout: post
 comments: true
 date: 2007-01-29 17:34:30
-categories:
-    - uk
-    - music
+categories: music
 ---
 Doug [Burns](http://oracledoug.com/serendipity/) has a new
 [job](http://oracledoug.com/serendipity/index.php?/archives/1168-A-Fresh-Start.html)

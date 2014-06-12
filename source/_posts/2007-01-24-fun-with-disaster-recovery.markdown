@@ -1,10 +1,9 @@
 ---
 date: 2007-01-24 00:58:04
-categories:
-    - uncategorised
 title: fun with disaster recovery
 layout: post
 comments: true
+categories: blogging
 ---
 Sort of.
 

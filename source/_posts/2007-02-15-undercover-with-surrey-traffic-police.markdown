@@ -1,10 +1,9 @@
 ---
 date: 2007-02-15 16:30:19
-categories:
-    - uncategorised
 title: undercover with Surrey Traffic Police
 layout: post
 comments: true
+categories: uk
 ---
 Yesterday afternoon at 16:09, in Surrey, a sales rep in a red Vauxhall
 Vectra shunted a plumber driving a white van on the middle lane of the

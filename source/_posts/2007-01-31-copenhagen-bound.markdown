@@ -1,10 +1,9 @@
 ---
 date: 2007-01-31 20:42:19
-categories:
-    - uncategorised
 title: Copenhagen bound
 layout: post
 comments: true
+categories: travel
 ---
 Next week, I am bound for the wonderful city of
 [Copenhagen](http://www.nbrightside.com/blog/2006/04/25/wonderful-wonderful-copenhagen/),

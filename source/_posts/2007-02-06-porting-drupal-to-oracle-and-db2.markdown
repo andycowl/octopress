@@ -1,10 +1,9 @@
 ---
 date: 2007-02-06 05:54:59
-categories:
-    - uncategorised
 title: porting Drupal to Oracle and DB2
 layout: post
 comments: true
+categories: software
 ---
 A couple of interesting papers discussing the portability issues and
 challenges involved when trying to port [Drupal](http://drupal.org/) to

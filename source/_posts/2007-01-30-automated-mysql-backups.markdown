@@ -1,10 +1,9 @@
 ---
 date: 2007-01-30 22:25:35
-categories:
-    - uncategorised
 title: automated MySQL backups
 layout: post
 comments: true
+categories: software
 ---
 After my recent brush with
 [disaster](http://www.nbrightside.com/blog/2007/01/24/fun-with-disaster-recovery/),

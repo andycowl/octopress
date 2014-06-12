@@ -1,10 +1,9 @@
 ---
 date: 2007-01-01 18:39:39
-categories:
-    - uncategorised
 title: New Year resolution
 layout: post
 comments: true
+categories: uncategorised
 ---
 I hereby pledge to carefully research every single customer I will be
 visiting. This means talking to the account manager, reviewing

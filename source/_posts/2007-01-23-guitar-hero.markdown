@@ -1,10 +1,9 @@
 ---
 date: 2007-01-23 08:19:35
-categories:
-    - uncategorised
 title: guitar hero
 layout: post
 comments: true
+categories: music
 ---
 Over Christmas, I was drying dishes, desperately trying to avoid
 conversation or being dragged into a impromptu board game. From

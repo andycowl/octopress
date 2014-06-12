@@ -1,7 +1,6 @@
 ---
 date: 2007-02-01 17:26:37
-categories:
-    - uncategorised
+categories: software
 title: bedroom antics with the wife
 layout: post
 comments: true

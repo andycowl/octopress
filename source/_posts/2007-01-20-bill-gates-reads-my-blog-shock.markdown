@@ -1,10 +1,9 @@
 ---
 date: 2007-01-20 00:58:22
-categories:
-    - uncategorised
 title: Bill Gates reads my blog shock !
 layout: post
 comments: true
+categories: software
 ---
 Great news. Bill Gates has heeded my
 [advice](http://www.nbrightside.com/blog/2005/11/09/e-commerce-at-microsoft-uk/)

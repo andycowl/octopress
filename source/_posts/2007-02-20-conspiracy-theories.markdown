@@ -1,10 +1,9 @@
 ---
 date: 2007-02-20 00:47:04
-categories:
-    - uncategorised
 title: conspiracy theories
 layout: post
 comments: true
+categories: uncategorised
 ---
 When I returned from evensong last night, after I had ironed five shirts
 and read a bedtime story to my loving (but strangely uncommunicative)
@@ -14,22 +13,22 @@ high quality Sunday night viewing.
 I don't know why but I have always had an interest in 'conspiracy
 theories'. When I was a lad, I was convinced that
 
--   Marilyn Monroe was killed by the Kennedy brothers.
--   Ashley Grimes was a undercover Manchester City spy.
--   JFK was assasinated by Norma Jeane Mortenson from the grassy knoll.
--   UFO's had landed at Roswell and probably deposited Ashley Grimes.
+- Marilyn Monroe was killed by the Kennedy brothers.
+- Ashley Grimes was a undercover Manchester City spy.
+- JFK was assasinated by Norma Jeane Mortenson from the grassy knoll.
+- UFO's had landed at Roswell and probably deposited Ashley Grimes.
 
 Of course, that was then. This is now. Back then I was a boy. Now I am a
 man (sort of). With the passing years, I have matured and changed my
 beliefs accordingly.
 
--   9/11 was instigated by the US government in order to invade
-    Afghanistan and Iraq.
--   Lady Diana (Princess Of Our Hearts) was assasinated by an Italian
-    Pizza chef, driving a white Fiat Punto on the orders of Prince
-    Phillip (The Greek).
--   Kurt Cobain's death was directly or indirectly arranged by Courtney
-    Love.
+- 9/11 was instigated by the US government in order to invade
+  Afghanistan and Iraq.
+- Lady Diana (Princess Of Our Hearts) was assasinated by an Italian
+  Pizza chef, driving a white Fiat Punto on the orders of Prince
+  Phillip (The Greek).
+- Kurt Cobain's death was directly or indirectly arranged by Courtney
+  Love.
 
 Imagine my horror, when last night's BBC
 [Conspiracy Files](http://news.bbc.co.uk/1/hi/programmes/conspiracy_files/6160775.stm)

@@ -1,10 +1,9 @@
 ---
 date: 2007-01-31 21:14:40
-categories:
-    - uncategorised
 title: Snap made me finally snap
 layout: post
 comments: true
+categories: software
 ---
 Thankfully, Scoble has finally found the
 '[Disable Snap](http://scobleizer.com/2007/01/30/i-removed-snaps-previews-from-here/)'

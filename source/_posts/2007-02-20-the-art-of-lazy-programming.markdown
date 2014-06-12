@@ -1,10 +1,9 @@
 ---
 date: 2007-02-20 15:44:48
-categories:
-    - uncategorised
 title: the art of lazy programming
 layout: post
 comments: true
+categories: software
 ---
 Throw away that Mavis Beacon touch typing CD.
 

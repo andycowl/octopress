@@ -1,10 +1,9 @@
 ---
 date: 2007-01-29 23:53:12
-categories:
-    - uncategorised
 title: aim for the stars
 layout: post
 comments: true
+categories: software
 ---
 Meet [Dan Morrison](http://www.ittoolbox.com/profiles/dan_morrison). His
 main aim in life is :-

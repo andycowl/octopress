@@ -1,10 +1,9 @@
 ---
 date: 2007-01-24 21:27:13
-categories:
-    - habari
 title: fun with Habari
 layout: post
 comments: true
+categories: blogging
 ---
 There's been a lot of
 [excitement](http://www.brokenkode.com/archives/habari/) and

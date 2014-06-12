@@ -1,10 +1,9 @@
 ---
 date: 2007-02-19 20:02:56
-categories:
-    - uncategorised
 title: am I a Google whore yet ?
 layout: post
 comments: true
+categories: software
 ---
 'OK. OK. I give in. Please stop hurting me, Brin. I now realise that
 resistance is futile.'

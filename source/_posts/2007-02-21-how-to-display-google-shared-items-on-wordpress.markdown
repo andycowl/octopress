@@ -1,10 +1,9 @@
 ---
 date: 2007-02-21 02:35:47
-categories:
-    - uncategorised
 title: how to display Google shared items on WordPress
 layout: post
 comments: true
+categories: software
 ---
 This [post](http://ocaoimh.ie/2007/02/20/writing-perl-the-vista-way/)
 put me in a quandry. I found the video very amusing so I was torn

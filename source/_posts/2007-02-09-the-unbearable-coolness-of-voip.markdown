@@ -1,10 +1,9 @@
 ---
 date: 2007-02-09 23:55:30
-categories:
-    - uncategorised
 title: the unbearable coolness of VOIP
 layout: post
 comments: true
+categories: software
 ---
 As part of my job, I often have the pleasure of walking around call
 centers where agents use headsets to enable them to interact with a

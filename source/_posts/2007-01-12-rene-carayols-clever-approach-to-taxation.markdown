@@ -1,11 +1,9 @@
 ---
+date: 2007-01-12 19:42:37
 title: Rene Carayol's clever approach to taxation
 layout: post
 comments: true
-date: 2007-01-12 19:42:37
-categories:
-    - uk
-    - tv
+categories: uk
 ---
 I also enjoyed last night's 
 '[Did they pay off their mortgage in two years ?](http://www.bbc.co.uk/pressoffice/proginfo/tv/wk2/unplaced.shtml#unplaced_mortgage)'

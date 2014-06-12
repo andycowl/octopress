@@ -1,10 +1,9 @@
 ---
 date: 2007-01-15 04:22:19
-categories:
-    - uncategorised
 title: what's new in Siebel 8.0
 layout: post
 comments: true
+categories: oracle
 ---
 Siebel 8.0 is the first major release since the Oracle takeover and is
 now imminent.
@@ -48,6 +47,7 @@ the coming months will be interesting.
 Another example of the closer integration between Siebel and Oracle is
 the recent announcement of a management pack for Oracle Enterprise
 Manager (OEM) in the recently released 10.2.0.3.
+
 > Oracle Application Management Pack for Siebel is a comprehensive
 > solution for managing the configuration, performance, availability,
 > and service level of Siebel CRM applications. It can be used to
