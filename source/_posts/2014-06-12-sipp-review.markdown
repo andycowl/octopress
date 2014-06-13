@@ -31,3 +31,8 @@ produced an interesting graph (courtesy of ft.com).
 height="486" width="617" /></a>
 
 Not enough to retire on but getting there.
+
+Update: A better comparison is with the FTSE100 (accumulation units)
+where dividend income is automatically re-invested.
+
+<a href="https://picasaweb.google.com/lh/photo/7jE8vz1c2ndmP-sPEOgYgtMTjNZETYmyPJy0liipFm0?feat=embedwebsite"><img src="https://lh6.googleusercontent.com/-IoKx3wyjJXY/U5q0aafaUHI/AAAAAAAAB3o/icsv_xU2fwU/s800/SIPP-FTSE-both.png" height="494" width="627" /></a>
