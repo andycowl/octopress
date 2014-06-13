@@ -1,10 +1,9 @@
 ---
 date: 2007-03-02 16:21:27
-categories:
-    - uncategorised
 title: lost without 'Lost'
 layout: post
 comments: true
+categories: uk
 ---
 'Good evening. Blueyond - sorry - Virgin Media Customer Services. Carol
 speaking. How may I help you ?'

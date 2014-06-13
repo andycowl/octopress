@@ -3,7 +3,7 @@ date: 2006-10-24 13:12:16
 title: a picture
 layout: post
 comments: true
-categories: uncategorised
+categories: uk
 ---
 ...is worth a thousand words, particularly when
 [annotated](http://flickr.com/photos/70276096@N00/278341985/).

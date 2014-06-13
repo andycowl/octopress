@@ -1,10 +1,9 @@
 ---
 date: 2007-10-08 16:23:43
-categories:
-    - football
 title: Arsenal v Sunderland
 layout: post
 comments: true
+categories: football
 ---
 I was lucky enough to accompany Norman Junior to the Emirates Stadium
 yesterday to see Arsenal thrash Sunderland 3-2. An ex-colleague has two

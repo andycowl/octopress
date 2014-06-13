@@ -1,10 +1,9 @@
 ---
 date: 2007-04-20 22:04:40
-categories:
-    - software
 title: something for the weekend, Sir
 layout: post
 comments: true
+categories: software
 ---
 Publish your
 [metrics](http://spreadsheets.google.com/pub?key=pHBwkjgvEIx6vrJYL9mbCcQ)

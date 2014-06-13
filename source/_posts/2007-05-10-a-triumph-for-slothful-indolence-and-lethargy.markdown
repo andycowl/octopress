@@ -1,10 +1,9 @@
 ---
 date: 2007-05-10 01:35:50
-categories:
-    - uncategorised
 title: a triumph for slothful indolence and lethargy
 layout: post
 comments: true
+categories: blogging
 ---
 Like most newly born WordPress.com bloggers, I keenly played with all
 the features and tirelessly experimented with the rich variety of

@@ -1,10 +1,9 @@
 ---
 date: 2007-06-27 06:21:14
-categories:
-    - uncategorised
 title: Movable Type 4 (beta)
 layout: post
 comments: true
+categories: blogging
 ---
 No one ever asks me: 'Hey, Norman - why haven't you installed Movable
 Type 4 (beta) yet ?'

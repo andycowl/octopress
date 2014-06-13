@@ -1,10 +1,9 @@
 ---
 date: 2007-03-16 18:26:33
-categories:
-    - uncategorised
 title: plans for the weekend, Sir ?
 layout: post
 comments: true
+categories: uk
 ---
 What could possibly be better than a romantic city break in Amsterdam
 with your loved one in the glorious spring sunshine ?

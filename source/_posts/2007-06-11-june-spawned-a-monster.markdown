@@ -1,10 +1,9 @@
 ---
 date: 2007-06-11 18:06:21
-categories:
-    - uncategorised
 title: June spawned a monster
 layout: post
 comments: true
+categories: blogging
 ---
 Graham started a technical [blog](http://www.digitalteddy.com/techblog/)
 and Andy used the Drupal theme on his new WordPress

@@ -1,10 +1,9 @@
 ---
 date: 2007-10-30 20:33:39
-categories:
-    - uncategorised
 title: Gerry and Kate McCann - an apology
 layout: post
 comments: true
+categories: uk
 ---
 On May 21 2007, this newspaper published an
 [article](http://www.nbrightside.com/blog/2007/05/21/the-tragic-case-of-madeleine-mccann/)

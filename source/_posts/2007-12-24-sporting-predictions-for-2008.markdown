@@ -1,10 +1,9 @@
 ---
 date: 2007-12-24 20:01:47
-categories:
-    - uncategorised
 title: sporting predictions for 2008
 layout: post
 comments: true
+categories: uk
 ---
 January - Andy Murray reaches the quarter finals of the Australian Open
 but mysteriously withdraws citing a 'bad hair day'. An inquiry is

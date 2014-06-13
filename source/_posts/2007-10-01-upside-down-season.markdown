@@ -1,10 +1,9 @@
 ---
 date: 2007-10-01 15:56:07
-categories:
-    - uncategorised
 title: upside down season
 layout: post
 comments: true
+categories: football
 ---
 I'm confused.
 

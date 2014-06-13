@@ -3,9 +3,7 @@ title: Theatre of Comedy
 layout: post
 comments: true
 date: 2007-06-22 16:57:35
-categories:
-    - uk
-    - football
+categories: football
 ---
 Moss Side, near Manchester, England - Friday 22 June 2007
 

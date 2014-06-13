@@ -1,10 +1,9 @@
 ---
 date: 2007-03-14 16:33:29
-categories:
-    - uncategorised
 title: don't believe the truth
 layout: post
 comments: true
+categories: oracle
 ---
 I am currently trying to assist with a couple of long standing Service
 Requests. This type of work is interesting because the issue is normally

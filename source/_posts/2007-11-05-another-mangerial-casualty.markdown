@@ -1,10 +1,9 @@
 ---
 date: 2007-11-05 15:27:38
-categories:
-    - uncategorised
 title: another mangerial casualty
 layout: post
 comments: true
+categories: football
 ---
 London - 5 November 2007
 
@@ -12,6 +11,7 @@ The football world was left reeling after Norman Brightside was fired
 last night. The long serving manager of Whiteside Wanderers was
 summarily dismissed when the club released a terse statement on their
 website.
+
 > '36 points. That's rubbish. You're fired.'
 
 After a pre-season of great promise, big money transfers and high

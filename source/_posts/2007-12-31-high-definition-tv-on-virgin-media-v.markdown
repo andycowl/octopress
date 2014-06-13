@@ -1,10 +1,9 @@
 ---
 date: 2007-12-31 16:44:33
-categories:
-    - uncategorised
 title: High Definition TV on Virgin Media V+
 layout: post
 comments: true
+categories: uk
 ---
 I finally caved in and replaced a 15 year old Sony TV with a Panasonic
 32″ LCD TV
@@ -20,10 +19,10 @@ technology at its best. Cartoons are another popular choice to
 demonstrate LCD TV's displaying a very high quality picture.
 
 As the range and number of programs actually broadcast in
-[HD on Virgin Media](http://vmhd.blogspot.com/) is currently relatively limited, I
-explicitly asked to see a conventional TV channel which was
-enlightening. You could often see pixellation and blurring which was
-disappointing but not wholly unexpected.
+[HD on Virgin Media](http://vmhd.blogspot.com/) is currently
+relatively limited, I explicitly asked to see a conventional TV
+channel which was enlightening. You could often see pixellation and
+blurring which was disappointing but not wholly unexpected.
 
 Undoubtedly, the Panasonic had the best picture quality both for
 standard and HD programs. I could have got a better deal on the previous

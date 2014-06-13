@@ -1,10 +1,9 @@
 ---
 date: 2007-03-05 11:32:49
-categories:
-    - uncategorised
 title: rolling upgrade
 layout: post
 comments: true
+categories: blogging
 ---
 Until 30 minutes ago, this blog was running Wordpress 2.1 courtesy of
 the Fantastico installation at Bluehost. The blog was fairly stable and

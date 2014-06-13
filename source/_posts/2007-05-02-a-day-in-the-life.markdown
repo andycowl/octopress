@@ -1,10 +1,9 @@
 ---
 date: 2007-05-02 00:35:50
-categories:
-    - uncategorised
 title: a day in the life
 layout: post
 comments: true
+categories: uk
 ---
 A blog post in the classic retro style of 'Dear Diary'. Stay tuned next
 week for relationship woes, football reports, psychotherapy, unexpunged

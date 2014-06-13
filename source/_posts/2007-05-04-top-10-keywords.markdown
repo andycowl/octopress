@@ -1,10 +1,9 @@
 ---
 date: 2007-05-04 23:45:36
-categories:
-    - uncategorised
 title: Top 10 Keywords
 layout: post
 comments: true
+categories: blogging
 ---
 [Donncha](http://ocaoimh.ie/2007/05/04/top-10-dodgy-website-keywords/)
 showed me his so now I have to show him mine.
@@ -19,4 +18,3 @@ showed me his so now I have to show him mine.
 8.  dixons duty free gatwick
 9.  duty free shopping heathrow
 10. dbms\_stats+siebel
-

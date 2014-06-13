@@ -1,10 +1,9 @@
 ---
 date: 2007-04-18 06:52:56
-categories:
-    - uncategorised
 title: dreaming spires
 layout: post
 comments: true
+categories: uk
 ---
 After my recent
 [holiday](http://www.nbrightside.com/blog/2007/04/16/letter-from-america/),

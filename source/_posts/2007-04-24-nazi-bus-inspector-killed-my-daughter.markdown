@@ -3,8 +3,7 @@ title: Nazi bus inspector killed my daughter
 layout: post
 comments: true
 date: 2007-04-24 19:15:09
-categories:
-    - uk
+categories: uk
 ---
 I am very lazy. It takes a gargantuan effort for me to maintain
 motivation and continue making material up for this blog.
@@ -41,6 +40,7 @@ tights in Feltham Young Offenders Institute, don't blame me, blame the
 Nazi Bus Inspector who asked her
 
 > 'Do you have an OysterCard ?'
+>
 > 'Yes.'
 >
 > 'Do you have your OysterCard on you ?'

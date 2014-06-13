@@ -1,10 +1,9 @@
 ---
 date: 2007-11-21 18:15:52
-categories:
-    - uncategorised
 title: a brush with the Met
 layout: post
 comments: true
+categories: uk
 ---
 Last night at approximately 18:12, I turned right onto the A4 (Great
 West Road) heading in an easterly direction towards Chiswick when I

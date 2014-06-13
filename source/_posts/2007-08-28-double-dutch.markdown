@@ -1,10 +1,9 @@
 ---
 date: 2007-08-28 19:41:40
-categories:
-    - uncategorised
 title: double Dutch
 layout: post
 comments: true
+categories: uk
 ---
 After recent horrific
 [events](http://news.bbc.co.uk/sport1/hi/football/eng_prem/6941879.stm),

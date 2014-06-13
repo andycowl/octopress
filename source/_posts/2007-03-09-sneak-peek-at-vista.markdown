@@ -1,10 +1,9 @@
 ---
 date: 2007-03-09 20:41:05
-categories:
-    - uncategorised
 title: sneak peek at Vista
 layout: post
 comments: true
+categories: uk
 ---
 The new machine from Dell duly
 [arrived](http://www.nbrightside.com/blog/2007/03/07/rapid-fire-service-from-dell/)

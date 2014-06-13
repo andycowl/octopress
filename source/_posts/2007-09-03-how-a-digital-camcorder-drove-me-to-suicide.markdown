@@ -1,10 +1,9 @@
 ---
 date: 2007-09-03 16:34:53
-categories:
-    - uncategorised
 title: how a digital camcorder drove me to suicide
 layout: post
 comments: true
+categories: software
 ---
 Back in the old days, things were very
 [simple](http://www.nbrightside.com/blog/2006/09/03/a-short-history-of-digital-photography/).

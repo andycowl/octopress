@@ -1,10 +1,9 @@
 ---
 date: 2007-03-26 23:07:28
-categories:
-    - uncategorised
 title: Virgin Media V-- downgrade
 layout: post
 comments: true
+categories: uk
 ---
 Inevitably, my new best friend, Michael, the Virgin Media engineer
 didn't return on Friday afternoon to complete the

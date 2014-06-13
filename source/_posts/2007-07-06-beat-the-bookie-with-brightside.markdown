@@ -1,10 +1,9 @@
 ---
 date: 2007-07-06 22:06:34
-categories:
-    - uncategorised
 title: beat the bookie with Brightside
 layout: post
 comments: true
+categories: football
 ---
 Seven weeks ago on this blog, I
 [predicted](http://www.nbrightside.com/blog/2007/05/15/manchester-city-announce-new-manager/)
@@ -34,9 +33,9 @@ beyond your wildest dreams.
 
 Bet the &pound;1,000 proceeds (all of it) on this accumulator
 
--   Manchester City to win Premiership, Carling Cup and FA Cup in
-    2007-2008 (2,500-1)
--   Manchester City to win Champions League in 2008-2009 (50,000-1)
+- Manchester City to win Premiership, Carling Cup and FA Cup in
+  2007-2008 (2,500-1)
+- Manchester City to win Champions League in 2008-2009 (50,000-1)
 
 In just two years, you will be 125,000,000,000 pounds richer.
 

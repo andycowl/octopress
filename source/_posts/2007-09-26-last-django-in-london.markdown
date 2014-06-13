@@ -1,10 +1,9 @@
 ---
 date: 2007-09-26 04:53:06
-categories:
-    - blogging
 title: last django in London
 layout: post
 comments: true
+categories: blogging
 ---
 The problem with installing
 [typo](http://www.nbrightside.com/blog/2007/09/25/wordpress-23-and-typo/)

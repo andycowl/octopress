@@ -2,8 +2,8 @@
 date: 2006-01-03 18:36:55
 title: the innocence of youth
 layout: post
-categories: uncategorised
 comments: true
+categories: uk
 ---
 Sometimes, your offspring know more then you do. For example, my son is
 a wizard at dragging, resizing and cropping photographs in a Word

@@ -1,10 +1,9 @@
 ---
 date: 2007-05-08 16:19:58
-categories:
-    - uncategorised
 title: MUFC - Champions
 layout: post
 comments: true
+categories: football
 ---
 The Guardian's Rob Smyth has a fascinating
 [article](http://blogs.guardian.co.uk/sport/2007/05/06/where_does_uniteds_title_victo.html)

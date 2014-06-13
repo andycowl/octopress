@@ -1,36 +1,36 @@
 ---
 date: 2007-03-07 22:08:14
-categories:
-    - uncategorised
 title: in praise of Google Desktop
 layout: post
 comments: true
+categories: software
 ---
 Like most people, I store information in many different places. Lots of
 data is stored directly on my work laptop while yet more data is stored
 on my computer at home.
 
--   Mail folders
--   Address book
--   Text files
--   Corporate blogs
--   Presentations
--   Word documents
--   Intranet resources
--   Whitepapers
--   Web history
--   RSS feeds
--   Photos
--   Music
+- Mail folders
+- Address book
+- Text files
+- Corporate blogs
+- Presentations
+- Word documents
+- Intranet resources
+- Whitepapers
+- Web history
+- RSS feeds
+- Photos
+- Music
 
 Even more data is stored on external servers
--   Gmail
--   Blinklist
--   Web site, blogs and mySQL databases at Bluehost
--   Post-it on fridge
--   Mobile phone
--   Palm PDA
--   My head (last resort)
+
+- Gmail
+- Blinklist
+- Web site, blogs and mySQL databases at Bluehost
+- Post-it on fridge
+- Mobile phone
+- Palm PDA
+- My head (last resort)
 
 I first used [Google Desktop](http://desktop.google.com/) a couple of
 years ago when it was first launched. Back then, the ongoing indexing

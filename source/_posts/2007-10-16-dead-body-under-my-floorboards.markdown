@@ -1,10 +1,9 @@
 ---
 date: 2007-10-16 21:27:09
-categories:
-    - uncategorised
 title: dead body under my floorboards
 layout: post
 comments: true
+categories: uk
 ---
 When your children ask for a pet hamster, always follow your gut
 instincts and refuse.

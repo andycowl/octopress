@@ -1,7 +1,6 @@
 ---
 date: 2007-09-04 20:02:11
-categories:
-    - uncategorised
+categories: uk
 title: back to school
 layout: post
 comments: true

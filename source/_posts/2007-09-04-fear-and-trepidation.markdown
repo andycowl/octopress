@@ -1,10 +1,9 @@
 ---
 date: 2007-09-04 18:48:34
-categories:
-    - uncategorised
 title: fear and trepidation
 layout: post
 comments: true
+categories: travel
 ---
 I travel quite a lot. I usually stay in decent hotels. I am fairly easy
 to please. All I really need on my short visits is a clean bed and a

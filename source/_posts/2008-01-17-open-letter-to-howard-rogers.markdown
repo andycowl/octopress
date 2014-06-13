@@ -3,7 +3,7 @@ date: 2008-01-17 07:44:43
 title: open letter to Howard Rogers
 layout: post
 comments: true
-categories: uncategorised
+categories: oracle
 ---
 Howard
 

@@ -3,8 +3,7 @@ title: YouTube - what is it good for ?
 layout: post
 comments: true
 date: 2007-03-22 07:09:27
-categories:
-    - uncategorised
+categories: music
 ---
 Generally, the quality of cover versions on YouTube can
 [vary](http://www.youtube.com/watch?v=bjyr6P1agWo&mode=related&search=)

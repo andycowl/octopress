@@ -1,10 +1,9 @@
 ---
 date: 2007-11-17 04:22:49
-categories:
-    - uncategorised
 title: Ask fights back
 layout: post
 comments: true
+categories: software
 ---
 I don't know whether Ask have changed their agency but I think this
 advert is a marked improvement on the

@@ -1,10 +1,9 @@
 ---
 date: 2007-11-16 09:47:25
-categories:
-    - uncategorised
 title: SezWho comment ratings system
 layout: post
 comments: true
+categories: blogging
 ---
 Just installed [SezWho](http://sezwho.com/) on this blog. At least, it
 imported all existing comments (unlike

@@ -1,10 +1,9 @@
 ---
 layout: post
 date: 2007-11-12 06:39:55
-categories:
-    - oracle
 title: Oracle Open Underworld
 comments: true
+categories: oracle
 ---
 I decided to save Oracle Corporation lots of money by not attending
 Oracle Open World in San Francisco. Initially, my manager spent a lot of

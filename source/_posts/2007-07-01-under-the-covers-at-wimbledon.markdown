@@ -1,10 +1,9 @@
 ---
 date: 2007-07-01 18:16:44
-categories:
-    - uncategorised
 title: under the covers at Wimbledon
 layout: post
 comments: true
+categories: uk
 ---
 This year, like the previous three, we applied in the LTA ballot for
 Wimbledon tickets. This year, unlike the previous three, we were

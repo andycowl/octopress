@@ -1,12 +1,9 @@
 ---
 title: Facebook penetration of corporate America
 date: 2007-07-25 06:42:06
-categories:
-    - oracle
-    - google
-    - microsoft
 layout: post
 comments: true
+categories: software
 ---
 I was interested to
 [read](http://blogs.technet.com/seanearp/archive/2007/07/21/how-many-microsoft-employees-does-it-take-to.aspx)

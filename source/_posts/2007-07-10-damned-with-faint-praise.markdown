@@ -1,10 +1,9 @@
 ---
 date: 2007-07-10 21:57:59
-categories:
-    - uncategorised
 title: damned with faint praise
 layout: post
 comments: true
+categories: uk
 ---
 My son, Norman Junior III, plays competitive junior tennis. When I
 [watch](http://www.nbrightside.com/blog/2006/10/25/celebrity-watch-2/)

@@ -3,8 +3,7 @@ title: recycle pool #2
 layout: post
 comments: true
 date: 2007-06-07 18:37:48
-categories:
-    - blogging
+categories: blogging
 ---
 Welcome to the long delayed and much anticipated issue 2 of
 '[Recycle Pool](http://www.nbrightside.com/blog/2006/12/01/murky-depths-of-the-recycle-pool/)'.

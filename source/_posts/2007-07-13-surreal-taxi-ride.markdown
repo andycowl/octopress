@@ -1,10 +1,9 @@
 ---
 date: 2007-07-13 04:09:53
-categories:
-    - uncategorised
 title: surreal taxi ride
 layout: post
 comments: true
+categories: uk
 ---
 Last Thursday, I enjoyed an superbly entertaining taxi ride back from
 LHR. Unusually, the taxi driver wasn't waiting for me at the meeting

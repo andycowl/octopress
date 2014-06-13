@@ -1,10 +1,9 @@
 ---
 date: 2007-03-08 17:09:55
-categories:
-    - uncategorised
 title: Sharpcast versus Picasa
 layout: post
 comments: true
+categories: software
 ---
 Curiously, after reading about the Picasa
 [upgrade](http://www.nbrightside.com/blog/2007/03/08/picasa-web-albums-upgraded-to-1gb/),

@@ -3,9 +3,7 @@ title: Planet Earth by Prince
 layout: post
 comments: true
 date: 2007-07-16 23:32:35
-categories:
-    - uk
-    - music
+categories: music
 ---
 The 80's pop star - Prince - simultaneously delighted both his fans
 and horrified the music industry with his shock inclusion of a

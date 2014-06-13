@@ -1,10 +1,9 @@
 ---
 date: 2007-05-02 22:36:27
-categories:
-    - football
 title: open letter to Paul Scholes
 layout: post
 comments: true
+categories: football
 ---
 Dear Paul
 

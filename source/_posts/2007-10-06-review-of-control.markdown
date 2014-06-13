@@ -1,10 +1,9 @@
 ---
 date: 2007-10-06 23:52:26
-categories:
-    - uncategorised
 title: review of 'Control'
 layout: post
 comments: true
+categories: music
 ---
 I went to see '[Control](http://www.controlthemovie.com/)' last night
 which is a film directed by Anton Corbijn about the life of Ian Curtis,

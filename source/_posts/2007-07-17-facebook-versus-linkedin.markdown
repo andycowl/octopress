@@ -1,10 +1,9 @@
 ---
 date: 2007-07-17 18:16:03
-categories:
-    - uncategorised
 title: Facebook versus LinkedIn
 layout: post
 comments: true
+categories: software
 ---
 OK. I couldn't resist any longer. Scoble's recent
 [post](http://scobleizer.com/2007/07/15/google-reader-facebook-yummy/)

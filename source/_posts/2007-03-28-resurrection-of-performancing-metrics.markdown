@@ -1,11 +1,9 @@
 ---
 date: 2007-03-28 11:41:44
-categories:
-    - blogging
-    - wordpress
 title: resurrection of Performancing Metrics
 layout: post
 comments: true
+categories: blogging
 ---
 Just 10 weeks after [closing](http://performancing.com/node/5610),
 Performancing Metrics has

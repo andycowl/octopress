@@ -1,9 +1,9 @@
 ---
 title: membership form for BAAG
 date: 2007-07-17 22:26:56
-categories: uncategorised
 layout: post
 comments: true
+categories: oracle
 ---
 I own up. It's a fair cop. It is 27 years and 5 months since my last
 confession. Since then, I have sinned, Holy Father. In fact, I have

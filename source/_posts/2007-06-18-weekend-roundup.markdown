@@ -1,10 +1,9 @@
 ---
 date: 2007-06-18 23:56:08
-categories:
-    - uncategorised
 title: weekend roundup
 layout: post
 comments: true
+categories: uk
 ---
 Phew - what a
 [relief](http://women.timesonline.co.uk/tol/life_and_style/women/body_and_soul/article1937266.ece).

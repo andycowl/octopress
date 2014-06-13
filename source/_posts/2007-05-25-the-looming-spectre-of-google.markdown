@@ -3,8 +3,7 @@ title: the looming spectre of Google
 layout: post
 comments: true
 date: 2007-05-25 07:47:15
-categories:
-    - google
+categories: software
 ---
 The recent
 [storm](http://scobleizer.com/2007/05/23/dog-distrustdisdain-of-google-moves-in/)

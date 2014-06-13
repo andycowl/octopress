@@ -1,10 +1,9 @@
 ---
 date: 2007-09-17 18:59:33
-categories:
-    - uncategorised
 title: a rush of blood
 layout: post
 comments: true
+categories: blogging
 ---
 I'm not normally a sucker for these free, pyramid style, link exchange
 schemes to drive more traffic to your blog but as simply

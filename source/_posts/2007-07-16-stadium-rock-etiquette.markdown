@@ -1,10 +1,9 @@
 ---
 date: 2007-07-16 21:03:48
-categories:
-    - uncategorised
 title: Stadium Rock etiquette
 layout: post
 comments: true
+categories: software
 ---
 Lyrics [plugin](http://www.lyricsplugin.com/) for Media Player and
 Winamp.

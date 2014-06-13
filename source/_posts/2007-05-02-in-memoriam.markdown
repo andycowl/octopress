@@ -1,10 +1,9 @@
 ---
 date: 2007-05-02 16:34:39
-categories:
-    - uncategorised
 title: in memoriam
 layout: post
 comments: true
+categories: football
 ---
 Apologies for the delayed transmission but the events of last Saturday
 left me traumatised and deeply shocked.

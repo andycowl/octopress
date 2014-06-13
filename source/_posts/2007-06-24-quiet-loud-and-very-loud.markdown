@@ -1,10 +1,9 @@
 ---
 date: 2007-06-24 19:38:55
-categories:
-    - uncategorised
 title: quiet, loud and very loud
 layout: post
 comments: true
+categories: music
 ---
 A great weekend for the middle-aged, barstool musical correspondent.
 

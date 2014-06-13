@@ -1,10 +1,9 @@
 ---
 date: 2007-10-14 22:57:45
-categories:
-    - uncategorised
 title: how to migrate a WordPress blog to Django
 layout: post
 comments: true
+categories: blogging
 ---
 There is currently no utility to migrate existing blog content to
 [django](http://www.nbrightside.com/blog/2007/09/26/last-django-in-london/).
@@ -15,11 +14,11 @@ straightforward.
 Firstly, simply export the following tables from the WordPress database
 using phpMyAdmin
 
--   wp\_posts
--   wp\_comments
--   wp\_terms
--   wp\_term\_taxonomy
--   wp\_term\_relationships
+- wp\_posts
+- wp\_comments
+- wp\_terms
+- wp\_term\_taxonomy
+- wp\_term\_relationships
 
 Import the tables into the django database.
 Then run the following SQL statements which migrate posts, comments and

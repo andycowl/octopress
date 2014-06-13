@@ -1,11 +1,9 @@
 ---
 date: 2007-10-16 22:16:01
-categories:
-    - uk
-    - humour
 title: just do what you are told
 layout: post
 comments: true
+categories: uk
 ---
 Another in this award winning and ever popular
 [series](http://www.nbrightside.com/blog/2006/07/06/just-do-what-you-are-told-2/).

@@ -1,10 +1,9 @@
 ---
 date: 2007-06-29 09:22:12
-categories:
-    - uncategorised
 title: go faster stripes
 layout: post
 comments: true
+categories: oracle
 ---
 This Bluehost powered blog is now
 [FastCGI](http://helpdesk.bluehost.com/kb/index.php?x=&mod_id=2&root=50&id=461)

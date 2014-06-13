@@ -1,15 +1,15 @@
 ---
 date: 2007-07-20 22:07:24
-categories:
-    - uncategorised
 title: plans for the weekend
 layout: post
 comments: true
+categories: uk
 ---
 My friends were disappointed, insulted and absolutely mortified at the
 suggestion (from a
 [comment](http://www.nbrightside.com/blog/2007/07/10/damned-with-faint-praise/#comment-83082)
 on this blog) that the Hook Norton Festival of Fine Ales was merely a
+
 > 'Boring, alcohol, induced haze'
 
 However, I simply loved the turn of phrase that captures the very

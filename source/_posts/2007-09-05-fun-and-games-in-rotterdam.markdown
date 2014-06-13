@@ -1,10 +1,9 @@
 ---
 date: 2007-09-05 04:09:07
-categories:
-    - uncategorised
 title: fun and games in Rotterdam
 layout: post
 comments: true
+categories: travel
 ---
 Arrived in Rotterdam and checked into the
 [Grand Hotel](http://www.nbrightside.com/blog/2007/09/04/fear-and-trepidation/)

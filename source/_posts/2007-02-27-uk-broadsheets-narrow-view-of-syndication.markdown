@@ -1,10 +1,9 @@
 ---
 date: 2007-02-27 17:16:17
-categories:
-    - uncategorised
 title: UK broadsheets narrow view of syndication
 layout: post
 comments: true
+categories: uk
 ---
 Stuart Brown from the excellent
 [Modern Life](http://www.modernlifeisrubbish.co.uk/) asks 'Why is RSS

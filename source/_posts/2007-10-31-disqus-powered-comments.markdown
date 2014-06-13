@@ -1,10 +1,9 @@
 ---
 date: 2007-10-31 14:42:15
-categories:
-    - uncategorised
 title: Disqus powered comments
 layout: post
 comments: true
+categories: blogging
 ---
 I was rather hoping [Disqus](http://disqus.com) would be a 100% plug-in
 replacement for the woefully inadequate

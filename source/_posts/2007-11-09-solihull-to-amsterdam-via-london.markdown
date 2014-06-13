@@ -3,10 +3,7 @@ title: Solihull to Amsterdam via London
 layout: post
 comments: true
 date: 2007-11-09 04:50:49
-categories:
-    - uk
-    - travel
-    - IT
+categories: uk
 ---
 Norman - Your next post will be in the style of Micro-Blogging...
 

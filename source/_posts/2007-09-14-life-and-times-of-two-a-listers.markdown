@@ -1,10 +1,9 @@
 ---
 date: 2007-09-14 16:20:38
-categories:
-    - uncategorised
 title: life and times of two 'A' listers
 layout: post
 comments: true
+categories: blogging
 ---
 I like Robert [Scoble](http://scobleizer.com/). While I don't always
 [agree](http://www.nbrightside.com/blog/2006/07/11/why-england-will-win-the-next-world-cup/)
@@ -36,6 +35,7 @@ rule
 regaling us all with updates on his state of health.
 
 3 September - The saga begins...
+
 > 'Had to take a break, I got a really bad cold, the flu, not sure what
 > -- but it knocked me down. I had a fever, nasty cough, wheezing, and
 > it was getting worse so fast that I went to the emergency room at a
@@ -44,6 +44,7 @@ regaling us all with updates on his state of health.
 
 6 September - Our hopes are briefly raised. Don't laugh. This is a
 disease !
+
 > 'Yesterday was the first feel-good day after a horrible bout with
 > whatever it was that hit me and dragged me under. But Naked Jen, who
 > said she had the same disease, warned against believing you're better
@@ -51,6 +52,7 @@ disease !
 
 8 September - Our hopes are dashed but at least Dave received my email
 of support.
+
 > 'I've gotten email from people who are concerned. Thanks for the
 > concern. Yes, I have seen a doctor, even went to the hospital to get
 > chest x-rays. I don't have pneumonia. Just a realllly bad cold. A
@@ -59,6 +61,7 @@ of support.
 
 9 September - My diagnosis is that this is not merely a heavy cold. This
 is a life threatening bout of man-flu.
+
 > 'It's been a really interesting morning, in a sick kind of way (that
 > is, I'm still really sick, coughing and wheezing, rasping and
 > sneezing).'
@@ -67,6 +70,7 @@ is a life threatening bout of man-flu.
 with no mention of his health.
 
 11 September - A nation sighs with relief.
+
 > 'Feeling *much* better today. Health is beginning to return. I owe it
 > all to patience, lots of sleeping, drinking fluids, and not trying to
 > be healthy before I actually am. Today I'm going to take a 20 minute

@@ -1,10 +1,9 @@
 ---
 date: 2007-07-03 03:38:07
-categories:
-    - uncategorised
 title: raw deal for UK smokers
 layout: post
 comments: true
+categories: uk
 ---
 LHR-NCL (BA1326) Dep: 09:40 Arr: 10:45
 

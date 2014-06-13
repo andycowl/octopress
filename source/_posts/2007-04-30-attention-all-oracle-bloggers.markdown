@@ -1,10 +1,9 @@
 ---
 date: 2007-04-30 21:07:33
-categories:
-    - oracle
 title: 'attention all Oracle bloggers '
 layout: post
 comments: true
+categories: oracle
 ---
 Dust off that blogroll. Highlight your best technical posts. Update that
 photo in the 'About' tab. Polish the colours on your theme. Prime the

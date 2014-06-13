@@ -1,10 +1,9 @@
 ---
 date: 2007-03-27 10:16:34
-categories:
-    - uncategorised
 title: the sole responsibility of a production Oracle DBA
 layout: post
 comments: true
+categories: oracle
 ---
 Many years ago, I managed a set of Oracle databases for various clients.
 
@@ -24,12 +23,13 @@ junior) did all day.
 
 I put up a slide that said:
 
--   Data Availability
+- Data Availability
 
 I think a clever new media colleague helped me to add 'transitions' to
 add two more bullets.
--   Data Availability
--   Data Availability
+
+- Data Availability
+- Data Availability
 
 Ironically, this wasn't what we did which was covered on the next 34
 slides. We did absolutely everything: fixing code, reloading data,

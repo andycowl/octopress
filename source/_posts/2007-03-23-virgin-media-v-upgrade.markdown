@@ -3,8 +3,7 @@ title: Virgin Media V+ upgrade
 layout: post
 comments: true
 date: 2007-03-23 21:37:29
-categories:
-    - uncategorised
+categories: uk
 ---
 This afternoon, a Virgin Media engineer has arrived to
 '[upgrade](http://www.nbrightside.com/blog/2007/03/09/free-upgrades-from-virgin-media/)

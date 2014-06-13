@@ -1,10 +1,9 @@
 ---
 date: 2007-09-10 20:44:48
-categories:
-    - uncategorised
 title: sync'ing Thunderbird with Google calendar
 layout: post
 comments: true
+categories: software
 ---
 Just installed the
 [Lightning](http://www.mozilla.org/projects/calendar/lightning/)

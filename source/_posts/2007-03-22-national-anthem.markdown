@@ -1,10 +1,9 @@
 ---
 date: 2007-03-22 05:19:42
-categories:
-    - uncategorised
 title: National Anthem
 layout: post
 comments: true
+categories: uk
 ---
 Ladies and gentlemen. Please be upstanding and don your ear protectors
 for this unique version of 

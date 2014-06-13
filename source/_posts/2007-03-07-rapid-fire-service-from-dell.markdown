@@ -1,10 +1,9 @@
 ---
 date: 2007-03-07 23:03:11
-categories:
-    - uncategorised
 title: rapid fire service from Dell
 layout: post
 comments: true
+categories: uk
 ---
 I celebrated my recent promotion (to
 [BMI Silver](http://www.flybmi.com/bmi/en-gb/frequentflyers/membershipbenefits/silvermembership.aspx))

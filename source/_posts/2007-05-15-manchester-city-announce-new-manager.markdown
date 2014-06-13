@@ -1,10 +1,9 @@
 ---
 date: 2007-05-15 08:12:27
-categories:
-    - uncategorised
 title: Manchester City announce new manager
 layout: post
 comments: true
+categories: football
 ---
 I always had a lot of time for the outgoing Manchester City manager,
 Stuart
@@ -47,6 +46,5 @@ against in a poll conducted in the Manchester Evening News.
 An emergency board meeting is convened to discuss with just two items on
 the agenda:
 
--   Is Sven Goran Eriksson fully paid-up by England yet ?
--   AOB - Noel Gallagher's offer.
-
+- Is Sven Goran Eriksson fully paid-up by England yet ?
+- AOB - Noel Gallagher's offer.

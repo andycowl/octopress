@@ -1,10 +1,9 @@
 ---
 date: 2007-06-28 09:30:06
-categories:
-    - uncategorised
 title: Google finally sees sense
 layout: post
 comments: true
+categories: software
 ---
 On the face of it, the recent changes to the interface to Google Docs
 and Spreadsheets look trivial and superficial.

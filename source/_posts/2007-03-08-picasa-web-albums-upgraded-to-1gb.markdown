@@ -1,10 +1,9 @@
 ---
 date: 2007-03-08 15:27:52
-categories:
-    - uncategorised
 title: Picasa Web Albums upgraded to 1GB
 layout: post
 comments: true
+categories: software
 ---
 Google have
 [increased](http://googleblog.blogspot.com/2007/03/store-and-find-even-more-photos-on.html)

@@ -1,11 +1,9 @@
 ---
 date: 2007-03-03 03:39:44
-categories:
-    - blogging
-    - oracle
 title: Top Of The (Oracle) Blogs
 layout: post
 comments: true
+categories:  oracle
 ---
 Oracle blogs I read by [Technorati](http://technorati.com/) ranking. Cue
 Led Zeppelin's 'Whole Lotta Love'.
@@ -28,7 +26,7 @@ Led Zeppelin's 'Whole Lotta Love'.
     Aldridge - Rank: 102,376 (72 links from 38 blogs)
 9.  [The Oracle-Base Blog](http://www.oracle-base.com/blog/) - Tim
     Hall - Rank: 112,139 (57 links from 35 blogs)
-10. [So What Co-Operative](http://marist89.blogspot.com/) - Jeff
+10  [So What Co-Operative](http://marist89.blogspot.com/) - Jeff
     Hunter - Rank: 154,372 (62 links from 26 blogs)
 11. [Pete-s Random Notes](http://pjsrandom.wordpress.com/) - Peter
     Scott - Rank: 161,008 (92 links from 25 blogs)

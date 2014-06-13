@@ -3,7 +3,7 @@ date: 2007-01-19 15:27:47
 title: mean hearted bombers
 layout: post
 comments: true
-categories: uncategorised
+categories: uk
 ---
 I am not overly surprised the Al Qaeda training camp in Afghanistan
 educates people about how to assemble explosive devices and avoid

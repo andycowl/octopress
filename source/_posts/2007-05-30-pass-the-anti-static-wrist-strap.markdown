@@ -1,30 +1,30 @@
 ---
 date: 2007-05-30 19:55:39
-categories:
-    - uncategorised
 title: pass the anti-static wrist strap
 layout: post
 comments: true
+categories: software
 ---
 I usually hate posts that start
 
 'Apologies in advance but I am going to be offline for 10 days
 because...'
 
--   I am going to a Web 2.0 conference in Dallas
--   I smashed my hand into a glass window
--   I am going on vacation
--   I am really busy at work
--   Personal stuff
--   I am getting married
--   I am going to an Oracle conference in Scotland
--   The RSI is killing me
--   My boss/wife/dog discovered this blog
--   I am having a blogging crisis of confidence
--   Family matters
+- I am going to a Web 2.0 conference in Dallas
+- I smashed my hand into a glass window
+- I am going on vacation
+- I am really busy at work
+- Personal stuff
+- I am getting married
+- I am going to an Oracle conference in Scotland
+- The RSI is killing me
+- My boss/wife/dog discovered this blog
+- I am having a blogging crisis of confidence
+- Family matters
 
 Mainly because the author inevitably pops up the very next day without
 any further explanation.
+
 Apologies in advance but I am going to be offline for 10 days because
 the postman delivered a package today. Well, more like a suspect
 [device](http://www.directusbstore.co.uk/cnb/shop/directusbstore?productID=64&search=firewire+pci+card&op=catalogue-product_info-null),

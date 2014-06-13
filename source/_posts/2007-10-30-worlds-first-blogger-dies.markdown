@@ -1,10 +1,9 @@
 ---
 date: 2007-10-30 19:30:10
-categories:
-    - uncategorised
 title: world's first blogger dies
 layout: post
 comments: true
+categories: blogging
 ---
 Sadly, the world's first and most prolific blogger, the Reverend Robert
 Shields has passed away in America aged 89. Shields was the author of

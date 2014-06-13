@@ -1,10 +1,9 @@
 ---
 date: 2007-06-28 07:29:44
-categories:
-    - travel
 title: my worst nightmare
 layout: post
 comments: true
+categories: travel
 ---
 Ten hours cooped up on a
 [plane](http://consumerist.com/consumer/videos/customer-records-his-7+hour-delayed-flight-in-all-its-baby+screaming-glory-272901.php)

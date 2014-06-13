@@ -1,10 +1,9 @@
 ---
 date: 2007-11-23 20:49:51
-categories:
-    - uncategorised
 title: that was the week that was
 layout: post
 comments: true
+categories: uk
 ---
 After a detailed, comprehensive
 '[root and branch](http://news.bbc.co.uk/sport1/hi/football/internationals/7100393.stm)'

@@ -1,10 +1,9 @@
 ---
 date: 2007-03-12 14:00:13
-categories:
-    - uncategorised
 title: resisting the lure of Twitter
 layout: post
 comments: true
+categories: uk
 ---
 ...won't be hard because I just don't get it.
 

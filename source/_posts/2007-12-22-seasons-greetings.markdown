@@ -1,10 +1,9 @@
 ---
 date: 2007-12-22 01:51:44
-categories:
-    - uk
 title: Seasons Greetings
 layout: post
 comments: true
+categories: uk
 ---
 ...from Surrey Traffic Police. Unfortunately, my
 [friends](http://www.nbrightside.com/blog/2007/02/15/undercover-with-surrey-traffic-police/)
@@ -24,6 +23,7 @@ current points start to expire.
 
 I scrawled my own festive greeting on the non postage paid return
 envelope which I hope I don't live to regret.
+
 > 'Merry Xmas to all at Surrey Traffic Police. You are all doing a great
 > job.'
 

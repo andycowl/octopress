@@ -3,9 +3,7 @@ title: non-stop erotic cabaret
 layout: post
 comments: true
 date: 2007-07-27 18:46:43
-categories:
-    - uk
-    - humour
+categories: uk
 ---
 Please don't tell Norma but, earlier this week, I spent &pound;25 in
 [Shagorika](http://www.thefoodplace.co.uk/restaurants/32254/Shagorika+Restaurant+in+Sunderland/).

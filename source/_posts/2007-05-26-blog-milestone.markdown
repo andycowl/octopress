@@ -1,10 +1,9 @@
 ---
 date: 2007-05-26 20:56:09
-categories:
-    - blogging
 title: blog milestone
 layout: post
 comments: true
+categories: blogging
 ---
 100
 [subscribers](http://picasaweb.google.com/nbrightside/Blog/photo#5068852034314040242).

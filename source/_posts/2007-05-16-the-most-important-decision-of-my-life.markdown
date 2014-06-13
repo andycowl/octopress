@@ -1,10 +1,9 @@
 ---
 date: 2007-05-16 07:17:06
-categories:
-    - uncategorised
 title: the most important decision of my life
 layout: post
 comments: true
+categories: oracle
 ---
 ...lies in your hands, dear reader.
 
@@ -65,8 +64,7 @@ that we could preserve our job titles or upgrade, at no extra cost, to
 Twelve months on, my contrarian instincts are twitching so what do you
 think ?
 
--   Service Delivery Engineer
--   Architecture Specialist
--   Technical 'Consultant'
--   Amusing alternative
-
+- Service Delivery Engineer
+- Architecture Specialist
+- Technical 'Consultant'
+- Amusing alternative

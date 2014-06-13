@@ -1,10 +1,9 @@
 ---
 date: 2007-02-27 19:26:54
-categories:
-    - uncategorised
 title: not dead, just resting
 layout: post
 comments: true
+categories: software
 ---
 Darren Prowse kicked off an interesting
 [discussion](http://www.problogger.net/archives/2007/02/27/what-makes-you-unsubscribe-from-a-blogs-rss-feed/)

@@ -1,10 +1,9 @@
 ---
 date: 2007-08-14 05:10:59
-categories:
-    - oracle
 title: please welcome Oracle 11g
 layout: post
 comments: true
+categories: oracle
 ---
 Oracle 11g has recently been
 [released](http://www.oracle.com/technology/products/database/oracle11g/index.html)

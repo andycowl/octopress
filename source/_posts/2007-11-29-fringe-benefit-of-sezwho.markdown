@@ -1,10 +1,9 @@
 ---
 date: 2007-11-29 16:16:17
-categories:
-    - uncategorised
 title: fringe benefit of SezWho
 layout: post
 comments: true
+categories: blogging
 ---
 Occasionally, people take the time to comment on this blog which is
 always welcome.
@@ -37,6 +36,7 @@ When I subsequently happened to scan the [SezWho](http://sezwho.com/)
 of the author (a man with the unusual name of 'HeavyGod'), I found to my
 horror, that he (or a program) had left the identical comment on
 multiple blogs.
+
 > 'Really good and really interesting post. I expect (and other readers
 > maybe :)) new useful posts from you! Good luck and successes in
 > blogging!'

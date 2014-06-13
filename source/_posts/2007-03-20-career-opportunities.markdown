@@ -1,10 +1,9 @@
 ---
 date: 2007-03-20 22:06:32
-categories:
-    - uncategorised
 title: career opportunities
 layout: post
 comments: true
+categories: uk
 ---
 I'm not sure I'm cut out for a career in pre-sales as I have an
 irritating tendency to blush and my left eye twitches horribly when I

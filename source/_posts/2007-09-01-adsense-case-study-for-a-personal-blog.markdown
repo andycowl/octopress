@@ -1,7 +1,6 @@
 ---
 date: 2007-09-01 03:32:03
-categories:
-    - uncategorised
+categories: blogging
 title: Adsense case study for a personal blog
 layout: post
 comments: true

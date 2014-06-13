@@ -1,10 +1,9 @@
 ---
 date: 2007-04-30 19:24:03
-categories:
-    - uncategorised
 title: my plans for the future
 layout: post
 comments: true
+categories: oracle
 ---
 The climax of the football season is currently dominating my life
 somewhat. However, I feel obliged to inform the world of my exciting

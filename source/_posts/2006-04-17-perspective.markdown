@@ -1,7 +1,7 @@
 ---
 title: perspective
 date: 2006-04-17 23:46:19
-categories: uncategorised
+categories: uk
 layout: post
 comments: true
 ---

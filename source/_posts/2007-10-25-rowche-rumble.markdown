@@ -1,7 +1,6 @@
 ---
 date: 2007-10-25 19:10:43
-categories:
-    - uncategorised
+categories: blogging
 title: Rowche Rumble
 layout: post
 comments: true
@@ -22,12 +21,12 @@ built-in support for quotes.
 However, undoubtedly the best feature is the endless scope for puns in
 the non rotating taglines:
 
--   [Rowche Tumble](http://www.last.fm/music/The+Fall/_/Rowche+Rumble)
--   Are you ready to Tumble ?
--   Tumble Dryer
--   Tumble in the jungle
--   A bit of rough and Tumble
--   Don't mumble, Tumble !
+- [Rowche Tumble](http://www.last.fm/music/The+Fall/_/Rowche+Rumble)
+- Are you ready to Tumble ?
+- Tumble Dryer
+- Tumble in the jungle
+- A bit of rough and Tumble
+- Don't mumble, Tumble !
 
 I have already contacted [Davidville](http://davidville.com/) to enquire
 about any openings in sales and marketing.

@@ -1,11 +1,9 @@
 ---
 date: 2007-07-10 22:13:45
-categories:
-    - uk
-    - football
 title: here we go
 layout: post
 comments: true
+categories: football
 ---
 Didn't take long. Please welcome Roland, err,
 [Bianchi](http://news.bbc.co.uk/sport1/hi/football/teams/m/man_city/6287728.stm).

@@ -1,10 +1,9 @@
 ---
 date: 2007-07-09 21:33:31
-categories:
-    - uk
 title: a doctor writes
 layout: post
 comments: true
+categories: uk
 ---
 Dear Cathy and Claire
 
@@ -59,9 +58,9 @@ come to Glasgae and mess with the polis, you wee bawbag !'.
 
 My questions are:
 
--   Will I make a full recovery from my burns ?
--   If I rearrange the BBQ for Monday 30 August 2018 (late August bank
-    holiday), would you both be able to attend ?
+- Will I make a full recovery from my burns ?
+- If I rearrange the BBQ for Monday 30 August 2018 (late August bank
+  holiday), would you both be able to attend ?
 
 Cathy & Claire reply:
 'Sadly, I have some bad news for you. Very bad news. You have 90 degree

@@ -1,10 +1,9 @@
 ---
 date: 2007-04-26 22:18:44
-categories:
-    - uncategorised
 title: another legal battle
 layout: post
 comments: true
+categories: uk
 ---
 I received a summons yesterday for non-payment of council tax. Ah well.
 It was good while it lasted. I reckon at &pound;1,000 each year for 10 years

@@ -3,7 +3,7 @@ layout: post
 date: 2007-01-01 16:01:36
 title: make your mind up
 comments: true
-categories: uncategorised
+categories: uk
 ---
 Americans see nothing but gloom and
 [doom](http://news.yahoo.com/s/ap/20061231/ap_on_re_us/2007_predictions_ap_poll)

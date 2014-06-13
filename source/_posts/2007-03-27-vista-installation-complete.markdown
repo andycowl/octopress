@@ -1,10 +1,9 @@
 ---
 date: 2007-03-27 07:22:58
-categories:
-    - uncategorised
 title: Vista installation complete
 layout: post
 comments: true
+categories: software
 ---
 Extracted the shiny new Dell
 [PC](http://www.nbrightside.com/blog/2007/03/09/sneak-peek-at-vista/)

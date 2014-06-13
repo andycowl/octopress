@@ -1,11 +1,9 @@
 ---
+date: 2007-05-23 07:35:12
 title: sit back and watch the money roll in
 layout: post
 comments: true
-date: 2007-05-23 07:35:12
-categories:
-    - blogging
-    - humour
+categories: blogging
 ---
 I have had an innate
 [fascination](http://www.nbrightside.com/blog/2007/01/06/who-wants-to-be-an-adsense-millionaire/)

@@ -1,14 +1,14 @@
 ---
 date: 2007-05-11 07:13:41
-categories:
-    - uncategorised
 title: don't Ask
 layout: post
 comments: true
+categories: software
 ---
 Many years ago, in a parallel universe, I created a
 [Web](http://web.archive.org/web/20010525033911/http://www.andy-cowling.pwp.blueyonder.co.uk/)
 page that proclaimed:
+
 > 'The fastest, most comprehensive Web search engine -
 > [AltaVista](http://www.altavista.com/)'
 
@@ -65,6 +65,7 @@ holiday cottages in the Dordorgne. These people don't use IE7 and type
 their searches directly into the address bar.
 
 A much better campaign would have been:
+
 > 'Trying to find something on the Internet ? Go to ask.com.'
 
 Black text on white background. Short and to the point. Quicker and

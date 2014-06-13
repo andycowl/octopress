@@ -1,11 +1,9 @@
 ---
 date: 2007-03-28 10:46:01
-categories:
-    - google
-    - yahoo
 title: 'Yahoo! Mail versus Gmail'
 layout: post
 comments: true
+categories: software
 ---
 I was staggered to read on
 [TechCrunch](http://www.techcrunch.com/2007/03/27/yahoo-mail-announces-unlimited-storage/)

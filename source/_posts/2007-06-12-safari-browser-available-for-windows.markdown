@@ -1,10 +1,9 @@
 ---
 date: 2007-06-12 03:49:00
-categories:
-    - uncategorised
 title: Safari browser available for Windows
 layout: post
 comments: true
+categories: software
 ---
 The Safari Web browser on Macintosh currently accounts for a paltry
 4.34% of visits to this blog. It will be interesting to see whether this

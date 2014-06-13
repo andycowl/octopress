@@ -1,9 +1,9 @@
 ---
 title: quotations
 date: 2006-03-29 07:06:03
-categories: uncategorised
 layout: post
 comments: true
+categories: uk
 ---
 Tom Kyte has some favourite
 [quotes](http://tkyte.blogspot.com/2006/03/some-inspirational-quotes.html)

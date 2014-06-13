@@ -1,10 +1,9 @@
 ---
 date: 2007-06-25 15:23:27
-categories:
-    - uncategorised
 title: practical parenting
 layout: post
 comments: true
+categories: uk
 ---
 I have some news for the parents of
 [Georgia Brown](http://news.bbc.co.uk/1/hi/england/hampshire/6229738.stm)

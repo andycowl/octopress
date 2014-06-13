@@ -1,10 +1,9 @@
 ---
 date: 2007-06-01 17:34:21
-categories:
-    - uncategorised
 title: a polite notice
 layout: post
 comments: true
+categories: travel
 ---
 Two weeks ago, I was working in the beautiful city of Oslo. After a
 couple of hours, the client finally couldn't take any more of my tedious
@@ -17,6 +16,7 @@ said 'I bet you don't know what that says'.
 
 Quick as a flash, I replied 'Oh I bet you a pint of expensive beer that
 I do.'
+
 > 'Please, please wash up your plates and mugs. Your mother doesn't work
 > here'
 

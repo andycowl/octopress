@@ -1,10 +1,9 @@
 ---
 date: 2007-02-22 03:20:22
-categories:
-    - uncategorised
 title: out of office
 layout: post
 comments: true
+categories: IT
 ---
 Thank you for your email. I am currently working in a bunker deep
 underground in the heart of Brussels (near Belgium).

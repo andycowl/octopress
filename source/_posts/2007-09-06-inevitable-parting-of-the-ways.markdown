@@ -1,10 +1,9 @@
 ---
 date: 2007-09-06 01:59:16
-categories:
-    - uncategorised
 title: inevitable parting of the ways
 layout: post
 comments: true
+categories: travel
 ---
 When I went to bed, I closed the curtains. Unfortunately even at full
 stretch, the curtains only spanned half the width of the window. This

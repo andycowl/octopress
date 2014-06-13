@@ -1,16 +1,17 @@
 ---
 date: 2007-07-25 08:05:05
-categories:
-    - uncategorised
 title: helping people write things down
 layout: post
 comments: true
+categories: oracle
 ---
 Today, a gentleman approached me and politely asked if he could ask me a
 question.
 
 Normally, this dialog is a little more protracted and goes as follows:
+
 > 'Excuse me. Is your name Norman Brightside ?'
+>
 > 'Yes.'
 >
 > 'Do you work for Siebel ?'

@@ -1,10 +1,9 @@
 ---
 date: 2007-04-18 09:16:50
-categories:
-    - uncategorised
 title: goodbye pMetrics
 layout: post
 comments: true
+categories: software
 ---
 Looked [good](http://performancing.com/node/6464) but you forgot the
 cardinal rule of CRM.

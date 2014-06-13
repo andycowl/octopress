@@ -1,10 +1,9 @@
 ---
 date: 2007-06-12 19:45:39
-categories:
-    - uncategorised
 title: pictures of a Virgin Media V+ box
 layout: post
 comments: true
+categories: uk
 ---
 Lots of people stumble onto this blog hoping to find technical
 information, reviews and images of a black Virgin Media V+ set top box.

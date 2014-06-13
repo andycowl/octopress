@@ -1,10 +1,9 @@
 ---
 date: 2007-05-15 06:31:51
-categories:
-    - uncategorised
 title: Darwin Awards nominee
 layout: post
 comments: true
+categories: uk
 ---
 Amusing
 [story](http://www.telegraph.co.uk/news/main.jhtml?xml=/news/2007/05/11/nsatnav11.xml)
@@ -22,10 +21,10 @@ The online version of this story omits a crucial section - the picture
 of the warning sign that was clearly displayed on the level crossing
 that was included in the newspaper edition.
 
-1.  Check that the green light shows
-2.  Open both gates
-3.  Check that the green light still shows
-4.  Cross quickly
-5.  Close both gates
+1. Check that the green light shows
+2. Open both gates
+3. Check that the green light still shows
+4. Cross quickly
+5. Close both gates
 
 RTFM.

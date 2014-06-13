@@ -1,10 +1,9 @@
 ---
 date: 2007-09-25 20:45:22
-categories:
-    - uncategorised
 title: WordPress 2.3 and Typo
 layout: post
 comments: true
+categories: blogging
 ---
 I have upgraded this blog to the recently released WordPress
 [2.3](http://wordpress.org/development/2007/09/wordpress-23/). However,

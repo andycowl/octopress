@@ -1,10 +1,9 @@
 ---
 date: 2007-07-02 16:24:58
-categories:
-    - uncategorised
 title: practical parenting
 layout: post
 comments: true
+categories: uk
 ---
 If you are the parent of a teenage girl, I have some fantastic news for
 you.

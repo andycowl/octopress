@@ -1,9 +1,9 @@
 ---
 date: 2006-10-04 04:37:17
-categories: uncategorised
 title: initial impressions of Dreamhost
 layout: post
 comments: true
+categories: blogging
 ---
 I have been pretty impressed with [Dreamhost](http://dreamhost.com/) so
 far:

@@ -3,7 +3,7 @@ date: 2007-01-06 19:43:21
 title: Google Reader adds stats on RSS habits
 layout: post
 comments: true
-categories: uncategorised
+categories: software
 ---
 I have experimented with many different RSS
 [readers](http://www.nbrightside.com/blog/2005/12/13/comparison-of-rss-readers/)

@@ -1,10 +1,9 @@
 ---
 date: 2007-06-12 21:22:48
-categories:
-    - uncategorised
 title: review of the Virgin Media V+ box
 layout: post
 comments: true
+categories: uk
 ---
 I
 [upgraded](http://www.nbrightside.com/blog/2007/03/09/free-upgrades-from-virgin-media/)
@@ -84,11 +83,10 @@ possible.
 
 More info on V+:
 
--   [Virgin Media](http://allyours.virginmedia.com/html/dtv/vplus/index.html)
-    (costs and marketing fluff)
--   [Wikipedia](http://en.wikipedia.org/wiki/V+) (what do all those
-    [connectors](http://www.nbrightside.com/blog/2007/06/12/pictures-of-a-virgin-media-v-box/)
-    do ?)
--   Digital Spy V+
-    [Forum](http://www.digitalspy.co.uk/forums/forumdisplay.php?f=151)
-
+- [Virgin Media](http://allyours.virginmedia.com/html/dtv/vplus/index.html)
+  (costs and marketing fluff)
+- [Wikipedia](http://en.wikipedia.org/wiki/V+) (what do all those
+  [connectors](http://www.nbrightside.com/blog/2007/06/12/pictures-of-a-virgin-media-v-box/)
+  do ?)
+- Digital Spy V+
+  [Forum](http://www.digitalspy.co.uk/forums/forumdisplay.php?f=151)

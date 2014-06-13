@@ -3,8 +3,7 @@ title: people are strange
 layout: post
 comments: true
 date: 2007-09-04 18:24:05
-categories:
-    - uk
+categories: uk
 ---
 [Steve](http://bclc.wordpress.com/) has an admirable habit of titling
 (almost) all of his posts with a line from a song.

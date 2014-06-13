@@ -1,10 +1,9 @@
 ---
 date: 2007-04-18 06:26:28
-categories:
-    - uncategorised
 title: goodbye last.fm
 layout: post
 comments: true
+categories: software
 ---
 You are supposed to be unobtrusive software.
 

@@ -3,7 +3,7 @@ date: 2007-02-20 00:47:04
 title: conspiracy theories
 layout: post
 comments: true
-categories: uncategorised
+categories: uk
 ---
 When I returned from evensong last night, after I had ironed five shirts
 and read a bedtime story to my loving (but strangely uncommunicative)

@@ -1,10 +1,9 @@
 ---
 date: 2007-09-28 21:40:14
-categories:
-    - uncategorised
 title: FAC51
 layout: post
 comments: true
+categories: music
 ---
 Enjoyed this BBC4 [program](http://www.bbc.co.uk/musictv/factory/) on
 the history of Factory with lots of interviews with Tony Wilson, Peter
@@ -37,6 +36,7 @@ Peter Hook attired in black leather complete with moustache and cap.
 
 Happy Mondays being dispatched to a heroin free Barbados to record an
 album only to discover crack cocaine was freely available on the island.
+
 > 'Never did any drugs. A lot of people think he did because on some of
 > the TV performances he looks like he's on some sort of drugs because
 > of his arms but he wasn't on any drugs at all. That was just him

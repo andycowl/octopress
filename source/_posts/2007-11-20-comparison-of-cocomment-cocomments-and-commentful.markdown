@@ -1,10 +1,9 @@
 ---
 date: 2007-11-20 23:44:34
-categories:
-    - uncategorised
 title: comparison of coComment, co.comments and commentful
 layout: post
 comments: true
+categories: blogging
 ---
 I subscribe to multiple blogs (163 to be precise) and Google Reader
 makes tracking all of those sites trivial. Reader's keyboard shortcuts
@@ -48,23 +47,23 @@ comments on blog platforms that support threaded comments.
 
 My main requirements for comment tracking are:
 
--   Easy, quick way to track comments on a blog. Fully automatic if
-    possible and certainly not more than one click.
--   Ability to select comment threads to be monitored.
--   Ability to stop tracking conversations.
--   Must be able to track all blog platforms.
--   Automatic notification when comments updated.
--   Ability to check for updates manually.
--   Visual indicator for threads with updated content.
--   Must support RSS feeds to track comment threads.
--   RSS feed must include the context (blog, date, comment text and
-    author)
+- Easy, quick way to track comments on a blog. Fully automatic if
+  possible and certainly not more than one click.
+- Ability to select comment threads to be monitored.
+- Ability to stop tracking conversations.
+- Must be able to track all blog platforms.
+- Automatic notification when comments updated.
+-  Ability to check for updates manually.
+-  Visual indicator for threads with updated content.
+-  Must support RSS feeds to track comment threads.
+-  RSS feed must include the context (blog, date, comment text and
+   author)
 
 The main three comment tracking services are:
 
--   [co.Comment](http://www.cocomment.com)
--   [commentful](http://commentful.blogflux.com/)
--   [co.mments](http://co.mments.com)
+- [co.Comment](http://www.cocomment.com)
+- [commentful](http://commentful.blogflux.com/)
+- [co.mments](http://co.mments.com)
 
 [[SezWho](http://sezwho.com/), [Disqus](http://disqus.com/) and
 [IntenseDebate](http://www.intensedebate.com/) offer similar services

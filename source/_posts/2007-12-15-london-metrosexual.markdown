@@ -1,10 +1,9 @@
 ---
 date: 2007-12-15 18:37:47
-categories:
-    - uncategorised
 title: London Metrosexual
 layout: post
 comments: true
+categories: uk
 ---
 A week savouring the joys of commuting to Waterloo on South West Trains.
 Oxford Street is packed, the Christmas lights are on, the temporary ice
